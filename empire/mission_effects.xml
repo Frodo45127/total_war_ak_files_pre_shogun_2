@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="mission_effects.xsd" generated="2008-11-12T10:38:22">
+<mission_effects>
+<key>T+1</key>
+<text>Treasury +1</text>
+<Gen_text>0</Gen_text>
+<s_ColLineage>kNOq8QIAAACQ06rxAgAAAA==
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{E9B12A2D-6E49-4D29-A59C-FAA56A303068}</s_GUID>
+<s_Lineage>kNOq8QIAAAAAAAAAAAAAAA==
+</s_Lineage>
+</mission_effects>
+<mission_effects>
+<key>T+1000</key>
+<text>Treasury +1000</text>
+<Gen_text>0</Gen_text>
+<s_ColLineage>kNOq8QEAAACQ06rxAgAAAA==
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{8E214735-73C2-4942-A0E4-3F2A59CFF876}</s_GUID>
+<s_Lineage>kNOq8QIAAAAAAAAAAAAAAA==
+</s_Lineage>
+</mission_effects>
+<mission_effects>
+<key>T+2000</key>
+<text>Treasury +2000</text>
+<Gen_text>0</Gen_text>
+<s_ColLineage>kNOq8QIAAACQ06rxAgAAAA==
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{736CE6DC-C9EE-4EA8-9EB1-B632D6AF60F9}</s_GUID>
+<s_Lineage>kNOq8QIAAAAAAAAAAAAAAA==
+</s_Lineage>
+</mission_effects>
+<mission_effects>
+<key>T+500</key>
+<text>Treasury +500</text>
+<Gen_text>0</Gen_text>
+<s_ColLineage>kNOq8QIAAACQ06rxAgAAAA==
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{701C707E-B73D-4295-9C2B-3E635E2ABE14}</s_GUID>
+<s_Lineage>kNOq8QIAAAAAAAAAAAAAAA==
+</s_Lineage>
+</mission_effects>
+</dataroot>

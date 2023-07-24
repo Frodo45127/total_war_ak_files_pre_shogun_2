@@ -1,0 +1,383 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="achievements.xsd" generated="2010-03-30T15:26:02">
+<achievements>
+<key>ACHIEVEMENT_B_100000_DEAD_IN_BATTLE</key>
+<title>The Hero&apos;s Skull Badge</title>
+<description>100,000 soldiers die in battles with you - friends and foes</description>
+</achievements>
+<achievements>
+<key>ACHIEVEMENT_B_WIN_10_CAMPAIGN_NAVAL_BATTLES</key>
+<title>Nautical Star Emblem</title>
+<description>Win 10 SP campaign naval battles</description>
+</achievements>
+<achievements>
+<key>ACHIEVEMENT_B_WIN_15_CAMPAIGN_LAND_BATTLES</key>
+<title>Hardened Veteran&apos;s Badge</title>
+<description>Win 15 SP campaign land battles</description>
+</achievements>
+<achievements>
+<key>ACHIEVEMENT_B_WIN_GOLD_IN_ALL_HISTORIC_BATTLES</key>
+<title>Platinum Star of Glory</title>
+<description>Win Gold in all historic battles</description>
+</achievements>
+<achievements>
+<key>ACHIEVEMENT_B_WIN_PRESTIGE_VICTORY</key>
+<title>The Emblem of the Enlightened Society</title>
+<description>Win a prestige victory</description>
+</achievements>
+<achievements>
+<key>ACHIEVEMENT_B_WIN_SILVER_IN_5_HISTORIC_BATTLES</key>
+<title>Grand General Star</title>
+<description>Win Silver in 5 historic battles</description>
+</achievements>
+<achievements>
+<key>ACHIEVEMENT_C_100_PERCENT_APPROVAL</key>
+<title>The People&apos;s Crown</title>
+<description>Have a 100% approval rating</description>
+</achievements>
+<achievements>
+<key>ACHIEVEMENT_C_6_ALLIES_SIMULTANEOUSLY</key>
+<title>The Seal of the Grand Coalition</title>
+<description>Have 6 allies simultaneously</description>
+</achievements>
+<achievements>
+<key>ACHIEVEMENT_C_ALL_MAJOR_NATIONS_VERY_FRIENDLY</key>
+<title>Diplomat&apos;s Pin</title>
+<description>Make all major nations become Very Friendly towards you (in terms of diplomatic relations)</description>
+</achievements>
+<achievements>
+<key>ACHIEVEMENT_C_ASSASSINATE_15_PEOPLE</key>
+<title>The Hand-and-Dagger on Black Chain</title>
+<description>Assassinate 15 people</description>
+</achievements>
+<achievements>
+<key>ACHIEVEMENT_C_CONQUER_EUROPE</key>
+<title>The Imperial Wreath</title>
+<description>Conquer Europe</description>
+</achievements>
+<achievements>
+<key>ACHIEVEMENT_C_COVER_50000_MILES_OF_SEA_OR_LAND</key>
+<title>The Explorers&apos; Society Badge</title>
+<description>Cover 50,000 sea or land miles with your armies and fleets</description>
+</achievements>
+<achievements>
+<key>ACHIEVEMENT_C_DECLARE_WAR_ON_ALL_1ST_TURN_AND_WIN</key>
+<title>The Medallion of the Imperial Psychopath</title>
+<description>Declare war on all nations in the first turn, never make peace, and win the game</description>
+</achievements>
+<achievements>
+<key>ACHIEVEMENT_C_GAIN_8000_PER_TURN_IN_TRADE</key>
+<title>The Merchant Navy Medal of Gratitude</title>
+<description>Gain 8,000 per turn in trade revenue</description>
+</achievements>
+<achievements>
+<key>ACHIEVEMENT_C_HAVE_10_PROTECTORATES</key>
+<title>Shield of the Protector</title>
+<description>Have 10 protectorates at 1 time</description>
+</achievements>
+<achievements>
+<key>ACHIEVEMENT_C_HAVE_3_FULL_SKILLED_GENERALS</key>
+<title>The Imperial School of Strategy Crest</title>
+<description>Have 3 generals with full skill level in 1 campaign</description>
+</achievements>
+<achievements>
+<key>ACHIEVEMENT_C_PLAY_A_HISTORICAL_BATTLE</key>
+<title>Historians&apos; College Acknowledgement Badge</title>
+<description>Play a historical land battle</description>
+</achievements>
+<achievements>
+<key>ACHIEVEMENT_C_REGIONS_CAPTURED_10</key>
+<title>The Ribbon of the Promising Strategist</title>
+<description>Capture 10 regions</description>
+</achievements>
+<achievements>
+<key>ACHIEVEMENT_C_WIN_10_PISTOL_DUELS</key>
+<title>Marksman Brooch</title>
+<description>Win 10 pistol duels</description>
+</achievements>
+<achievements>
+<key>ACHIEVEMENT_C_WIN_10_SWORD_DUELS</key>
+<title>Imperial Fencing Academy Master&apos;s Needle</title>
+<description>Win 10 sword duels</description>
+</achievements>
+<achievements>
+<key>ACHIEVEMENT_C_WIN_EGYPT_CAMPAIGN_EASY</key>
+<title>The Bronze Date</title>
+<description>Win Egyptian campaign on Easy difficulty</description>
+</achievements>
+<achievements>
+<key>ACHIEVEMENT_C_WIN_EGYPT_CAMPAIGN_HARD</key>
+<title>Golden Obelisk of the Pharaohs</title>
+<description>Win Egyptian campaign on Hard difficulty</description>
+</achievements>
+<achievements>
+<key>ACHIEVEMENT_C_WIN_EGYPT_CAMPAIGN_MEDIUM</key>
+<title>The Silver Dromedary Legionnaire</title>
+<description>Win Egyptian campaign on Medium difficulty within its historic time period</description>
+</achievements>
+<achievements>
+<key>ACHIEVEMENT_C_WIN_ENTIRE_CAMPAIGN_NOT_USING_AUTORESOLVE</key>
+<title>The Lion and Sabres Medal</title>
+<description>Win any campaign without a single auto-resolved battle</description>
+</achievements>
+<achievements>
+<key>ACHIEVEMENT_C_WIN_ENTIRE_CAMPAIGN_USING_AUTORESOLVE</key>
+<title>The Bronze Armchair of Comfort</title>
+<description>Win any campaign by auto-resolving battles</description>
+</achievements>
+<achievements>
+<key>ACHIEVEMENT_C_WIN_EUROPE_CAMPAIGN_EASY</key>
+<title>Russian Doll on Green Ribbon</title>
+<description>Win European campaign on Easy difficulty</description>
+</achievements>
+<achievements>
+<key>ACHIEVEMENT_C_WIN_EUROPE_CAMPAIGN_HARD</key>
+<title>The Imperial Crown on Brocade Band</title>
+<description>Win European campaign on Hard difficulty</description>
+</achievements>
+<achievements>
+<key>ACHIEVEMENT_C_WIN_EUROPE_CAMPAIGN_MEDIUM</key>
+<title>Quadriga in Prussian Silver</title>
+<description>Win European campaign on Medium difficulty within its historic time period</description>
+</achievements>
+<achievements>
+<key>ACHIEVEMENT_C_WIN_ITALIAN_CAMPAIGN_EASY</key>
+<title>Bronze Tower of Pisa</title>
+<description>Win Italian campaign on Easy difficulty</description>
+</achievements>
+<achievements>
+<key>ACHIEVEMENT_C_WIN_ITALIAN_CAMPAIGN_HARD</key>
+<title>Hero of Arcole Commemorative Medal</title>
+<description>Win Italian campaign on Hard difficulty</description>
+</achievements>
+<achievements>
+<key>ACHIEVEMENT_C_WIN_ITALIAN_CAMPAIGN_MEDIUM</key>
+<title>The Silver Olive Chaplet</title>
+<description>Win Italian campaign on Medium difficulty within its historic time period</description>
+</achievements>
+<achievements>
+<key>ACHIEVEMENT_GAME_FOR_10_HOURS_TOTAL</key>
+<title>The Tireless Watchman Brooch</title>
+<description>Play the game for 10 hours in total</description>
+</achievements>
+<achievements>
+<key>ACHIEVEMENT_GAME_FOR_30_HOURS_TOTAL</key>
+<title>Palace Guard Pendant</title>
+<description>Play the game for 30 hours in total</description>
+</achievements>
+<achievements>
+<key>ACHIEVEMENT_GAME_FOR_50_HOURS_TOTAL</key>
+<title>The Eye of the Ever-watchful General</title>
+<description>Play the game for 50 hours in total</description>
+</achievements>
+<achievements>
+<key>ACHIEVEMENT_START_GAME</key>
+<title>Revolutionary Cocarde</title>
+<description>Start any campaign, battle, or historical battle</description>
+</achievements>
+<achievements>
+<key>MP_ACHIEVEMENT_B_BOARD_5_SHIPS_1_BATTLE</key>
+<title>Skull and Sabres on Iron Chain</title>
+<description>Board 5 ships during a single battle</description>
+</achievements>
+<achievements>
+<key>MP_ACHIEVEMENT_B_PLAY_100_NAVAL_BATTLES</key>
+<title>Poseidon&apos;s Carriage in Gold</title>
+<description>Play 50 multiplayer naval battes</description>
+</achievements>
+<achievements>
+<key>MP_ACHIEVEMENT_B_PLAY_LAND_BATTLE_EVERY_FACTION</key>
+<title>Mercenary Coin</title>
+<description>Play a MP land battle with every nation</description>
+</achievements>
+<achievements>
+<key>MP_ACHIEVEMENT_B_PLAY_NAVAL_BATTLE_EVERY_FACTION</key>
+<title>Sailor&apos;s Medal</title>
+<description>Play a MP naval battle with every nation</description>
+</achievements>
+<achievements>
+<key>MP_ACHIEVEMENT_B_SINK_500_SHIPS</key>
+<title>St. Adjutor Devotional Medal</title>
+<description>Sink 500 Ships</description>
+</achievements>
+<achievements>
+<key>MP_ACHIEVEMENT_B_WIN_10_DECISIVE_VICTORIES</key>
+<title>The Navy Cross</title>
+<description>Win 10 decisive victories</description>
+</achievements>
+<achievements>
+<key>MP_ACHIEVEMENT_B_WIN_10_LAND_BATTLES</key>
+<title>Officer&apos;s Achievement Medal</title>
+<description>Win 10 MP land battles</description>
+</achievements>
+<achievements>
+<key>MP_ACHIEVEMENT_B_WIN_10_LAND_BATTLES_CONSECUTIVELY</key>
+<title>The Charging Guard Regiment Emblem</title>
+<description>Win 10 MP land battles in a row</description>
+</achievements>
+<achievements>
+<key>MP_ACHIEVEMENT_B_WIN_50_LAND_BATTLES</key>
+<title>Veteran&apos;s Badge of Service</title>
+<description>Win 50 MP land battles</description>
+</achievements>
+<achievements>
+<key>MP_ACHIEVEMENT_B_WIN_6_NAVAL_BATTLES_CONSECUTIVELY</key>
+<title>Pendant of the Seven Winds</title>
+<description>Win 6 MP naval battles in a row</description>
+</achievements>
+<achievements>
+<key>MP_ACHIEVEMENT_B_WIN_BATTLE_WITH_JUST_LIGHT_INF_AND_ART</key>
+<title>Defender&apos;s Cross of Honour</title>
+<description>Win a battle using only Light Infantry and Artillery</description>
+</achievements>
+<achievements>
+<key>MP_ACHIEVEMENT_B_WIN_LAND_BATTLE_WITH_NO_INFANTRY</key>
+<title>The Horse and Cannon</title>
+<description>Win a match without infantry</description>
+</achievements>
+<achievements>
+<key>MP_ACHIEVEMENT_B_WIN_NAVAL_BATTLE</key>
+<title>The Leaden Seahorse</title>
+<description>Win a MP naval battle</description>
+</achievements>
+<achievements>
+<key>MP_ACHIEVEMENT_B_WIN_NAVAL_ONLY_USING_FIRST_RATES</key>
+<title>Treasure Galleon Pendant</title>
+<description>Win a match with only First Rates</description>
+</achievements>
+<achievements>
+<key>MP_ACHIEVEMENT_B_WIN_ONLINE_AGAINST_DOUBLE_SKILL_RATING</key>
+<title>The Star of the Fearless Buccaneer</title>
+<description>Win a naval match against a player with double your skill rating</description>
+</achievements>
+<achievements>
+<key>MP_ACHIEVEMENT_B_WIN_USING_0_SHIPS_OF_THE_LINE</key>
+<title>The Golden Swallow</title>
+<description>Win a match without Ships-of-the-Line</description>
+</achievements>
+<achievements>
+<key>MP_ACHIEVEMENT_B_WIN_USING_HALF_OPPONENTS_FUNDS</key>
+<title>Medal of the Unrelenting Storm</title>
+<description>Win a match having spent half as many funds as your opponent</description>
+</achievements>
+<achievements>
+<key>MP_ACHIEVEMENT_C_CAPTURE_OPPONENTS_CAPITAL_IN_20_TURNS</key>
+<title>The Golden Lightning</title>
+<description>Take other player&apos;s capital within 20 turns</description>
+</achievements>
+<achievements>
+<key>MP_ACHIEVEMENT_C_GIVE_OPPONENT_50000_THEN_WIN</key>
+<title>St. Martin&apos;s Medal</title>
+<description>Win campaign having given enemy player 50,000 gold</description>
+</achievements>
+<achievements>
+<key>MP_ACHIEVEMENT_C_OPPONENTS_FACTION_LAST_TO_DIE</key>
+<title>Fighting Giants Commemorative Medallion</title>
+<description>Other player&apos;s nation is last to die</description>
+</achievements>
+<achievements>
+<key>MP_ACHIEVEMENT_C_PLAY_A_MULTIPLAYER_CAMPAIGN</key>
+<title>Bronze Star on Red Ribbon</title>
+<description>Play a MP campaign</description>
+</achievements>
+<achievements>
+<key>MP_ACHIEVEMENT_C_WIN_EGYPT_CAMPAIGN_AS_FRANCE</key>
+<title>The Silver Sun</title>
+<description>Win a MP Egyptian campaign as France</description>
+</achievements>
+<achievements>
+<key>MP_ACHIEVEMENT_C_WIN_EGYPT_CAMPAIGN_AS_OTTOMANS</key>
+<title>The Crossed Sabres and Crescent</title>
+<description>Win Egyptian campaign as the Ottoman Empire</description>
+</achievements>
+<achievements>
+<key>MP_ACHIEVEMENT_C_WIN_EUROPEAN_CAMPAIGN</key>
+<title>The Imperial Laurels</title>
+<description>Win European MP campaign as France</description>
+</achievements>
+<achievements>
+<key>MP_ACHIEVEMENT_C_WIN_EUROPEAN_CAMPAIGN_AUSTRIA</key>
+<title>The Imperatorial Double Eagle</title>
+<description>Win European campaign as Austria</description>
+</achievements>
+<achievements>
+<key>MP_ACHIEVEMENT_C_WIN_EUROPEAN_CAMPAIGN_ENGLAND</key>
+<title>Royal Navy Glorious Fleet Badge</title>
+<description>Win European campaign as England</description>
+</achievements>
+<achievements>
+<key>MP_ACHIEVEMENT_C_WIN_EUROPEAN_CAMPAIGN_PRUSSIA</key>
+<title>Quadriga with Iron Cross</title>
+<description>Win European campaign as Prussia</description>
+</achievements>
+<achievements>
+<key>MP_ACHIEVEMENT_C_WIN_EUROPEAN_CAMPAIGN_RUSSIA</key>
+<title>Raging Bear Star</title>
+<description>Win European campaign as Russia</description>
+</achievements>
+<achievements>
+<key>MP_ACHIEVEMENT_C_WIN_ITALIAN_CAMPAIGN_AS_AUSTRIA</key>
+<title>Nice City Key</title>
+<description>Win a MP Italian campaign as Austria</description>
+</achievements>
+<achievements>
+<key>MP_ACHIEVEMENT_C_WIN_ITALIAN_CAMPAIGN_AS_FRANCE</key>
+<title>Bella Ragazza Locket</title>
+<description>Win a MP Italian campaign as France</description>
+</achievements>
+<achievements>
+<key>MP_ACHIEVEMENT_WIN_50_DROPIN_LAND_BATTLES</key>
+<title>Knight Errant Cross</title>
+<description>Play 5 drop-in land battles</description>
+</achievements>
+<achievements>
+<key>MP_ACHIEVEMENT_WIN_50_DROPIN_NAVAL_BATTLES</key>
+<title>Terror of the Seven Seas Necklace</title>
+<description>Play 5 drop-in naval battles</description>
+</achievements>
+<achievements>
+<key>MP_ACHIEVEMENT_WIN_50_NAVAL_BATTLES</key>
+<title>Poseidon&apos;s Carriage in Gold</title>
+<description>50 multiplayer naval battles</description>
+</achievements>
+<achievements>
+<key>NAPOLEON_MP_ACHIEVEMENT_B_WIN_ONLINE_AGAINST_DOUBLE_SKILL_RATING</key>
+<title>Distinguished Service Medal</title>
+<description>Win a match against a player with double your skill rating</description>
+</achievements>
+<achievements>
+<key>NAPOLEON_SPANISH_CAMPAIGN_ACHIEVEMENT_C_WIN_AS_BRITAIN</key>
+<title>Marquis of Torres Vedras</title>
+<description>Win the Peninsular Campaign as Britain</description>
+</achievements>
+<achievements>
+<key>NAPOLEON_SPANISH_CAMPAIGN_ACHIEVEMENT_C_WIN_AS_FRANCE</key>
+<title>The Spanish Crown</title>
+<description>Win the Peninsular Campaign as France</description>
+</achievements>
+<achievements>
+<key>NAPOLEON_SPANISH_CAMPAIGN_ACHIEVEMENT_C_WIN_AS_SPAIN</key>
+<title>Duke of Ciudad Rodrigo</title>
+<description>Win the Peninsular Campaign as Spain</description>
+</achievements>
+<achievements>
+<key>NAPOLEON_SPANISH_CAMPAIGN_ACHIEVEMENT_C_CAPTURE_REGION</key>
+<title>Conquistador Medal</title>
+<description>Capture a region in the Peninsular Campaign</description>
+</achievements>
+<achievements>
+<key>NAPOLEON_SPANISH_CAMPAIGN_ACHIEVEMENT_C_START_MULTIPLAYER</key>
+<title>Sangria Bottle of Friendship</title>
+<description>Start the Peninsular Campaign in multiplayer</description>
+</achievements>
+<achievements>
+<key>NAPOLEON_SPANISH_CAMPAIGN_ACHIEVEMENT_C_LIBERATE_AS_BRITAIN</key>
+<title>Duke of the Victory</title>
+<description>As Britain, ensure that all regions in Spain are liberated back to Spanish control</description>
+</achievements>
+<achievements>
+<key>NAPOLEON_SPANISH_CAMPAIGN_ACHIEVEMENT_C_FRANCE_ATTAIN_50_PERCENT</key>
+<title>The Medallion of Secular Enlightenment</title>
+<description>As France, attain over 50% pro-French sentiment in 10 of your regions</description>
+</achievements>
+</dataroot>

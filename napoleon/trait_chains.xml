@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="trait_chains.xsd" generated="2006-11-09T11:55:14">
+<trait_chains>
+<key>Drink</key>
+<applies_to>character</applies_to>
+<hidden>0</hidden>
+<anti_trait_1>Sobriety</anti_trait_1>
+<anti_trait_2>Rational</anti_trait_2>
+<anti_trait_3>Guardian</anti_trait_3>
+<anti_trait_4>Prim</anti_trait_4>
+<anti_trait_5>n</anti_trait_5>
+<condition_or_requirement>n</condition_or_requirement>
+<disallowed_1>indian</disallowed_1>
+<disallowed_2>middle_east</disallowed_2>
+<disallowed_3>n</disallowed_3>
+<no_going_back_level>5</no_going_back_level>
+<level_1>Social Drinker</level_1>
+<threshold_1>3</threshold_1>
+<level_2>Likes a Drink</level_2>
+<threshold_2>6</threshold_2>
+<level_3>Drunkard</level_3>
+<threshold_3>10</threshold_3>
+<level_4>Drunken Lout</level_4>
+<threshold_4>14</threshold_4>
+<level_5>Sot</level_5>
+<threshold_5>18</threshold_5>
+<level_6>Paralytic</level_6>
+<threshold_6>22</threshold_6>
+<level_7>n</level_7>
+<threshold_7>0</threshold_7>
+<level_8>n</level_8>
+<threshold_8>0</threshold_8>
+</trait_chains>
+<trait_chains>
+<key>GoodIndiaCommander</key>
+<applies_to>character_general</applies_to>
+<hidden>0</hidden>
+<anti_trait_1>BadIndiaCommander</anti_trait_1>
+<anti_trait_2>BadCommander</anti_trait_2>
+<anti_trait_3>n</anti_trait_3>
+<anti_trait_4>n</anti_trait_4>
+<anti_trait_5>n</anti_trait_5>
+<condition_or_requirement>region_india</condition_or_requirement>
+<disallowed_1>indian</disallowed_1>
+<disallowed_2>n</disallowed_2>
+<disallowed_3>n</disallowed_3>
+<no_going_back_level>2</no_going_back_level>
+<level_1>India Specialist</level_1>
+<threshold_1>1</threshold_1>
+<level_2>Tactical expert in India</level_2>
+<threshold_2>3</threshold_2>
+<level_3>n</level_3>
+<threshold_3>0</threshold_3>
+<level_4>n</level_4>
+<threshold_4>0</threshold_4>
+<level_5>n</level_5>
+<threshold_5>0</threshold_5>
+<level_6>n</level_6>
+<threshold_6>0</threshold_6>
+<level_7>n</level_7>
+<threshold_7>0</threshold_7>
+<level_8>n</level_8>
+<threshold_8>0</threshold_8>
+</trait_chains>
+<trait_chains>
+<key>Slums</key>
+<applies_to>town</applies_to>
+<hidden>0</hidden>
+<anti_trait_1>n</anti_trait_1>
+<anti_trait_2>n</anti_trait_2>
+<anti_trait_3>n</anti_trait_3>
+<anti_trait_4>n</anti_trait_4>
+<anti_trait_5>n</anti_trait_5>
+<condition_or_requirement>n</condition_or_requirement>
+<disallowed_1>n</disallowed_1>
+<disallowed_2>n</disallowed_2>
+<disallowed_3>n</disallowed_3>
+<no_going_back_level>2</no_going_back_level>
+<level_1>Slums</level_1>
+<threshold_1>1</threshold_1>
+<level_2>Horrendous Slums</level_2>
+<threshold_2>3</threshold_2>
+<level_3>n</level_3>
+<threshold_3>0</threshold_3>
+<level_4>n</level_4>
+<threshold_4>0</threshold_4>
+<level_5>n</level_5>
+<threshold_5>0</threshold_5>
+<level_6>n</level_6>
+<threshold_6>0</threshold_6>
+<level_7>n</level_7>
+<threshold_7>0</threshold_7>
+<level_8>n</level_8>
+<threshold_8>0</threshold_8>
+</trait_chains>
+<trait_chains>
+<key>ExpertMarksmen</key>
+<applies_to>unit</applies_to>
+<hidden>0</hidden>
+<anti_trait_1>PoorMarksmen</anti_trait_1>
+<anti_trait_2>n</anti_trait_2>
+<anti_trait_3>n</anti_trait_3>
+<anti_trait_4>n</anti_trait_4>
+<anti_trait_5>n</anti_trait_5>
+<condition_or_requirement>n</condition_or_requirement>
+<disallowed_1>n</disallowed_1>
+<disallowed_2>n</disallowed_2>
+<disallowed_3>n</disallowed_3>
+<no_going_back_level>1</no_going_back_level>
+<level_1>Solid Aim!</level_1>
+<threshold_1>1</threshold_1>
+<level_2>Good Marksmen</level_2>
+<threshold_2>3</threshold_2>
+<level_3>Expert Marksmen</level_3>
+<threshold_3>5</threshold_3>
+<level_4>n</level_4>
+<threshold_4>0</threshold_4>
+<level_5>n</level_5>
+<threshold_5>0</threshold_5>
+<level_6>n</level_6>
+<threshold_6>0</threshold_6>
+<level_7>n</level_7>
+<threshold_7>0</threshold_7>
+<level_8>n</level_8>
+<threshold_8>0</threshold_8>
+</trait_chains>
+</dataroot>

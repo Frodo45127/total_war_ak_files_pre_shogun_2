@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="climate_to_tilesets.xsd" generated="2009-10-30T16:23:41">
+<climate_to_tilesets>
+<climate>lc_desert</climate>
+<tileset>desert</tileset>
+<s_ColLineage>W4e7tQMAAABbh7u1BQAAAA==
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{3496C7A7-6A19-439A-A6A4-9396D7F78DC5}</s_GUID>
+<s_Lineage>W4e7tQUAAAAAAAAAAAAAAA==
+</s_Lineage>
+</climate_to_tilesets>
+<climate_to_tilesets>
+<climate>lc_sand_desert</climate>
+<tileset>desert</tileset>
+<s_ColLineage>W4e7tQIAAABbh7u1AgAAAA==
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{49F57F30-A7C5-4891-BD7F-FBC920A4CA7C}</s_GUID>
+<s_Lineage>W4e7tQIAAAAAAAAAAAAAAA==
+</s_Lineage>
+</climate_to_tilesets>
+</dataroot>

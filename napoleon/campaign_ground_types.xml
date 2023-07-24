@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot>
+<campaign_ground_types>
+<type>dense_forest</type>
+<movement_modifier>0</movement_modifier>
+<can_ambush>0</can_ambush>
+<onscreen_name>Dense Forest</onscreen_name>
+<causes_heat_attrition>0</causes_heat_attrition>
+<causes_cold_attrition>0</causes_cold_attrition>
+<s_ColLineage>8</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{guid {C7F23C04-5168-4F08-A480-E32981119524}}</s_GUID>
+<s_Lineage>8</s_Lineage>
+</campaign_ground_types>
+<campaign_ground_types>
+<type>desert</type>
+<movement_modifier>0.6</movement_modifier>
+<can_ambush>0</can_ambush>
+<onscreen_name>Desert</onscreen_name>
+<causes_heat_attrition>-1</causes_heat_attrition>
+<causes_cold_attrition>0</causes_cold_attrition>
+<s_ColLineage>8</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{guid {D183B34E-522F-4172-B413-9CE06F552A24}}</s_GUID>
+<s_Lineage>8</s_Lineage>
+</campaign_ground_types>
+<campaign_ground_types>
+<type>grassland</type>
+<movement_modifier>0.9</movement_modifier>
+<can_ambush>0</can_ambush>
+<onscreen_name>Grassland</onscreen_name>
+<causes_heat_attrition>0</causes_heat_attrition>
+<causes_cold_attrition>0</causes_cold_attrition>
+<s_ColLineage>8</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{guid {06FA8EC3-1E93-4118-B17E-F03669E526F0}}</s_GUID>
+<s_Lineage>8</s_Lineage>
+</campaign_ground_types>
+<campaign_ground_types>
+<type>hills</type>
+<movement_modifier>0.6</movement_modifier>
+<can_ambush>0</can_ambush>
+<onscreen_name>Hills</onscreen_name>
+<causes_heat_attrition>0</causes_heat_attrition>
+<causes_cold_attrition>0</causes_cold_attrition>
+<s_ColLineage>8</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{guid {6F3481EB-25DC-4DF7-99E1-47D30A1A4C9D}}</s_GUID>
+<s_Lineage>8</s_Lineage>
+</campaign_ground_types>
+<campaign_ground_types>
+<type>hilly_light_forest</type>
+<movement_modifier>0.4</movement_modifier>
+<can_ambush>-1</can_ambush>
+<onscreen_name>Hilly Light Forest</onscreen_name>
+<causes_heat_attrition>0</causes_heat_attrition>
+<causes_cold_attrition>0</causes_cold_attrition>
+<s_ColLineage>8</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{guid {CACAA34C-1E5E-4831-A4B1-C5A06C9450BD}}</s_GUID>
+<s_Lineage>8</s_Lineage>
+</campaign_ground_types>
+<campaign_ground_types>
+<type>jungle</type>
+<movement_modifier>0</movement_modifier>
+<can_ambush>0</can_ambush>
+<onscreen_name>Jungle</onscreen_name>
+<causes_heat_attrition>0</causes_heat_attrition>
+<causes_cold_attrition>0</causes_cold_attrition>
+<s_ColLineage>8</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{guid {D85B760E-2A4B-4B94-B01A-F2EBB2F9DD4F}}</s_GUID>
+<s_Lineage>8</s_Lineage>
+</campaign_ground_types>
+<campaign_ground_types>
+<type>light_forest</type>
+<movement_modifier>0.5</movement_modifier>
+<can_ambush>-1</can_ambush>
+<onscreen_name>Light Forest</onscreen_name>
+<causes_heat_attrition>0</causes_heat_attrition>
+<causes_cold_attrition>0</causes_cold_attrition>
+<s_ColLineage>8</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{guid {B648C855-5BCB-47DD-8086-0F5C54CDE0E5}}</s_GUID>
+<s_Lineage>8</s_Lineage>
+</campaign_ground_types>
+<campaign_ground_types>
+<type>marsh</type>
+<movement_modifier>0.4</movement_modifier>
+<can_ambush>0</can_ambush>
+<onscreen_name>Marsh</onscreen_name>
+<causes_heat_attrition>0</causes_heat_attrition>
+<causes_cold_attrition>0</causes_cold_attrition>
+<s_ColLineage>8</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{guid {8FC6ECDE-7CC7-458E-A8BF-3B14CAC0F89C}}</s_GUID>
+<s_Lineage>8</s_Lineage>
+</campaign_ground_types>
+<campaign_ground_types>
+<type>plains</type>
+<movement_modifier>1.3</movement_modifier>
+<can_ambush>0</can_ambush>
+<onscreen_name>Plains</onscreen_name>
+<causes_heat_attrition>0</causes_heat_attrition>
+<causes_cold_attrition>0</causes_cold_attrition>
+<s_ColLineage>8</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{guid {1C0A4922-79AE-4B52-95BB-1ED2FEE970ED}}</s_GUID>
+<s_Lineage>8</s_Lineage>
+</campaign_ground_types>
+<campaign_ground_types>
+<type>swamp</type>
+<movement_modifier>0.2</movement_modifier>
+<can_ambush>0</can_ambush>
+<onscreen_name>Swamp</onscreen_name>
+<causes_heat_attrition>0</causes_heat_attrition>
+<causes_cold_attrition>0</causes_cold_attrition>
+<s_ColLineage>8</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{guid {C15B3628-0C3D-4D3F-AD73-93902588DEF8}}</s_GUID>
+<s_Lineage>8</s_Lineage>
+</campaign_ground_types>
+<campaign_ground_types>
+<type>tundra</type>
+<movement_modifier>0.8</movement_modifier>
+<can_ambush>0</can_ambush>
+<onscreen_name>Tundra</onscreen_name>
+<causes_heat_attrition>0</causes_heat_attrition>
+<causes_cold_attrition>0</causes_cold_attrition>
+<s_ColLineage>8</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{guid {E6521833-FC38-4C17-A68E-FA6EE52BA4F2}}</s_GUID>
+<s_Lineage>8</s_Lineage>
+</campaign_ground_types>
+<campaign_ground_types>
+<type>grassland_cold_att</type>
+<movement_modifier>0.9</movement_modifier>
+<can_ambush>0</can_ambush>
+<onscreen_name>Grassland</onscreen_name>
+<causes_heat_attrition>0</causes_heat_attrition>
+<causes_cold_attrition>-1</causes_cold_attrition>
+<s_ColLineage>8</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{guid {75F54F6B-285E-4070-BB5C-36477C22D47E}}</s_GUID>
+<s_Lineage>8</s_Lineage>
+</campaign_ground_types>
+<campaign_ground_types>
+<type>hills_cold_att</type>
+<movement_modifier>0.6</movement_modifier>
+<can_ambush>0</can_ambush>
+<onscreen_name>Hills</onscreen_name>
+<causes_heat_attrition>0</causes_heat_attrition>
+<causes_cold_attrition>-1</causes_cold_attrition>
+<s_ColLineage>8</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{guid {F60CD54B-C5E1-4B4E-8884-AD50F043BE56}}</s_GUID>
+<s_Lineage>8</s_Lineage>
+</campaign_ground_types>
+<campaign_ground_types>
+<type>hilly_light_forest_cold_att</type>
+<movement_modifier>0.4</movement_modifier>
+<can_ambush>-1</can_ambush>
+<onscreen_name>Hilly Light Forest</onscreen_name>
+<causes_heat_attrition>0</causes_heat_attrition>
+<causes_cold_attrition>-1</causes_cold_attrition>
+<s_ColLineage>8</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{guid {3B9C6667-6C8A-47F9-BE92-87EB6A63D85E}}</s_GUID>
+<s_Lineage>8</s_Lineage>
+</campaign_ground_types>
+<campaign_ground_types>
+<type>light_forest_cold_att</type>
+<movement_modifier>0.5</movement_modifier>
+<can_ambush>-1</can_ambush>
+<onscreen_name>Light Forest</onscreen_name>
+<causes_heat_attrition>0</causes_heat_attrition>
+<causes_cold_attrition>-1</causes_cold_attrition>
+<s_ColLineage>8</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{guid {5856E9AF-0FEC-452F-A47C-02868F68D702}}</s_GUID>
+<s_Lineage>8</s_Lineage>
+</campaign_ground_types>
+<campaign_ground_types>
+<type>Marsh_cold_att</type>
+<movement_modifier>0.4</movement_modifier>
+<can_ambush>0</can_ambush>
+<onscreen_name>Marsh</onscreen_name>
+<causes_heat_attrition>0</causes_heat_attrition>
+<causes_cold_attrition>-1</causes_cold_attrition>
+<s_ColLineage>8</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{guid {8D7EE471-7BE6-4051-81E1-4B5E33267EA5}}</s_GUID>
+<s_Lineage>8</s_Lineage>
+</campaign_ground_types>
+<campaign_ground_types>
+<type>Plains_cold_att</type>
+<movement_modifier>1.3</movement_modifier>
+<can_ambush>0</can_ambush>
+<onscreen_name>Plains</onscreen_name>
+<causes_heat_attrition>0</causes_heat_attrition>
+<causes_cold_attrition>-1</causes_cold_attrition>
+<s_ColLineage>8</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{guid {21189FAB-9D26-401F-819F-866A62C2CD18}}</s_GUID>
+<s_Lineage>8</s_Lineage>
+</campaign_ground_types>
+<campaign_ground_types>
+<type>Swamp_cold_att</type>
+<movement_modifier>0.2</movement_modifier>
+<can_ambush>0</can_ambush>
+<onscreen_name>Swamp</onscreen_name>
+<causes_heat_attrition>0</causes_heat_attrition>
+<causes_cold_attrition>-1</causes_cold_attrition>
+<s_ColLineage>8</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{guid {6169D1E6-4A7A-4E06-92FE-59D0C0BB5A1D}}</s_GUID>
+<s_Lineage>8</s_Lineage>
+</campaign_ground_types>
+<campaign_ground_types>
+<type>Tundra_cold_att</type>
+<movement_modifier>0.8</movement_modifier>
+<can_ambush>0</can_ambush>
+<onscreen_name>Tundra</onscreen_name>
+<causes_heat_attrition>0</causes_heat_attrition>
+<causes_cold_attrition>-1</causes_cold_attrition>
+<s_ColLineage>8</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{guid {EDA492DC-EFB1-44AD-82BE-075AA1B06EBE}}</s_GUID>
+<s_Lineage>8</s_Lineage>
+</campaign_ground_types>
+</dataroot>

@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:od="urn:schemas-microsoft-com:officedata">
+<xsd:element name="dataroot">
+<xsd:complexType>
+<xsd:sequence>
+<xsd:element ref="faction_groups" minOccurs="0" maxOccurs="unbounded"/>
+</xsd:sequence>
+<xsd:attribute name="generated" type="xsd:dateTime"/>
+</xsd:complexType>
+</xsd:element>
+<xsd:element name="faction_groups">
+<xsd:annotation>
+<xsd:appinfo>
+<od:index index-name="PrimaryKey" index-key="key " primary="yes" unique="yes" clustered="no"/>
+</xsd:appinfo>
+</xsd:annotation>
+<xsd:complexType>
+<xsd:sequence>
+<xsd:element name="key" minOccurs="0" od:jetType="text" od:sqlSType="nvarchar">
+<xsd:simpleType>
+<xsd:restriction base="xsd:string">
+<xsd:maxLength value="50"/>
+</xsd:restriction>
+</xsd:simpleType>
+</xsd:element>
+<xsd:element name="GreatBritain" minOccurs="1" od:jetType="yesno" od:sqlSType="bit" od:nonNullable="yes" type="xsd:boolean"/>
+<xsd:element name="France" minOccurs="1" od:jetType="yesno" od:sqlSType="bit" od:nonNullable="yes" type="xsd:boolean"/>
+<xsd:element name="Prussia" minOccurs="1" od:jetType="yesno" od:sqlSType="bit" od:nonNullable="yes" type="xsd:boolean"/>
+<xsd:element name="Austria" minOccurs="1" od:jetType="yesno" od:sqlSType="bit" od:nonNullable="yes" type="xsd:boolean"/>
+<xsd:element name="Sweden" minOccurs="1" od:jetType="yesno" od:sqlSType="bit" od:nonNullable="yes" type="xsd:boolean"/>
+<xsd:element name="Holland" minOccurs="1" od:jetType="yesno" od:sqlSType="bit" od:nonNullable="yes" type="xsd:boolean"/>
+<xsd:element name="Spain" minOccurs="1" od:jetType="yesno" od:sqlSType="bit" od:nonNullable="yes" type="xsd:boolean"/>
+<xsd:element name="USA" minOccurs="1" od:jetType="yesno" od:sqlSType="bit" od:nonNullable="yes" type="xsd:boolean"/>
+<xsd:element name="Denmark" minOccurs="1" od:jetType="yesno" od:sqlSType="bit" od:nonNullable="yes" type="xsd:boolean"/>
+<xsd:element name="Bavaria" minOccurs="1" od:jetType="yesno" od:sqlSType="bit" od:nonNullable="yes" type="xsd:boolean"/>
+<xsd:element name="HanoverHesse" minOccurs="1" od:jetType="yesno" od:sqlSType="bit" od:nonNullable="yes" type="xsd:boolean"/>
+<xsd:element name="Pomerania" minOccurs="1" od:jetType="yesno" od:sqlSType="bit" od:nonNullable="yes" type="xsd:boolean"/>
+<xsd:element name="Saxony" minOccurs="1" od:jetType="yesno" od:sqlSType="bit" od:nonNullable="yes" type="xsd:boolean"/>
+<xsd:element name="Silesia" minOccurs="1" od:jetType="yesno" od:sqlSType="bit" od:nonNullable="yes" type="xsd:boolean"/>
+<xsd:element name="Switzerland" minOccurs="1" od:jetType="yesno" od:sqlSType="bit" od:nonNullable="yes" type="xsd:boolean"/>
+<xsd:element name="Westphalia" minOccurs="1" od:jetType="yesno" od:sqlSType="bit" od:nonNullable="yes" type="xsd:boolean"/>
+<xsd:element name="Wurttemberg" minOccurs="1" od:jetType="yesno" od:sqlSType="bit" od:nonNullable="yes" type="xsd:boolean"/>
+<xsd:element name="Genoa" minOccurs="1" od:jetType="yesno" od:sqlSType="bit" od:nonNullable="yes" type="xsd:boolean"/>
+<xsd:element name="Malta" minOccurs="1" od:jetType="yesno" od:sqlSType="bit" od:nonNullable="yes" type="xsd:boolean"/>
+<xsd:element name="Tuscany" minOccurs="1" od:jetType="yesno" od:sqlSType="bit" od:nonNullable="yes" type="xsd:boolean"/>
+<xsd:element name="PapalStates" minOccurs="1" od:jetType="yesno" od:sqlSType="bit" od:nonNullable="yes" type="xsd:boolean"/>
+<xsd:element name="Savoy" minOccurs="1" od:jetType="yesno" od:sqlSType="bit" od:nonNullable="yes" type="xsd:boolean"/>
+<xsd:element name="Portugal" minOccurs="1" od:jetType="yesno" od:sqlSType="bit" od:nonNullable="yes" type="xsd:boolean"/>
+<xsd:element name="Venice" minOccurs="1" od:jetType="yesno" od:sqlSType="bit" od:nonNullable="yes" type="xsd:boolean"/>
+<xsd:element name="Modena" minOccurs="1" od:jetType="yesno" od:sqlSType="bit" od:nonNullable="yes" type="xsd:boolean"/>
+<xsd:element name="Parma" minOccurs="1" od:jetType="yesno" od:sqlSType="bit" od:nonNullable="yes" type="xsd:boolean"/>
+<xsd:element name="Greece" minOccurs="1" od:jetType="yesno" od:sqlSType="bit" od:nonNullable="yes" type="xsd:boolean"/>
+<xsd:element name="EuropeanRebels" minOccurs="1" od:jetType="yesno" od:sqlSType="bit" od:nonNullable="yes" type="xsd:boolean"/>
+<xsd:element name="Pirates" minOccurs="1" od:jetType="yesno" od:sqlSType="bit" od:nonNullable="yes" type="xsd:boolean"/>
+<xsd:element name="Russia" minOccurs="1" od:jetType="yesno" od:sqlSType="bit" od:nonNullable="yes" type="xsd:boolean"/>
+<xsd:element name="Poland" minOccurs="1" od:jetType="yesno" od:sqlSType="bit" od:nonNullable="yes" type="xsd:boolean"/>
+<xsd:element name="Punjab" minOccurs="1" od:jetType="yesno" od:sqlSType="bit" od:nonNullable="yes" type="xsd:boolean"/>
+<xsd:element name="IndianRebels" minOccurs="1" od:jetType="yesno" od:sqlSType="bit" od:nonNullable="yes" type="xsd:boolean"/>
+<xsd:element name="MughalEmpire" minOccurs="1" od:jetType="yesno" od:sqlSType="bit" od:nonNullable="yes" type="xsd:boolean"/>
+<xsd:element name="Afghanistan" minOccurs="1" od:jetType="yesno" od:sqlSType="bit" od:nonNullable="yes" type="xsd:boolean"/>
+<xsd:element name="MarathaConfederacy" minOccurs="1" od:jetType="yesno" od:sqlSType="bit" od:nonNullable="yes" type="xsd:boolean"/>
+<xsd:element name="Mysore" minOccurs="1" od:jetType="yesno" od:sqlSType="bit" od:nonNullable="yes" type="xsd:boolean"/>
+<xsd:element name="Baroda" minOccurs="1" od:jetType="yesno" od:sqlSType="bit" od:nonNullable="yes" type="xsd:boolean"/>
+<xsd:element name="Gwalior" minOccurs="1" od:jetType="yesno" od:sqlSType="bit" od:nonNullable="yes" type="xsd:boolean"/>
+<xsd:element name="Indore" minOccurs="1" od:jetType="yesno" od:sqlSType="bit" od:nonNullable="yes" type="xsd:boolean"/>
+<xsd:element name="Malwa" minOccurs="1" od:jetType="yesno" od:sqlSType="bit" od:nonNullable="yes" type="xsd:boolean"/>
+<xsd:element name="Ujjain" minOccurs="1" od:jetType="yesno" od:sqlSType="bit" od:nonNullable="yes" type="xsd:boolean"/>
+<xsd:element name="IslamicRebels" minOccurs="1" od:jetType="yesno" od:sqlSType="bit" od:nonNullable="yes" type="xsd:boolean"/>
+<xsd:element name="OttomanEmpire" minOccurs="1" od:jetType="yesno" od:sqlSType="bit" od:nonNullable="yes" type="xsd:boolean"/>
+<xsd:element name="SafavidEmpire" minOccurs="1" od:jetType="yesno" od:sqlSType="bit" od:nonNullable="yes" type="xsd:boolean"/>
+<xsd:element name="BarbaryPirates" minOccurs="1" od:jetType="yesno" od:sqlSType="bit" od:nonNullable="yes" type="xsd:boolean"/>
+<xsd:element name="Morocco" minOccurs="1" od:jetType="yesno" od:sqlSType="bit" od:nonNullable="yes" type="xsd:boolean"/>
+<xsd:element name="Mamelukes" minOccurs="1" od:jetType="yesno" od:sqlSType="bit" od:nonNullable="yes" type="xsd:boolean"/>
+<xsd:element name="AmerindWoodlandTribes" minOccurs="1" od:jetType="yesno" od:sqlSType="bit" od:nonNullable="yes" type="xsd:boolean"/>
+<xsd:element name="AmerindIroquoisTribes" minOccurs="1" od:jetType="yesno" od:sqlSType="bit" od:nonNullable="yes" type="xsd:boolean"/>
+<xsd:element name="AmerindTribesIII" minOccurs="1" od:jetType="yesno" od:sqlSType="bit" od:nonNullable="yes" type="xsd:boolean"/>
+<xsd:element name="Haiti" minOccurs="1" od:jetType="yesno" od:sqlSType="bit" od:nonNullable="yes" type="xsd:boolean"/>
+<xsd:element name="AfricanNatives" minOccurs="1" od:jetType="yesno" od:sqlSType="bit" od:nonNullable="yes" type="xsd:boolean"/>
+<xsd:element name="SlaveRebels" minOccurs="1" od:jetType="yesno" od:sqlSType="bit" od:nonNullable="yes" type="xsd:boolean"/>
+<xsd:element name="Tatars" minOccurs="1" od:jetType="yesno" od:sqlSType="bit" od:nonNullable="yes" type="xsd:boolean"/>
+<xsd:element name="CrimeanKhanate" minOccurs="1" od:jetType="yesno" od:sqlSType="bit" od:nonNullable="yes" type="xsd:boolean"/>
+</xsd:sequence>
+</xsd:complexType>
+</xsd:element>
+</xsd:schema>

@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="agent_attributes.xsd" generated="2009-08-14T11:34:22">
+<agent_attributes>
+<key>command_land</key>
+<icon_path>data/ui/campaign ui/pips/skill_command.tga</icon_path>
+<name>Command on Land</name>
+<effect_text>%+n to Command in land battles.</effect_text>
+<Gen_effect_text>0</Gen_effect_text>
+<s_ColLineage>kNOq8QEAAACQ06rxAQAAAJDTqvEDAAAAAAAAAAAAAAAAAAAAAAAAAJDTqvEFAAAA
+kNOq8QgAAABpk4phCQAAAA==
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{67A3763B-E5CC-4769-85EA-567394BCE41C}</s_GUID>
+<s_Lineage>aZOKYQkAAACQ06rxCAAAAAAAAAAAAAAA
+</s_Lineage>
+<project_specific>0</project_specific>
+</agent_attributes>
+<agent_attributes>
+<key>command_sea</key>
+<icon_path>data/ui/campaign ui/pips/skill_naval.tga</icon_path>
+<name>Command at Sea</name>
+<effect_text>%+n to Command in sea battles.</effect_text>
+<Gen_effect_text>0</Gen_effect_text>
+<s_ColLineage>kNOq8QEAAACQ06rxAQAAAJDTqvEDAAAAAAAAAAAAAAAAAAAAAAAAAJDTqvEFAAAA
+kNOq8QgAAABpk4phCQAAAA==
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{1259111C-F0EC-4C27-AFAE-B59938351964}</s_GUID>
+<s_Lineage>aZOKYQkAAACQ06rxCAAAAAAAAAAAAAAA
+</s_Lineage>
+<project_specific>0</project_specific>
+</agent_attributes>
+<agent_attributes>
+<key>duelling_pistols</key>
+<icon_path>data/ui/campaign ui/pips/skill_shooting.tga</icon_path>
+<name>Pistol duelling</name>
+<effect_text>%+n to Duelling when duelling with pistols.</effect_text>
+<Gen_effect_text>0</Gen_effect_text>
+<s_ColLineage>kNOq8QEAAACQ06rxAQAAAJDTqvEDAAAAAAAAAAAAAAAAAAAAAAAAAJDTqvEFAAAA
+kNOq8QcAAABpk4phCAAAAA==
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{A5CDD313-4AE5-4FFD-BEA0-5D7C897F54EA}</s_GUID>
+<s_Lineage>aZOKYQgAAACQ06rxBwAAAAAAAAAAAAAA
+</s_Lineage>
+<project_specific>0</project_specific>
+</agent_attributes>
+<agent_attributes>
+<key>duelling_swords</key>
+<icon_path>data/ui/campaign ui/pips/skill_swordfighting.tga</icon_path>
+<name>Sword duelling</name>
+<effect_text>%+n to Duelling when duelling with swords.</effect_text>
+<Gen_effect_text>0</Gen_effect_text>
+<s_ColLineage>kNOq8QEAAACQ06rxAQAAAJDTqvEDAAAAAAAAAAAAAAAAAAAAAAAAAJDTqvEFAAAA
+kNOq8QcAAABpk4phCAAAAA==
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{19E3D8A4-9741-4B87-8EDC-109EB2FBD6F1}</s_GUID>
+<s_Lineage>aZOKYQgAAACQ06rxBwAAAAAAAAAAAAAA
+</s_Lineage>
+<project_specific>0</project_specific>
+</agent_attributes>
+<agent_attributes>
+<key>land_defence_engineering</key>
+<icon_path>PLACEHOLDER</icon_path>
+<name>Land defence engineering</name>
+<effect_text>%+n %% to battlefield defence work points.</effect_text>
+<Gen_effect_text>0</Gen_effect_text>
+<s_ColLineage>kNOq8QQAAACQ06rxAQAAAJDTqvEGAAAAAAAAAAAAAAAAAAAAAAAAAJDTqvEIAAAA
+kNOq8QsAAABpk4phDAAAAA==
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{B28F556E-C25D-4043-90B4-5E71990D95C1}</s_GUID>
+<s_Lineage>aZOKYQwAAACQ06rxCwAAAAAAAAAAAAAA
+</s_Lineage>
+<project_specific>0</project_specific>
+</agent_attributes>
+<agent_attributes>
+<key>land_siege_engineering</key>
+<icon_path>PLACEHOLDER</icon_path>
+<name>Siege engineering</name>
+<effect_text>%+n %% to siege works points.</effect_text>
+<Gen_effect_text>0</Gen_effect_text>
+<s_ColLineage>kNOq8QMAAACQ06rxAQAAAJDTqvEFAAAAAAAAAAAAAAAAAAAAAAAAAJDTqvEHAAAA
+kNOq8QkAAABpk4phCgAAAA==
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{C2D6C8BF-0BF2-4205-8F18-0B1CDADEB3CD}</s_GUID>
+<s_Lineage>aZOKYQoAAACQ06rxCQAAAAAAAAAAAAAA
+</s_Lineage>
+<project_specific>0</project_specific>
+</agent_attributes>
+<agent_attributes>
+<key>management</key>
+<icon_path>data/ui/campaign ui/pips/skill_managing.tga</icon_path>
+<name>Management Skill</name>
+<effect_text>%+n to Management.</effect_text>
+<Gen_effect_text>0</Gen_effect_text>
+<s_ColLineage>kNOq8QEAAACQ06rxAQAAAJDTqvEDAAAAAAAAAAAAAAAAAAAAAAAAAJDTqvEFAAAA
+kNOq8QgAAABpk4phCQAAAA==
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{21F10E2B-1F6B-4715-9049-F0722CC037D7}</s_GUID>
+<s_Lineage>aZOKYQkAAACQ06rxCAAAAAAAAAAAAAAA
+</s_Lineage>
+<project_specific>0</project_specific>
+</agent_attributes>
+<agent_attributes>
+<key>morale_land</key>
+<icon_path>PLACEHOLDER</icon_path>
+<name>Morale</name>
+<effect_text>%+n to army Morale.</effect_text>
+<Gen_effect_text>0</Gen_effect_text>
+<s_ColLineage>kNOq8QIAAACQ06rxAQAAAJDTqvEEAAAAAAAAAAAAAAAAAAAAAAAAAJDTqvEGAAAA
+kNOq8QkAAABpk4phCgAAAA==
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{BD6F7DFE-D561-4304-9FBF-3E8D0B45BB78}</s_GUID>
+<s_Lineage>aZOKYQoAAACQ06rxCQAAAAAAAAAAAAAA
+</s_Lineage>
+<project_specific>0</project_specific>
+</agent_attributes>
+<agent_attributes>
+<key>morale_sea</key>
+<icon_path>PLACEHOLDER</icon_path>
+<name>Morale</name>
+<effect_text>%+n to fleet Morale.</effect_text>
+<Gen_effect_text>0</Gen_effect_text>
+<s_ColLineage>kNOq8QIAAACQ06rxAQAAAJDTqvEEAAAAAAAAAAAAAAAAAAAAAAAAAJDTqvEGAAAA
+kNOq8QgAAABpk4phCQAAAA==
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{ADFC6C17-7C9D-4984-97C2-36DE0F5FC28A}</s_GUID>
+<s_Lineage>aZOKYQkAAACQ06rxCAAAAAAAAAAAAAAA
+</s_Lineage>
+<project_specific>0</project_specific>
+</agent_attributes>
+<agent_attributes>
+<key>movement_points_land</key>
+<icon_path>PLACEHOLDER</icon_path>
+<name>movement_points_land_name</name>
+<effect_text>%+n %% to army movement allowance.</effect_text>
+<Gen_effect_text>0</Gen_effect_text>
+<s_ColLineage>kNOq8QMAAACQ06rxAQAAAJDTqvEFAAAAAAAAAAAAAAAAAAAAAAAAAJDTqvEHAAAA
+kNOq8QgAAABpk4phCQAAAA==
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{3E020276-FE42-418E-A3CE-D36B3BEACA3D}</s_GUID>
+<s_Lineage>aZOKYQkAAACQ06rxCAAAAAAAAAAAAAAA
+</s_Lineage>
+<project_specific>0</project_specific>
+</agent_attributes>
+<agent_attributes>
+<key>research</key>
+<icon_path>data/ui/campaign ui/pips/skill_research.tga</icon_path>
+<name>Research Skill</name>
+<effect_text>%+n to Research.</effect_text>
+<Gen_effect_text>0</Gen_effect_text>
+<s_ColLineage>kNOq8QEAAACQ06rxAQAAAJDTqvEDAAAAAAAAAAAAAAAAAAAAAAAAAJDTqvEFAAAA
+kNOq8QgAAABpk4phCQAAAA==
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{B488681F-7CD6-45AD-B8B1-668504F3CA77}</s_GUID>
+<s_Lineage>aZOKYQkAAACQ06rxCAAAAAAAAAAAAAAA
+</s_Lineage>
+<project_specific>0</project_specific>
+</agent_attributes>
+<agent_attributes>
+<key>subterfuge</key>
+<icon_path>data/ui/campaign ui/pips/skill_spying.tga</icon_path>
+<name>Subterfuge Skill</name>
+<effect_text>%+n to Subterfuge.</effect_text>
+<Gen_effect_text>0</Gen_effect_text>
+<s_ColLineage>kNOq8QEAAACQ06rxAQAAAJDTqvEDAAAAAAAAAAAAAAAAAAAAAAAAAJDTqvEFAAAA
+kNOq8QgAAABpk4phCQAAAA==
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{B6A06A85-EFDC-4C1C-A06B-B4AA86F0D9ED}</s_GUID>
+<s_Lineage>aZOKYQkAAACQ06rxCAAAAAAAAAAAAAAA
+</s_Lineage>
+<project_specific>0</project_specific>
+</agent_attributes>
+<agent_attributes>
+<key>trade</key>
+<icon_path>PLACEHOLDER</icon_path>
+<name>Trade</name>
+<effect_text>PLACEHOLDER (agent_attributes.effect_text)</effect_text>
+<Gen_effect_text>0</Gen_effect_text>
+<s_ColLineage>kNOq8QIAAACQ06rxAgAAAJDTqvEHAAAAAAAAAAAAAAAAAAAAAAAAAJDTqvEJAAAA
+kNOq8QsAAABpk4phDAAAAA==
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{E7B2B131-6CC9-48A3-BB30-36F806E1C1E2}</s_GUID>
+<s_Lineage>aZOKYQwAAACQ06rxCwAAAAAAAAAAAAAA
+</s_Lineage>
+<project_specific>0</project_specific>
+</agent_attributes>
+<agent_attributes>
+<key>zeal</key>
+<icon_path>data/ui/campaign ui/pips/skill_zeal.tga</icon_path>
+<name>Religious Zeal</name>
+<effect_text>%+n to Zeal.</effect_text>
+<Gen_effect_text>0</Gen_effect_text>
+<s_ColLineage>kNOq8QEAAACQ06rxCAAAAJDTqvEDAAAAAAAAAAAAAAAAAAAAAAAAAJDTqvEFAAAA
+kNOq8QcAAABpk4phCQAAAA==
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{8EC6227B-B4C7-4E47-9F52-F9BC1422D692}</s_GUID>
+<s_Lineage>aZOKYQkAAACQ06rxCAAAAAAAAAAAAAAA
+</s_Lineage>
+<project_specific>0</project_specific>
+</agent_attributes>
+</dataroot>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="trait_effects.xsd" generated="2006-11-06T14:18:48">
+<trait_effects>
+<key>Social Drinker</key>
+<trait_chain>Drink</trait_chain>
+<level>1</level>
+<epithet>n</epithet>
+<gain_message>n</gain_message>
+<lose_message>renounce_wine</lose_message>
+<effect_script>land_command+=1</effect_script>
+</trait_effects>
+<trait_effects>
+<key>India Specialist</key>
+<trait_chain>GoodIndiaCommander</trait_chain>
+<level>1</level>
+<epithet>n</epithet>
+<gain_message>n</gain_message>
+<lose_message>n</lose_message>
+<effect_script>if(theatre=india),command+=15</effect_script>
+</trait_effects>
+<trait_effects>
+<key>Slums</key>
+<trait_chain>Slums</trait_chain>
+<level>1</level>
+<epithet>n</epithet>
+<gain_message>n</gain_message>
+<lose_message>n</lose_message>
+<effect_script>lower_unhappiness+=5</effect_script>
+</trait_effects>
+<trait_effects>
+<key>Expert Marksmen</key>
+<trait_chain>ExpertMarksmen</trait_chain>
+<level>3</level>
+<epithet>n</epithet>
+<gain_message>n</gain_message>
+<lose_message>n</lose_message>
+<effect_script>accuracy*=1.2</effect_script>
+</trait_effects>
+</dataroot>

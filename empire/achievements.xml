@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="achievements.xsd" generated="2009-02-06T14:55:58">
+<achievements>
+<key>ACHIEVEMENT_ALL_TECHS</key>
+<title>Polymath</title>
+<description>Have your natural philosophers and scientists research all the technologies available to your nation.</description>
+</achievements>
+<achievements>
+<key>ACHIEVEMENT_ASSASSINATIONS</key>
+<title>Assassin!</title>
+<description>Use your assassins to kill, in unlooked-for fashion, twenty men who hinder your plans.</description>
+</achievements>
+<achievements>
+<key>ACHIEVEMENT_COMPLETE_GRAND_CAMPAIGN_EASY</key>
+<title>Accomplished Strategist</title>
+<description>Complete the main campaign game on the easy difficulty setting.</description>
+</achievements>
+<achievements>
+<key>ACHIEVEMENT_COMPLETE_GRAND_CAMPAIGN_HARD</key>
+<title>Strategic Genius</title>
+<description>Complete the main campaign game on the hard difficulty setting.</description>
+</achievements>
+<achievements>
+<key>ACHIEVEMENT_COMPLETE_GRAND_CAMPAIGN_MEDIUM</key>
+<title>Veteran Strategist</title>
+<description>Complete the main campaign game on the medium difficulty setting.</description>
+</achievements>
+<achievements>
+<key>ACHIEVEMENT_COMPLETE_US_INDEPENDENCE</key>
+<title>American Hero</title>
+<description>Complete the Road to Independence campaigns freeing the American colonists from British rule!</description>
+</achievements>
+<achievements>
+<key>ACHIEVEMENT_CONQUER_AMERICA</key>
+<title>Master of the Americas</title>
+<description>Conquer or control all the provinces and regions in the Americas at the same time.</description>
+</achievements>
+<achievements>
+<key>ACHIEVEMENT_CONQUER_EUROPE</key>
+<title>Emperor of Europe</title>
+<description>Subdue and hold all the provinces and regions in Europe at the same time.</description>
+</achievements>
+<achievements>
+<key>ACHIEVEMENT_CONQUER_INDIA</key>
+<title>Maharajah of the Indies</title>
+<description>Have mastery over all the provinces and regions in India at the same time.</description>
+</achievements>
+<achievements>
+<key>ACHIEVEMENT_DUELS</key>
+<title>Affairs of Honour</title>
+<description>Use your duellists to kill twenty men on the &quot;field of honour&quot;</description>
+</achievements>
+<achievements>
+<key>ACHIEVEMENT_KILL_100K</key>
+<title>Bloody Madman</title>
+<description>Carve a bloody path to victory: kill a hundred thousand enemies!</description>
+</achievements>
+<achievements>
+<key>ACHIEVEMENT_KILL_1M</key>
+<title>Conqueror of All</title>
+<description>Be hailed as a true conqueror: kill a million enemies!</description>
+</achievements>
+<achievements>
+<key>ACHIEVEMENT_KILL_500K</key>
+<title>Tyrant and Ogre</title>
+<description>Bring terror to the hearts of men: kill half a million enemies!</description>
+</achievements>
+<achievements>
+<key>ACHIEVEMENT_MISSIONS</key>
+<title>Only Obeying Orders</title>
+<description>Ensure that thirty missions, regardless of detail or type, are successfully brought to a conclusion.</description>
+</achievements>
+<achievements>
+<key>ACHIEVEMENT_MP_BATTLES_PLAYED_1</key>
+<title>Raw Recruit</title>
+<description>War sir, is a terrifying experience! Take part in a multiplayer battle.</description>
+</achievements>
+<achievements>
+<key>ACHIEVEMENT_MP_BATTLES_PLAYED_1_QUICK</key>
+<title>Drumbeat to Victory</title>
+<description>Draw the sword and march onwards: complete one quick battle.</description>
+</achievements>
+<achievements>
+<key>ACHIEVEMENT_MP_BATTLES_PLAYED_1_RANKED</key>
+<title>Whiff of Grapeshot</title>
+<description>Gain some experience of combat: complete one ranked battle.</description>
+</achievements>
+<achievements>
+<key>ACHIEVEMENT_MP_BATTLES_PLAYED_10</key>
+<title>Blooded</title>
+<description>Demonstrate your sense of duty and honour: complete ten multi-player battles.</description>
+</achievements>
+<achievements>
+<key>ACHIEVEMENT_MP_BATTLES_WON_10</key>
+<title>l337 Guard</title>
+<description>Achieve victory in ten multiplayer battles, cutting a bloody path to greatness through your enemies&apos; plans.</description>
+</achievements>
+<achievements>
+<key>ACHIEVEMENT_MP_BATTLES_WON_10_CLASSIC</key>
+<title>Grand Tactician</title>
+<description>Win ten classic multi-player battles.</description>
+</achievements>
+<achievements>
+<key>ACHIEVEMENT_MP_BATTLES_WON_10_NAVAL</key>
+<title>Command of the Ocean</title>
+<description>As a commanding admiral, win ten multi-player naval battles.</description>
+</achievements>
+<achievements>
+<key>ACHIEVEMENT_MP_BATTLES_WON_10_SIEGE_ATT</key>
+<title>Into the Breach!</title>
+<description>Attack! Attack! Attack! Win ten multi-player siege battles when commanding a besieging army.</description>
+</achievements>
+<achievements>
+<key>ACHIEVEMENT_MP_BATTLES_WON_10_SIEGE_DEF</key>
+<title>The &quot;Chevaux de Frise&quot;</title>
+<description>Defend, sir, defend! Win ten multi-player siege battles when commanding  the defenders of a fortress. </description>
+</achievements>
+<achievements>
+<key>ACHIEVEMENT_MP_BATTLES_WON_50</key>
+<title>Marshal&apos;s Baton</title>
+<description>Achieve victory in fifty multiplayer battles, dashing your enemies&apos; hopes in pieces in the process!</description>
+</achievements>
+<achievements>
+<key>ACHIEVEMENT_REGION_1</key>
+<title>Founding Father</title>
+<description>Take one region by conquest, somewhere in the world.</description>
+</achievements>
+<achievements>
+<key>ACHIEVEMENT_REGION_10</key>
+<title>Expansionist Power</title>
+<description>Capture ten regions, anywhere in the world.</description>
+</achievements>
+<achievements>
+<key>ACHIEVEMENT_REGION_100</key>
+<title>A New Rome</title>
+<description>Demonstrate outstanding ability, and capture one hundred regions.</description>
+</achievements>
+<achievements>
+<key>ACHIEVEMENT_SHIP_CAPTURE</key>
+<title>&quot;The Sea Wolf&quot;</title>
+<description>Capture 20 enemy vessels in honest, manly battle against the foe!</description>
+</achievements>
+<achievements>
+<key>ACHIEVEMENT_TECH_THEFT</key>
+<title>The Efforts of Others</title>
+<description>Successfully steal five technologies researched by other nations.</description>
+</achievements>
+<achievements>
+<key>ACHIEVEMENT_THREATEN</key>
+<title>Observe Diplomatic Niceties</title>
+<description>Use diplomatic threats to good effect by making gains from five separate negotiations.</description>
+</achievements>
+<achievements>
+<key>ACHIEVEMENT_TREASON</key>
+<title>Perfidious Beast</title>
+<description>Use treachery to best effect by turning against at least five allied nations and attacking them.</description>
+</achievements>
+<achievements>
+<key>architect</key>
+<title>&quot;The Great Architect&quot;</title>
+<description>Build at least one of every building available for all the playable nations.</description>
+</achievements>
+<achievements>
+<key>art_of_war</key>
+<title>Re-write the Art of War</title>
+<description>Rule the entire world by dominating all provinces and trade theatres at the same time, but do so by personally taking command in every battle your armies and navies fight.</description>
+</achievements>
+<achievements>
+<key>consumption</key>
+<title>Conspicuous Consumption</title>
+<description>Build at least one of every building available and recruit at least one of every unit - and do both for all the playable nations.</description>
+</achievements>
+<achievements>
+<key>fort</key>
+<title>Holding the Fort</title>
+<description>Win ten capture point multi-player battles.</description>
+</achievements>
+<achievements>
+<key>hero</key>
+<title>National Hero</title>
+<description>Successfully complete the main campaign game.</description>
+</achievements>
+<achievements>
+<key>loyal</key>
+<title>Loyal Ally</title>
+<description>Loyalty can be a reward: complete a co-operative multi-player campaign.</description>
+</achievements>
+<achievements>
+<key>master</key>
+<title>Master of Strategy</title>
+<description>Successfully complete the main campaign game with half of the playable nations.</description>
+</achievements>
+<achievements>
+<key>merchant</key>
+<title>Merchant Prince</title>
+<description>Exclude all other nations from the benefits of maritime trade for one turn.</description>
+</achievements>
+<achievements>
+<key>miniature</key>
+<title>Masterpiece in Miniature</title>
+<description>Complete all the short campaigns with all playable nations.</description>
+</achievements>
+<achievements>
+<key>recruiting</key>
+<title>&quot;The Recruiting Sergeant&quot;</title>
+<description>Recuit at least one of every unit available for all the playable nations.</description>
+</achievements>
+<achievements>
+<key>redraw</key>
+<title>Redraw the Map</title>
+<description>Control all provinces and regions in the world at the same time.</description>
+</achievements>
+<achievements>
+<key>seven_seas</key>
+<title>Master of the Seven Seas</title>
+<description>Blockade all of a human enemy&apos;s ports and entirely suppress his sea trade.</description>
+</achievements>
+<achievements>
+<key>sound_of_the_guns</key>
+<title>Towards the Sound of the Guns</title>
+<description>Come to the aid of a friend in trouble during a multi-player campaign battle.</description>
+</achievements>
+<achievements>
+<key>world</key>
+<title>Master of the World</title>
+<description>Successfully complete the main campaign game with each playable nation.</description>
+</achievements>
+</dataroot>

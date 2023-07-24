@@ -1,0 +1,302 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="diplomacy_factor_strings.xsd" generated="2009-08-06T12:24:33">
+<diplomacy_factor_strings>
+<key>abandoned_ally_in_war</key>
+<positive_factor_string>Unreliable ally</positive_factor_string>
+<negative_factor_string>Unreliable ally</negative_factor_string>
+<s_ColLineage>kNOq8QEAAACQ06rxDgAAAJDTqvEFAAAAkNOq8QIAAACQ06rxEQAAAJDTqvEGAAAA
+aZOKYRIAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{3BB2030A-8AF2-4A5B-8D45-94659558DE72}</s_GUID>
+<s_Lineage>aZOKYRIAAACQ06rxEQAAAAAAAAAAAAAA
+</s_Lineage>
+<project_specific>0</project_specific>
+</diplomacy_factor_strings>
+<diplomacy_factor_strings>
+<key>abused_military_access</key>
+<positive_factor_string>Backstabber! Attacked by forces given safe passage</positive_factor_string>
+<negative_factor_string>Backstabber! Attacked by forces given safe passage</negative_factor_string>
+<s_ColLineage>kNOq8QEAAACQ06rxDgAAAJDTqvEDAAAAkNOq8QIAAACQ06rxEAAAAJDTqvEEAAAA
+aZOKYREAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{5139E64C-5B45-4911-9FDF-3AF67632E099}</s_GUID>
+<s_Lineage>aZOKYREAAACQ06rxEAAAAAAAAAAAAAAA
+</s_Lineage>
+<project_specific>0</project_specific>
+</diplomacy_factor_strings>
+<diplomacy_factor_strings>
+<key>alliance</key>
+<positive_factor_string>Military alliance</positive_factor_string>
+<negative_factor_string>Military alliance</negative_factor_string>
+<s_ColLineage>kNOq8QEAAACQ06rxCQAAAJDTqvEBAAAAkNOq8QIAAACQ06rxBQAAAJDTqvEEAAAA
+aZOKYQoAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{F4AA6BEC-4A32-459B-A604-30225D5B961A}</s_GUID>
+<s_Lineage>aZOKYQoAAACQ06rxCQAAAAAAAAAAAAAA
+</s_Lineage>
+<project_specific>0</project_specific>
+</diplomacy_factor_strings>
+<diplomacy_factor_strings>
+<key>alliance_broken</key>
+<positive_factor_string>Alliance broken</positive_factor_string>
+<negative_factor_string>Alliance broken</negative_factor_string>
+<s_ColLineage>kNOq8QEAAACQ06rxCQAAAJDTqvEDAAAAkNOq8QIAAACQ06rxCwAAAJDTqvEEAAAA
+aZOKYQwAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{75882A7A-5632-414A-9739-81F29B7A5521}</s_GUID>
+<s_Lineage>aZOKYQwAAACQ06rxCwAAAAAAAAAAAAAA
+</s_Lineage>
+<project_specific>0</project_specific>
+</diplomacy_factor_strings>
+<diplomacy_factor_strings>
+<key>allied_with_enemies</key>
+<positive_factor_string>Alliance with an enemy nation</positive_factor_string>
+<negative_factor_string>Alliance with an enemy nation</negative_factor_string>
+<s_ColLineage>kNOq8QEAAACQ06rxCAAAAJDTqvEDAAAAkNOq8QIAAACQ06rxCgAAAJDTqvEEAAAA
+aZOKYQsAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{A518B239-00A9-448A-A1F5-8FB3A5B36747}</s_GUID>
+<s_Lineage>aZOKYQsAAACQ06rxCgAAAAAAAAAAAAAA
+</s_Lineage>
+<project_specific>0</project_specific>
+</diplomacy_factor_strings>
+<diplomacy_factor_strings>
+<key>annexed_territory</key>
+<positive_factor_string>Territorial expansion</positive_factor_string>
+<negative_factor_string>Territorial expansion</negative_factor_string>
+<s_ColLineage>kNOq8QEAAACQ06rxCwAAAJDTqvEDAAAAkNOq8QIAAACQ06rxDQAAAJDTqvEEAAAA
+aZOKYQ4AAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{7689BBC4-2107-4EA3-8166-B77C68638B79}</s_GUID>
+<s_Lineage>aZOKYQ4AAACQ06rxDQAAAAAAAAAAAAAA
+</s_Lineage>
+<project_specific>0</project_specific>
+</diplomacy_factor_strings>
+<diplomacy_factor_strings>
+<key>assasination_attempt</key>
+<positive_factor_string>Assassination attempts</positive_factor_string>
+<negative_factor_string>Assassination attempts</negative_factor_string>
+<s_ColLineage>kNOq8QEAAACQ06rxBgAAAJDTqvEDAAAAkNOq8QIAAACQ06rxCgAAAJDTqvEEAAAA
+aZOKYQsAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{212A022E-E31F-4C43-8F4C-A6F972CB6F31}</s_GUID>
+<s_Lineage>aZOKYQsAAACQ06rxCgAAAAAAAAAAAAAA
+</s_Lineage>
+<project_specific>0</project_specific>
+</diplomacy_factor_strings>
+<diplomacy_factor_strings>
+<key>cultural_alliance_broken</key>
+<positive_factor_string>Alliances were not honoured</positive_factor_string>
+<negative_factor_string>Alliances were not honoured</negative_factor_string>
+<s_ColLineage>kNOq8QEAAACQ06rxCAAAAJDTqvEDAAAAkNOq8QIAAACQ06rxCgAAAJDTqvEEAAAA
+aZOKYQsAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{27926D90-1032-4795-B130-BE6FF1230721}</s_GUID>
+<s_Lineage>aZOKYQsAAACQ06rxCgAAAAAAAAAAAAAA
+</s_Lineage>
+<project_specific>0</project_specific>
+</diplomacy_factor_strings>
+<diplomacy_factor_strings>
+<key>declared_war_against_enemies</key>
+<positive_factor_string>An enemy of my enemy is my friend</positive_factor_string>
+<negative_factor_string>An enemy of my enemy is my friend</negative_factor_string>
+<s_ColLineage>kNOq8QEAAACQ06rxCQAAAJDTqvEBAAAAkNOq8QIAAACQ06rxBQAAAJDTqvEEAAAA
+aZOKYQoAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{613B601F-8A95-436D-A61B-50E44468984B}</s_GUID>
+<s_Lineage>aZOKYQoAAACQ06rxCQAAAAAAAAAAAAAA
+</s_Lineage>
+<project_specific>0</project_specific>
+</diplomacy_factor_strings>
+<diplomacy_factor_strings>
+<key>declared_war_against_friends</key>
+<positive_factor_string>War declared on a friend</positive_factor_string>
+<negative_factor_string>War declared on a friend</negative_factor_string>
+<s_ColLineage>kNOq8QEAAACQ06rxCAAAAJDTqvEDAAAAkNOq8QIAAACQ06rxCgAAAJDTqvEEAAAA
+aZOKYQsAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{9C5302C6-0C92-4487-954F-CC2802200D9D}</s_GUID>
+<s_Lineage>aZOKYQsAAACQ06rxCgAAAAAAAAAAAAAA
+</s_Lineage>
+<project_specific>0</project_specific>
+</diplomacy_factor_strings>
+<diplomacy_factor_strings>
+<key>diplo_character_bonus</key>
+<positive_factor_string>National leaders command respect</positive_factor_string>
+<negative_factor_string>National leaders are not respected</negative_factor_string>
+<s_ColLineage>kNOq8QEAAACQ06rxBAAAAJDTqvEBAAAAkNOq8QIAAACQ06rxAwAAAJDTqvEBAAAA
+aZOKYQUAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{9A4FB515-DBC3-42F0-ABD9-A193652D6FFE}</s_GUID>
+<s_Lineage>aZOKYQUAAACQ06rxBAAAAAAAAAAAAAAA
+</s_Lineage>
+<project_specific>0</project_specific>
+</diplomacy_factor_strings>
+<diplomacy_factor_strings>
+<key>faction_leader</key>
+<positive_factor_string>National leaders command respect</positive_factor_string>
+<negative_factor_string>National leaders are not respected</negative_factor_string>
+<s_ColLineage>AAAAAAEAAAA0CceOBAAAAAAAAAABAAAAAAAAAAIAAAA0CceOAwAAAAAAAAABAAAA
+aZOKYQUAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{D8D8248A-7F19-43BB-91CE-5F14B9DC6C4B}</s_GUID>
+<s_Lineage>aZOKYQUAAAA0CceOBAAAAAAAAAAAAAAA
+</s_Lineage>
+<project_specific>0</project_specific>
+</diplomacy_factor_strings>
+<diplomacy_factor_strings>
+<key>government_type</key>
+<positive_factor_string>Same government type</positive_factor_string>
+<negative_factor_string>Different government type</negative_factor_string>
+<s_ColLineage>kNOq8QEAAACQ06rxBQAAAJDTqvEDAAAAkNOq8QIAAACQ06rxBQAAAJDTqvEEAAAA
+aZOKYQYAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{2C04FC34-498D-43BD-95C7-69EC9A51DEF2}</s_GUID>
+<s_Lineage>aZOKYQYAAACQ06rxBQAAAAAAAAAAAAAA
+</s_Lineage>
+<project_specific>0</project_specific>
+</diplomacy_factor_strings>
+<diplomacy_factor_strings>
+<key>initial_modifier</key>
+<positive_factor_string>Historical friendship</positive_factor_string>
+<negative_factor_string>Historical grievances</negative_factor_string>
+<s_ColLineage>kNOq8QEAAACQ06rxBQAAAJDTqvEDAAAAkNOq8QIAAACQ06rxBQAAAJDTqvEEAAAA
+aZOKYQYAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{88FD8B33-EDBB-4434-AFB1-8BA3783BCAFE}</s_GUID>
+<s_Lineage>aZOKYQYAAACQ06rxBQAAAAAAAAAAAAAA
+</s_Lineage>
+<project_specific>0</project_specific>
+</diplomacy_factor_strings>
+<diplomacy_factor_strings>
+<key>peace_treaty</key>
+<positive_factor_string>Dishonouring treaties</positive_factor_string>
+<negative_factor_string>Peace treaty</negative_factor_string>
+<s_ColLineage>kNOq8QEAAACQ06rxCQAAAJDTqvEBAAAAkNOq8QIAAACQ06rxCgAAAJDTqvEEAAAA
+aZOKYQsAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{869AEBA4-A75E-4011-AC3C-2A99347F38B8}</s_GUID>
+<s_Lineage>aZOKYQsAAACQ06rxCgAAAAAAAAAAAAAA
+</s_Lineage>
+<project_specific>0</project_specific>
+</diplomacy_factor_strings>
+<diplomacy_factor_strings>
+<key>religion</key>
+<positive_factor_string>Same religion</positive_factor_string>
+<negative_factor_string>Religious differences</negative_factor_string>
+<s_ColLineage>kNOq8QEAAACQ06rxBQAAAJDTqvEDAAAAkNOq8QIAAACQ06rxBQAAAJDTqvEEAAAA
+aZOKYQYAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{AF666557-A4CD-4D69-BC69-3D0ECA863834}</s_GUID>
+<s_Lineage>aZOKYQYAAACQ06rxBQAAAAAAAAAAAAAA
+</s_Lineage>
+<project_specific>0</project_specific>
+</diplomacy_factor_strings>
+<diplomacy_factor_strings>
+<key>sabotage_attempt</key>
+<positive_factor_string>Acts of sabotage</positive_factor_string>
+<negative_factor_string>Acts of sabotage</negative_factor_string>
+<s_ColLineage>kNOq8QEAAACQ06rxBAAAAJDTqvEBAAAAkNOq8QIAAACQ06rxAwAAAJDTqvEBAAAA
+aZOKYQUAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{41B16612-40D7-4418-9EFB-19E62C95587F}</s_GUID>
+<s_Lineage>aZOKYQUAAACQ06rxBAAAAAAAAAAAAAAA
+</s_Lineage>
+<project_specific>0</project_specific>
+</diplomacy_factor_strings>
+<diplomacy_factor_strings>
+<key>spying_attempt</key>
+<positive_factor_string>Acts of espionage</positive_factor_string>
+<negative_factor_string>Acts of espionage</negative_factor_string>
+<s_ColLineage>kNOq8QEAAACQ06rxBQAAAJDTqvEBAAAAkNOq8QIAAACQ06rxBAAAAJDTqvEBAAAA
+aZOKYQYAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{63609583-F35C-4793-9864-D90F68E96A7E}</s_GUID>
+<s_Lineage>aZOKYQYAAACQ06rxBQAAAAAAAAAAAAAA
+</s_Lineage>
+<project_specific>0</project_specific>
+</diplomacy_factor_strings>
+<diplomacy_factor_strings>
+<key>state_gift</key>
+<positive_factor_string>State gift received</positive_factor_string>
+<negative_factor_string>State gift received</negative_factor_string>
+<s_ColLineage>kNOq8QEAAACQ06rxCgAAAJDTqvEBAAAAkNOq8QIAAACQ06rxCAAAAJDTqvEEAAAA
+aZOKYQsAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{586B90CD-4F70-4E5F-8DB2-4706AE77E0B0}</s_GUID>
+<s_Lineage>aZOKYQsAAACQ06rxCgAAAAAAAAAAAAAA
+</s_Lineage>
+<project_specific>0</project_specific>
+</diplomacy_factor_strings>
+<diplomacy_factor_strings>
+<key>threatened</key>
+<positive_factor_string>Threats of attack</positive_factor_string>
+<negative_factor_string>Threats of attack</negative_factor_string>
+<s_ColLineage>kNOq8QEAAACQ06rxBAAAAJDTqvEBAAAAkNOq8QIAAACQ06rxBQAAAJDTqvEBAAAA
+aZOKYQYAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{EF985B84-EC23-4348-A186-1D8A2FE2E460}</s_GUID>
+<s_Lineage>aZOKYQYAAACQ06rxBQAAAAAAAAAAAAAA
+</s_Lineage>
+<project_specific>0</project_specific>
+</diplomacy_factor_strings>
+<diplomacy_factor_strings>
+<key>trade</key>
+<positive_factor_string>Trade agreement</positive_factor_string>
+<negative_factor_string>Trade agreement</negative_factor_string>
+<s_ColLineage>kNOq8QEAAACQ06rxCQAAAJDTqvEBAAAAkNOq8QIAAACQ06rxBQAAAJDTqvEEAAAA
+aZOKYQoAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{05AA0ECE-1F52-45EB-945E-7EB2AD87C210}</s_GUID>
+<s_Lineage>aZOKYQoAAACQ06rxCQAAAAAAAAAAAAAA
+</s_Lineage>
+<project_specific>0</project_specific>
+</diplomacy_factor_strings>
+<diplomacy_factor_strings>
+<key>trade_broken</key>
+<positive_factor_string>Trade agreement broken</positive_factor_string>
+<negative_factor_string>Trade agreement broken</negative_factor_string>
+<s_ColLineage>kNOq8QEAAACQ06rxBAAAAJDTqvEBAAAAkNOq8QIAAACQ06rxBwAAAJDTqvEBAAAA
+aZOKYQgAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{82FD4B7F-4C1E-4C8B-9F24-B125EA0689F6}</s_GUID>
+<s_Lineage>aZOKYQgAAACQ06rxBwAAAAAAAAAAAAAA
+</s_Lineage>
+<project_specific>0</project_specific>
+</diplomacy_factor_strings>
+<diplomacy_factor_strings>
+<key>war</key>
+<positive_factor_string>Peace treaty</positive_factor_string>
+<negative_factor_string>War!</negative_factor_string>
+<s_ColLineage>kNOq8QEAAACQ06rxCgAAAJDTqvEDAAAAkNOq8QIAAACQ06rxDQAAAJDTqvEEAAAA
+aZOKYQ4AAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{A72A0421-1B40-49C0-BE32-F9A31CBE448E}</s_GUID>
+<s_Lineage>aZOKYQ4AAACQ06rxDQAAAAAAAAAAAAAA
+</s_Lineage>
+<project_specific>0</project_specific>
+</diplomacy_factor_strings>
+</dataroot>

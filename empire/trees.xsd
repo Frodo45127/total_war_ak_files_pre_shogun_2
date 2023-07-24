@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:od="urn:schemas-microsoft-com:officedata">
+<xsd:element name="dataroot">
+<xsd:complexType>
+<xsd:sequence>
+<xsd:element ref="trees" minOccurs="0" maxOccurs="unbounded"/>
+</xsd:sequence>
+<xsd:attribute name="generated" type="xsd:dateTime"/>
+</xsd:complexType>
+</xsd:element>
+<xsd:element name="trees">
+<xsd:annotation>
+<xsd:appinfo/>
+</xsd:annotation>
+<xsd:complexType>
+<xsd:sequence>
+<xsd:element name="tree" minOccurs="1" od:jetType="text" od:sqlSType="nvarchar" od:nonNullable="yes">
+<xsd:simpleType>
+<xsd:restriction base="xsd:string">
+<xsd:maxLength value="50"/>
+</xsd:restriction>
+</xsd:simpleType>
+</xsd:element>
+<xsd:element name="is_shrub" minOccurs="1" od:jetType="yesno" od:sqlSType="bit" od:nonNullable="yes" type="xsd:boolean"/>
+<xsd:element name="is_high_altitude" minOccurs="1" od:jetType="yesno" od:sqlSType="bit" od:nonNullable="yes" type="xsd:boolean"/>
+<xsd:element name="is_conifer" minOccurs="1" od:jetType="yesno" od:sqlSType="bit" od:nonNullable="yes" type="xsd:boolean"/>
+<xsd:element name="distance_to_coast" minOccurs="1" od:jetType="longinteger" od:sqlSType="int" od:nonNullable="yes" type="xsd:int"/>
+<xsd:element name="s_ColLineage" minOccurs="0" od:jetType="oleobject" od:sqlSType="image">
+<xsd:simpleType>
+<xsd:restriction base="xsd:base64Binary">
+<xsd:maxLength value="1476395008"/>
+</xsd:restriction>
+</xsd:simpleType>
+</xsd:element>
+<xsd:element name="s_Generation" minOccurs="0" od:jetType="longinteger" od:sqlSType="int" type="xsd:int"/>
+<xsd:element name="s_GUID" minOccurs="0" od:jetType="replicationid" od:sqlSType="uniqueidentifier" od:autoUnique="yes">
+<xsd:simpleType>
+<xsd:restriction base="xsd:string">
+<xsd:maxLength value="38"/>
+</xsd:restriction>
+</xsd:simpleType>
+</xsd:element>
+<xsd:element name="s_Lineage" minOccurs="0" od:jetType="oleobject" od:sqlSType="image">
+<xsd:simpleType>
+<xsd:restriction base="xsd:base64Binary">
+<xsd:maxLength value="1476395008"/>
+</xsd:restriction>
+</xsd:simpleType>
+</xsd:element>
+</xsd:sequence>
+</xsd:complexType>
+</xsd:element>
+</xsd:schema>

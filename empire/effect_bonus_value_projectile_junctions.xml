@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="effect_bonus_value_projectile_junctions.xsd" generated="2009-08-13T14:57:02">
+<effect_bonus_value_projectile_junctions>
+<effect>mod_reload_rate_carbine</effect>
+<bonus_value_id>reload_mod</bonus_value_id>
+<projectile>musket_carbine</projectile>
+<s_ColLineage>kNOq8QIAAACQ06rxBAAAAI+hjSQHAAAAaZOKYQUAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{4769D75A-D31A-4E68-8C4A-E384613AE531}</s_GUID>
+<s_Lineage>j6GNJAcAAABpk4phBQAAAJDTqvEEAAAAAAAAAAAAAAA=
+</s_Lineage>
+<project_specific>0</project_specific>
+</effect_bonus_value_projectile_junctions>
+</dataroot>

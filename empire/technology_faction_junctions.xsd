@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:od="urn:schemas-microsoft-com:officedata">
+<xsd:element name="dataroot">
+<xsd:complexType>
+<xsd:sequence>
+<xsd:element ref="technology_faction_junctions" minOccurs="0" maxOccurs="unbounded"/>
+</xsd:sequence>
+<xsd:attribute name="generated" type="xsd:dateTime"/>
+</xsd:complexType>
+</xsd:element>
+<xsd:element name="technology_faction_junctions">
+<xsd:annotation>
+<xsd:appinfo>
+<od:index index-name="PrimaryKey" index-key="technology_key faction_key " primary="yes" unique="yes" clustered="no"/>
+<od:index index-name="s_GUID" index-key="s_GUID " primary="no" unique="yes" clustered="no"/>
+<od:index index-name="faction_key" index-key="faction_key " primary="no" unique="no" clustered="no"/>
+<od:index index-name="factionstechnology_faction_junctions" index-key="faction_key " primary="no" unique="no" clustered="no"/>
+<od:index index-name="s_Generation" index-key="s_Generation " primary="no" unique="no" clustered="no"/>
+<od:index index-name="technologiestechnology_faction_junctions" index-key="technology_key " primary="no" unique="no" clustered="no"/>
+<od:index index-name="technology_key" index-key="technology_key " primary="no" unique="no" clustered="no"/>
+</xsd:appinfo>
+</xsd:annotation>
+<xsd:complexType>
+<xsd:sequence>
+<xsd:element name="technology_key" minOccurs="0" od:jetType="text" od:sqlSType="nvarchar">
+<xsd:simpleType>
+<xsd:restriction base="xsd:string">
+<xsd:maxLength value="255"/>
+</xsd:restriction>
+</xsd:simpleType>
+</xsd:element>
+<xsd:element name="faction_key" minOccurs="0" od:jetType="text" od:sqlSType="nvarchar">
+<xsd:simpleType>
+<xsd:restriction base="xsd:string">
+<xsd:maxLength value="255"/>
+</xsd:restriction>
+</xsd:simpleType>
+</xsd:element>
+<xsd:element name="s_ColLineage" minOccurs="0" od:jetType="oleobject" od:sqlSType="image">
+<xsd:simpleType>
+<xsd:restriction base="xsd:base64Binary">
+<xsd:maxLength value="1476395008"/>
+</xsd:restriction>
+</xsd:simpleType>
+</xsd:element>
+<xsd:element name="s_Generation" minOccurs="0" od:jetType="longinteger" od:sqlSType="int" type="xsd:int"/>
+<xsd:element name="s_GUID" minOccurs="0" od:jetType="replicationid" od:sqlSType="uniqueidentifier" od:autoUnique="yes">
+<xsd:simpleType>
+<xsd:restriction base="xsd:string">
+<xsd:maxLength value="38"/>
+</xsd:restriction>
+</xsd:simpleType>
+</xsd:element>
+<xsd:element name="s_Lineage" minOccurs="0" od:jetType="oleobject" od:sqlSType="image">
+<xsd:simpleType>
+<xsd:restriction base="xsd:base64Binary">
+<xsd:maxLength value="1476395008"/>
+</xsd:restriction>
+</xsd:simpleType>
+</xsd:element>
+</xsd:sequence>
+</xsd:complexType>
+</xsd:element>
+</xsd:schema>

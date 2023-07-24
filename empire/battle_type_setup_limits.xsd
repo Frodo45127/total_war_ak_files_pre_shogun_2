@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:od="urn:schemas-microsoft-com:officedata">
+<xsd:element name="dataroot">
+<xsd:complexType>
+<xsd:sequence>
+<xsd:element ref="battle_type_setup_limits" minOccurs="0" maxOccurs="unbounded"/>
+</xsd:sequence>
+<xsd:attribute name="generated" type="xsd:dateTime"/>
+</xsd:complexType>
+</xsd:element>
+<xsd:element name="battle_type_setup_limits">
+<xsd:annotation>
+<xsd:appinfo/>
+</xsd:annotation>
+<xsd:complexType>
+<xsd:sequence>
+<xsd:element name="battle_type" minOccurs="1" od:jetType="text" od:sqlSType="nvarchar" od:nonNullable="yes">
+<xsd:simpleType>
+<xsd:restriction base="xsd:string">
+<xsd:maxLength value="255"/>
+</xsd:restriction>
+</xsd:simpleType>
+</xsd:element>
+<xsd:element name="weighting_type" minOccurs="1" od:jetType="text" od:sqlSType="nvarchar" od:nonNullable="yes">
+<xsd:simpleType>
+<xsd:restriction base="xsd:string">
+<xsd:maxLength value="255"/>
+</xsd:restriction>
+</xsd:simpleType>
+</xsd:element>
+<xsd:element name="army_size" minOccurs="0" od:jetType="text" od:sqlSType="nvarchar">
+<xsd:simpleType>
+<xsd:restriction base="xsd:string">
+<xsd:maxLength value="255"/>
+</xsd:restriction>
+</xsd:simpleType>
+</xsd:element>
+<xsd:element name="era" minOccurs="0" od:jetType="text" od:sqlSType="nvarchar">
+<xsd:simpleType>
+<xsd:restriction base="xsd:string">
+<xsd:maxLength value="255"/>
+</xsd:restriction>
+</xsd:simpleType>
+</xsd:element>
+<xsd:element name="max_infantry" minOccurs="1" od:jetType="longinteger" od:sqlSType="int" od:nonNullable="yes" type="xsd:int"/>
+<xsd:element name="max_cavalry" minOccurs="1" od:jetType="longinteger" od:sqlSType="int" od:nonNullable="yes" type="xsd:int"/>
+<xsd:element name="max_artillery" minOccurs="1" od:jetType="longinteger" od:sqlSType="int" od:nonNullable="yes" type="xsd:int"/>
+<xsd:element name="max_small_ship" minOccurs="1" od:jetType="longinteger" od:sqlSType="int" od:nonNullable="yes" type="xsd:int"/>
+<xsd:element name="max_frigate" minOccurs="1" od:jetType="longinteger" od:sqlSType="int" od:nonNullable="yes" type="xsd:int"/>
+<xsd:element name="max_line_of_battle" minOccurs="1" od:jetType="longinteger" od:sqlSType="int" od:nonNullable="yes" type="xsd:int"/>
+<xsd:element name="id" minOccurs="1" od:jetType="autonumber" od:sqlSType="int" od:autoUnique="yes" od:nonNullable="yes" type="xsd:int"/>
+<xsd:element name="s_ColLineage" minOccurs="0" od:jetType="oleobject" od:sqlSType="image">
+<xsd:simpleType>
+<xsd:restriction base="xsd:base64Binary">
+<xsd:maxLength value="1476395008"/>
+</xsd:restriction>
+</xsd:simpleType>
+</xsd:element>
+<xsd:element name="s_Generation" minOccurs="0" od:jetType="longinteger" od:sqlSType="int" type="xsd:int"/>
+<xsd:element name="s_GUID" minOccurs="0" od:jetType="replicationid" od:sqlSType="uniqueidentifier" od:autoUnique="yes">
+<xsd:simpleType>
+<xsd:restriction base="xsd:string">
+<xsd:maxLength value="38"/>
+</xsd:restriction>
+</xsd:simpleType>
+</xsd:element>
+<xsd:element name="s_Lineage" minOccurs="0" od:jetType="oleobject" od:sqlSType="image">
+<xsd:simpleType>
+<xsd:restriction base="xsd:base64Binary">
+<xsd:maxLength value="1476395008"/>
+</xsd:restriction>
+</xsd:simpleType>
+</xsd:element>
+</xsd:sequence>
+</xsd:complexType>
+</xsd:element>
+</xsd:schema>

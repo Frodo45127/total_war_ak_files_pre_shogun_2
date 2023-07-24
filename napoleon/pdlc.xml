@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="pdlc.xsd" generated="2010-04-26T10:18:01">
+<pdlc>
+<ID>pdlc_imperial_guard_pack</ID>
+<SteamID>34177</SteamID>
+<description>A brand new pack featuring 6 elite units from the Napoleonic Wars and an alternative Battle of Waterloo, fought from Wellington’s perspective. Each unit comes with their own unique combination of statistics and abilities, and can be used in both single and multiplayer.</description>
+<release_order>1</release_order>
+</pdlc>
+<pdlc>
+<ID>pdlc_coalition_pack</ID>
+<SteamID>34178</SteamID>
+<description>A brand new pack featuring 6 elite units from the Napoleonic Wars and the Battle of Friedland, fought by Russia and France. Each unit comes with their own unique statistics, and can be used in both single and multiplayer.</description>
+<release_order>2</release_order>
+</pdlc>
+<pdlc>
+<ID>pdlc_peninsular_war_campaign</ID>
+<SteamID>34179</SteamID>
+<description>A brand new campaign focusing on the Napoleonic invasion of Spain and Portugal and the British effort to expel France from the region. Features include new guerrilla and auxiliary battlefield units, new buildings, and three brand new agent types for use in the propaganda war.</description>
+<release_order>3</release_order>
+</pdlc>
+</dataroot>

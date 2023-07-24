@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="ministerial_position_default_names.xsd" generated="2009-01-19T17:19:33">
+<ministerial_position_default_names>
+<ministerial_position>governor_europe</ministerial_position>
+<gov_type>gov_absolute_monarchy</gov_type>
+<default_name>Governor of Europe</default_name>
+<s_ColLineage>kNOq8QEAAACQ06rxAQAAAJDTqvEBAAAA
+</s_ColLineage>
+<s_Generation>1</s_Generation>
+<s_GUID>{53136BFB-8B6D-4267-9DDF-342842504C33}</s_GUID>
+<s_Lineage>kNOq8QEAAAAAAAAAAAAAAA==
+</s_Lineage>
+</ministerial_position_default_names>
+<ministerial_position_default_names>
+<ministerial_position>governor_europe</ministerial_position>
+<gov_type>gov_constitutional_monarchy</gov_type>
+<default_name>Governor of Europe</default_name>
+<s_ColLineage>kNOq8QEAAACQ06rxAQAAAJDTqvEBAAAA
+</s_ColLineage>
+<s_Generation>1</s_Generation>
+<s_GUID>{6D3C93E8-BC00-4F44-8069-B897178EE76D}</s_GUID>
+<s_Lineage>kNOq8QEAAAAAAAAAAAAAAA==
+</s_Lineage>
+</ministerial_position_default_names>
+<ministerial_position_default_names>
+<ministerial_position>governor_europe</ministerial_position>
+<gov_type>gov_republic</gov_type>
+<default_name>Governor of Europe</default_name>
+<s_ColLineage>kNOq8QEAAACQ06rxAQAAAJDTqvEBAAAA
+</s_ColLineage>
+<s_Generation>1</s_Generation>
+<s_GUID>{C40AB23B-8526-4E56-9CA4-7E3ECB7C261B}</s_GUID>
+<s_Lineage>kNOq8QEAAAAAAAAAAAAAAA==
+</s_Lineage>
+</ministerial_position_default_names>
+</dataroot>

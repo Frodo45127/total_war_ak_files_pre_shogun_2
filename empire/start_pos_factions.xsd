@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:od="urn:schemas-microsoft-com:officedata">
+<xsd:element name="dataroot">
+<xsd:complexType>
+<xsd:sequence>
+<xsd:element ref="start_pos_factions" minOccurs="0" maxOccurs="unbounded"/>
+</xsd:sequence>
+<xsd:attribute name="generated" type="xsd:dateTime"/>
+</xsd:complexType>
+</xsd:element>
+<xsd:element name="start_pos_factions">
+<xsd:annotation>
+<xsd:appinfo>
+<od:index index-name="PrimaryKey" index-key="ID " primary="yes" unique="yes" clustered="no"/>
+<od:index index-name="s_GUID" index-key="s_GUID " primary="no" unique="yes" clustered="no"/>
+<od:index index-name="campaign_ai_managersstart_pos_factions" index-key="ai_manager " primary="no" unique="no" clustered="no"/>
+<od:index index-name="campaign_ai_personalitiesstart_pos_factions" index-key="ai_personality " primary="no" unique="no" clustered="no"/>
+<od:index index-name="factionsstart_pos_factions" index-key="faction " primary="no" unique="no" clustered="no"/>
+<od:index index-name="government_typesstart_pos_factions" index-key="government_type " primary="no" unique="no" clustered="no"/>
+<od:index index-name="ID" index-key="ID " primary="no" unique="no" clustered="no"/>
+<od:index index-name="religionsstart_pos_factions" index-key="state_religion " primary="no" unique="no" clustered="no"/>
+<od:index index-name="s_Generation" index-key="s_Generation " primary="no" unique="no" clustered="no"/>
+<od:index index-name="start_pos_calendarsstart_pos_factions" index-key="campaign " primary="no" unique="no" clustered="no"/>
+</xsd:appinfo>
+</xsd:annotation>
+<xsd:complexType>
+<xsd:sequence>
+<xsd:element name="ID" minOccurs="1" od:jetType="autonumber" od:sqlSType="int" od:autoUnique="yes" od:nonNullable="yes" type="xsd:int"/>
+<xsd:element name="faction" minOccurs="0" od:jetType="text" od:sqlSType="nvarchar">
+<xsd:simpleType>
+<xsd:restriction base="xsd:string">
+<xsd:maxLength value="50"/>
+</xsd:restriction>
+</xsd:simpleType>
+</xsd:element>
+<xsd:element name="campaign" minOccurs="0" od:jetType="text" od:sqlSType="nvarchar">
+<xsd:simpleType>
+<xsd:restriction base="xsd:string">
+<xsd:maxLength value="50"/>
+</xsd:restriction>
+</xsd:simpleType>
+</xsd:element>
+<xsd:element name="playable" minOccurs="1" od:jetType="yesno" od:sqlSType="bit" od:nonNullable="yes" type="xsd:boolean"/>
+<xsd:element name="treasury" minOccurs="0" od:jetType="longinteger" od:sqlSType="int" type="xsd:int"/>
+<xsd:element name="starting_order" minOccurs="0" od:jetType="longinteger" od:sqlSType="int" type="xsd:int"/>
+<xsd:element name="government_type" minOccurs="0" od:jetType="text" od:sqlSType="nvarchar">
+<xsd:simpleType>
+<xsd:restriction base="xsd:string">
+<xsd:maxLength value="50"/>
+</xsd:restriction>
+</xsd:simpleType>
+</xsd:element>
+<xsd:element name="state_religion" minOccurs="0" od:jetType="text" od:sqlSType="nvarchar">
+<xsd:simpleType>
+<xsd:restriction base="xsd:string">
+<xsd:maxLength value="50"/>
+</xsd:restriction>
+</xsd:simpleType>
+</xsd:element>
+<xsd:element name="is_major" minOccurs="1" od:jetType="yesno" od:sqlSType="bit" od:nonNullable="yes" type="xsd:boolean"/>
+<xsd:element name="description" minOccurs="0" od:jetType="memo" od:sqlSType="ntext">
+<xsd:simpleType>
+<xsd:restriction base="xsd:string">
+<xsd:maxLength value="536870910"/>
+</xsd:restriction>
+</xsd:simpleType>
+</xsd:element>
+<xsd:element name="difficulty" minOccurs="0" od:jetType="text" od:sqlSType="nvarchar">
+<xsd:simpleType>
+<xsd:restriction base="xsd:string">
+<xsd:maxLength value="255"/>
+</xsd:restriction>
+</xsd:simpleType>
+</xsd:element>
+<xsd:element name="ai_manager" minOccurs="0" od:jetType="text" od:sqlSType="nvarchar">
+<xsd:simpleType>
+<xsd:restriction base="xsd:string">
+<xsd:maxLength value="255"/>
+</xsd:restriction>
+</xsd:simpleType>
+</xsd:element>
+<xsd:element name="ai_personality" minOccurs="0" od:jetType="text" od:sqlSType="nvarchar">
+<xsd:simpleType>
+<xsd:restriction base="xsd:string">
+<xsd:maxLength value="255"/>
+</xsd:restriction>
+</xsd:simpleType>
+</xsd:element>
+<xsd:element name="victory_region_count" minOccurs="0" od:jetType="longinteger" od:sqlSType="int" type="xsd:int"/>
+<xsd:element name="Gen_TempField_x002A_0" minOccurs="0" od:jetType="longinteger" od:sqlSType="int" type="xsd:int"/>
+<xsd:element name="s_ColLineage" minOccurs="0" od:jetType="oleobject" od:sqlSType="image">
+<xsd:simpleType>
+<xsd:restriction base="xsd:base64Binary">
+<xsd:maxLength value="1476395008"/>
+</xsd:restriction>
+</xsd:simpleType>
+</xsd:element>
+<xsd:element name="s_Generation" minOccurs="0" od:jetType="longinteger" od:sqlSType="int" type="xsd:int"/>
+<xsd:element name="s_GUID" minOccurs="0" od:jetType="replicationid" od:sqlSType="uniqueidentifier" od:autoUnique="yes">
+<xsd:simpleType>
+<xsd:restriction base="xsd:string">
+<xsd:maxLength value="38"/>
+</xsd:restriction>
+</xsd:simpleType>
+</xsd:element>
+<xsd:element name="s_Lineage" minOccurs="0" od:jetType="oleobject" od:sqlSType="image">
+<xsd:simpleType>
+<xsd:restriction base="xsd:base64Binary">
+<xsd:maxLength value="1476395008"/>
+</xsd:restriction>
+</xsd:simpleType>
+</xsd:element>
+</xsd:sequence>
+</xsd:complexType>
+</xsd:element>
+</xsd:schema>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="campaign_ai_personalities.xsd" generated="2010-05-26T17:04:28">
+<campaign_ai_personalities>
+<personality>default</personality>
+<is_default>1</is_default>
+<s_ColLineage>kNOq8QIAAACQ06rxAgAAAJDTqvEBAAAA
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{8239EE2E-F906-4FC9-921E-13AA51FC55BB}</s_GUID>
+<s_Lineage>kNOq8QIAAAAAAAAAAAAAAA==
+</s_Lineage>
+</campaign_ai_personalities>
+<campaign_ai_personalities>
+<personality>eur_france</personality>
+<is_default>0</is_default>
+<s_ColLineage>W4e7tQIAAABbh7u1AgAAAFuHu7UBAAAA
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{05F37AF4-E1AA-4892-A42E-95FB5AF4AF0A}</s_GUID>
+<s_Lineage>W4e7tQIAAAAAAAAAAAAAAA==
+</s_Lineage>
+</campaign_ai_personalities>
+<campaign_ai_personalities>
+<personality>spa_spender</personality>
+<is_default>0</is_default>
+<s_ColLineage>arltagIAAABquW1qAgAAAGq5bWoBAAAA
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{D01243B3-B568-4A18-BED8-9F13AFD2A5D9}</s_GUID>
+<s_Lineage>arltagIAAAAAAAAAAAAAAA==
+</s_Lineage>
+</campaign_ai_personalities>
+</dataroot>

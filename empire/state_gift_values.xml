@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="state_gift_values.xsd" generated="2008-09-02T20:38:03">
+<state_gift_values>
+<key>state_gift_0</key>
+<value>2500</value>
+<s_ColLineage>kNOq8QIAAACQ06rxBAAAAA==
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{E71D90BB-F904-47E1-99AE-7F9112402D50}</s_GUID>
+<s_Lineage>kNOq8QQAAAAAAAAAAAAAAA==
+</s_Lineage>
+</state_gift_values>
+<state_gift_values>
+<key>state_gift_1</key>
+<value>5000</value>
+<s_ColLineage>kNOq8QIAAACQ06rxAgAAAA==
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{F9D2F04D-5EE1-4DD2-B47D-E2E8DE3A4BDA}</s_GUID>
+<s_Lineage>kNOq8QIAAAAAAAAAAAAAAA==
+</s_Lineage>
+</state_gift_values>
+<state_gift_values>
+<key>state_gift_2</key>
+<value>10000</value>
+<s_ColLineage>kNOq8QIAAACQ06rxAgAAAA==
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{6FAF0BEC-A69B-46A0-BF52-F87BD186357E}</s_GUID>
+<s_Lineage>kNOq8QIAAAAAAAAAAAAAAA==
+</s_Lineage>
+</state_gift_values>
+</dataroot>

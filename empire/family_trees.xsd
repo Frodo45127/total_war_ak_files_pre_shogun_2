@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:od="urn:schemas-microsoft-com:officedata">
+<xsd:element name="dataroot">
+<xsd:complexType>
+<xsd:sequence>
+<xsd:element ref="family_trees" minOccurs="0" maxOccurs="unbounded"/>
+</xsd:sequence>
+<xsd:attribute name="generated" type="xsd:dateTime"/>
+</xsd:complexType>
+</xsd:element>
+<xsd:element name="family_trees">
+<xsd:annotation>
+<xsd:appinfo/>
+</xsd:annotation>
+<xsd:complexType>
+<xsd:sequence>
+<xsd:element name="key" minOccurs="1" od:jetType="text" od:sqlSType="nvarchar" od:nonNullable="yes">
+<xsd:simpleType>
+<xsd:restriction base="xsd:string">
+<xsd:maxLength value="255"/>
+</xsd:restriction>
+</xsd:simpleType>
+</xsd:element>
+<xsd:element name="on_screen_name" minOccurs="1" od:jetType="text" od:sqlSType="nvarchar" od:nonNullable="yes">
+<xsd:simpleType>
+<xsd:restriction base="xsd:string">
+<xsd:maxLength value="255"/>
+</xsd:restriction>
+</xsd:simpleType>
+</xsd:element>
+<xsd:element name="category" minOccurs="1" od:jetType="text" od:sqlSType="nvarchar" od:nonNullable="yes">
+<xsd:simpleType>
+<xsd:restriction base="xsd:string">
+<xsd:maxLength value="255"/>
+</xsd:restriction>
+</xsd:simpleType>
+</xsd:element>
+<xsd:element name="faction" minOccurs="1" od:jetType="text" od:sqlSType="nvarchar" od:nonNullable="yes">
+<xsd:simpleType>
+<xsd:restriction base="xsd:string">
+<xsd:maxLength value="255"/>
+</xsd:restriction>
+</xsd:simpleType>
+</xsd:element>
+<xsd:element name="required_parent" minOccurs="1" od:jetType="text" od:sqlSType="nvarchar" od:nonNullable="yes">
+<xsd:simpleType>
+<xsd:restriction base="xsd:string">
+<xsd:maxLength value="255"/>
+</xsd:restriction>
+</xsd:simpleType>
+</xsd:element>
+<xsd:element name="birth_priority" minOccurs="1" od:jetType="double" od:sqlSType="float" od:nonNullable="yes" type="xsd:double"/>
+<xsd:element name="birth_window_start" minOccurs="1" od:jetType="integer" od:sqlSType="smallint" od:nonNullable="yes" type="xsd:short"/>
+<xsd:element name="birth_window_end" minOccurs="1" od:jetType="integer" od:sqlSType="smallint" od:nonNullable="yes" type="xsd:short"/>
+<xsd:element name="other_spawn_conditions_1" minOccurs="1" od:jetType="text" od:sqlSType="nvarchar" od:nonNullable="yes">
+<xsd:simpleType>
+<xsd:restriction base="xsd:string">
+<xsd:maxLength value="50"/>
+</xsd:restriction>
+</xsd:simpleType>
+</xsd:element>
+<xsd:element name="other_spawn_conditions_2" minOccurs="1" od:jetType="text" od:sqlSType="nvarchar" od:nonNullable="yes">
+<xsd:simpleType>
+<xsd:restriction base="xsd:string">
+<xsd:maxLength value="50"/>
+</xsd:restriction>
+</xsd:simpleType>
+</xsd:element>
+<xsd:element name="other_spawn_conditions_3" minOccurs="1" od:jetType="text" od:sqlSType="nvarchar" od:nonNullable="yes">
+<xsd:simpleType>
+<xsd:restriction base="xsd:string">
+<xsd:maxLength value="50"/>
+</xsd:restriction>
+</xsd:simpleType>
+</xsd:element>
+<xsd:element name="trait_1" minOccurs="1" od:jetType="text" od:sqlSType="nvarchar" od:nonNullable="yes">
+<xsd:simpleType>
+<xsd:restriction base="xsd:string">
+<xsd:maxLength value="50"/>
+</xsd:restriction>
+</xsd:simpleType>
+</xsd:element>
+<xsd:element name="trait_2" minOccurs="1" od:jetType="text" od:sqlSType="nvarchar" od:nonNullable="yes">
+<xsd:simpleType>
+<xsd:restriction base="xsd:string">
+<xsd:maxLength value="50"/>
+</xsd:restriction>
+</xsd:simpleType>
+</xsd:element>
+<xsd:element name="trait_3" minOccurs="1" od:jetType="text" od:sqlSType="nvarchar" od:nonNullable="yes">
+<xsd:simpleType>
+<xsd:restriction base="xsd:string">
+<xsd:maxLength value="50"/>
+</xsd:restriction>
+</xsd:simpleType>
+</xsd:element>
+<xsd:element name="trait_4" minOccurs="1" od:jetType="text" od:sqlSType="nvarchar" od:nonNullable="yes">
+<xsd:simpleType>
+<xsd:restriction base="xsd:string">
+<xsd:maxLength value="50"/>
+</xsd:restriction>
+</xsd:simpleType>
+</xsd:element>
+<xsd:element name="trait_5" minOccurs="1" od:jetType="text" od:sqlSType="nvarchar" od:nonNullable="yes">
+<xsd:simpleType>
+<xsd:restriction base="xsd:string">
+<xsd:maxLength value="50"/>
+</xsd:restriction>
+</xsd:simpleType>
+</xsd:element>
+<xsd:element name="ancillary_1" minOccurs="1" od:jetType="text" od:sqlSType="nvarchar" od:nonNullable="yes">
+<xsd:simpleType>
+<xsd:restriction base="xsd:string">
+<xsd:maxLength value="50"/>
+</xsd:restriction>
+</xsd:simpleType>
+</xsd:element>
+<xsd:element name="ancillary_2" minOccurs="1" od:jetType="text" od:sqlSType="nvarchar" od:nonNullable="yes">
+<xsd:simpleType>
+<xsd:restriction base="xsd:string">
+<xsd:maxLength value="50"/>
+</xsd:restriction>
+</xsd:simpleType>
+</xsd:element>
+<xsd:element name="ancillary_3" minOccurs="1" od:jetType="text" od:sqlSType="nvarchar" od:nonNullable="yes">
+<xsd:simpleType>
+<xsd:restriction base="xsd:string">
+<xsd:maxLength value="50"/>
+</xsd:restriction>
+</xsd:simpleType>
+</xsd:element>
+<xsd:element name="ancillary_4" minOccurs="1" od:jetType="text" od:sqlSType="nvarchar" od:nonNullable="yes">
+<xsd:simpleType>
+<xsd:restriction base="xsd:string">
+<xsd:maxLength value="50"/>
+</xsd:restriction>
+</xsd:simpleType>
+</xsd:element>
+<xsd:element name="ancillary_5" minOccurs="1" od:jetType="text" od:sqlSType="nvarchar" od:nonNullable="yes">
+<xsd:simpleType>
+<xsd:restriction base="xsd:string">
+<xsd:maxLength value="50"/>
+</xsd:restriction>
+</xsd:simpleType>
+</xsd:element>
+<xsd:element name="gender" minOccurs="0" od:jetType="text" od:sqlSType="nvarchar">
+<xsd:simpleType>
+<xsd:restriction base="xsd:string">
+<xsd:maxLength value="50"/>
+</xsd:restriction>
+</xsd:simpleType>
+</xsd:element>
+<xsd:element name="s_ColLineage" minOccurs="0" od:jetType="oleobject" od:sqlSType="image">
+<xsd:simpleType>
+<xsd:restriction base="xsd:base64Binary">
+<xsd:maxLength value="1476395008"/>
+</xsd:restriction>
+</xsd:simpleType>
+</xsd:element>
+<xsd:element name="s_Generation" minOccurs="0" od:jetType="longinteger" od:sqlSType="int" type="xsd:int"/>
+<xsd:element name="s_GUID" minOccurs="0" od:jetType="replicationid" od:sqlSType="uniqueidentifier" od:autoUnique="yes">
+<xsd:simpleType>
+<xsd:restriction base="xsd:string">
+<xsd:maxLength value="38"/>
+</xsd:restriction>
+</xsd:simpleType>
+</xsd:element>
+<xsd:element name="s_Lineage" minOccurs="0" od:jetType="oleobject" od:sqlSType="image">
+<xsd:simpleType>
+<xsd:restriction base="xsd:base64Binary">
+<xsd:maxLength value="1476395008"/>
+</xsd:restriction>
+</xsd:simpleType>
+</xsd:element>
+</xsd:sequence>
+</xsd:complexType>
+</xsd:element>
+</xsd:schema>

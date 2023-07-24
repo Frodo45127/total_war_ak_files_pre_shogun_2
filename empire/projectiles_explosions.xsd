@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:od="urn:schemas-microsoft-com:officedata">
+<xsd:element name="dataroot">
+<xsd:complexType>
+<xsd:sequence>
+<xsd:element ref="projectiles_explosions" minOccurs="0" maxOccurs="unbounded"/>
+</xsd:sequence>
+<xsd:attribute name="generated" type="xsd:dateTime"/>
+</xsd:complexType>
+</xsd:element>
+<xsd:element name="projectiles_explosions">
+<xsd:annotation>
+<xsd:appinfo/>
+</xsd:annotation>
+<xsd:complexType>
+<xsd:sequence>
+<xsd:element name="key" minOccurs="1" od:jetType="text" od:sqlSType="nvarchar" od:nonNullable="yes">
+<xsd:simpleType>
+<xsd:restriction base="xsd:string">
+<xsd:maxLength value="50"/>
+</xsd:restriction>
+</xsd:simpleType>
+</xsd:element>
+<xsd:element name="detonator_type" minOccurs="1" od:jetType="text" od:sqlSType="nvarchar" od:nonNullable="yes">
+<xsd:simpleType>
+<xsd:restriction base="xsd:string">
+<xsd:maxLength value="50"/>
+</xsd:restriction>
+</xsd:simpleType>
+</xsd:element>
+<xsd:element name="detonation_type" minOccurs="1" od:jetType="text" od:sqlSType="nvarchar" od:nonNullable="yes">
+<xsd:simpleType>
+<xsd:restriction base="xsd:string">
+<xsd:maxLength value="50"/>
+</xsd:restriction>
+</xsd:simpleType>
+</xsd:element>
+<xsd:element name="detonation_radius" minOccurs="1" od:jetType="longinteger" od:sqlSType="int" od:nonNullable="yes" type="xsd:int"/>
+<xsd:element name="detonation_duration" minOccurs="1" od:jetType="single" od:sqlSType="real" od:nonNullable="yes" type="xsd:float"/>
+<xsd:element name="detonation_speed" minOccurs="1" od:jetType="longinteger" od:sqlSType="int" od:nonNullable="yes" type="xsd:int"/>
+<xsd:element name="detonation_damage" minOccurs="1" od:jetType="single" od:sqlSType="real" od:nonNullable="yes" type="xsd:float"/>
+<xsd:element name="particle_type" minOccurs="1" od:jetType="text" od:sqlSType="nvarchar" od:nonNullable="yes">
+<xsd:simpleType>
+<xsd:restriction base="xsd:string">
+<xsd:maxLength value="50"/>
+</xsd:restriction>
+</xsd:simpleType>
+</xsd:element>
+<xsd:element name="particle_number" minOccurs="1" od:jetType="longinteger" od:sqlSType="int" od:nonNullable="yes" type="xsd:int"/>
+<xsd:element name="explosion_particle_effect" minOccurs="0" od:jetType="text" od:sqlSType="nvarchar">
+<xsd:simpleType>
+<xsd:restriction base="xsd:string">
+<xsd:maxLength value="50"/>
+</xsd:restriction>
+</xsd:simpleType>
+</xsd:element>
+<xsd:element name="distance_from_target" minOccurs="1" od:jetType="longinteger" od:sqlSType="int" od:nonNullable="yes" type="xsd:int"/>
+<xsd:element name="error_margin" minOccurs="1" od:jetType="double" od:sqlSType="float" od:nonNullable="yes" type="xsd:double"/>
+<xsd:element name="non_lethal_detonation" minOccurs="1" od:jetType="yesno" od:sqlSType="bit" od:nonNullable="yes" type="xsd:boolean"/>
+<xsd:element name="s_ColLineage" minOccurs="0" od:jetType="oleobject" od:sqlSType="image">
+<xsd:simpleType>
+<xsd:restriction base="xsd:base64Binary">
+<xsd:maxLength value="1476395008"/>
+</xsd:restriction>
+</xsd:simpleType>
+</xsd:element>
+<xsd:element name="s_Generation" minOccurs="0" od:jetType="longinteger" od:sqlSType="int" type="xsd:int"/>
+<xsd:element name="s_GUID" minOccurs="0" od:jetType="replicationid" od:sqlSType="uniqueidentifier" od:autoUnique="yes">
+<xsd:simpleType>
+<xsd:restriction base="xsd:string">
+<xsd:maxLength value="38"/>
+</xsd:restriction>
+</xsd:simpleType>
+</xsd:element>
+<xsd:element name="s_Lineage" minOccurs="0" od:jetType="oleobject" od:sqlSType="image">
+<xsd:simpleType>
+<xsd:restriction base="xsd:base64Binary">
+<xsd:maxLength value="1476395008"/>
+</xsd:restriction>
+</xsd:simpleType>
+</xsd:element>
+<xsd:element name="project_specific" minOccurs="0" od:jetType="longinteger" od:sqlSType="int" type="xsd:int"/>
+</xsd:sequence>
+</xsd:complexType>
+</xsd:element>
+</xsd:schema>

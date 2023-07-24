@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot>
+<warscape_naval_lod>
+<key>-1971882272</key>
+<filename>RigidModels\naval\merchant_64\ship.rigid_naval_model</filename>
+<range>0</range>
+<naval>merchant_64</naval>
+<s_ColLineage>112</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{guid {3D1E8F56-28C8-494D-B6F5-9B73D8A000EF}}</s_GUID>
+<s_Lineage>112</s_Lineage>
+</warscape_naval_lod>
+<warscape_naval_lod>
+<key>-1924786704</key>
+<filename>RigidModels\naval\1deck24\ship.rigid_naval_model</filename>
+<range>0</range>
+<naval>1deck24</naval>
+<s_ColLineage>112</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{guid {B04D074B-4E7D-4B4E-8B6A-ABF95D536503}}</s_GUID>
+<s_Lineage>112</s_Lineage>
+</warscape_naval_lod>
+<warscape_naval_lod>
+<key>-1825162205</key>
+<filename>RigidModels\naval\1deck32\ship.rigid_naval_model</filename>
+<range>0</range>
+<naval>1deck32</naval>
+<s_ColLineage>112</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{guid {0274F6FB-74D5-453A-A999-B98A754E2EAD}}</s_GUID>
+<s_Lineage>112</s_Lineage>
+</warscape_naval_lod>
+<warscape_naval_lod>
+<key>-1611082516</key>
+<filename>RigidModels\naval\sloop\ship.rigid_naval_model</filename>
+<range>0</range>
+<naval>sloop</naval>
+<s_ColLineage>112</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{guid {09BEEC9F-FF55-4F89-9688-B0149E132913}}</s_GUID>
+<s_Lineage>112</s_Lineage>
+</warscape_naval_lod>
+<warscape_naval_lod>
+<key>-1082240321</key>
+<filename>RigidModels\naval\dhow\ship.rigid_naval_model</filename>
+<range>0</range>
+<naval>dhow</naval>
+<s_ColLineage>112</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{guid {048DE3F5-FB26-4F6A-9074-377E17307CEF}}</s_GUID>
+<s_Lineage>112</s_Lineage>
+</warscape_naval_lod>
+<warscape_naval_lod>
+<key>-871305609</key>
+<filename>RigidModels\naval\rocket_ship\ship.rigid_naval_model</filename>
+<range>0</range>
+<naval>rocket_ship</naval>
+<s_ColLineage>112</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{guid {B8F9FAA4-E0B2-40E6-9333-783E9D6E9DDB}}</s_GUID>
+<s_Lineage>112</s_Lineage>
+</warscape_naval_lod>
+<warscape_naval_lod>
+<key>-21798282</key>
+<filename>RigidModels\naval\brig\ship.rigid_naval_model</filename>
+<range>0</range>
+<naval>brig</naval>
+<s_ColLineage>112</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{guid {32878089-D083-4424-B131-AFD422456967}}</s_GUID>
+<s_Lineage>112</s_Lineage>
+</warscape_naval_lod>
+<warscape_naval_lod>
+<key>-2962557</key>
+<filename>RigidModels\naval\3deck98\ship.rigid_naval_model</filename>
+<range>0</range>
+<naval>3deck98</naval>
+<s_ColLineage>112</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{guid {1E3A8038-C0D8-4C0A-A7C1-8B07AA12003D}}</s_GUID>
+<s_Lineage>112</s_Lineage>
+</warscape_naval_lod>
+<warscape_naval_lod>
+<key>421346261</key>
+<filename>RigidModels\naval\2deck74\ship.rigid_naval_model</filename>
+<range>0</range>
+<naval>2deck74</naval>
+<s_ColLineage>112</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{guid {041927A9-4945-4FD5-AE58-E1EF33DF4577}}</s_GUID>
+<s_Lineage>112</s_Lineage>
+</warscape_naval_lod>
+<warscape_naval_lod>
+<key>606442245</key>
+<filename>RigidModels\naval\galley\ship.rigid_naval_model</filename>
+<range>0</range>
+<naval>galley</naval>
+<s_ColLineage>112</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{guid {262E903C-4CB0-44E9-B49E-3EB827423402}}</s_GUID>
+<s_Lineage>112</s_Lineage>
+</warscape_naval_lod>
+<warscape_naval_lod>
+<key>769964046</key>
+<filename>RigidModels\naval\razee44\ship.rigid_naval_model</filename>
+<range>0</range>
+<naval>razee44</naval>
+<s_ColLineage>112</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{guid {F0AA69D6-6776-4367-88EE-0B7022389FB0}}</s_GUID>
+<s_Lineage>112</s_Lineage>
+</warscape_naval_lod>
+<warscape_naval_lod>
+<key>1047411211</key>
+<filename>RigidModels\naval\3deck100\ship.rigid_naval_model</filename>
+<range>0</range>
+<naval>3deck100</naval>
+<s_ColLineage>112</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{guid {134421CC-4F57-44E0-B7CD-83AD8D9DD049}}</s_GUID>
+<s_Lineage>112</s_Lineage>
+</warscape_naval_lod>
+<warscape_naval_lod>
+<key>1260799150</key>
+<filename>RigidModels\naval\4deck140\ship.rigid_naval_model</filename>
+<range>0</range>
+<naval>4deck140</naval>
+<s_ColLineage>112</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{guid {FAB2979A-6584-4B15-9778-3F587C022458}}</s_GUID>
+<s_Lineage>112</s_Lineage>
+</warscape_naval_lod>
+<warscape_naval_lod>
+<key>-588355945</key>
+<filename>RigidModels\naval\4deck120\ship.rigid_naval_model</filename>
+<range>0</range>
+<naval>4deck120</naval>
+<s_ColLineage>112</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{guid {9F2074A9-3E6F-4A96-9720-65E429E707C5}}</s_GUID>
+<s_Lineage>112</s_Lineage>
+</warscape_naval_lod>
+<warscape_naval_lod>
+<key>-120343924</key>
+<filename>RigidModels\naval\2deck80_steam\ship.rigid_naval_model</filename>
+<range>0</range>
+<naval>2deck80_steam</naval>
+<s_ColLineage>8</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{guid {5200C4B5-412B-4C1E-A3BC-9D48D0FA4DAA}}</s_GUID>
+<s_Lineage>8</s_Lineage>
+</warscape_naval_lod>
+<warscape_naval_lod>
+<key>-694146403</key>
+<filename>RigidModels\naval\1deck38_steam\ship.rigid_naval_model</filename>
+<range>0</range>
+<naval>1deck38_steam</naval>
+<s_ColLineage>8</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{guid {77F07CA1-17A8-4CE0-AE74-686A48941EDD}}</s_GUID>
+<s_Lineage>8</s_Lineage>
+</warscape_naval_lod>
+<warscape_naval_lod>
+<key>-156202086</key>
+<filename>RigidModels\naval\1deck38\ship.rigid_naval_model</filename>
+<range>0</range>
+<naval>1deck38</naval>
+<s_ColLineage>8</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{guid {8193A3F3-9042-4340-A905-0AC2F5AEBF27}}</s_GUID>
+<s_Lineage>8</s_Lineage>
+</warscape_naval_lod>
+<warscape_naval_lod>
+<key>1593107987</key>
+<filename>RigidModels\naval\2deck80\ship.rigid_naval_model</filename>
+<range>0</range>
+<naval>2deck80</naval>
+<s_ColLineage>8</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{guid {FA7AC05C-817A-48C1-8D59-015920665948}}</s_GUID>
+<s_Lineage>8</s_Lineage>
+</warscape_naval_lod>
+<warscape_naval_lod>
+<key>495027032</key>
+<filename>RigidModels\naval\steam_frigate\ship.rigid_naval_model</filename>
+<range>0</range>
+<naval>steam_frigate</naval>
+<s_ColLineage>8</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{guid {2781B03A-4208-4D44-8D1B-CAD0E19F92E2}}</s_GUID>
+<s_Lineage>8</s_Lineage>
+</warscape_naval_lod>
+<warscape_naval_lod>
+<key>-1446697351</key>
+<filename>RigidModels\naval\2deck64\ship.rigid_naval_model</filename>
+<range>0</range>
+<naval>2deck64</naval>
+<s_ColLineage>8</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{guid {2799786E-EE49-45BC-8EFF-1E31B02C2DF3}}</s_GUID>
+<s_Lineage>8</s_Lineage>
+</warscape_naval_lod>
+<warscape_naval_lod>
+<key>-109545146</key>
+<filename>RigidModels\naval\bomb_ketch\ship.rigid_naval_model</filename>
+<range>0</range>
+<naval>bomb_ketch</naval>
+<s_ColLineage>8</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{guid {A4015559-0D2C-4178-A2F1-6A6103660AFD}}</s_GUID>
+<s_Lineage>8</s_Lineage>
+</warscape_naval_lod>
+<warscape_naval_lod>
+<key>1250765945</key>
+<filename>RigidModels\naval\hms_elephant\ship.rigid_naval_model</filename>
+<range>0</range>
+<naval>hms_elephant</naval>
+<s_ColLineage>8</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{guid {3D51C181-D943-4840-92B4-E7749D650284}}</s_GUID>
+<s_Lineage>8</s_Lineage>
+</warscape_naval_lod>
+<warscape_naval_lod>
+<key>-1969081009</key>
+<filename>RigidModels\naval\2deck80_ironclad\ship.rigid_naval_model</filename>
+<range>0</range>
+<naval>2deck80_ironclad</naval>
+<s_ColLineage>80</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{guid {BA404873-269D-4F1E-98E0-7FAAD00B633C}}</s_GUID>
+<s_Lineage>80</s_Lineage>
+</warscape_naval_lod>
+<warscape_naval_lod>
+<key>589846756</key>
+<filename>RigidModels\naval\2deck58\ship.rigid_naval_model</filename>
+<range>0</range>
+<naval>2deck58</naval>
+<s_ColLineage>80</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{guid {D8E46B73-3E43-4968-971B-FE33DDA94C01}}</s_GUID>
+<s_Lineage>80</s_Lineage>
+</warscape_naval_lod>
+<warscape_naval_lod>
+<key>854882325</key>
+<filename>RigidModels\naval\3deck80\ship.rigid_naval_model</filename>
+<range>0</range>
+<naval>3deck80</naval>
+<s_ColLineage>80</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{guid {55846C92-492E-48E9-9111-8BBA9055F805}}</s_GUID>
+<s_Lineage>80</s_Lineage>
+</warscape_naval_lod>
+<warscape_naval_lod>
+<key>-182715982</key>
+<filename>RigidModels\naval\2deck50\ship.rigid_naval_model</filename>
+<range>0</range>
+<naval>2deck50</naval>
+<s_ColLineage>80</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{guid {9E55F1C6-6965-43B7-A1DD-AE5B6396CCDC}}</s_GUID>
+<s_Lineage>80</s_Lineage>
+</warscape_naval_lod>
+</dataroot>

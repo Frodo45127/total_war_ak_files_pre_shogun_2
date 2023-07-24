@@ -1,0 +1,2252 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GroupFormationTable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="GroupFormation.xsd">
+
+	<GroupFormation FormationName="Multiple Selection Drag Out Land">
+
+		<AiPriority>0.0</AiPriority>
+		<AiPurpose>Attack</AiPurpose>
+
+		<GroupFormationBlock BlockId="0">
+			<ContainerAbsolute BlockPriority="2.0" EntityArrangement="Line" InterEntitySpacing="2.0" PositionX="0.0" PositionY="0.0">
+				<EntityPreference Priority="1.0" EntityDescription="any"/>
+			</ContainerAbsolute>
+		</GroupFormationBlock>
+	</GroupFormation>
+  
+	<GroupFormation FormationName="Single Line Standard">
+	
+		<AiPriority>0.9</AiPriority>
+		<AiPurpose>Attack</AiPurpose>
+		<AiPurpose>Defend</AiPurpose>
+		
+		<GroupFormationBlock BlockId="0">
+			<ContainerAbsolute BlockPriority="2.0" EntityArrangement="Line" InterEntitySpacing="2.0" PositionX="0.0" PositionY="0.0">
+				<EntityPreference Priority="1.0" EntityDescription="infantry_elite"/>
+				<EntityPreference Priority="1.0" EntityDescription="infantry_grenadiers"/>
+				<EntityPreference Priority="1.0" EntityDescription="infantry_line"/>
+				<EntityPreference Priority="1.0" EntityDescription="infantry_melee"/>
+				<EntityPreference Priority="1.0" EntityDescription="infantry_berserker"/>
+				<EntityPreference Priority="0.7" EntityDescription="infantry_militia"/>
+				<EntityPreference Priority="0.6" EntityDescription="infantry_mob"/>		
+			</ContainerAbsolute>
+		</GroupFormationBlock>
+		<GroupFormationBlock BlockId="1">
+			<ContainerRelative BlockPriority="1.0" EntityArrangement="Line" InterEntitySpacing="6.0" RelativeBlockId="0" PositionX="-5.0" PositionY="0.0">
+				<EntityPreference Priority="1.0" EntityDescription="artillery_fixed"/>
+				<EntityPreference Priority="1.0" EntityDescription="artillery_foot"/>
+				<EntityPreference Priority="1.0" EntityDescription="artillery_horse"/>
+			</ContainerRelative>
+		</GroupFormationBlock>
+		<GroupFormationBlock BlockId="2">
+			<ContainerRelative BlockPriority="1.0" EntityArrangement="Line" InterEntitySpacing="6.0" RelativeBlockId="0" PositionX="5.0" PositionY="0.0">
+				<EntityPreference Priority="1.0" EntityDescription="artillery_fixed"/>
+				<EntityPreference Priority="1.0" EntityDescription="artillery_foot"/>
+				<EntityPreference Priority="1.0" EntityDescription="artillery_horse"/>
+			</ContainerRelative>
+		</GroupFormationBlock>
+		<GroupFormationBlock BlockId="3">
+			<ContainerRelative BlockPriority="1.0" EntityArrangement="Line" InterEntitySpacing="2.0" RelativeBlockId="1" PositionX="-5.0" PositionY="0.0">
+				<EntityPreference Priority="1.0" EntityDescription="infantry_light"/>
+				<EntityPreference Priority="0.01" EntityDescription="any"/>
+			</ContainerRelative>
+		</GroupFormationBlock>
+		<GroupFormationBlock BlockId="4">
+			<ContainerRelative BlockPriority="1.0" EntityArrangement="Line" InterEntitySpacing="2.0" RelativeBlockId="3" PositionX="-5.0" PositionY="0.0">
+				<EntityPreference Priority="1.0" EntityDescription="infantry_skirmishers"/>
+				<EntityPreference Priority="0.7" EntityDescription="infantry_irregulars"/>
+				<EntityPreference Priority="0.01" EntityDescription="any"/>
+			</ContainerRelative>
+		</GroupFormationBlock>
+		<GroupFormationBlock BlockId="5">
+			<ContainerRelative BlockPriority="1.0" EntityArrangement="Line" InterEntitySpacing="2.0" RelativeBlockId="2" PositionX="5.0" PositionY="0.0">
+				<EntityPreference Priority="1.0" EntityDescription="infantry_light"/>
+				<EntityPreference Priority="0.01" EntityDescription="any"/>
+			</ContainerRelative>
+		</GroupFormationBlock>
+		<GroupFormationBlock BlockId="6">
+			<ContainerRelative BlockPriority="1.0" EntityArrangement="Line" InterEntitySpacing="2.0" RelativeBlockId="5" PositionX="5.0" PositionY="0.0">
+				<EntityPreference Priority="1.0" EntityDescription="infantry_skirmishers"/>
+				<EntityPreference Priority="0.7" EntityDescription="infantry_irregulars"/>
+				<EntityPreference Priority="0.01" EntityDescription="any"/>
+			</ContainerRelative>
+		</GroupFormationBlock>
+		<GroupFormationBlock BlockId="7">
+			<ContainerRelative BlockPriority="1.0" EntityArrangement="Line" InterEntitySpacing="2.0" RelativeBlockId="4" PositionX="-5.0" PositionY="0.0">
+				<EntityPreference Priority="1.0" EntityDescription="cavalry_heavy"/>
+				<EntityPreference Priority="1.0" EntityDescription="cavalry_standard"/>
+				<EntityPreference Priority="1.0" EntityDescription="elephants"/>
+			</ContainerRelative>
+		</GroupFormationBlock>
+		<GroupFormationBlock BlockId="8">
+			<ContainerRelative BlockPriority="1.0" EntityArrangement="Line" InterEntitySpacing="2.0" RelativeBlockId="7" PositionX="-5.0" PositionY="0.0">
+				<EntityPreference Priority="1.0" EntityDescription="cavalry_lancers"/>
+				<EntityPreference Priority="1.0" EntityDescription="cavalry_camels"/>
+				<EntityPreference Priority="1.0" EntityDescription="cavalry_light"/>
+				<EntityPreference Priority="1.0" EntityDescription="cavalry_irregular"/>
+			</ContainerRelative>
+		</GroupFormationBlock>
+		<GroupFormationBlock BlockId="9">
+			<ContainerRelative BlockPriority="1.0" EntityArrangement="Line" InterEntitySpacing="2.0" RelativeBlockId="6" PositionX="5.0" PositionY="0.0">
+				<EntityPreference Priority="1.0" EntityDescription="cavalry_heavy"/>
+				<EntityPreference Priority="1.0" EntityDescription="cavalry_standard"/>
+				<EntityPreference Priority="1.0" EntityDescription="elephants"/>
+			</ContainerRelative>
+		</GroupFormationBlock>
+		<GroupFormationBlock BlockId="10">
+			<ContainerRelative BlockPriority="1.0" EntityArrangement="Line" InterEntitySpacing="2.0" RelativeBlockId="9" PositionX="5.0" PositionY="0.0">
+				<EntityPreference Priority="1.0" EntityDescription="cavalry_lancers"/>
+				<EntityPreference Priority="1.0" EntityDescription="cavalry_camels"/>
+				<EntityPreference Priority="1.0" EntityDescription="cavalry_light"/>
+				<EntityPreference Priority="1.0" EntityDescription="cavalry_irregular"/>
+			</ContainerRelative>
+		</GroupFormationBlock>
+		<GroupFormationBlock BlockId="11">
+			<ContainerRelative BlockPriority="0.75" EntityArrangement="Line" InterEntitySpacing="2.0" RelativeBlockId="8" PositionX="-5.0" PositionY="0.0">
+				<EntityPreference Priority="1.0" EntityDescription="cavalry_missile"/>
+				<EntityPreference Priority="1.0" EntityDescription="dragoons"/>
+			</ContainerRelative>
+		</GroupFormationBlock>
+		<GroupFormationBlock BlockId="12">
+			<ContainerRelative BlockPriority="0.75" EntityArrangement="Line" InterEntitySpacing="2.0" RelativeBlockId="10" PositionX="5.0" PositionY="0.0">
+				<EntityPreference Priority="1.0" EntityDescription="cavalry_missile"/>
+				<EntityPreference Priority="1.0" EntityDescription="dragoons"/>
+			</ContainerRelative>
+		</GroupFormationBlock>
+		<GroupFormationBlock BlockId="13">
+			<Spanning>
+				<SpannedBlockId>0</SpannedBlockId>
+				<SpannedBlockId>1</SpannedBlockId>
+				<SpannedBlockId>2</SpannedBlockId>
+				<SpannedBlockId>3</SpannedBlockId>
+				<SpannedBlockId>4</SpannedBlockId>
+				<SpannedBlockId>5</SpannedBlockId>
+				<SpannedBlockId>6</SpannedBlockId>
+				<SpannedBlockId>7</SpannedBlockId>
+				<SpannedBlockId>8</SpannedBlockId>
+				<SpannedBlockId>9</SpannedBlockId>
+				<SpannedBlockId>10</SpannedBlockId>
+				<SpannedBlockId>11</SpannedBlockId>
+				<SpannedBlockId>12</SpannedBlockId>
+			</Spanning>
+		</GroupFormationBlock>		
+		<GroupFormationBlock BlockId="14">
+			<ContainerRelative BlockPriority="0.5" EntityArrangement="Line" InterEntitySpacing="2.0" RelativeBlockId="13" PositionX="0.0" PositionY="-10.0">
+				<EntityPreference Priority="1.0" EntityDescription="general"/>
+			</ContainerRelative>
+		</GroupFormationBlock>
+		<GroupFormationBlock BlockId="15">
+			<ContainerRelative BlockPriority="0.4" EntityArrangement="Line" InterEntitySpacing="2.0" RelativeBlockId="14" PositionX="0.0" PositionY="-10.0">
+				<EntityPreference Priority="0.01" EntityDescription="any"/>
+			</ContainerRelative>
+		</GroupFormationBlock>
+	</GroupFormation>
+	
+	<GroupFormation FormationName="Single Line Integrated Artillery">
+
+		<AiPriority>0.8</AiPriority>
+		<AiPurpose>Defend</AiPurpose>
+		
+		<GroupFormationBlock BlockId="0">
+			<ContainerAbsolute BlockPriority="0.725" EntityArrangement="Line" InterEntitySpacing="2.0" PositionX="0.0" PositionY="0.0" MaximumEntityThreshold="1">
+				<EntityPreference Priority="1.0" EntityDescription="infantry_elite"/>
+				<EntityPreference Priority="1.0" EntityDescription="infantry_grenadiers"/>
+				<EntityPreference Priority="0.9" EntityDescription="infantry_line"/>
+				<EntityPreference Priority="0.9" EntityDescription="infantry_melee"/>
+				<EntityPreference Priority="0.9" EntityDescription="infantry_berserker"/>
+				<EntityPreference Priority="0.8" EntityDescription="infantry_militia"/>
+				<EntityPreference Priority="0.7" EntityDescription="infantry_mob"/>
+				<EntityPreference Priority="0.6" EntityDescription="any"/>
+			</ContainerAbsolute>
+		</GroupFormationBlock>
+		<GroupFormationBlock BlockId="1">
+			<ContainerRelative BlockPriority="0.725" EntityArrangement="Line" InterEntitySpacing="6.0" RelativeBlockId="0" PositionX="-5.0" PositionY="0.0" MaximumEntityThreshold="1">
+				<EntityPreference Priority="1.0" EntityDescription="artillery_fixed"/>
+				<EntityPreference Priority="1.0" EntityDescription="artillery_foot"/>
+				<EntityPreference Priority="1.0" EntityDescription="artillery_horse"/>
+			</ContainerRelative>
+		</GroupFormationBlock>
+		<GroupFormationBlock BlockId="2">
+			<ContainerRelative BlockPriority="0.725" EntityArrangement="Line" InterEntitySpacing="6.0" RelativeBlockId="0" PositionX="5.0" PositionY="0.0" MaximumEntityThreshold="1">
+				<EntityPreference Priority="1.0" EntityDescription="artillery_fixed"/>
+				<EntityPreference Priority="1.0" EntityDescription="artillery_foot"/>
+				<EntityPreference Priority="1.0" EntityDescription="artillery_horse"/>
+			</ContainerRelative>
+		</GroupFormationBlock>
+		<GroupFormationBlock BlockId="3">
+			<ContainerRelative BlockPriority="0.725" EntityArrangement="Line" InterEntitySpacing="2.0" RelativeBlockId="1" PositionX="-5.0" PositionY="0.0" MaximumEntityThreshold="1">
+				<EntityPreference Priority="1.0" EntityDescription="infantry_elite"/>
+				<EntityPreference Priority="1.0" EntityDescription="infantry_grenadiers"/>
+				<EntityPreference Priority="0.9" EntityDescription="infantry_line"/>
+				<EntityPreference Priority="0.9" EntityDescription="infantry_melee"/>
+				<EntityPreference Priority="0.9" EntityDescription="infantry_berserker"/>
+				<EntityPreference Priority="0.8" EntityDescription="infantry_militia"/>
+				<EntityPreference Priority="0.7" EntityDescription="infantry_mob"/>
+			</ContainerRelative>
+		</GroupFormationBlock>
+		<GroupFormationBlock BlockId="4">
+			<ContainerRelative BlockPriority="0.725" EntityArrangement="Line" InterEntitySpacing="2.0" RelativeBlockId="2" PositionX="5.0" PositionY="0.0" MaximumEntityThreshold="1">
+				<EntityPreference Priority="1.0" EntityDescription="infantry_elite"/>
+				<EntityPreference Priority="1.0" EntityDescription="infantry_grenadiers"/>
+				<EntityPreference Priority="0.9" EntityDescription="infantry_line"/>
+				<EntityPreference Priority="0.9" EntityDescription="infantry_melee"/>
+				<EntityPreference Priority="0.9" EntityDescription="infantry_berserker"/>
+				<EntityPreference Priority="0.8" EntityDescription="infantry_militia"/>
+			</ContainerRelative>
+		</GroupFormationBlock>
+		<GroupFormationBlock BlockId="5">
+			<ContainerRelative BlockPriority="0.725" EntityArrangement="Line" InterEntitySpacing="6.0" RelativeBlockId="3" PositionX="-5.0" PositionY="0.0">
+				<EntityPreference Priority="1.0" EntityDescription="artillery_fixed"/>
+				<EntityPreference Priority="1.0" EntityDescription="artillery_foot"/>
+				<EntityPreference Priority="1.0" EntityDescription="artillery_horse"/>
+			</ContainerRelative>
+		</GroupFormationBlock>
+		<GroupFormationBlock BlockId="6">
+			<ContainerRelative BlockPriority="0.725" EntityArrangement="Line" InterEntitySpacing="6.0" RelativeBlockId="4" PositionX="5.0" PositionY="0.0">
+				<EntityPreference Priority="1.0" EntityDescription="artillery_fixed"/>
+				<EntityPreference Priority="1.0" EntityDescription="artillery_foot"/>
+				<EntityPreference Priority="1.0" EntityDescription="artillery_horse"/>
+			</ContainerRelative>
+		</GroupFormationBlock>
+		<GroupFormationBlock BlockId="7">
+			<ContainerRelative BlockPriority="0.725" EntityArrangement="Line" InterEntitySpacing="2.0" RelativeBlockId="5" PositionX="-5.0" PositionY="0.0">
+				<EntityPreference Priority="1.0" EntityDescription="infantry_elite"/>
+				<EntityPreference Priority="1.0" EntityDescription="infantry_grenadiers"/>
+				<EntityPreference Priority="0.9" EntityDescription="infantry_line"/>
+				<EntityPreference Priority="0.9" EntityDescription="infantry_melee"/>
+				<EntityPreference Priority="0.9" EntityDescription="infantry_berserker"/>
+				<EntityPreference Priority="0.8" EntityDescription="infantry_militia"/>
+				<EntityPreference Priority="0.7" EntityDescription="infantry_mob"/>
+			</ContainerRelative>
+		</GroupFormationBlock>
+		<GroupFormationBlock BlockId="8">
+			<ContainerRelative BlockPriority="0.725" EntityArrangement="Line" InterEntitySpacing="2.0" RelativeBlockId="6" PositionX="5.0" PositionY="0.0">
+				<EntityPreference Priority="1.0" EntityDescription="infantry_elite"/>
+				<EntityPreference Priority="1.0" EntityDescription="infantry_grenadiers"/>
+				<EntityPreference Priority="0.9" EntityDescription="infantry_line"/>
+				<EntityPreference Priority="0.9" EntityDescription="infantry_melee"/>
+				<EntityPreference Priority="0.9" EntityDescription="infantry_berserker"/>
+				<EntityPreference Priority="0.8" EntityDescription="infantry_militia"/>
+				<EntityPreference Priority="0.7" EntityDescription="infantry_mob"/>
+			</ContainerRelative>
+		</GroupFormationBlock>
+		<GroupFormationBlock BlockId="9">
+			<ContainerRelative BlockPriority="0.525" EntityArrangement="Line" InterEntitySpacing="2.0" RelativeBlockId="7" PositionX="-5.0" PositionY="0.0">
+				<EntityPreference Priority="1.0" EntityDescription="infantry_light"/>
+			</ContainerRelative>
+		</GroupFormationBlock>
+		<GroupFormationBlock BlockId="10">
+			<ContainerRelative BlockPriority="0.525" EntityArrangement="Line" InterEntitySpacing="2.0" RelativeBlockId="9" PositionX="-5.0" PositionY="0.0">
+				<EntityPreference Priority="1.0" EntityDescription="infantry_skirmishers"/>
+				<EntityPreference Priority="0.7" EntityDescription="infantry_irregulars"/>
+			</ContainerRelative>
+		</GroupFormationBlock>
+		<GroupFormationBlock BlockId="11">
+			<ContainerRelative BlockPriority="0.525" EntityArrangement="Line" InterEntitySpacing="2.0" RelativeBlockId="8" PositionX="5.0" PositionY="0.0">
+				<EntityPreference Priority="1.0" EntityDescription="infantry_light"/>
+			</ContainerRelative>
+		</GroupFormationBlock>
+		<GroupFormationBlock BlockId="12">
+			<ContainerRelative BlockPriority="0.525" EntityArrangement="Line" InterEntitySpacing="2.0" RelativeBlockId="11" PositionX="5.0" PositionY="0.0">
+				<EntityPreference Priority="1.0" EntityDescription="infantry_skirmishers"/>
+				<EntityPreference Priority="0.7" EntityDescription="infantry_irregulars"/>
+			</ContainerRelative>
+		</GroupFormationBlock>
+		<GroupFormationBlock BlockId="13">
+			<ContainerRelative BlockPriority="0.525" EntityArrangement="Line" InterEntitySpacing="2.0" RelativeBlockId="10" PositionX="-5.0" PositionY="0.0">
+				<EntityPreference Priority="1.0" EntityDescription="cavalry_heavy"/>
+				<EntityPreference Priority="0.9" EntityDescription="cavalry_standard"/>
+				<EntityPreference Priority="1.0" EntityDescription="elephants"/>
+			</ContainerRelative>
+		</GroupFormationBlock>
+		<GroupFormationBlock BlockId="14">
+			<ContainerRelative BlockPriority="0.525" EntityArrangement="Line" InterEntitySpacing="2.0" RelativeBlockId="13" PositionX="-5.0" PositionY="0.0">
+				<EntityPreference Priority="0.9" EntityDescription="cavalry_lancers"/>
+				<EntityPreference Priority="0.9" EntityDescription="cavalry_camels"/>
+				<EntityPreference Priority="0.9" EntityDescription="cavalry_light"/>
+				<EntityPreference Priority="0.9" EntityDescription="cavalry_irregular"/>
+			</ContainerRelative>
+		</GroupFormationBlock>
+		<GroupFormationBlock BlockId="15">
+			<ContainerRelative BlockPriority="0.525" EntityArrangement="Line" InterEntitySpacing="2.0" RelativeBlockId="12" PositionX="5.0" PositionY="0.0">
+				<EntityPreference Priority="1.0" EntityDescription="cavalry_heavy"/>
+				<EntityPreference Priority="0.9" EntityDescription="cavalry_standard"/>
+				<EntityPreference Priority="1.0" EntityDescription="elephants"/>
+			</ContainerRelative>
+		</GroupFormationBlock>
+		<GroupFormationBlock BlockId="16">
+			<ContainerRelative BlockPriority="0.525" EntityArrangement="Line" InterEntitySpacing="2.0" RelativeBlockId="15" PositionX="5.0" PositionY="0.0">
+				<EntityPreference Priority="0.9" EntityDescription="cavalry_lancers"/>
+				<EntityPreference Priority="0.9" EntityDescription="cavalry_camels"/>
+				<EntityPreference Priority="0.9" EntityDescription="cavalry_light"/>
+				<EntityPreference Priority="0.9" EntityDescription="cavalry_irregular"/>
+			</ContainerRelative>
+		</GroupFormationBlock>
+		<GroupFormationBlock BlockId="17">
+			<ContainerRelative BlockPriority="0.525" EntityArrangement="Line" InterEntitySpacing="2.0" RelativeBlockId="14" PositionX="-5.0" PositionY="0.0">
+				<EntityPreference Priority="1.0" EntityDescription="cavalry_missile"/>
+				<EntityPreference Priority="1.0" EntityDescription="dragoons"/>
+			</ContainerRelative>
+		</GroupFormationBlock>
+		<GroupFormationBlock BlockId="18">
+			<ContainerRelative BlockPriority="0.525" EntityArrangement="Line" InterEntitySpacing="2.0" RelativeBlockId="16" PositionX="5.0" PositionY="0.0">
+				<EntityPreference Priority="1.0" EntityDescription="cavalry_missile"/>
+				<EntityPreference Priority="1.0" EntityDescription="dragoons"/>
+			</ContainerRelative>
+		</GroupFormationBlock>
+		<GroupFormationBlock BlockId="19">
+			<Spanning>
+				<SpannedBlockId>0</SpannedBlockId>
+				<SpannedBlockId>1</SpannedBlockId>
+				<SpannedBlockId>2</SpannedBlockId>
+				<SpannedBlockId>3</SpannedBlockId>
+				<SpannedBlockId>4</SpannedBlockId>
+				<SpannedBlockId>5</SpannedBlockId>
+				<SpannedBlockId>6</SpannedBlockId>
+				<SpannedBlockId>7</SpannedBlockId>
+				<SpannedBlockId>8</SpannedBlockId>
+				<SpannedBlockId>9</SpannedBlockId>
+				<SpannedBlockId>10</SpannedBlockId>
+				<SpannedBlockId>11</SpannedBlockId>
+				<SpannedBlockId>12</SpannedBlockId>
+				<SpannedBlockId>13</SpannedBlockId>
+				<SpannedBlockId>14</SpannedBlockId>
+				<SpannedBlockId>15</SpannedBlockId>
+				<SpannedBlockId>16</SpannedBlockId>
+				<SpannedBlockId>17</SpannedBlockId>
+				<SpannedBlockId>18</SpannedBlockId>
+			</Spanning>
+		</GroupFormationBlock>	
+		<GroupFormationBlock BlockId="20">
+			<ContainerRelative BlockPriority="0.425" EntityArrangement="Line" InterEntitySpacing="2.0" RelativeBlockId="19" PositionX="0.0" PositionY="-10.0">
+				<EntityPreference Priority="1.0" EntityDescription="general"/>
+			</ContainerRelative>
+		</GroupFormationBlock>
+		<GroupFormationBlock BlockId="21">
+			<ContainerRelative BlockPriority="0.4" EntityArrangement="Line" InterEntitySpacing="2.0" RelativeBlockId="20" PositionX="0.0" PositionY="-10.0">
+				<EntityPreference Priority="0.01" EntityDescription="any"/>
+			</ContainerRelative>
+		</GroupFormationBlock>
+	</GroupFormation>
+	
+	<GroupFormation FormationName="Single Line Cavalry Left Flank">
+	
+		<AiPriority>0.0</AiPriority>
+		<AiPurpose>Attack</AiPurpose>
+		<AiPurpose>Defend</AiPurpose>
+		<MinCavalryPercentage>40</MinCavalryPercentage>
+		
+		<GroupFormationBlock BlockId="0">
+			<ContainerAbsolute BlockPriority="1.32" EntityArrangement="Line" InterEntitySpacing="2.0" PositionX="0.0" PositionY="0.0">
+				<EntityPreference Priority="1.0" EntityDescription="infantry_elite"/>
+				<EntityPreference Priority="1.0" EntityDescription="infantry_grenadiers"/>
+				<EntityPreference Priority="1.0" EntityDescription="infantry_line"/>
+				<EntityPreference Priority="0.8" EntityDescription="infantry_melee"/>
+				<EntityPreference Priority="0.8" EntityDescription="infantry_berserker"/>
+				<EntityPreference Priority="0.7" EntityDescription="infantry_militia"/>
+				<EntityPreference Priority="0.6" EntityDescription="infantry_mob"/>
+			</ContainerAbsolute>
+		</GroupFormationBlock>
+		<GroupFormationBlock BlockId="1">
+			<ContainerRelative BlockPriority="1.32" EntityArrangement="Line" InterEntitySpacing="6.0" RelativeBlockId="0" PositionX="-5.0" PositionY="0.0">
+				<EntityPreference Priority="1.0" EntityDescription="artillery_fixed"/>
+				<EntityPreference Priority="1.0" EntityDescription="artillery_foot"/>
+				<EntityPreference Priority="1.0" EntityDescription="artillery_horse"/>
+			</ContainerRelative>
+		</GroupFormationBlock>
+		<GroupFormationBlock BlockId="2">
+			<ContainerRelative BlockPriority="1.32" EntityArrangement="Line" InterEntitySpacing="6.0" RelativeBlockId="0" PositionX="5.0" PositionY="0.0">
+				<EntityPreference Priority="1.0" EntityDescription="artillery_fixed"/>
+				<EntityPreference Priority="1.0" EntityDescription="artillery_foot"/>
+				<EntityPreference Priority="1.0" EntityDescription="artillery_horse"/>
+			</ContainerRelative>
+		</GroupFormationBlock>
+		<GroupFormationBlock BlockId="3">
+			<ContainerRelative BlockPriority="1.82" EntityArrangement="Line" InterEntitySpacing="2.0" RelativeBlockId="1" PositionX="-5.0" PositionY="0.0">
+				<EntityPreference Priority="1.0" EntityDescription="cavalry_heavy"/>
+				<EntityPreference Priority="1.0" EntityDescription="cavalry_standard"/>
+				<EntityPreference Priority="1.0" EntityDescription="cavalry_missile"/>
+				<EntityPreference Priority="1.0" EntityDescription="elephants"/>
+			</ContainerRelative>
+		</GroupFormationBlock>
+		<GroupFormationBlock BlockId="4">
+			<ContainerRelative BlockPriority="1.82" EntityArrangement="Line" InterEntitySpacing="2.0" RelativeBlockId="3" PositionX="-5.0" PositionY="0.0">
+				<EntityPreference Priority="1.0" EntityDescription="cavalry_lancers"/>
+				<EntityPreference Priority="1.0" EntityDescription="cavalry_camels"/>
+				<EntityPreference Priority="1.0" EntityDescription="cavalry_light"/>
+				<EntityPreference Priority="1.0" EntityDescription="cavalry_irregular"/>
+				<EntityPreference Priority="1.0" EntityDescription="cavalry_missile"/>
+			</ContainerRelative>
+		</GroupFormationBlock>
+		<GroupFormationBlock BlockId="5">
+			<ContainerRelative BlockPriority="1.82" EntityArrangement="Line" InterEntitySpacing="2.0" RelativeBlockId="4" PositionX="-5.0" PositionY="0.0">
+				<EntityPreference Priority="1.0" EntityDescription="cavalry_missile"/>
+				<EntityPreference Priority="1.0" EntityDescription="dragoons"/>
+			</ContainerRelative>
+		</GroupFormationBlock>
+		<GroupFormationBlock BlockId="6">
+			<ContainerRelative BlockPriority="1.32" EntityArrangement="Line" InterEntitySpacing="2.0" RelativeBlockId="2" PositionX="5.0" PositionY="0.0">
+				<EntityPreference Priority="1.0" EntityDescription="infantry_light"/>
+			</ContainerRelative>
+		</GroupFormationBlock>
+		<GroupFormationBlock BlockId="7">
+			<ContainerRelative BlockPriority="1.32" EntityArrangement="Line" InterEntitySpacing="2.0" RelativeBlockId="6" PositionX="5.0" PositionY="0.0">
+				<EntityPreference Priority="1.0" EntityDescription="infantry_skirmishers"/>
+				<EntityPreference Priority="0.7" EntityDescription="infantry_irregulars"/>
+			</ContainerRelative>
+		</GroupFormationBlock>
+		<GroupFormationBlock BlockId="8">
+			<Spanning>
+				<SpannedBlockId>0</SpannedBlockId>
+				<SpannedBlockId>1</SpannedBlockId>
+				<SpannedBlockId>2</SpannedBlockId>
+				<SpannedBlockId>3</SpannedBlockId>
+				<SpannedBlockId>4</SpannedBlockId>
+				<SpannedBlockId>5</SpannedBlockId>
+				<SpannedBlockId>6</SpannedBlockId>
+				<SpannedBlockId>7</SpannedBlockId>
+			</Spanning>
+		</GroupFormationBlock>			
+		<GroupFormationBlock BlockId="9">
+			<ContainerRelative BlockPriority="1.08" EntityArrangement="Line" InterEntitySpacing="2.0" RelativeBlockId="8" PositionX="0.0" PositionY="-10.0">
+				<EntityPreference Priority="1.0" EntityDescription="general"/>
+			</ContainerRelative>
+		</GroupFormationBlock>
+		<GroupFormationBlock BlockId="10">
+			<ContainerRelative BlockPriority="0.5" EntityArrangement="Line" InterEntitySpacing="2.0" RelativeBlockId="9" PositionX="0.0" PositionY="-10.0">
+				<EntityPreference Priority="0.01" EntityDescription="any"/>
+			</ContainerRelative>
+		</GroupFormationBlock>
+	</GroupFormation>
+	
+	<GroupFormation FormationName="Single Line Cavalry Right Flank">
+
+		<AiPriority>0.0</AiPriority>
+		<AiPurpose>Attack</AiPurpose>
+		<AiPurpose>Defend</AiPurpose>
+		<MinCavalryPercentage>40</MinCavalryPercentage>
+		
+		<GroupFormationBlock BlockId="0">
+			<ContainerAbsolute BlockPriority="1.32" EntityArrangement="Line" InterEntitySpacing="2.0" PositionX="0.0" PositionY="0.0">
+				<EntityPreference Priority="1.0" EntityDescription="infantry_elite"/>
+				<EntityPreference Priority="1.0" EntityDescription="infantry_grenadiers"/>
+				<EntityPreference Priority="1.0" EntityDescription="infantry_line"/>
+				<EntityPreference Priority="0.8" EntityDescription="infantry_melee"/>
+				<EntityPreference Priority="0.8" EntityDescription="infantry_berserker"/>
+				<EntityPreference Priority="0.7" EntityDescription="infantry_militia"/>
+				<EntityPreference Priority="0.6" EntityDescription="infantry_mob"/>
+			</ContainerAbsolute>
+		</GroupFormationBlock>
+		<GroupFormationBlock BlockId="1">
+			<ContainerRelative BlockPriority="1.32" EntityArrangement="Line" InterEntitySpacing="6.0" RelativeBlockId="0" PositionX="5.0" PositionY="0.0">
+				<EntityPreference Priority="1.0" EntityDescription="artillery_fixed"/>
+				<EntityPreference Priority="1.0" EntityDescription="artillery_foot"/>
+				<EntityPreference Priority="1.0" EntityDescription="artillery_horse"/>
+			</ContainerRelative>
+		</GroupFormationBlock>
+		<GroupFormationBlock BlockId="2">
+			<ContainerRelative BlockPriority="1.32" EntityArrangement="Line" InterEntitySpacing="6.0" RelativeBlockId="0" PositionX="-5.0" PositionY="0.0">
+				<EntityPreference Priority="1.0" EntityDescription="artillery_fixed"/>
+				<EntityPreference Priority="1.0" EntityDescription="artillery_foot"/>
+				<EntityPreference Priority="1.0" EntityDescription="artillery_horse"/>
+			</ContainerRelative>
+		</GroupFormationBlock>
+		<GroupFormationBlock BlockId="3">
+			<ContainerRelative BlockPriority="1.82" EntityArrangement="Line" InterEntitySpacing="2.0" RelativeBlockId="1" PositionX="5.0" PositionY="0.0">
+				<EntityPreference Priority="1.0" EntityDescription="cavalry_heavy"/>
+				<EntityPreference Priority="1.0" EntityDescription="cavalry_standard"/>
+				<EntityPreference Priority="1.0" EntityDescription="cavalry_missile"/>
+				<EntityPreference Priority="1.0" EntityDescription="elephants"/>
+			</ContainerRelative>
+		</GroupFormationBlock>
+		<GroupFormationBlock BlockId="4">
+			<ContainerRelative BlockPriority="1.82" EntityArrangement="Line" InterEntitySpacing="2.0" RelativeBlockId="3" PositionX="5.0" PositionY="0.0">
+				<EntityPreference Priority="1.0" EntityDescription="cavalry_lancers"/>
+				<EntityPreference Priority="1.0" EntityDescription="cavalry_camels"/>
+				<EntityPreference Priority="1.0" EntityDescription="cavalry_light"/>
+				<EntityPreference Priority="1.0" EntityDescription="cavalry_irregular"/>
+				<EntityPreference Priority="1.0" EntityDescription="cavalry_missile"/>
+			</ContainerRelative>
+		</GroupFormationBlock>
+		<GroupFormationBlock BlockId="5">
+			<ContainerRelative BlockPriority="1.82" EntityArrangement="Line" InterEntitySpacing="2.0" RelativeBlockId="4" PositionX="5.0" PositionY="0.0">
+				<EntityPreference Priority="1.0" EntityDescription="cavalry_missile"/>
+				<EntityPreference Priority="1.0" EntityDescription="dragoons"/>
+			</ContainerRelative>
+		</GroupFormationBlock>
+		<GroupFormationBlock BlockId="6">
+			<ContainerRelative BlockPriority="1.32" EntityArrangement="Line" InterEntitySpacing="2.0" RelativeBlockId="2" PositionX="-5.0" PositionY="0.0">
+				<EntityPreference Priority="1.0" EntityDescription="infantry_light"/>
+			</ContainerRelative>
+		</GroupFormationBlock>
+		<GroupFormationBlock BlockId="7">
+			<ContainerRelative BlockPriority="1.32" EntityArrangement="Line" InterEntitySpacing="2.0" RelativeBlockId="6" PositionX="-5.0" PositionY="0.0">
+				<EntityPreference Priority="1.0" EntityDescription="infantry_skirmishers"/>
+				<EntityPreference Priority="0.7" EntityDescription="infantry_irregulars"/>
+			</ContainerRelative>
+		</GroupFormationBlock>
+		<GroupFormationBlock BlockId="8">
+			<Spanning>
+				<SpannedBlockId>0</SpannedBlockId>
+				<SpannedBlockId>1</SpannedBlockId>
+				<SpannedBlockId>2</SpannedBlockId>
+				<SpannedBlockId>3</SpannedBlockId>
+				<SpannedBlockId>4</SpannedBlockId>
+				<SpannedBlockId>5</SpannedBlockId>
+				<SpannedBlockId>6</SpannedBlockId>
+				<SpannedBlockId>7</SpannedBlockId>
+			</Spanning>
+		</GroupFormationBlock>			
+		<GroupFormationBlock BlockId="9">
+			<ContainerRelative BlockPriority="1.08" EntityArrangement="Line" InterEntitySpacing="2.0" RelativeBlockId="8" PositionX="0.0" PositionY="-10.0">
+				<EntityPreference Priority="1.0" EntityDescription="general"/>
+			</ContainerRelative>
+		</GroupFormationBlock>
+		<GroupFormationBlock BlockId="10">
+			<ContainerRelative BlockPriority="0.5" EntityArrangement="Line" InterEntitySpacing="2.0" RelativeBlockId="9" PositionX="0.0" PositionY="-10.0">
+				<EntityPreference Priority="0.01" EntityDescription="any"/>
+			</ContainerRelative>
+		</GroupFormationBlock>
+	</GroupFormation>
+
+	<GroupFormation FormationName="Double Line Standard">
+
+		<AiPriority>0.8</AiPriority>
+		<AiPurpose>Attack</AiPurpose>
+		<AiPurpose>Defend</AiPurpose>	
+
+		<GroupFormationBlock BlockId="0">
+			<ContainerAbsolute BlockPriority="1.1" EntityArrangement="Line" InterEntitySpacing="2.0" PositionX="0.0" PositionY="0.0">
+				<EntityPreference Priority="1.0" EntityDescription="infantry_elite"/>
+				<EntityPreference Priority="1.0" EntityDescription="infantry_grenadiers"/>
+				<EntityPreference Priority="0.9" EntityDescription="infantry_line"/>
+				<EntityPreference Priority="0.8" EntityDescription="infantry_melee"/>
+				<EntityPreference Priority="0.8" EntityDescription="infantry_berserker"/>
+				<EntityPreference Priority="0.7" EntityDescription="infantry_militia"/>
+				<EntityPreference Priority="0.6" EntityDescription="infantry_mob"/>
+			</ContainerAbsolute>
+		</GroupFormationBlock>
+		<GroupFormationBlock BlockId="1">
+			<ContainerRelative BlockPriority="0.83" EntityArrangement="Line" InterEntitySpacing="6.0" RelativeBlockId="0" PositionX="-5.0" PositionY="0.0">
+				<EntityPreference Priority="1.0" EntityDescription="artillery_fixed"/>
+				<EntityPreference Priority="1.0" EntityDescription="artillery_foot"/>
+				<EntityPreference Priority="1.0" EntityDescription="artillery_horse"/>
+			</ContainerRelative>
+		</GroupFormationBlock>
+		<GroupFormationBlock BlockId="2">
+			<ContainerRelative BlockPriority="0.83" EntityArrangement="Line" InterEntitySpacing="6.0" RelativeBlockId="0" PositionX="5.0" PositionY="0.0">
+				<EntityPreference Priority="1.0" EntityDescription="artillery_fixed"/>
+				<EntityPreference Priority="1.0" EntityDescription="artillery_foot"/>
+				<EntityPreference Priority="1.0" EntityDescription="artillery_horse"/>
+			</ContainerRelative>
+		</GroupFormationBlock>
+		<GroupFormationBlock BlockId="3">
+			<Spanning>
+				<SpannedBlockId>0</SpannedBlockId>
+				<SpannedBlockId>1</SpannedBlockId>
+				<SpannedBlockId>2</SpannedBlockId>
+			</Spanning>
+		</GroupFormationBlock>
+		<GroupFormationBlock BlockId="4">
+			<ContainerRelative BlockPriority="0.83" EntityArrangement="Line" InterEntitySpacing="2.0" RelativeBlockId="3" PositionX="-5.0" PositionY="0.0">
+				<EntityPreference Priority="1.0" EntityDescription="infantry_light"/>
+			</ContainerRelative>
+		</GroupFormationBlock>
+		<GroupFormationBlock BlockId="5">
+			<ContainerRelative BlockPriority="0.83" EntityArrangement="Line" InterEntitySpacing="2.0" RelativeBlockId="4" PositionX="-5.0" PositionY="0.0">
+				<EntityPreference Priority="1.0" EntityDescription="infantry_skirmishers"/>
+				<EntityPreference Priority="0.7" EntityDescription="infantry_irregulars"/>
+			</ContainerRelative>
+		</GroupFormationBlock>
+		<GroupFormationBlock BlockId="6">
+			<ContainerRelative BlockPriority="0.83" EntityArrangement="Line" InterEntitySpacing="2.0" RelativeBlockId="3" PositionX="5.0" PositionY="0.0">
+				<EntityPreference Priority="1.0" EntityDescription="infantry_light"/>
+			</ContainerRelative>
+		</GroupFormationBlock>
+		<GroupFormationBlock BlockId="7">
+			<ContainerRelative BlockPriority="0.83" EntityArrangement="Line" InterEntitySpacing="2.0" RelativeBlockId="6" PositionX="5.0" PositionY="0.0">
+				<EntityPreference Priority="1.0" EntityDescription="infantry_skirmishers"/>
+				<EntityPreference Priority="0.7" EntityDescription="infantry_irregulars"/>
+			</ContainerRelative>
+		</GroupFormationBlock>
+		<GroupFormationBlock BlockId="8">
+			<ContainerRelative BlockPriority="0.86" EntityArrangement="Line" InterEntitySpacing="2.0" RelativeBlockId="3" PositionX="-5.0" PositionY="-15.0" MaximumEntityThreshold="2">
+				<EntityPreference Priority="1.0" EntityDescription="cavalry_heavy"/>
+				<EntityPreference Priority="1.0" EntityDescription="elephants"/>
+				<EntityPreference Priority="1.0" EntityDescription="cavalry_standard"/>
+			</ContainerRelative>
+		</GroupFormationBlock>
+		<GroupFormationBlock BlockId="9">
+			<ContainerRelative BlockPriority="0.86" EntityArrangement="Line" InterEntitySpacing="2.0" RelativeBlockId="8" PositionX="-5.0" PositionY="0.0" MaximumEntityThreshold="2">
+				<EntityPreference Priority="1.0" EntityDescription="cavalry_lancers"/>
+				<EntityPreference Priority="1.0" EntityDescription="cavalry_camels"/>
+				<EntityPreference Priority="1.0" EntityDescription="cavalry_light"/>
+				<EntityPreference Priority="1.0" EntityDescription="cavalry_irregular"/>
+			</ContainerRelative>
+		</GroupFormationBlock>
+		<GroupFormationBlock BlockId="10">
+			<ContainerRelative BlockPriority="0.86" EntityArrangement="Line" InterEntitySpacing="2.0" RelativeBlockId="3" PositionX="5.0" PositionY="-15.0" MaximumEntityThreshold="2">
+				<EntityPreference Priority="1.0" EntityDescription="cavalry_heavy"/>
+				<EntityPreference Priority="1.0" EntityDescription="elephants"/>
+				<EntityPreference Priority="1.0" EntityDescription="cavalry_standard"/>
+			</ContainerRelative>
+		</GroupFormationBlock>
+		<GroupFormationBlock BlockId="11">
+			<ContainerRelative BlockPriority="0.86" EntityArrangement="Line" InterEntitySpacing="2.0" RelativeBlockId="10" PositionX="5.0" PositionY="0.0" MaximumEntityThreshold="2">
+				<EntityPreference Priority="1.0" EntityDescription="cavalry_lancers"/>
+				<EntityPreference Priority="1.0" EntityDescription="cavalry_camels"/>
+				<EntityPreference Priority="1.0" EntityDescription="cavalry_light"/>
+				<EntityPreference Priority="1.0" EntityDescription="cavalry_irregular"/>
+			</ContainerRelative>
+		</GroupFormationBlock>
+		<GroupFormationBlock BlockId="12">
+			<ContainerRelative BlockPriority="0.83" EntityArrangement="Line" InterEntitySpacing="2.0" RelativeBlockId="9" PositionX="-5.0" PositionY="0.0">
+				<EntityPreference Priority="0.9" EntityDescription="cavalry_missile"/>
+				<EntityPreference Priority="0.9" EntityDescription="dragoons"/>
+			</ContainerRelative>
+		</GroupFormationBlock>
+		<GroupFormationBlock BlockId="13">
+			<ContainerRelative BlockPriority="0.83" EntityArrangement="Line" InterEntitySpacing="2.0" RelativeBlockId="11" PositionX="5.0" PositionY="0.0">
+				<EntityPreference Priority="0.9" EntityDescription="cavalry_missile"/>
+				<EntityPreference Priority="0.9" EntityDescription="dragoons"/>
+			</ContainerRelative>
+		</GroupFormationBlock>
+		<GroupFormationBlock BlockId="14">
+			<ContainerRelative BlockPriority="0.9" EntityArrangement="Line" InterEntitySpacing="2.0" RelativeBlockId="3" PositionX="0.0" PositionY="-10.0">
+				<EntityPreference Priority="1.0" EntityDescription="general"/>
+			</ContainerRelative>
+		</GroupFormationBlock>
+		<GroupFormationBlock BlockId="15">
+			<ContainerRelative BlockPriority="0.6" EntityArrangement="Line" InterEntitySpacing="2.0" RelativeBlockId="14" PositionX="0.0" PositionY="-10.0">
+				<EntityPreference Priority="0.01" EntityDescription="any"/>
+			</ContainerRelative>
+		</GroupFormationBlock>
+	</GroupFormation>
+	
+	<GroupFormation FormationName="Double Line Screened">	
+	
+		<AiPriority>0.0</AiPriority>
+		<AiPurpose>Attack</AiPurpose>
+		<AiPurpose>Defend</AiPurpose>	
+		<MinInfantryPercentage>50</MinInfantryPercentage>
+
+		<GroupFormationBlock BlockId="0">
+			<ContainerAbsolute BlockPriority="1.8" EntityArrangement="Line" InterEntitySpacing="2.0" PositionX="0.0" PositionY="0.0">
+				<EntityPreference Priority="1.0" EntityDescription="infantry_light"/>
+			</ContainerAbsolute>
+		</GroupFormationBlock>
+		<GroupFormationBlock BlockId="1">
+			<ContainerRelative BlockPriority="1.8" EntityArrangement="Line" InterEntitySpacing="2.0" RelativeBlockId="0" PositionX="-5.0" PositionY="0.0">
+				<EntityPreference Priority="1.0" EntityDescription="infantry_skirmishers"/>
+				<EntityPreference Priority="0.9" EntityDescription="infantry_irregulars"/>
+			</ContainerRelative>
+		</GroupFormationBlock>
+		<GroupFormationBlock BlockId="2">
+			<ContainerRelative BlockPriority="1.8" EntityArrangement="Line" InterEntitySpacing="2.0" RelativeBlockId="0" PositionX="5.0" PositionY="0.0">
+				<EntityPreference Priority="1.0" EntityDescription="infantry_skirmishers"/>
+				<EntityPreference Priority="0.9" EntityDescription="infantry_irregulars"/>
+			</ContainerRelative>
+		</GroupFormationBlock>
+		<GroupFormationBlock BlockId="3">
+			<ContainerRelative BlockPriority="1.8" EntityArrangement="Line" InterEntitySpacing="2.0" RelativeBlockId="0" PositionX="0.0" PositionY="-10.0">
+				<EntityPreference Priority="1.0" EntityDescription="infantry_elite"/>
+				<EntityPreference Priority="1.0" EntityDescription="infantry_grenadiers"/>
+				<EntityPreference Priority="1.0" EntityDescription="infantry_line"/>
+				<EntityPreference Priority="1.0" EntityDescription="infantry_melee"/>
+				<EntityPreference Priority="1.0" EntityDescription="infantry_berserker"/>
+				<EntityPreference Priority="0.8" EntityDescription="infantry_militia"/>
+				<EntityPreference Priority="0.7" EntityDescription="infantry_mob"/>
+			</ContainerRelative>
+		</GroupFormationBlock>
+		<GroupFormationBlock BlockId="4">
+			<ContainerRelative BlockPriority="0.9" EntityArrangement="Line" InterEntitySpacing="6.0" RelativeBlockId="3" PositionX="-5.0" PositionY="0.0">
+				<EntityPreference Priority="1.0" EntityDescription="artillery_fixed"/>
+				<EntityPreference Priority="1.0" EntityDescription="artillery_foot"/>
+				<EntityPreference Priority="1.0" EntityDescription="artillery_horse"/>
+			</ContainerRelative>
+		</GroupFormationBlock>
+		<GroupFormationBlock BlockId="5">
+			<ContainerRelative BlockPriority="0.9" EntityArrangement="Line" InterEntitySpacing="6.0" RelativeBlockId="3" PositionX="5.0" PositionY="0.0">
+				<EntityPreference Priority="1.0" EntityDescription="artillery_fixed"/>
+				<EntityPreference Priority="1.0" EntityDescription="artillery_foot"/>
+				<EntityPreference Priority="1.0" EntityDescription="artillery_horse"/>
+			</ContainerRelative>
+		</GroupFormationBlock>
+		<GroupFormationBlock BlockId="6">
+			<ContainerRelative BlockPriority="0.8" EntityArrangement="Line" InterEntitySpacing="2.0" RelativeBlockId="4" PositionX="-5.0" PositionY="0.0">
+				<EntityPreference Priority="1.0" EntityDescription="cavalry_heavy"/>
+				<EntityPreference Priority="1.0" EntityDescription="elephants"/>
+				<EntityPreference Priority="1.0" EntityDescription="cavalry_standard"/>
+			</ContainerRelative>
+		</GroupFormationBlock>
+		<GroupFormationBlock BlockId="7">
+			<ContainerRelative BlockPriority="0.8" EntityArrangement="Line" InterEntitySpacing="2.0" RelativeBlockId="6" PositionX="-5.0" PositionY="0.0">
+				<EntityPreference Priority="1.0" EntityDescription="cavalry_lancers"/>
+				<EntityPreference Priority="1.0" EntityDescription="cavalry_camels"/>
+				<EntityPreference Priority="1.0" EntityDescription="cavalry_light"/>
+				<EntityPreference Priority="1.0" EntityDescription="cavalry_irregular"/>
+			</ContainerRelative>
+		</GroupFormationBlock>
+		<GroupFormationBlock BlockId="8">
+			<ContainerRelative BlockPriority="0.8" EntityArrangement="Line" InterEntitySpacing="2.0" RelativeBlockId="5" PositionX="5.0" PositionY="0.0">
+				<EntityPreference Priority="1.0" EntityDescription="cavalry_heavy"/>
+				<EntityPreference Priority="1.0" EntityDescription="elephants"/>
+				<EntityPreference Priority="1.0" EntityDescription="cavalry_standard"/>
+				<EntityPreference Priority="1.0" EntityDescription="cavalry_lancers"/>
+				<EntityPreference Priority="1.0" EntityDescription="cavalry_camels"/>
+				<EntityPreference Priority="1.0" EntityDescription="cavalry_light"/>
+				<EntityPreference Priority="1.0" EntityDescription="cavalry_irregular"/>
+			</ContainerRelative>
+		</GroupFormationBlock>
+		<GroupFormationBlock BlockId="9">
+			<ContainerRelative BlockPriority="0.8" EntityArrangement="Line" InterEntitySpacing="2.0" RelativeBlockId="7" PositionX="5.0" PositionY="0.0">
+				<EntityPreference Priority="1.0" EntityDescription="cavalry_lancers"/>
+				<EntityPreference Priority="1.0" EntityDescription="cavalry_camels"/>
+				<EntityPreference Priority="1.0" EntityDescription="cavalry_light"/>
+				<EntityPreference Priority="1.0" EntityDescription="cavalry_irregular"/>
+			</ContainerRelative>
+		</GroupFormationBlock>
+		<GroupFormationBlock BlockId="10">
+			<Spanning>
+				<SpannedBlockId>0</SpannedBlockId>
+				<SpannedBlockId>1</SpannedBlockId>
+				<SpannedBlockId>2</SpannedBlockId>
+				<SpannedBlockId>3</SpannedBlockId>
+				<SpannedBlockId>4</SpannedBlockId>
+				<SpannedBlockId>5</SpannedBlockId>
+				<SpannedBlockId>6</SpannedBlockId>
+				<SpannedBlockId>7</SpannedBlockId>
+				<SpannedBlockId>8</SpannedBlockId>
+				<SpannedBlockId>9</SpannedBlockId>
+			</Spanning>
+		</GroupFormationBlock>
+		<GroupFormationBlock BlockId="11">
+			<ContainerRelative BlockPriority="0.7" EntityArrangement="Line" InterEntitySpacing="2.0" RelativeBlockId="10" PositionX="-5.0" PositionY="0.0">
+				<EntityPreference Priority="1.0" EntityDescription="cavalry_missile"/>
+				<EntityPreference Priority="1.0" EntityDescription="dragoons"/>
+			</ContainerRelative>
+		</GroupFormationBlock>
+		<GroupFormationBlock BlockId="12">
+			<ContainerRelative BlockPriority="0.7" EntityArrangement="Line" InterEntitySpacing="2.0" RelativeBlockId="10" PositionX="5.0" PositionY="0.0">
+				<EntityPreference Priority="1.0" EntityDescription="cavalry_missile"/>
+				<EntityPreference Priority="1.0" EntityDescription="dragoons"/>
+			</ContainerRelative>
+		</GroupFormationBlock>
+		<GroupFormationBlock BlockId="13">
+			<ContainerRelative BlockPriority="0.8" EntityArrangement="Line" InterEntitySpacing="2.0" RelativeBlockId="10" PositionX="0.0" PositionY="-10.0">
+				<EntityPreference Priority="1.0" EntityDescription="general"/>
+			</ContainerRelative>
+		</GroupFormationBlock>
+		<GroupFormationBlock BlockId="14">
+			<ContainerRelative BlockPriority="0.4" EntityArrangement="Line" InterEntitySpacing="2.0" RelativeBlockId="13" PositionX="0.0" PositionY="-10.0">
+				<EntityPreference Priority="0.01" EntityDescription="any"/>
+			</ContainerRelative>
+		</GroupFormationBlock>
+	</GroupFormation>
+	
+	<GroupFormation FormationName="Triple Line Standard">
+
+		<AiPriority>0.0</AiPriority>
+		<AiPurpose>Attack</AiPurpose>
+		<AiPurpose>Defend</AiPurpose>
+
+		<GroupFormationBlock BlockId="0">
+			<ContainerAbsolute BlockPriority="1.1" EntityArrangement="Line" InterEntitySpacing="2.0" PositionX="0.0" PositionY="0.0">
+				<EntityPreference Priority="1.0" EntityDescription="infantry_elite"/>
+				<EntityPreference Priority="1.0" EntityDescription="infantry_grenadiers"/>
+				<EntityPreference Priority="0.9" EntityDescription="infantry_line"/>
+				<EntityPreference Priority="0.8" EntityDescription="infantry_melee"/>
+				<EntityPreference Priority="0.8" EntityDescription="infantry_berserker"/>
+				<EntityPreference Priority="0.7" EntityDescription="infantry_militia"/>
+				<EntityPreference Priority="0.6" EntityDescription="infantry_mob"/>
+			</ContainerAbsolute>
+		</GroupFormationBlock>
+		<GroupFormationBlock BlockId="1">
+			<ContainerRelative BlockPriority="0.83" EntityArrangement="Line" InterEntitySpacing="6.0" RelativeBlockId="0" PositionX="-5.0" PositionY="0.0">
+				<EntityPreference Priority="1.0" EntityDescription="artillery_fixed"/>
+				<EntityPreference Priority="1.0" EntityDescription="artillery_foot"/>
+				<EntityPreference Priority="1.0" EntityDescription="artillery_horse"/>
+			</ContainerRelative>
+		</GroupFormationBlock>
+		<GroupFormationBlock BlockId="2">
+			<ContainerRelative BlockPriority="0.83" EntityArrangement="Line" InterEntitySpacing="6.0" RelativeBlockId="0" PositionX="5.0" PositionY="0.0">
+				<EntityPreference Priority="1.0" EntityDescription="artillery_fixed"/>
+				<EntityPreference Priority="1.0" EntityDescription="artillery_foot"/>
+				<EntityPreference Priority="1.0" EntityDescription="artillery_horse"/>
+			</ContainerRelative>
+		</GroupFormationBlock>
+		<GroupFormationBlock BlockId="3">
+			<Spanning>
+				<SpannedBlockId>0</SpannedBlockId>
+				<SpannedBlockId>1</SpannedBlockId>
+				<SpannedBlockId>2</SpannedBlockId>
+			</Spanning>
+		</GroupFormationBlock>
+		<GroupFormationBlock BlockId="4">
+			<ContainerRelative BlockPriority="0.83" EntityArrangement="Line" InterEntitySpacing="2.0" RelativeBlockId="3" PositionX="-5.0" PositionY="10.0">
+				<EntityPreference Priority="1.0" EntityDescription="infantry_light"/>
+			</ContainerRelative>
+		</GroupFormationBlock>
+		<GroupFormationBlock BlockId="5">
+			<ContainerRelative BlockPriority="0.83" EntityArrangement="Line" InterEntitySpacing="2.0" RelativeBlockId="4" PositionX="-5.0" PositionY="0.0">
+				<EntityPreference Priority="1.0" EntityDescription="infantry_skirmishers"/>
+				<EntityPreference Priority="0.7" EntityDescription="infantry_irregulars"/>
+			</ContainerRelative>
+		</GroupFormationBlock>
+		<GroupFormationBlock BlockId="6">
+			<ContainerRelative BlockPriority="0.83" EntityArrangement="Line" InterEntitySpacing="2.0" RelativeBlockId="3" PositionX="5.0" PositionY="10.0">
+				<EntityPreference Priority="1.0" EntityDescription="infantry_light"/>
+			</ContainerRelative>
+		</GroupFormationBlock>
+		<GroupFormationBlock BlockId="7">
+			<ContainerRelative BlockPriority="0.83" EntityArrangement="Line" InterEntitySpacing="2.0" RelativeBlockId="6" PositionX="5.0" PositionY="0.0">
+				<EntityPreference Priority="1.0" EntityDescription="infantry_skirmishers"/>
+				<EntityPreference Priority="0.7" EntityDescription="infantry_irregulars"/>
+			</ContainerRelative>
+		</GroupFormationBlock>
+		<GroupFormationBlock BlockId="8">
+			<ContainerRelative BlockPriority="0.9" EntityArrangement="Line" InterEntitySpacing="2.0" RelativeBlockId="3" PositionX="0.0" PositionY="-10.0">
+				<EntityPreference Priority="1.0" EntityDescription="general"/>
+			</ContainerRelative>
+		</GroupFormationBlock>
+		<GroupFormationBlock BlockId="9">
+			<ContainerRelative BlockPriority="0.6" EntityArrangement="Line" InterEntitySpacing="2.0" RelativeBlockId="8" PositionX="0.0" PositionY="-10.0">
+				<EntityPreference Priority="0.01" EntityDescription="any"/>
+			</ContainerRelative>
+		</GroupFormationBlock>
+		<GroupFormationBlock BlockId="10">
+			<ContainerRelative BlockPriority="0.86" EntityArrangement="Line" InterEntitySpacing="2.0" RelativeBlockId="8" PositionX="-5.0" PositionY="0.0">
+				<EntityPreference Priority="1.0" EntityDescription="cavalry_heavy"/>
+				<EntityPreference Priority="1.0" EntityDescription="elephants"/>
+				<EntityPreference Priority="1.0" EntityDescription="cavalry_standard"/>
+			</ContainerRelative>
+		</GroupFormationBlock>
+		<GroupFormationBlock BlockId="11">
+			<ContainerRelative BlockPriority="0.86" EntityArrangement="Line" InterEntitySpacing="2.0" RelativeBlockId="10" PositionX="-5.0" PositionY="0.0">
+				<EntityPreference Priority="1.0" EntityDescription="cavalry_lancers"/>
+				<EntityPreference Priority="1.0" EntityDescription="cavalry_camels"/>
+				<EntityPreference Priority="1.0" EntityDescription="cavalry_light"/>
+				<EntityPreference Priority="1.0" EntityDescription="cavalry_irregular"/>
+			</ContainerRelative>
+		</GroupFormationBlock>
+		<GroupFormationBlock BlockId="12">
+			<ContainerRelative BlockPriority="0.86" EntityArrangement="Line" InterEntitySpacing="2.0" RelativeBlockId="8" PositionX="5.0" PositionY="0.0">
+				<EntityPreference Priority="1.0" EntityDescription="cavalry_heavy"/>
+				<EntityPreference Priority="1.0" EntityDescription="elephants"/>
+				<EntityPreference Priority="1.0" EntityDescription="cavalry_standard"/>
+			</ContainerRelative>
+		</GroupFormationBlock>
+		<GroupFormationBlock BlockId="13">
+			<ContainerRelative BlockPriority="0.86" EntityArrangement="Line" InterEntitySpacing="2.0" RelativeBlockId="12" PositionX="5.0" PositionY="0.0">
+				<EntityPreference Priority="1.0" EntityDescription="cavalry_lancers"/>
+				<EntityPreference Priority="1.0" EntityDescription="cavalry_camels"/>
+				<EntityPreference Priority="1.0" EntityDescription="cavalry_light"/>
+				<EntityPreference Priority="1.0" EntityDescription="cavalry_irregular"/>
+			</ContainerRelative>
+		</GroupFormationBlock>
+		<GroupFormationBlock BlockId="14">
+			<ContainerRelative BlockPriority="0.83" EntityArrangement="Line" InterEntitySpacing="2.0" RelativeBlockId="4" PositionX="0.0" PositionY="-20.0">
+				<EntityPreference Priority="0.9" EntityDescription="cavalry_missile"/>
+				<EntityPreference Priority="0.9" EntityDescription="dragoons"/>
+			</ContainerRelative>
+		</GroupFormationBlock>
+		<GroupFormationBlock BlockId="15">
+			<ContainerRelative BlockPriority="0.83" EntityArrangement="Line" InterEntitySpacing="2.0" RelativeBlockId="5" PositionX="5.0" PositionY="-20.0">
+				<EntityPreference Priority="0.9" EntityDescription="cavalry_missile"/>
+				<EntityPreference Priority="0.9" EntityDescription="dragoons"/>
+			</ContainerRelative>
+		</GroupFormationBlock>
+	</GroupFormation>
+
+	<GroupFormation FormationName="Triple Line Integrated Artillery">
+
+		<AiPriority>0.7</AiPriority>
+		<AiPurpose>Defend</AiPurpose>
+		<MinInfantryPercentage>30</MinInfantryPercentage>
+		<MinArtilleryPercentage>20</MinArtilleryPercentage>
+
+		<GroupFormationBlock BlockId="0">
+			<ContainerAbsolute BlockPriority="0.8" EntityArrangement="Line" InterEntitySpacing="2.0" PositionX="0.0" PositionY="0.0">
+				<EntityPreference Priority="1.0" EntityDescription="infantry_elite"/>
+				<EntityPreference Priority="1.0" EntityDescription="infantry_grenadiers"/>
+				<EntityPreference Priority="1.0" EntityDescription="infantry_line"/>
+				<EntityPreference Priority="0.9" EntityDescription="infantry_melee"/>
+				<EntityPreference Priority="0.9" EntityDescription="infantry_berserker"/>
+				<EntityPreference Priority="0.8" EntityDescription="infantry_militia"/>
+				<EntityPreference Priority="0.7" EntityDescription="infantry_mob"/>
+			</ContainerAbsolute>
+		</GroupFormationBlock>
+		<GroupFormationBlock BlockId="1">
+			<ContainerRelative BlockPriority="0.8" EntityArrangement="Line" InterEntitySpacing="6.0" RelativeBlockId="0" PositionX="-5.0" PositionY="0.0" MaximumEntityThreshold="2">
+				<EntityPreference Priority="1.0" EntityDescription="artillery_fixed"/>
+				<EntityPreference Priority="1.0" EntityDescription="artillery_foot"/>
+				<EntityPreference Priority="1.0" EntityDescription="artillery_horse"/>
+			</ContainerRelative>
+		</GroupFormationBlock>
+		<GroupFormationBlock BlockId="2">
+			<ContainerRelative BlockPriority="0.8" EntityArrangement="Line" InterEntitySpacing="6.0" RelativeBlockId="0" PositionX="5.0" PositionY="0.0" MaximumEntityThreshold="2">
+				<EntityPreference Priority="1.0" EntityDescription="artillery_fixed"/>
+				<EntityPreference Priority="1.0" EntityDescription="artillery_foot"/>
+				<EntityPreference Priority="1.0" EntityDescription="artillery_horse"/>
+			</ContainerRelative>
+		</GroupFormationBlock>
+		<GroupFormationBlock BlockId="3">
+			<ContainerRelative BlockPriority="0.8" EntityArrangement="Line" InterEntitySpacing="2.0" RelativeBlockId="1" PositionX="-5.0" PositionY="0.0" MaximumEntityThreshold="2">
+				<EntityPreference Priority="1.0" EntityDescription="infantry_elite"/>
+				<EntityPreference Priority="1.0" EntityDescription="infantry_grenadiers"/>
+				<EntityPreference Priority="1.0" EntityDescription="infantry_line"/>
+				<EntityPreference Priority="0.9" EntityDescription="infantry_melee"/>
+				<EntityPreference Priority="0.9" EntityDescription="infantry_berserker"/>
+				<EntityPreference Priority="0.8" EntityDescription="infantry_militia"/>
+				<EntityPreference Priority="0.7" EntityDescription="infantry_mob"/>
+			</ContainerRelative>
+		</GroupFormationBlock>
+		<GroupFormationBlock BlockId="4">
+			<ContainerRelative BlockPriority="0.8" EntityArrangement="Line" InterEntitySpacing="2.0" RelativeBlockId="2" PositionX="5.0" PositionY="0.0" MaximumEntityThreshold="2">
+				<EntityPreference Priority="1.0" EntityDescription="infantry_elite"/>
+				<EntityPreference Priority="1.0" EntityDescription="infantry_grenadiers"/>
+				<EntityPreference Priority="1.0" EntityDescription="infantry_line"/>
+				<EntityPreference Priority="0.9" EntityDescription="infantry_melee"/>
+				<EntityPreference Priority="0.9" EntityDescription="infantry_berserker"/>
+				<EntityPreference Priority="0.8" EntityDescription="infantry_militia"/>
+				<EntityPreference Priority="0.7" EntityDescription="infantry_mob"/>				
+			</ContainerRelative>
+		</GroupFormationBlock>
+		<GroupFormationBlock BlockId="5">
+			<ContainerRelative BlockPriority="0.8" EntityArrangement="Line" InterEntitySpacing="6.0" RelativeBlockId="3" PositionX="-5.0" PositionY="0.0">
+				<EntityPreference Priority="1.0" EntityDescription="artillery_fixed"/>
+				<EntityPreference Priority="1.0" EntityDescription="artillery_foot"/>
+				<EntityPreference Priority="1.0" EntityDescription="artillery_horse"/>
+			</ContainerRelative>
+		</GroupFormationBlock>
+		<GroupFormationBlock BlockId="6">
+			<ContainerRelative BlockPriority="0.8" EntityArrangement="Line" InterEntitySpacing="6.0" RelativeBlockId="4" PositionX="5.0" PositionY="0.0">
+				<EntityPreference Priority="1.0" EntityDescription="artillery_fixed"/>
+				<EntityPreference Priority="1.0" EntityDescription="artillery_foot"/>
+				<EntityPreference Priority="1.0" EntityDescription="artillery_horse"/>
+			</ContainerRelative>
+		</GroupFormationBlock>
+		<GroupFormationBlock BlockId="7">
+			<ContainerRelative BlockPriority="0.7" EntityArrangement="Line" InterEntitySpacing="2.0" RelativeBlockId="5" PositionX="-5.0" PositionY="0.0">
+				<EntityPreference Priority="1.0" EntityDescription="infantry_elite"/>
+				<EntityPreference Priority="1.0" EntityDescription="infantry_grenadiers"/>
+				<EntityPreference Priority="0.9" EntityDescription="infantry_line"/>
+				<EntityPreference Priority="0.9" EntityDescription="infantry_melee"/>
+				<EntityPreference Priority="0.9" EntityDescription="infantry_berserker"/>
+				<EntityPreference Priority="0.8" EntityDescription="infantry_militia"/>
+				<EntityPreference Priority="0.7" EntityDescription="infantry_mob"/>
+			</ContainerRelative>
+		</GroupFormationBlock>
+		<GroupFormationBlock BlockId="8">
+			<ContainerRelative BlockPriority="0.7" EntityArrangement="Line" InterEntitySpacing="2.0" RelativeBlockId="6" PositionX="5.0" PositionY="0.0">
+				<EntityPreference Priority="1.0" EntityDescription="infantry_elite"/>
+				<EntityPreference Priority="1.0" EntityDescription="infantry_grenadiers"/>
+				<EntityPreference Priority="0.9" EntityDescription="infantry_line"/>
+				<EntityPreference Priority="0.9" EntityDescription="infantry_melee"/>
+				<EntityPreference Priority="0.9" EntityDescription="infantry_berserker"/>
+				<EntityPreference Priority="0.8" EntityDescription="infantry_militia"/>
+				<EntityPreference Priority="0.7" EntityDescription="infantry_mob"/>
+			</ContainerRelative>
+		</GroupFormationBlock>
+		<GroupFormationBlock BlockId="9">
+			<Spanning>
+				<SpannedBlockId>0</SpannedBlockId>
+				<SpannedBlockId>1</SpannedBlockId>
+				<SpannedBlockId>2</SpannedBlockId>
+				<SpannedBlockId>3</SpannedBlockId>
+				<SpannedBlockId>4</SpannedBlockId>
+				<SpannedBlockId>5</SpannedBlockId>
+				<SpannedBlockId>6</SpannedBlockId>
+				<SpannedBlockId>7</SpannedBlockId>
+				<SpannedBlockId>8</SpannedBlockId>
+			</Spanning>
+		</GroupFormationBlock>
+		<GroupFormationBlock BlockId="10">
+			<ContainerRelative BlockPriority="0.7" EntityArrangement="Line" InterEntitySpacing="2.0" RelativeBlockId="9" PositionX="-5.0" PositionY="10.0">
+				<EntityPreference Priority="1.0" EntityDescription="infantry_light"/>
+			</ContainerRelative>
+		</GroupFormationBlock>		
+		<GroupFormationBlock BlockId="11">
+			<ContainerRelative BlockPriority="0.7" EntityArrangement="Line" InterEntitySpacing="2.0" RelativeBlockId="10" PositionX="-5.0" PositionY="10.0">
+				<EntityPreference Priority="1.0" EntityDescription="infantry_skirmishers"/>
+				<EntityPreference Priority="0.8" EntityDescription="infantry_irregulars"/>
+			</ContainerRelative>
+		</GroupFormationBlock>	
+		<GroupFormationBlock BlockId="12">
+			<ContainerRelative BlockPriority="0.7" EntityArrangement="Line" InterEntitySpacing="2.0" RelativeBlockId="9" PositionX="5.0" PositionY="10.0">
+				<EntityPreference Priority="1.0" EntityDescription="infantry_light"/>
+			</ContainerRelative>
+		</GroupFormationBlock>	
+		<GroupFormationBlock BlockId="13">
+			<ContainerRelative BlockPriority="0.7" EntityArrangement="Line" InterEntitySpacing="2.0" RelativeBlockId="12" PositionX="5.0" PositionY="10.0">
+				<EntityPreference Priority="1.0" EntityDescription="infantry_skirmishers"/>
+				<EntityPreference Priority="0.8" EntityDescription="infantry_irregulars"/>
+			</ContainerRelative>
+		</GroupFormationBlock>			
+		<GroupFormationBlock BlockId="14">
+			<ContainerRelative BlockPriority="0.3" EntityArrangement="Line" InterEntitySpacing="2.0" RelativeBlockId="9" PositionX="0.0" PositionY="-10.0">
+				<EntityPreference Priority="1.0" EntityDescription="general"/>
+				<EntityPreference Priority="0.01" EntityDescription="any"/>
+			</ContainerRelative>
+		</GroupFormationBlock>
+		<GroupFormationBlock BlockId="15">
+			<ContainerRelative BlockPriority="0.35" EntityArrangement="Line" InterEntitySpacing="2.0" RelativeBlockId="9" PositionX="-5.0" PositionY="-10.0">
+				<EntityPreference Priority="1.0" EntityDescription="cavalry_heavy"/>
+				<EntityPreference Priority="1.0" EntityDescription="elephants"/>
+				<EntityPreference Priority="0.9" EntityDescription="cavalry_standard"/>
+			</ContainerRelative>
+		</GroupFormationBlock>
+		<GroupFormationBlock BlockId="16">
+			<ContainerRelative BlockPriority="0.35" EntityArrangement="Line" InterEntitySpacing="2.0" RelativeBlockId="15" PositionX="-5.0" PositionY="0.0">
+				<EntityPreference Priority="0.9" EntityDescription="cavalry_lancers"/>
+				<EntityPreference Priority="0.9" EntityDescription="cavalry_camels"/>
+				<EntityPreference Priority="0.9" EntityDescription="cavalry_light"/>
+				<EntityPreference Priority="0.9" EntityDescription="cavalry_irregular"/>
+			</ContainerRelative>
+		</GroupFormationBlock>
+		<GroupFormationBlock BlockId="17">
+			<ContainerRelative BlockPriority="0.35" EntityArrangement="Line" InterEntitySpacing="2.0" RelativeBlockId="9" PositionX="5.0" PositionY="-10.0">
+				<EntityPreference Priority="1.0" EntityDescription="cavalry_heavy"/>
+				<EntityPreference Priority="1.0" EntityDescription="elephants"/>
+				<EntityPreference Priority="0.9" EntityDescription="cavalry_standard"/>
+			</ContainerRelative>
+		</GroupFormationBlock>
+		<GroupFormationBlock BlockId="18">
+			<ContainerRelative BlockPriority="0.35" EntityArrangement="Line" InterEntitySpacing="2.0" RelativeBlockId="17" PositionX="5.0" PositionY="0.0">
+				<EntityPreference Priority="0.9" EntityDescription="cavalry_lancers"/>
+				<EntityPreference Priority="0.9" EntityDescription="cavalry_camels"/>
+				<EntityPreference Priority="0.9" EntityDescription="cavalry_light"/>
+				<EntityPreference Priority="0.9" EntityDescription="cavalry_irregular"/>
+			</ContainerRelative>
+		</GroupFormationBlock>
+		<GroupFormationBlock BlockId="19">
+			<ContainerRelative BlockPriority="0.35" EntityArrangement="Line" InterEntitySpacing="2.0" RelativeBlockId="16" PositionX="-5.0" PositionY="10.0">
+				<EntityPreference Priority="1.0" EntityDescription="cavalry_missile"/>
+				<EntityPreference Priority="0.9" EntityDescription="dragoons"/>
+			</ContainerRelative>
+		</GroupFormationBlock>
+		<GroupFormationBlock BlockId="20">
+			<ContainerRelative BlockPriority="0.35" EntityArrangement="Line" InterEntitySpacing="2.0" RelativeBlockId="18" PositionX="5.0" PositionY="10.0">
+				<EntityPreference Priority="1.0" EntityDescription="cavalry_missile"/>
+				<EntityPreference Priority="0.9" EntityDescription="dragoons"/>
+			</ContainerRelative>
+		</GroupFormationBlock>
+	</GroupFormation>
+
+	<GroupFormation FormationName="Triple Line Grand Battery">
+
+		<AiPriority>0.7</AiPriority>
+		<AiPurpose>Defend</AiPurpose>
+		<MinArtilleryPercentage>30</MinArtilleryPercentage>
+
+		<GroupFormationBlock BlockId="0">
+			<ContainerAbsolute BlockPriority="1.6" EntityArrangement="Line" InterEntitySpacing="6.0" PositionX="0.0" PositionY="0.0">
+				<EntityPreference Priority="1.0" EntityDescription="artillery_fixed"/>
+				<EntityPreference Priority="1.0" EntityDescription="artillery_foot"/>
+				<EntityPreference Priority="1.0" EntityDescription="artillery_horse"/>
+			</ContainerAbsolute>
+		</GroupFormationBlock>		
+		<GroupFormationBlock BlockId="1">
+			<ContainerRelative BlockPriority="1.0" EntityArrangement="Line" InterEntitySpacing="6.0" RelativeBlockId="0" PositionX="0.0" PositionY="-10.0">
+				<EntityPreference Priority="1.0" EntityDescription="infantry_melee"/>
+				<EntityPreference Priority="1.0" EntityDescription="infantry_berserker"/>
+				<EntityPreference Priority="1.0" EntityDescription="infantry_elite"/>
+				<EntityPreference Priority="1.0" EntityDescription="infantry_grenadiers"/>
+				<EntityPreference Priority="1.0" EntityDescription="infantry_line"/>
+				<EntityPreference Priority="1.0" EntityDescription="infantry_militia"/>
+				<EntityPreference Priority="1.0" EntityDescription="infantry_mob"/>
+			</ContainerRelative>
+		</GroupFormationBlock>
+		<GroupFormationBlock BlockId="2">
+			<ContainerRelative BlockPriority="1.0" EntityArrangement="Line" InterEntitySpacing="2.0" RelativeBlockId="0" PositionX="-5.0" PositionY="0.0">
+				<EntityPreference Priority="1.0" EntityDescription="infantry_light"/>
+			</ContainerRelative>
+		</GroupFormationBlock>
+		<GroupFormationBlock BlockId="3">
+			<ContainerRelative BlockPriority="1.0" EntityArrangement="Line" InterEntitySpacing="2.0" RelativeBlockId="2" PositionX="-5.0" PositionY="0.0">
+				<EntityPreference Priority="1.0" EntityDescription="infantry_skirmishers"/>
+				<EntityPreference Priority="1.0" EntityDescription="infantry_irregulars"/>
+			</ContainerRelative>
+		</GroupFormationBlock>
+		<GroupFormationBlock BlockId="4">
+			<ContainerRelative BlockPriority="1.0" EntityArrangement="Line" InterEntitySpacing="2.0" RelativeBlockId="0" PositionX="5.0" PositionY="0.0">
+				<EntityPreference Priority="1.0" EntityDescription="infantry_light"/>
+			</ContainerRelative>
+		</GroupFormationBlock>
+		<GroupFormationBlock BlockId="5">
+			<ContainerRelative BlockPriority="1.0" EntityArrangement="Line" InterEntitySpacing="2.0" RelativeBlockId="4" PositionX="5.0" PositionY="0.0">
+				<EntityPreference Priority="1.0" EntityDescription="infantry_skirmishers"/>
+				<EntityPreference Priority="1.0" EntityDescription="infantry_irregulars"/>
+			</ContainerRelative>
+		</GroupFormationBlock>
+		<GroupFormationBlock BlockId="6">
+			<Spanning>
+				<SpannedBlockId>0</SpannedBlockId>
+				<SpannedBlockId>1</SpannedBlockId>
+				<SpannedBlockId>2</SpannedBlockId>
+				<SpannedBlockId>3</SpannedBlockId>
+				<SpannedBlockId>4</SpannedBlockId>
+				<SpannedBlockId>5</SpannedBlockId>
+			</Spanning>
+		</GroupFormationBlock>
+		<GroupFormationBlock BlockId="7">
+			<ContainerRelative BlockPriority="0.7" EntityArrangement="Line" InterEntitySpacing="2.0" RelativeBlockId="6" PositionX="0.0" PositionY="-25.0">
+				<EntityPreference Priority="1.0" EntityDescription="general"/>
+				<EntityPreference Priority="0.01" EntityDescription="any"/>
+			</ContainerRelative>
+		</GroupFormationBlock>
+		<GroupFormationBlock BlockId="8">
+			<ContainerRelative BlockPriority="0.3" EntityArrangement="Line" InterEntitySpacing="2.0" RelativeBlockId="7" PositionX="0.0" PositionY="-10.0">
+				<EntityPreference Priority="0.01" EntityDescription="any"/>
+			</ContainerRelative>
+		</GroupFormationBlock>
+		<GroupFormationBlock BlockId="9">
+			<ContainerRelative BlockPriority="1.0" EntityArrangement="Line" InterEntitySpacing="2.0" RelativeBlockId="6" PositionX="-5.0" PositionY="-10.0">
+				<EntityPreference Priority="1.0" EntityDescription="cavalry_heavy"/>
+				<EntityPreference Priority="1.0" EntityDescription="cavalry_standard"/>
+			</ContainerRelative>
+		</GroupFormationBlock>
+		<GroupFormationBlock BlockId="10">
+			<ContainerRelative BlockPriority="1.0" EntityArrangement="Line" InterEntitySpacing="2.0" RelativeBlockId="9" PositionX="-5.0" PositionY="0.0">
+				<EntityPreference Priority="1.0" EntityDescription="cavalry_lancers"/>
+				<EntityPreference Priority="1.0" EntityDescription="cavalry_camels"/>
+				<EntityPreference Priority="1.0" EntityDescription="cavalry_light"/>
+				<EntityPreference Priority="1.0" EntityDescription="cavalry_irregular"/>
+			</ContainerRelative>
+		</GroupFormationBlock>
+		<GroupFormationBlock BlockId="11">
+			<ContainerRelative BlockPriority="1.0" EntityArrangement="Line" InterEntitySpacing="2.0" RelativeBlockId="6" PositionX="5.0" PositionY="-10.0">
+				<EntityPreference Priority="1.0" EntityDescription="cavalry_heavy"/>
+				<EntityPreference Priority="1.0" EntityDescription="cavalry_standard"/>
+			</ContainerRelative>
+		</GroupFormationBlock>
+		<GroupFormationBlock BlockId="12">
+			<ContainerRelative BlockPriority="1.0" EntityArrangement="Line" InterEntitySpacing="2.0" RelativeBlockId="11" PositionX="5.0" PositionY="0.0">
+				<EntityPreference Priority="1.0" EntityDescription="cavalry_lancers"/>
+				<EntityPreference Priority="1.0" EntityDescription="cavalry_camels"/>
+				<EntityPreference Priority="1.0" EntityDescription="cavalry_light"/>
+				<EntityPreference Priority="1.0" EntityDescription="cavalry_irregular"/>
+			</ContainerRelative>
+		</GroupFormationBlock>
+		<GroupFormationBlock BlockId="13">
+			<ContainerRelative BlockPriority="1.0" EntityArrangement="Line" InterEntitySpacing="2.0" RelativeBlockId="10" PositionX="-5.0" PositionY="0.0">
+				<EntityPreference Priority="1.0" EntityDescription="cavalry_missile"/>
+				<EntityPreference Priority="1.0" EntityDescription="dragoons"/>
+			</ContainerRelative>
+		</GroupFormationBlock>
+		<GroupFormationBlock BlockId="14">
+			<ContainerRelative BlockPriority="1.0" EntityArrangement="Line" InterEntitySpacing="2.0" RelativeBlockId="12" PositionX="5.0" PositionY="0.0">
+				<EntityPreference Priority="1.0" EntityDescription="cavalry_missile"/>
+				<EntityPreference Priority="1.0" EntityDescription="dragoons"/>
+			</ContainerRelative>
+		</GroupFormationBlock>
+	</GroupFormation>
+
+	<GroupFormation FormationName="Column Infantry Vanguard">
+
+		<AiPriority>0.1</AiPriority>
+		<AiPurpose>River_Attack</AiPurpose>
+		<MinInfantryPercentage>30</MinInfantryPercentage>
+
+		<GroupFormationBlock BlockId="0">
+			<ContainerAbsolute BlockPriority="1.1" EntityArrangement="Column" InterEntitySpacing="2.0" PositionX="0.0" PositionY="0.0">
+				<EntityPreference Priority="1.0" EntityDescription="infantry_elite"/>
+				<EntityPreference Priority="1.0" EntityDescription="infantry_grenadiers"/>
+			</ContainerAbsolute>
+		</GroupFormationBlock>
+		<GroupFormationBlock BlockId="1">
+			<ContainerRelative BlockPriority="1.1" EntityArrangement="Column" InterEntitySpacing="2.0" RelativeBlockId="0" PositionX="0.0" PositionY="-2.0">
+				<EntityPreference Priority="1.0" EntityDescription="infantry_line"/>
+			</ContainerRelative>
+		</GroupFormationBlock>
+		<GroupFormationBlock BlockId="2">
+			<ContainerRelative BlockPriority="1.1" EntityArrangement="Column" InterEntitySpacing="2.0" RelativeBlockId="1" PositionX="0.0" PositionY="-2.0">
+				<EntityPreference Priority="1.0" EntityDescription="infantry_melee"/>
+				<EntityPreference Priority="1.0" EntityDescription="infantry_berserker"/>
+			</ContainerRelative>
+		</GroupFormationBlock>
+		<GroupFormationBlock BlockId="3">
+			<ContainerRelative BlockPriority="1.1" EntityArrangement="Column" InterEntitySpacing="2.0" RelativeBlockId="2" PositionX="0.0" PositionY="-2.0">
+				<EntityPreference Priority="1.0" EntityDescription="infantry_militia"/>
+				<EntityPreference Priority="1.0" EntityDescription="infantry_mob"/>
+				<EntityPreference Priority="1.0" EntityDescription="infantry_irregulars"/>
+			</ContainerRelative>
+		</GroupFormationBlock>
+		<GroupFormationBlock BlockId="4">
+			<ContainerRelative BlockPriority="1.1" EntityArrangement="Column" InterEntitySpacing="2.0" RelativeBlockId="3" PositionX="0.0" PositionY="-2.0">
+				<EntityPreference Priority="1.0" EntityDescription="infantry_light"/>
+				<EntityPreference Priority="1.0" EntityDescription="infantry_skirmishers"/>
+			</ContainerRelative>
+		</GroupFormationBlock>
+		<GroupFormationBlock BlockId="5">
+			<Spanning>
+				<SpannedBlockId>0</SpannedBlockId>
+				<SpannedBlockId>1</SpannedBlockId>
+				<SpannedBlockId>2</SpannedBlockId>
+				<SpannedBlockId>3</SpannedBlockId>
+				<SpannedBlockId>4</SpannedBlockId>
+			</Spanning>
+		</GroupFormationBlock>
+		<GroupFormationBlock BlockId="6">
+			<ContainerRelative BlockPriority="1.1" EntityArrangement="Column" InterEntitySpacing="2.0" RelativeBlockId="4" PositionX="0.0" PositionY="-5.0">
+				<EntityPreference Priority="1.0" EntityDescription="cavalry_heavy"/>
+				<EntityPreference Priority="1.0" EntityDescription="cavalry_standard"/>
+				<EntityPreference Priority="1.0" EntityDescription="cavalry_lancers"/>
+				<EntityPreference Priority="1.0" EntityDescription="cavalry_camels"/>
+				<EntityPreference Priority="1.0" EntityDescription="cavalry_light"/>
+				<EntityPreference Priority="1.0" EntityDescription="cavalry_irregular"/>
+				<EntityPreference Priority="1.0" EntityDescription="cavalry_missile"/>
+				<EntityPreference Priority="1.0" EntityDescription="dragoons"/>
+				<EntityPreference Priority="1.0" EntityDescription="elephants"/>
+			</ContainerRelative>
+		</GroupFormationBlock>
+		<GroupFormationBlock BlockId="7">
+			<ContainerRelative BlockPriority="1.0" EntityArrangement="Line" InterEntitySpacing="6.0" RelativeBlockId="6" PositionX="-5.0" PositionY="0.0">
+				<EntityPreference Priority="1.0" EntityDescription="artillery_fixed"/>
+				<EntityPreference Priority="1.0" EntityDescription="artillery_foot"/>
+				<EntityPreference Priority="1.0" EntityDescription="artillery_horse"/>
+			</ContainerRelative>
+		</GroupFormationBlock>
+		<GroupFormationBlock BlockId="8">
+			<ContainerRelative BlockPriority="1.0" EntityArrangement="Line" InterEntitySpacing="6.0" RelativeBlockId="6" PositionX="5.0" PositionY="0.0">
+				<EntityPreference Priority="1.0" EntityDescription="artillery_fixed"/>
+				<EntityPreference Priority="1.0" EntityDescription="artillery_foot"/>
+				<EntityPreference Priority="1.0" EntityDescription="artillery_horse"/>
+			</ContainerRelative>
+		</GroupFormationBlock>
+		<GroupFormationBlock BlockId="9">
+			<Spanning>
+				<SpannedBlockId>6</SpannedBlockId>
+				<SpannedBlockId>7</SpannedBlockId>
+				<SpannedBlockId>8</SpannedBlockId>
+			</Spanning>
+		</GroupFormationBlock>
+		<GroupFormationBlock BlockId="10">
+			<ContainerRelative BlockPriority="1.1" EntityArrangement="Column" InterEntitySpacing="2.0" RelativeBlockId="9" PositionX="0.0" PositionY="-5.0">
+				<EntityPreference Priority="1.0" EntityDescription="general"/>
+				<EntityPreference Priority="0.01" EntityDescription="any"/>
+			</ContainerRelative>
+		</GroupFormationBlock>
+	</GroupFormation>
+
+	<GroupFormation FormationName="Ambush Column">
+
+		<AiPriority>0.1</AiPriority>
+		<AiPurpose>River_Attack</AiPurpose>
+		<MinInfantryPercentage>30</MinInfantryPercentage>
+
+		<GroupFormationBlock BlockId="0">
+			<ContainerAbsolute BlockPriority="1.1" EntityArrangement="Column" InterEntitySpacing="2.0" PositionX="0.0" PositionY="0.0">
+				<EntityPreference Priority="1.0" EntityDescription="infantry_elite"/>
+				<EntityPreference Priority="1.0" EntityDescription="infantry_grenadiers"/>
+			</ContainerAbsolute>
+		</GroupFormationBlock>
+		<GroupFormationBlock BlockId="1">
+			<ContainerRelative BlockPriority="1.1" EntityArrangement="Column" InterEntitySpacing="2.0" RelativeBlockId="0" PositionX="0.0" PositionY="-2.0">
+				<EntityPreference Priority="1.0" EntityDescription="infantry_line"/>
+			</ContainerRelative>
+		</GroupFormationBlock>
+		<GroupFormationBlock BlockId="2">
+			<ContainerRelative BlockPriority="1.1" EntityArrangement="Column" InterEntitySpacing="2.0" RelativeBlockId="1" PositionX="0.0" PositionY="-2.0">
+				<EntityPreference Priority="1.0" EntityDescription="infantry_melee"/>
+				<EntityPreference Priority="1.0" EntityDescription="infantry_berserker"/>
+			</ContainerRelative>
+		</GroupFormationBlock>
+		<GroupFormationBlock BlockId="3">
+			<ContainerRelative BlockPriority="1.1" EntityArrangement="Column" InterEntitySpacing="2.0" RelativeBlockId="2" PositionX="0.0" PositionY="-2.0">
+				<EntityPreference Priority="1.0" EntityDescription="infantry_militia"/>
+				<EntityPreference Priority="1.0" EntityDescription="infantry_mob"/>
+				<EntityPreference Priority="1.0" EntityDescription="infantry_irregulars"/>
+			</ContainerRelative>
+		</GroupFormationBlock>
+		<GroupFormationBlock BlockId="4">
+			<ContainerRelative BlockPriority="1.1" EntityArrangement="Column" InterEntitySpacing="2.0" RelativeBlockId="3" PositionX="0.0" PositionY="-2.0">
+				<EntityPreference Priority="1.0" EntityDescription="infantry_light"/>
+				<EntityPreference Priority="1.0" EntityDescription="infantry_skirmishers"/>
+			</ContainerRelative>
+		</GroupFormationBlock>
+		<GroupFormationBlock BlockId="5">
+			<ContainerRelative BlockPriority="1.0" EntityArrangement="Column" InterEntitySpacing="6.0" RelativeBlockId="4" PositionX="0.0" PositionY="-5.0">
+				<EntityPreference Priority="1.0" EntityDescription="artillery_fixed"/>
+				<EntityPreference Priority="1.0" EntityDescription="artillery_foot"/>
+				<EntityPreference Priority="1.0" EntityDescription="artillery_horse"/>
+			</ContainerRelative>
+		</GroupFormationBlock>
+		<GroupFormationBlock BlockId="6">
+			<ContainerRelative BlockPriority="1.1" EntityArrangement="Column" InterEntitySpacing="2.0" RelativeBlockId="5" PositionX="0.0" PositionY="-5.0">
+				<EntityPreference Priority="1.0" EntityDescription="cavalry_heavy"/>
+				<EntityPreference Priority="1.0" EntityDescription="cavalry_standard"/>
+				<EntityPreference Priority="1.0" EntityDescription="cavalry_lancers"/>
+				<EntityPreference Priority="1.0" EntityDescription="cavalry_camels"/>
+				<EntityPreference Priority="1.0" EntityDescription="cavalry_light"/>
+				<EntityPreference Priority="1.0" EntityDescription="cavalry_irregular"/>
+				<EntityPreference Priority="1.0" EntityDescription="cavalry_missile"/>
+				<EntityPreference Priority="1.0" EntityDescription="dragoons"/>
+				<EntityPreference Priority="1.0" EntityDescription="elephants"/>
+			</ContainerRelative>
+		</GroupFormationBlock>
+		<GroupFormationBlock BlockId="7">
+			<ContainerRelative BlockPriority="1.1" EntityArrangement="Column" InterEntitySpacing="2.0" RelativeBlockId="6" PositionX="0.0" PositionY="-5.0">
+				<EntityPreference Priority="1.0" EntityDescription="general"/>
+				<EntityPreference Priority="0.0001" EntityDescription="any"/>
+			</ContainerRelative>
+		</GroupFormationBlock>
+	</GroupFormation>
+	
+	<GroupFormation FormationName="Middle Eastern Mixed">
+	
+		<AiPriority>1.0</AiPriority>
+		<AiPurpose>Attack</AiPurpose>
+		<AiPurpose>Defend</AiPurpose>
+		<AiSupportedFaction>egy_bedouin</AiSupportedFaction>	
+		<AiSupportedFaction>egy_mamelukes</AiSupportedFaction>	
+		<AiSupportedFaction>egy_ottomans</AiSupportedFaction>	
+		<AiSupportedFaction>ottoman_rebels</AiSupportedFaction>	
+		<AiSupportedFaction>ottomans</AiSupportedFaction>	
+
+		<GroupFormationBlock BlockId="0">
+			<ContainerAbsolute BlockPriority="1.3" EntityArrangement="Line" InterEntitySpacing="2.0" PositionX="0.0" PositionY="0.0">
+				<EntityPreference Priority="1.0" EntityDescription="infantry_melee"/>
+				<EntityPreference Priority="1.0" EntityDescription="infantry_berserker"/>
+				<EntityPreference Priority="0.7" EntityDescription="infantry_militia"/>
+				<EntityPreference Priority="0.6" EntityDescription="infantry_mob"/>
+				<EntityPreference Priority="0.7" EntityDescription="infantry_irregulars"/>
+				<EntityPreference Priority="0.6" EntityDescription="infantry_light"/>
+				<EntityPreference Priority="0.6" EntityDescription="infantry_skirmishers"/>
+			</ContainerAbsolute>
+		</GroupFormationBlock>
+		<GroupFormationBlock BlockId="1">
+			<ContainerRelative BlockPriority="1.4" EntityArrangement="Line" InterEntitySpacing="2.0" RelativeBlockId="0" PositionX="0.0" PositionY="-10.0">
+				<EntityPreference Priority="1.0" EntityDescription="infantry_elite"/>
+				<EntityPreference Priority="1.0" EntityDescription="infantry_grenadiers"/>
+				<EntityPreference Priority="1.0" EntityDescription="infantry_line"/>
+			</ContainerRelative>
+		</GroupFormationBlock>
+		<GroupFormationBlock BlockId="2">
+			<Spanning>
+				<SpannedBlockId>0</SpannedBlockId>
+				<SpannedBlockId>1</SpannedBlockId>
+			</Spanning>
+		</GroupFormationBlock>
+		<GroupFormationBlock BlockId="3">
+			<ContainerRelative BlockPriority="0.7" EntityArrangement="Line" InterEntitySpacing="6.0" RelativeBlockId="2" PositionX="-5.0" PositionY="0.0">
+				<EntityPreference Priority="1.0" EntityDescription="artillery_fixed"/>
+				<EntityPreference Priority="1.0" EntityDescription="artillery_foot"/>
+				<EntityPreference Priority="1.0" EntityDescription="artillery_horse"/>
+			</ContainerRelative>
+		</GroupFormationBlock>
+		<GroupFormationBlock BlockId="4">
+			<ContainerRelative BlockPriority="0.7" EntityArrangement="Line" InterEntitySpacing="6.0" RelativeBlockId="2" PositionX="5.0" PositionY="0.0">
+				<EntityPreference Priority="1.0" EntityDescription="artillery_fixed"/>
+				<EntityPreference Priority="1.0" EntityDescription="artillery_foot"/>
+				<EntityPreference Priority="1.0" EntityDescription="artillery_horse"/>
+			</ContainerRelative>
+		</GroupFormationBlock>
+		<GroupFormationBlock BlockId="5">
+			<ContainerRelative BlockPriority="0.9" EntityArrangement="Line" InterEntitySpacing="2.0" RelativeBlockId="3" PositionX="-5.0" PositionY="0.0">
+				<EntityPreference Priority="1.0" EntityDescription="cavalry_heavy"/>
+				<EntityPreference Priority="1.0" EntityDescription="elephants"/>
+				<EntityPreference Priority="1.0" EntityDescription="cavalry_standard"/>
+				<EntityPreference Priority="1.0" EntityDescription="cavalry_lancers"/>
+				<EntityPreference Priority="1.0" EntityDescription="cavalry_camels"/>
+				<EntityPreference Priority="1.0" EntityDescription="cavalry_light"/>
+				<EntityPreference Priority="1.0" EntityDescription="cavalry_irregular"/>
+			</ContainerRelative>
+		</GroupFormationBlock>
+		<GroupFormationBlock BlockId="6">
+			<ContainerRelative BlockPriority="0.9" EntityArrangement="Line" InterEntitySpacing="2.0" RelativeBlockId="4" PositionX="5.0" PositionY="0.0">
+				<EntityPreference Priority="1.0" EntityDescription="cavalry_heavy"/>
+				<EntityPreference Priority="1.0" EntityDescription="elephants"/>
+				<EntityPreference Priority="1.0" EntityDescription="cavalry_standard"/>
+				<EntityPreference Priority="1.0" EntityDescription="cavalry_lancers"/>
+				<EntityPreference Priority="1.0" EntityDescription="cavalry_camels"/>
+				<EntityPreference Priority="1.0" EntityDescription="cavalry_light"/>
+				<EntityPreference Priority="1.0" EntityDescription="cavalry_irregular"/>
+			</ContainerRelative>
+		</GroupFormationBlock>
+		<GroupFormationBlock BlockId="7">
+			<ContainerRelative BlockPriority="0.9" EntityArrangement="Line" InterEntitySpacing="2.0" RelativeBlockId="5" PositionX="0.0" PositionY="-10.0">
+				<EntityPreference Priority="1.0" EntityDescription="cavalry_heavy"/>
+				<EntityPreference Priority="1.0" EntityDescription="elephants"/>
+				<EntityPreference Priority="1.0" EntityDescription="cavalry_standard"/>
+				<EntityPreference Priority="1.0" EntityDescription="cavalry_lancers"/>
+				<EntityPreference Priority="1.0" EntityDescription="cavalry_camels"/>
+				<EntityPreference Priority="1.0" EntityDescription="cavalry_light"/>
+				<EntityPreference Priority="1.0" EntityDescription="cavalry_irregular"/>
+			</ContainerRelative>
+		</GroupFormationBlock>
+		<GroupFormationBlock BlockId="8">
+			<ContainerRelative BlockPriority="0.9" EntityArrangement="Line" InterEntitySpacing="2.0" RelativeBlockId="6" PositionX="0.0" PositionY="-10.0">
+				<EntityPreference Priority="1.0" EntityDescription="cavalry_heavy"/>
+				<EntityPreference Priority="1.0" EntityDescription="elephants"/>
+				<EntityPreference Priority="1.0" EntityDescription="cavalry_standard"/>
+				<EntityPreference Priority="1.0" EntityDescription="cavalry_lancers"/>
+				<EntityPreference Priority="1.0" EntityDescription="cavalry_camels"/>
+				<EntityPreference Priority="1.0" EntityDescription="cavalry_light"/>
+				<EntityPreference Priority="1.0" EntityDescription="cavalry_irregular"/>
+			</ContainerRelative>
+		</GroupFormationBlock>
+		<GroupFormationBlock BlockId="9">
+			<ContainerRelative BlockPriority="0.8" EntityArrangement="Line" InterEntitySpacing="2.0" RelativeBlockId="5" PositionX="-5.0" PositionY="0.0">
+				<EntityPreference Priority="1.0" EntityDescription="cavalry_missile"/>
+				<EntityPreference Priority="1.0" EntityDescription="dragoons"/>
+			</ContainerRelative>
+		</GroupFormationBlock>
+		<GroupFormationBlock BlockId="10">
+			<ContainerRelative BlockPriority="0.8" EntityArrangement="Line" InterEntitySpacing="2.0" RelativeBlockId="6" PositionX="5.0" PositionY="0.0">
+				<EntityPreference Priority="1.0" EntityDescription="cavalry_missile"/>
+				<EntityPreference Priority="1.0" EntityDescription="dragoons"/>
+			</ContainerRelative>
+		</GroupFormationBlock>
+		<GroupFormationBlock BlockId="11">
+			<ContainerRelative BlockPriority="0.6" EntityArrangement="Line" InterEntitySpacing="2.0" RelativeBlockId="1" PositionX="0.0" PositionY="-10.0">
+				<EntityPreference Priority="1.0" EntityDescription="general"/>
+				<EntityPreference Priority="0.01" EntityDescription="any"/>
+			</ContainerRelative>
+		</GroupFormationBlock>	
+	</GroupFormation>		
+
+	<GroupFormation FormationName="Middle Eastern Cav Heavy">
+	
+		<AiPriority>1.0</AiPriority>
+		<AiPurpose>Attack</AiPurpose>
+		<AiPurpose>Defend</AiPurpose>
+		<MinCavalryPercentage>40</MinCavalryPercentage>
+		<AiSupportedFaction>egy_bedouin</AiSupportedFaction>	
+		<AiSupportedFaction>egy_mamelukes</AiSupportedFaction>	
+		<AiSupportedFaction>egy_ottomans</AiSupportedFaction>	
+		<AiSupportedFaction>ottoman_rebels</AiSupportedFaction>	
+		<AiSupportedFaction>ottomans</AiSupportedFaction>	
+
+		<GroupFormationBlock BlockId="0">
+			<ContainerAbsolute BlockPriority="0.7" EntityArrangement="Line" InterEntitySpacing="2.0" PositionX="0.0" PositionY="-40.0">
+				<EntityPreference Priority="0.6" EntityDescription="infantry_militia"/>
+				<EntityPreference Priority="0.6" EntityDescription="infantry_mob"/>
+				<EntityPreference Priority="0.6" EntityDescription="infantry_irregulars"/>
+				<EntityPreference Priority="1.0" EntityDescription="infantry_light"/>
+				<EntityPreference Priority="1.0" EntityDescription="infantry_skirmishers"/>
+			</ContainerAbsolute>
+		</GroupFormationBlock>
+		<GroupFormationBlock BlockId="1">
+			<ContainerRelative BlockPriority="0.8" EntityArrangement="Line" InterEntitySpacing="2.0" RelativeBlockId="0" PositionX="0.0" PositionY="-10.0">
+				<EntityPreference Priority="1.0" EntityDescription="infantry_melee"/>
+				<EntityPreference Priority="1.0" EntityDescription="infantry_berserker"/>
+				<EntityPreference Priority="1.0" EntityDescription="infantry_elite"/>
+				<EntityPreference Priority="1.0" EntityDescription="infantry_grenadiers"/>
+				<EntityPreference Priority="1.0" EntityDescription="infantry_line"/>
+			</ContainerRelative>
+		</GroupFormationBlock>
+		<GroupFormationBlock BlockId="2">
+			<ContainerRelative BlockPriority="0.7" EntityArrangement="Line" InterEntitySpacing="6.0" RelativeBlockId="1" PositionX="-5.0" PositionY="0.0">
+				<EntityPreference Priority="1.0" EntityDescription="artillery_fixed"/>
+				<EntityPreference Priority="1.0" EntityDescription="artillery_foot"/>
+				<EntityPreference Priority="1.0" EntityDescription="artillery_horse"/>
+			</ContainerRelative>
+		</GroupFormationBlock>
+		<GroupFormationBlock BlockId="3">
+			<ContainerRelative BlockPriority="0.7" EntityArrangement="Line" InterEntitySpacing="6.0" RelativeBlockId="1" PositionX="5.0" PositionY="0.0">
+				<EntityPreference Priority="1.0" EntityDescription="artillery_fixed"/>
+				<EntityPreference Priority="1.0" EntityDescription="artillery_foot"/>
+				<EntityPreference Priority="1.0" EntityDescription="artillery_horse"/>
+			</ContainerRelative>
+		</GroupFormationBlock>
+		<GroupFormationBlock BlockId="4">
+			<ContainerRelative BlockPriority="1.0" EntityArrangement="Line" InterEntitySpacing="2.0" RelativeBlockId="2" PositionX="15.0" PositionY="20.0">
+				<EntityPreference Priority="1.0" EntityDescription="cavalry_missile"/>
+				<EntityPreference Priority="1.0" EntityDescription="dragoons"/>
+			</ContainerRelative>
+		</GroupFormationBlock>
+		<GroupFormationBlock BlockId="5">
+			<ContainerRelative BlockPriority="1.0" EntityArrangement="Line" InterEntitySpacing="2.0" RelativeBlockId="3" PositionX="-15.0" PositionY="20.0">
+				<EntityPreference Priority="1.0" EntityDescription="cavalry_missile"/>
+				<EntityPreference Priority="1.0" EntityDescription="dragoons"/>
+			</ContainerRelative>
+		</GroupFormationBlock>
+		<GroupFormationBlock BlockId="6">
+			<ContainerRelative BlockPriority="1.1" EntityArrangement="Line" InterEntitySpacing="2.0" RelativeBlockId="2" PositionX="-10.0" PositionY="0.0">
+				<EntityPreference Priority="0.7" EntityDescription="cavalry_heavy"/>
+				<EntityPreference Priority="1.0" EntityDescription="elephants"/>
+				<EntityPreference Priority="1.0" EntityDescription="cavalry_standard"/>
+				<EntityPreference Priority="1.0" EntityDescription="cavalry_lancers"/>
+				<EntityPreference Priority="1.0" EntityDescription="cavalry_camels"/>
+				<EntityPreference Priority="1.0" EntityDescription="cavalry_light"/>
+				<EntityPreference Priority="1.0" EntityDescription="cavalry_irregular"/>
+			</ContainerRelative>
+		</GroupFormationBlock>
+		<GroupFormationBlock BlockId="7">
+			<ContainerRelative BlockPriority="1.1" EntityArrangement="Line" InterEntitySpacing="2.0" RelativeBlockId="3" PositionX="10.0" PositionY="0.0">
+				<EntityPreference Priority="0.7" EntityDescription="cavalry_heavy"/>
+				<EntityPreference Priority="1.0" EntityDescription="elephants"/>
+				<EntityPreference Priority="1.0" EntityDescription="cavalry_standard"/>
+				<EntityPreference Priority="1.0" EntityDescription="cavalry_lancers"/>
+				<EntityPreference Priority="1.0" EntityDescription="cavalry_camels"/>
+				<EntityPreference Priority="1.0" EntityDescription="cavalry_light"/>
+				<EntityPreference Priority="1.0" EntityDescription="cavalry_irregular"/>
+			</ContainerRelative>
+		</GroupFormationBlock>
+		<GroupFormationBlock BlockId="8">
+			<ContainerRelative BlockPriority="1.1" EntityArrangement="Line" InterEntitySpacing="2.0" RelativeBlockId="2" PositionX="0.0" PositionY="-20.0">
+				<EntityPreference Priority="1.0" EntityDescription="cavalry_heavy"/>
+				<EntityPreference Priority="1.0" EntityDescription="elephants"/>
+				<EntityPreference Priority="1.0" EntityDescription="cavalry_standard"/>
+				<EntityPreference Priority="1.0" EntityDescription="cavalry_lancers"/>
+				<EntityPreference Priority="1.0" EntityDescription="cavalry_camels"/>
+				<EntityPreference Priority="1.0" EntityDescription="cavalry_light"/>
+				<EntityPreference Priority="1.0" EntityDescription="cavalry_irregular"/>
+			</ContainerRelative>
+		</GroupFormationBlock>
+		<GroupFormationBlock BlockId="9">
+			<ContainerRelative BlockPriority="1.1" EntityArrangement="Line" InterEntitySpacing="2.0" RelativeBlockId="3" PositionX="0.0" PositionY="-20.0">
+				<EntityPreference Priority="1.0" EntityDescription="cavalry_heavy"/>
+				<EntityPreference Priority="1.0" EntityDescription="elephants"/>
+				<EntityPreference Priority="1.0" EntityDescription="cavalry_standard"/>
+				<EntityPreference Priority="1.0" EntityDescription="cavalry_lancers"/>
+				<EntityPreference Priority="1.0" EntityDescription="cavalry_camels"/>
+				<EntityPreference Priority="1.0" EntityDescription="cavalry_light"/>
+				<EntityPreference Priority="1.0" EntityDescription="cavalry_irregular"/>
+			</ContainerRelative>
+		</GroupFormationBlock>
+		<GroupFormationBlock BlockId="10">
+			<ContainerRelative BlockPriority="0.6" EntityArrangement="Line" InterEntitySpacing="2.0" RelativeBlockId="1" PositionX="0.0" PositionY="-10.0">
+				<EntityPreference Priority="1.0" EntityDescription="general"/>
+				<EntityPreference Priority="0.01" EntityDescription="any"/>
+			</ContainerRelative>
+		</GroupFormationBlock>	
+	</GroupFormation>		
+
+	<GroupFormation FormationName="Middle Eastern Line Inf">
+	
+		<AiPriority>1.0</AiPriority>
+		<AiPurpose>Attack</AiPurpose>
+		<AiPurpose>Defend</AiPurpose>
+		<MinInfantryPercentage>40</MinInfantryPercentage>
+		<AiSupportedFaction>egy_bedouin</AiSupportedFaction>	
+		<AiSupportedFaction>egy_mamelukes</AiSupportedFaction>	
+		<AiSupportedFaction>egy_ottomans</AiSupportedFaction>	
+		<AiSupportedFaction>ottoman_rebels</AiSupportedFaction>	
+		<AiSupportedFaction>ottomans</AiSupportedFaction>	
+
+		<GroupFormationBlock BlockId="0">
+			<ContainerAbsolute BlockPriority="1.4" EntityArrangement="Line" InterEntitySpacing="2.0" PositionX="0.0" PositionY="0.0">
+				<EntityPreference Priority="0.6" EntityDescription="infantry_melee"/>
+				<EntityPreference Priority="0.6" EntityDescription="infantry_berserker"/>
+				<EntityPreference Priority="0.6" EntityDescription="infantry_militia"/>
+				<EntityPreference Priority="0.6" EntityDescription="infantry_mob"/>
+				<EntityPreference Priority="0.6" EntityDescription="infantry_irregulars"/>
+				<EntityPreference Priority="1.0" EntityDescription="infantry_light"/>
+				<EntityPreference Priority="1.0" EntityDescription="infantry_skirmishers"/>
+			</ContainerAbsolute>
+		</GroupFormationBlock>
+		<GroupFormationBlock BlockId="1">
+			<ContainerRelative BlockPriority="1.5" EntityArrangement="Line" InterEntitySpacing="2.0" RelativeBlockId="0" PositionX="0.0" PositionY="-10.0">
+				<EntityPreference Priority="0.2" EntityDescription="infantry_elite"/>
+				<EntityPreference Priority="0.2" EntityDescription="infantry_grenadiers"/>
+				<EntityPreference Priority="1.0" EntityDescription="infantry_line"/>
+			</ContainerRelative>
+		</GroupFormationBlock>
+		<GroupFormationBlock BlockId="2">
+			<ContainerRelative BlockPriority="1.5" EntityArrangement="Line" InterEntitySpacing="2.0" RelativeBlockId="1" PositionX="0.0" PositionY="-10.0">
+				<EntityPreference Priority="0.2" EntityDescription="infantry_elite"/>
+				<EntityPreference Priority="0.2" EntityDescription="infantry_grenadiers"/>
+				<EntityPreference Priority="1.0" EntityDescription="infantry_line"/>
+			</ContainerRelative>
+		</GroupFormationBlock>
+		<GroupFormationBlock BlockId="3">
+			<ContainerRelative BlockPriority="0.8" EntityArrangement="Line" InterEntitySpacing="6.0" RelativeBlockId="2" PositionX="-5.0" PositionY="0.0">
+				<EntityPreference Priority="1.0" EntityDescription="artillery_fixed"/>
+				<EntityPreference Priority="1.0" EntityDescription="artillery_foot"/>
+				<EntityPreference Priority="1.0" EntityDescription="artillery_horse"/>
+			</ContainerRelative>
+		</GroupFormationBlock>
+		<GroupFormationBlock BlockId="4">
+			<ContainerRelative BlockPriority="0.8" EntityArrangement="Line" InterEntitySpacing="6.0" RelativeBlockId="2" PositionX="5.0" PositionY="0.0">
+				<EntityPreference Priority="1.0" EntityDescription="artillery_fixed"/>
+				<EntityPreference Priority="1.0" EntityDescription="artillery_foot"/>
+				<EntityPreference Priority="1.0" EntityDescription="artillery_horse"/>
+			</ContainerRelative>
+		</GroupFormationBlock>
+		<GroupFormationBlock BlockId="5">
+			<ContainerRelative BlockPriority="0.8" EntityArrangement="Line" InterEntitySpacing="2.0" RelativeBlockId="3" PositionX="0.0" PositionY="-10.0">
+				<EntityPreference Priority="1.0" EntityDescription="cavalry_heavy"/>
+				<EntityPreference Priority="1.0" EntityDescription="elephants"/>
+				<EntityPreference Priority="1.0" EntityDescription="cavalry_standard"/>
+				<EntityPreference Priority="1.0" EntityDescription="cavalry_lancers"/>
+				<EntityPreference Priority="1.0" EntityDescription="cavalry_camels"/>
+				<EntityPreference Priority="1.0" EntityDescription="cavalry_light"/>
+				<EntityPreference Priority="1.0" EntityDescription="cavalry_irregular"/>
+			</ContainerRelative>
+		</GroupFormationBlock>
+		<GroupFormationBlock BlockId="6">
+			<ContainerRelative BlockPriority="0.8" EntityArrangement="Line" InterEntitySpacing="2.0" RelativeBlockId="4" PositionX="0.0" PositionY="-10.0">
+				<EntityPreference Priority="1.0" EntityDescription="cavalry_heavy"/>
+				<EntityPreference Priority="1.0" EntityDescription="elephants"/>
+				<EntityPreference Priority="1.0" EntityDescription="cavalry_standard"/>
+				<EntityPreference Priority="1.0" EntityDescription="cavalry_lancers"/>
+				<EntityPreference Priority="1.0" EntityDescription="cavalry_camels"/>
+				<EntityPreference Priority="1.0" EntityDescription="cavalry_light"/>
+				<EntityPreference Priority="1.0" EntityDescription="cavalry_irregular"/>
+			</ContainerRelative>
+		</GroupFormationBlock>
+		<GroupFormationBlock BlockId="7">
+			<ContainerRelative BlockPriority="0.8" EntityArrangement="Line" InterEntitySpacing="2.0" RelativeBlockId="3" PositionX="-5.0" PositionY="0.0">
+				<EntityPreference Priority="1.0" EntityDescription="cavalry_missile"/>
+				<EntityPreference Priority="1.0" EntityDescription="dragoons"/>
+			</ContainerRelative>
+		</GroupFormationBlock>
+		<GroupFormationBlock BlockId="8">
+			<ContainerRelative BlockPriority="0.8" EntityArrangement="Line" InterEntitySpacing="2.0" RelativeBlockId="4" PositionX="5.0" PositionY="0.0">
+				<EntityPreference Priority="1.0" EntityDescription="cavalry_missile"/>
+				<EntityPreference Priority="1.0" EntityDescription="dragoons"/>
+			</ContainerRelative>
+		</GroupFormationBlock>
+		<GroupFormationBlock BlockId="9">
+			<ContainerRelative BlockPriority="0.8" EntityArrangement="Line" InterEntitySpacing="2.0" RelativeBlockId="2" PositionX="0.0" PositionY="-10.0">
+				<EntityPreference Priority="1.0" EntityDescription="general"/>
+				<EntityPreference Priority="0.01" EntityDescription="any"/>
+			</ContainerRelative>
+		</GroupFormationBlock>	
+	</GroupFormation>		
+	
+	<GroupFormation FormationName="Experimental">
+
+		<AiPriority>0.0</AiPriority>
+		<AiPurpose>Attack</AiPurpose>
+		<AiPurpose>Defend</AiPurpose>
+
+		<GroupFormationBlock BlockId="0">
+			<ContainerAbsolute BlockPriority="1.0" EntityArrangement="Line" InterEntitySpacing="1.0" PositionX="0.0" PositionY="0.0" MaximumEntityThreshold="2">
+				<EntityPreference Priority="1.0" EntityDescription="infantry_elite"/>
+				<EntityPreference Priority="0.9" EntityDescription="infantry_line"/>
+				<EntityPreference Priority="0.8" EntityDescription="infantry_melee"/>
+				<EntityPreference Priority="0.7" EntityDescription="infantry_militia"/>
+			</ContainerAbsolute>
+		</GroupFormationBlock>
+		<GroupFormationBlock BlockId="1">
+			<ContainerRelative BlockPriority="1.0" EntityArrangement="Line" InterEntitySpacing="1.0" RelativeBlockId="0" PositionX="0.0" PositionY="-5.0" MaximumEntityThreshold="2">
+				<EntityPreference Priority="1.0" EntityDescription="infantry_elite"/>
+				<EntityPreference Priority="0.9" EntityDescription="infantry_line"/>
+				<EntityPreference Priority="0.8" EntityDescription="infantry_melee"/>
+				<EntityPreference Priority="0.7" EntityDescription="infantry_militia"/>
+			</ContainerRelative>
+		</GroupFormationBlock>
+		<GroupFormationBlock BlockId="2">
+			<ContainerRelative BlockPriority="1.0" EntityArrangement="Line" InterEntitySpacing="1.0" RelativeBlockId="1" PositionX="0.0" PositionY="-5.0" MaximumEntityThreshold="2">
+				<EntityPreference Priority="1.0" EntityDescription="infantry_elite"/>
+				<EntityPreference Priority="0.9" EntityDescription="infantry_line"/>
+				<EntityPreference Priority="0.8" EntityDescription="infantry_melee"/>
+				<EntityPreference Priority="0.7" EntityDescription="infantry_militia"/>
+			</ContainerRelative>
+		</GroupFormationBlock>
+		<GroupFormationBlock BlockId="3">
+			<ContainerRelative BlockPriority="1.0" EntityArrangement="Line" InterEntitySpacing="1.0" RelativeBlockId="2" PositionX="0.0" PositionY="-5.0" MaximumEntityThreshold="2">
+				<EntityPreference Priority="1.0" EntityDescription="infantry_elite"/>
+				<EntityPreference Priority="0.9" EntityDescription="infantry_line"/>
+				<EntityPreference Priority="0.8" EntityDescription="infantry_melee"/>
+				<EntityPreference Priority="0.7" EntityDescription="infantry_militia"/>
+			</ContainerRelative>
+		</GroupFormationBlock>		
+		<GroupFormationBlock BlockId="4">
+			<Spanning>
+				<SpannedBlockId>0</SpannedBlockId>
+				<SpannedBlockId>1</SpannedBlockId>
+				<SpannedBlockId>2</SpannedBlockId>
+				<SpannedBlockId>3</SpannedBlockId>
+			</Spanning>
+		</GroupFormationBlock>
+		<GroupFormationBlock BlockId="5">
+			<ContainerRelative BlockPriority="1.0" EntityArrangement="Line" InterEntitySpacing="1.0" RelativeBlockId="1" PositionX="5.0" PositionY="5.0" MaximumEntityThreshold="1">
+				<EntityPreference Priority="1.0" EntityDescription="general"/>
+				<EntityPreference Priority="0.01" EntityDescription="any"/>
+			</ContainerRelative>
+		</GroupFormationBlock>
+		<GroupFormationBlock BlockId="6">
+			<ContainerRelative BlockPriority="1.0" EntityArrangement="Line" InterEntitySpacing="1.0" RelativeBlockId="4" PositionX="-15.0" PositionY="10.0" MaximumEntityThreshold="1">
+				<EntityPreference Priority="1.0" EntityDescription="infantry_light"/>
+				<EntityPreference Priority="0.9" EntityDescription="infantry_skirmishers"/>
+			</ContainerRelative>
+		</GroupFormationBlock>
+		<GroupFormationBlock BlockId="7">
+			<ContainerRelative BlockPriority="1.0" EntityArrangement="Line" InterEntitySpacing="1.0" RelativeBlockId="4" PositionX="15.0" PositionY="10.0" MaximumEntityThreshold="1">
+				<EntityPreference Priority="1.0" EntityDescription="infantry_light"/>
+				<EntityPreference Priority="0.9" EntityDescription="infantry_skirmishers"/>
+			</ContainerRelative>
+		</GroupFormationBlock>
+		<GroupFormationBlock BlockId="8">
+			<ContainerRelative BlockPriority="1.0" EntityArrangement="Line" InterEntitySpacing="1.0" RelativeBlockId="2" PositionX="-15.0" PositionY="5.0" MaximumEntityThreshold="1">
+				<EntityPreference Priority="1.0" EntityDescription="infantry_light"/>
+				<EntityPreference Priority="0.9" EntityDescription="infantry_skirmishers"/>
+			</ContainerRelative>
+		</GroupFormationBlock>
+		<GroupFormationBlock BlockId="9">
+			<ContainerRelative BlockPriority="1.0" EntityArrangement="Line" InterEntitySpacing="1.0" RelativeBlockId="2" PositionX="15.0" PositionY="5.0" MaximumEntityThreshold="1">
+				<EntityPreference Priority="1.0" EntityDescription="infantry_light"/>
+				<EntityPreference Priority="0.9" EntityDescription="infantry_skirmishers"/>
+			</ContainerRelative>
+		</GroupFormationBlock>
+		<GroupFormationBlock BlockId="10">
+			<ContainerRelative BlockPriority="1.0" EntityArrangement="Line" InterEntitySpacing="1.0" RelativeBlockId="4" PositionX="0.0" PositionY="-20.0" MaximumEntityThreshold="2">
+				<EntityPreference Priority="1.0" EntityDescription="artillery_horse"/>
+			</ContainerRelative>
+		</GroupFormationBlock>
+		<GroupFormationBlock BlockId="11">
+			<ContainerRelative BlockPriority="1.0" EntityArrangement="Line" InterEntitySpacing="1.0" RelativeBlockId="10" PositionX="0.0" PositionY="-20.0" MaximumEntityThreshold="2">
+				<EntityPreference Priority="1.0" EntityDescription="artillery_horse"/>
+			</ContainerRelative>
+		</GroupFormationBlock>
+		<GroupFormationBlock BlockId="12">
+			<Spanning>
+				<SpannedBlockId>10</SpannedBlockId>
+				<SpannedBlockId>11</SpannedBlockId>
+			</Spanning>
+		</GroupFormationBlock>
+		<GroupFormationBlock BlockId="13">
+			<ContainerRelative BlockPriority="1.0" EntityArrangement="Line" InterEntitySpacing="1.0" RelativeBlockId="12" PositionX="-15.0" PositionY="0.0" MaximumEntityThreshold="1">
+				<EntityPreference Priority="1.0" EntityDescription="cavalry_heavy"/>
+				<EntityPreference Priority="1.0" EntityDescription="cavalry_standard"/>
+				<EntityPreference Priority="1.0" EntityDescription="cavalry_light"/>
+				<EntityPreference Priority="1.0" EntityDescription="cavalry_lancers"/>
+				<EntityPreference Priority="1.0" EntityDescription="dragoons"/>
+				<EntityPreference Priority="0.9" EntityDescription="cavalry_missile"/>
+				<EntityPreference Priority="0.9" EntityDescription="cavalry_camels"/>
+				<EntityPreference Priority="0.9" EntityDescription="cavalry_irregular"/>
+			</ContainerRelative>
+		</GroupFormationBlock>
+		<GroupFormationBlock BlockId="14">
+			<ContainerRelative BlockPriority="1.0" EntityArrangement="Line" InterEntitySpacing="1.0" RelativeBlockId="12" PositionX="15.0" PositionY="0.0" MaximumEntityThreshold="1">
+				<EntityPreference Priority="1.0" EntityDescription="cavalry_heavy"/>
+				<EntityPreference Priority="1.0" EntityDescription="cavalry_standard"/>
+				<EntityPreference Priority="1.0" EntityDescription="cavalry_light"/>
+				<EntityPreference Priority="1.0" EntityDescription="cavalry_lancers"/>
+				<EntityPreference Priority="1.0" EntityDescription="dragoons"/>
+				<EntityPreference Priority="0.9" EntityDescription="cavalry_missile"/>
+				<EntityPreference Priority="0.9" EntityDescription="cavalry_camels"/>
+				<EntityPreference Priority="0.9" EntityDescription="cavalry_irregular"/>
+			</ContainerRelative>
+		</GroupFormationBlock>
+		<GroupFormationBlock BlockId="15">
+			<ContainerRelative BlockPriority="1.0" EntityArrangement="Line" InterEntitySpacing="1.0" RelativeBlockId="12" PositionX="0.0" PositionY="-20.0" MaximumEntityThreshold="1">
+				<EntityPreference Priority="1.0" EntityDescription="cavalry_heavy"/>
+				<EntityPreference Priority="1.0" EntityDescription="cavalry_standard"/>
+				<EntityPreference Priority="1.0" EntityDescription="cavalry_light"/>
+				<EntityPreference Priority="1.0" EntityDescription="cavalry_lancers"/>
+				<EntityPreference Priority="1.0" EntityDescription="dragoons"/>
+				<EntityPreference Priority="0.9" EntityDescription="cavalry_missile"/>
+				<EntityPreference Priority="0.9" EntityDescription="cavalry_camels"/>
+				<EntityPreference Priority="0.9" EntityDescription="cavalry_irregular"/>
+			</ContainerRelative>
+		</GroupFormationBlock>
+	</GroupFormation>		
+	
+	<GroupFormation FormationName="Naval Line Astern">
+	
+		<AiPriority>0.8</AiPriority>
+		<AiPurpose>Naval_Attack</AiPurpose>
+		<AiPurpose>Naval_Defend</AiPurpose>
+
+		<GroupFormationBlock BlockId="0">
+			<ContainerAbsolute BlockPriority="2.5" EntityArrangement="Column" InterEntitySpacing="75.0" PositionX="0.0" PositionY="0.0">
+				<EntityPreference Priority="1.0" EntityDescription="naval_over_first_rate"/>
+				<EntityPreference Priority="1.0" EntityDescription="naval_first_rate"/>
+				<EntityPreference Priority="1.0" EntityDescription="naval_second_rate"/>
+				<EntityPreference Priority="1.0" EntityDescription="naval_third_rate"/>
+				<EntityPreference Priority="1.0" EntityDescription="naval_fourth_rate"/>
+				<EntityPreference Priority="1.0" EntityDescription="naval_galleon"/>
+				<EntityPreference Priority="1.0" EntityDescription="naval_heavy_galley"/>
+				<EntityPreference Priority="1.0" EntityDescription="naval_admiral"/>
+				<EntityPreference Priority="0.1" EntityDescription="any"/>
+			</ContainerAbsolute>
+		</GroupFormationBlock>
+		<GroupFormationBlock BlockId="1">
+			<ContainerRelative BlockPriority="2.5" EntityArrangement="Column" InterEntitySpacing="75.0" RelativeBlockId="0" PositionX="0.0" PositionY="-75.0">
+				<EntityPreference Priority="1.0" EntityDescription="naval_razee"/>
+				<EntityPreference Priority="1.0" EntityDescription="naval_fifth_rate"/>
+				<EntityPreference Priority="1.0" EntityDescription="naval_sixth_rate"/>
+				<EntityPreference Priority="1.0" EntityDescription="naval_steam_ship"/>
+				<EntityPreference Priority="1.0" EntityDescription="naval_medium_galley"/>
+				<EntityPreference Priority="1.0" EntityDescription="naval_xebec"/>
+				<EntityPreference Priority="0.1" EntityDescription="any"/>
+			</ContainerRelative>
+		</GroupFormationBlock>
+		<GroupFormationBlock BlockId="2">
+			<ContainerRelative BlockPriority="2.5" EntityArrangement="Column" InterEntitySpacing="75.0" RelativeBlockId="1" PositionX="0.0" PositionY="-75.0">
+				<EntityPreference Priority="1.0" EntityDescription="naval_brig"/>
+				<EntityPreference Priority="1.0" EntityDescription="naval_sloop"/>
+				<EntityPreference Priority="1.0" EntityDescription="naval_bomb_ketch"/>
+				<EntityPreference Priority="1.0" EntityDescription="naval_rocket_ship"/>
+				<EntityPreference Priority="1.0" EntityDescription="naval_light_galley"/>
+				<EntityPreference Priority="0.1" EntityDescription="any"/>
+			</ContainerRelative>
+		</GroupFormationBlock>
+		<GroupFormationBlock BlockId="3">
+			<ContainerRelative BlockPriority="2.5" EntityArrangement="Column" InterEntitySpacing="75.0" RelativeBlockId="2" PositionX="0.0" PositionY="-75.0">
+				<EntityPreference Priority="1.0" EntityDescription="naval_indiaman"/>
+				<EntityPreference Priority="1.0" EntityDescription="naval_lugger"/>
+				<EntityPreference Priority="1.0" EntityDescription="naval_dhow"/>
+				<EntityPreference Priority="0.1" EntityDescription="any"/>
+			</ContainerRelative>
+		</GroupFormationBlock>
+	</GroupFormation>
+  
+	<GroupFormation FormationName="Naval Line Abreast">
+ 
+		<AiPriority>0.0</AiPriority>
+		<AiPurpose>Naval_Attack</AiPurpose>
+		<AiPurpose>Naval_Defend</AiPurpose>
+	
+		<GroupFormationBlock BlockId="0">
+			<ContainerAbsolute BlockPriority="1.66" EntityArrangement="Line" InterEntitySpacing="75.0" PositionX="0.0" PositionY="0.0">
+		        <EntityPreference Priority="1.0" EntityDescription="naval_over_first_rate"/>
+				<EntityPreference Priority="1.0" EntityDescription="naval_first_rate"/>
+				<EntityPreference Priority="1.0" EntityDescription="naval_second_rate"/>
+				<EntityPreference Priority="1.0" EntityDescription="naval_third_rate"/>
+				<EntityPreference Priority="1.0" EntityDescription="naval_fourth_rate"/>
+				<EntityPreference Priority="1.0" EntityDescription="naval_galleon"/>
+				<EntityPreference Priority="1.0" EntityDescription="naval_heavy_galley"/>
+				<EntityPreference Priority="1.0" EntityDescription="naval_admiral"/>
+				<EntityPreference Priority="0.1" EntityDescription="any"/>
+			</ContainerAbsolute>
+		</GroupFormationBlock>
+		<GroupFormationBlock BlockId="1">
+			<ContainerRelative BlockPriority="1.66" EntityArrangement="Line" InterEntitySpacing="75.0" RelativeBlockId="0" PositionX="-75.0" PositionY="0.0">
+				<EntityPreference Priority="1.0" EntityDescription="naval_razee"/>
+				<EntityPreference Priority="1.0" EntityDescription="naval_fifth_rate"/>
+				<EntityPreference Priority="1.0" EntityDescription="naval_sixth_rate"/>
+				<EntityPreference Priority="1.0" EntityDescription="naval_steam_ship"/>
+				<EntityPreference Priority="1.0" EntityDescription="naval_medium_galley"/>
+				<EntityPreference Priority="1.0" EntityDescription="naval_xebec"/>
+				<EntityPreference Priority="0.1" EntityDescription="any"/>
+			</ContainerRelative>
+		</GroupFormationBlock>
+		<GroupFormationBlock BlockId="2">
+			<ContainerRelative BlockPriority="1.66" EntityArrangement="Line" InterEntitySpacing="75.0" RelativeBlockId="0" PositionX="75.0" PositionY="0.0">
+				<EntityPreference Priority="1.0" EntityDescription="naval_razee"/>
+				<EntityPreference Priority="1.0" EntityDescription="naval_fifth_rate"/>
+				<EntityPreference Priority="1.0" EntityDescription="naval_sixth_rate"/>
+				<EntityPreference Priority="1.0" EntityDescription="naval_steam_ship"/>
+				<EntityPreference Priority="1.0" EntityDescription="naval_medium_galley"/>
+				<EntityPreference Priority="1.0" EntityDescription="naval_xebec"/>
+				<EntityPreference Priority="0.1" EntityDescription="any"/>
+			</ContainerRelative>
+		</GroupFormationBlock>
+		<GroupFormationBlock BlockId="3">
+			<ContainerRelative BlockPriority="1.66" EntityArrangement="Line" InterEntitySpacing="75.0" RelativeBlockId="1" PositionX="-75.0" PositionY="0.0">
+				<EntityPreference Priority="1.0" EntityDescription="naval_brig"/>
+				<EntityPreference Priority="1.0" EntityDescription="naval_sloop"/>
+				<EntityPreference Priority="1.0" EntityDescription="naval_bomb_ketch"/>
+				<EntityPreference Priority="1.0" EntityDescription="naval_rocket_ship"/>
+				<EntityPreference Priority="1.0" EntityDescription="naval_light_galley"/>
+				<EntityPreference Priority="0.1" EntityDescription="any"/>
+			</ContainerRelative>
+		</GroupFormationBlock>
+		<GroupFormationBlock BlockId="4">
+			<ContainerRelative BlockPriority="1.66" EntityArrangement="Line" InterEntitySpacing="75.0" RelativeBlockId="2" PositionX="75.0" PositionY="0.0">
+				<EntityPreference Priority="1.0" EntityDescription="naval_brig"/>
+				<EntityPreference Priority="1.0" EntityDescription="naval_sloop"/>
+				<EntityPreference Priority="1.0" EntityDescription="naval_bomb_ketch"/>
+				<EntityPreference Priority="1.0" EntityDescription="naval_rocket_ship"/>
+				<EntityPreference Priority="1.0" EntityDescription="naval_light_galley"/>
+				<EntityPreference Priority="0.1" EntityDescription="any"/>
+			</ContainerRelative>
+		</GroupFormationBlock>
+		<GroupFormationBlock BlockId="5">
+			<ContainerRelative BlockPriority="1.66" EntityArrangement="Line" InterEntitySpacing="75.0" RelativeBlockId="3" PositionX="-75.0" PositionY="0.0">
+				<EntityPreference Priority="1.0" EntityDescription="naval_indiaman"/>
+				<EntityPreference Priority="1.0" EntityDescription="naval_lugger"/>
+				<EntityPreference Priority="1.0" EntityDescription="naval_dhow"/>
+				<EntityPreference Priority="0.1" EntityDescription="any"/>
+			</ContainerRelative>
+		</GroupFormationBlock>
+		<GroupFormationBlock BlockId="6">
+			<ContainerRelative BlockPriority="1.66" EntityArrangement="Line" InterEntitySpacing="75.0" RelativeBlockId="4" PositionX="75.0" PositionY="0.0">
+				<EntityPreference Priority="1.0" EntityDescription="naval_indiaman"/>
+				<EntityPreference Priority="1.0" EntityDescription="naval_lugger"/>
+				<EntityPreference Priority="1.0" EntityDescription="naval_dhow"/>
+				<EntityPreference Priority="0.1" EntityDescription="any"/>
+			</ContainerRelative>
+		</GroupFormationBlock>
+	</GroupFormation>
+  
+	<GroupFormation FormationName="Naval Crescent Front">
+ 
+		<AiPriority>0.6</AiPriority>
+		<AiPurpose>Naval_Attack</AiPurpose>
+		<AiPurpose>Naval_Defend</AiPurpose>
+
+	    <GroupFormationBlock BlockId="0">
+			<ContainerAbsolute BlockPriority="8" EntityArrangement="CrescentFront" InterEntitySpacing="75.0" CrescentYOffset="40.0" PositionX="0.0" PositionY="0.0">
+		        <EntityPreference Priority="1.0" EntityDescription="naval_heavy_galley"/>
+				<EntityPreference Priority="1.0" EntityDescription="naval_medium_galley"/>
+				<EntityPreference Priority="1.0" EntityDescription="naval_light_galley"/>
+				<EntityPreference Priority="1.0" EntityDescription="naval_xebec"/>
+				<EntityPreference Priority="1.0" EntityDescription="naval_dhow"/>
+				<EntityPreference Priority="0.1" EntityDescription="any"/>
+			</ContainerAbsolute>
+	    </GroupFormationBlock>
+	</GroupFormation>
+
+	<GroupFormation FormationName="Naval Crescent Back">
+  
+		<AiPriority>0.0</AiPriority>
+		<AiPurpose>Naval_Attack</AiPurpose>
+		<AiPurpose>Naval_Defend</AiPurpose>
+	
+	    <GroupFormationBlock BlockId="0">
+			<ContainerAbsolute BlockPriority="8" EntityArrangement="CrescentBack" InterEntitySpacing="75.0" CrescentYOffset="40.0" PositionX="0.0" PositionY="0.0">
+		        <EntityPreference Priority="1.0" EntityDescription="naval_heavy_galley"/>
+				<EntityPreference Priority="1.0" EntityDescription="naval_medium_galley"/>
+				<EntityPreference Priority="1.0" EntityDescription="naval_light_galley"/>
+				<EntityPreference Priority="1.0" EntityDescription="naval_xebec"/>
+				<EntityPreference Priority="1.0" EntityDescription="naval_dhow"/>
+				<EntityPreference Priority="0.1" EntityDescription="any"/>
+			</ContainerAbsolute>
+	    </GroupFormationBlock>
+	</GroupFormation>
+  
+	<GroupFormation FormationName="Naval Crescent and Line">
+	
+		<AiPriority>0.9</AiPriority>
+		<AiPurpose>Naval_Attack</AiPurpose>
+		<AiPurpose>Naval_Defend</AiPurpose>
+
+		
+		<GroupFormationBlock BlockId="0">
+			<ContainerAbsolute BlockPriority="3" EntityArrangement="CrescentFront" InterEntitySpacing="75.0" CrescentYOffset="40.0" PositionX="0.0" PositionY="0.0">
+		        <EntityPreference Priority="1.0" EntityDescription="naval_heavy_galley"/>
+				<EntityPreference Priority="1.0" EntityDescription="naval_medium_galley"/>
+				<EntityPreference Priority="1.0" EntityDescription="naval_light_galley"/>
+				<EntityPreference Priority="1.0" EntityDescription="naval_xebec"/>
+				<EntityPreference Priority="1.0" EntityDescription="naval_dhow"/>
+			</ContainerAbsolute>
+	    </GroupFormationBlock>
+		<GroupFormationBlock BlockId="1">
+			<ContainerRelative BlockPriority="3" EntityArrangement="Column" InterEntitySpacing="75.0" RelativeBlockId="0" PositionX="0.0" PositionY="-75.0">
+				<EntityPreference Priority="1.0" EntityDescription="naval_over_first_rate"/>
+				<EntityPreference Priority="1.0" EntityDescription="naval_first_rate"/>
+				<EntityPreference Priority="1.0" EntityDescription="naval_second_rate"/>
+				<EntityPreference Priority="1.0" EntityDescription="naval_third_rate"/>
+				<EntityPreference Priority="1.0" EntityDescription="naval_fourth_rate"/>
+				<EntityPreference Priority="1.0" EntityDescription="naval_galleon"/>
+				<EntityPreference Priority="1.0" EntityDescription="naval_admiral"/>
+			</ContainerRelative>
+		</GroupFormationBlock>
+		<GroupFormationBlock BlockId="2">
+			<ContainerRelative BlockPriority="2" EntityArrangement="Column" InterEntitySpacing="75.0" RelativeBlockId="1" PositionX="0.0" PositionY="-75.0">
+				<EntityPreference Priority="1.0" EntityDescription="naval_razee"/>
+				<EntityPreference Priority="1.0" EntityDescription="naval_fifth_rate"/>
+				<EntityPreference Priority="1.0" EntityDescription="naval_sixth_rate"/>
+				<EntityPreference Priority="1.0" EntityDescription="naval_steam_ship"/>
+			</ContainerRelative>
+		</GroupFormationBlock>
+		<GroupFormationBlock BlockId="3">
+			<ContainerRelative BlockPriority="1" EntityArrangement="Column" InterEntitySpacing="75.0" RelativeBlockId="2" PositionX="0.0" PositionY="-75.0">
+				<EntityPreference Priority="1.0" EntityDescription="naval_brig"/>
+				<EntityPreference Priority="1.0" EntityDescription="naval_sloop"/>
+				<EntityPreference Priority="1.0" EntityDescription="naval_bomb_ketch"/>
+				<EntityPreference Priority="1.0" EntityDescription="naval_rocket_ship"/>
+			</ContainerRelative>
+		</GroupFormationBlock>
+		<GroupFormationBlock BlockId="4">
+			<ContainerRelative BlockPriority="1" EntityArrangement="Column" InterEntitySpacing="75.0" RelativeBlockId="3" PositionX="0.0" PositionY="-75.0">
+				<EntityPreference Priority="1.0" EntityDescription="naval_indiaman"/>
+				<EntityPreference Priority="1.0" EntityDescription="naval_lugger"/>
+			</ContainerRelative>
+		</GroupFormationBlock>
+	</GroupFormation>
+
+	<GroupFormation FormationName="Naval Double Line Astern Heavy Left">
+	
+		<AiPriority>0.8</AiPriority>
+		<AiPurpose>Naval_Attack</AiPurpose>
+		<AiPurpose>Naval_Defend</AiPurpose>
+	
+		<GroupFormationBlock BlockId="0">
+			<ContainerAbsolute BlockPriority="3.5" EntityArrangement="Column" InterEntitySpacing="75.0" PositionX="0.0" PositionY="0.0" MinimumEntityThreshold="4">
+				<EntityPreference Priority="1.0" EntityDescription="naval_admiral"/>
+				<EntityPreference Priority="1.0" EntityDescription="naval_over_first_rate"/>
+				<EntityPreference Priority="1.0" EntityDescription="naval_first_rate"/>
+				<EntityPreference Priority="1.0" EntityDescription="naval_second_rate"/>
+				<EntityPreference Priority="1.0" EntityDescription="naval_third_rate"/>
+				<EntityPreference Priority="1.0" EntityDescription="naval_fourth_rate"/>
+				<EntityPreference Priority="1.0" EntityDescription="naval_galleon"/>
+				<EntityPreference Priority="1.0" EntityDescription="naval_heavy_galley"/>
+				<EntityPreference Priority="0.1" EntityDescription="any"/>
+			</ContainerAbsolute>
+		</GroupFormationBlock>	
+		<GroupFormationBlock BlockId="1">
+			<ContainerRelative BlockPriority="3.5" EntityArrangement="Column" InterEntitySpacing="75.0" RelativeBlockId="0" PositionX="150.0" PositionY="0.0">
+				<EntityPreference Priority="1.0" EntityDescription="naval_razee"/>
+				<EntityPreference Priority="1.0" EntityDescription="naval_fifth_rate"/>
+				<EntityPreference Priority="1.0" EntityDescription="naval_sixth_rate"/>
+				<EntityPreference Priority="1.0" EntityDescription="naval_steam_ship"/>
+				<EntityPreference Priority="1.0" EntityDescription="naval_medium_galley"/>
+				<EntityPreference Priority="1.0" EntityDescription="naval_xebec"/>
+				<EntityPreference Priority="0.1" EntityDescription="any"/>
+			</ContainerRelative>
+		</GroupFormationBlock>
+		<GroupFormationBlock BlockId="2">
+			<ContainerRelative BlockPriority="1.5" EntityArrangement="Column" InterEntitySpacing="75.0" RelativeBlockId="1" PositionX="0.0" PositionY="-75.0">
+				<EntityPreference Priority="1.0" EntityDescription="naval_brig"/>
+				<EntityPreference Priority="1.0" EntityDescription="naval_sloop"/>
+				<EntityPreference Priority="0.5" EntityDescription="naval_bomb_ketch"/>
+				<EntityPreference Priority="0.5" EntityDescription="naval_rocket_ship"/>
+				<EntityPreference Priority="1.0" EntityDescription="naval_light_galley"/>
+				<EntityPreference Priority="0.1" EntityDescription="any"/>
+			</ContainerRelative>
+		</GroupFormationBlock>
+		<GroupFormationBlock BlockId="3">
+			<ContainerRelative BlockPriority="1.5" EntityArrangement="Column" InterEntitySpacing="75.0" RelativeBlockId="2" PositionX="0.0" PositionY="-75.0">
+				<EntityPreference Priority="1.0" EntityDescription="naval_indiaman"/>
+				<EntityPreference Priority="1.0" EntityDescription="naval_lugger"/>
+				<EntityPreference Priority="1.0" EntityDescription="naval_dhow"/>
+				<EntityPreference Priority="0.1" EntityDescription="any"/>
+			</ContainerRelative>
+		</GroupFormationBlock>
+	</GroupFormation>
+	
+	<GroupFormation FormationName="Naval Double Heavy Line">
+	
+		<AiPriority>0.8</AiPriority>
+		<AiPurpose>Naval_Attack</AiPurpose>
+		<AiPurpose>Naval_Defend</AiPurpose>
+	
+		<GroupFormationBlock BlockId="0">
+			<ContainerAbsolute BlockPriority="3.5" EntityArrangement="Column" InterEntitySpacing="75.0" PositionX="0.0" PositionY="0.0">
+				<EntityPreference Priority="1.0" EntityDescription="naval_admiral"/>
+				<EntityPreference Priority="1.0" EntityDescription="naval_over_first_rate"/>
+				<EntityPreference Priority="1.0" EntityDescription="naval_first_rate"/>
+				<EntityPreference Priority="1.0" EntityDescription="naval_second_rate"/>
+				<EntityPreference Priority="1.0" EntityDescription="naval_third_rate"/>
+				<EntityPreference Priority="1.0" EntityDescription="naval_fourth_rate"/>
+				<EntityPreference Priority="1.0" EntityDescription="naval_galleon"/>
+				<EntityPreference Priority="1.0" EntityDescription="naval_heavy_galley"/>
+				<EntityPreference Priority="0.01" EntityDescription="any"/>
+			</ContainerAbsolute>
+		</GroupFormationBlock>	
+		<GroupFormationBlock BlockId="1">
+			<ContainerRelative BlockPriority="3.5" EntityArrangement="Column" InterEntitySpacing="75.0" RelativeBlockId="0" PositionX="-150.0" PositionY="0.0">
+				<EntityPreference Priority="1.0" EntityDescription="naval_admiral"/>
+				<EntityPreference Priority="1.0" EntityDescription="naval_over_first_rate"/>
+				<EntityPreference Priority="1.0" EntityDescription="naval_first_rate"/>
+				<EntityPreference Priority="1.0" EntityDescription="naval_second_rate"/>
+				<EntityPreference Priority="1.0" EntityDescription="naval_third_rate"/>
+				<EntityPreference Priority="1.0" EntityDescription="naval_fourth_rate"/>
+				<EntityPreference Priority="1.0" EntityDescription="naval_galleon"/>
+				<EntityPreference Priority="1.0" EntityDescription="naval_heavy_galley"/>
+				<EntityPreference Priority="0.01" EntityDescription="any"/>
+			</ContainerRelative>
+		</GroupFormationBlock>
+		<GroupFormationBlock BlockId="2">
+			<ContainerRelative BlockPriority="1" EntityArrangement="Column" InterEntitySpacing="75.0" RelativeBlockId="0" PositionX="0.0" PositionY="-75.0">
+				<EntityPreference Priority="1.0" EntityDescription="naval_razee"/>
+				<EntityPreference Priority="1.0" EntityDescription="naval_fifth_rate"/>
+				<EntityPreference Priority="1.0" EntityDescription="naval_sixth_rate"/>
+				<EntityPreference Priority="1.0" EntityDescription="naval_steam_ship"/>
+				<EntityPreference Priority="1.0" EntityDescription="naval_medium_galley"/>
+				<EntityPreference Priority="1.0" EntityDescription="naval_xebec"/>
+				<EntityPreference Priority="0.1" EntityDescription="any"/>
+			</ContainerRelative>
+		</GroupFormationBlock>
+		<GroupFormationBlock BlockId="3">
+			<ContainerRelative BlockPriority="1" EntityArrangement="Column" InterEntitySpacing="75.0" RelativeBlockId="2" PositionX="0.0" PositionY="-75.0">
+				<EntityPreference Priority="1.0" EntityDescription="naval_brig"/>
+				<EntityPreference Priority="1.0" EntityDescription="naval_sloop"/>
+				<EntityPreference Priority="0.5" EntityDescription="naval_bomb_ketch"/>
+				<EntityPreference Priority="0.5" EntityDescription="naval_rocket_ship"/>
+				<EntityPreference Priority="1.0" EntityDescription="naval_light_galley"/>
+				<EntityPreference Priority="0.1" EntityDescription="any"/>
+			</ContainerRelative>
+		</GroupFormationBlock>
+		<GroupFormationBlock BlockId="4">
+			<ContainerRelative BlockPriority="1" EntityArrangement="Column" InterEntitySpacing="75.0" RelativeBlockId="3" PositionX="0.0" PositionY="-75.0">
+				<EntityPreference Priority="1.0" EntityDescription="naval_indiaman"/>
+				<EntityPreference Priority="1.0" EntityDescription="naval_lugger"/>
+				<EntityPreference Priority="1.0" EntityDescription="naval_dhow"/>
+				<EntityPreference Priority="0.1" EntityDescription="any"/>
+			</ContainerRelative>
+		</GroupFormationBlock>
+		<GroupFormationBlock BlockId="5">
+			<ContainerRelative BlockPriority="1" EntityArrangement="Column" InterEntitySpacing="75.0" RelativeBlockId="1" PositionX="0.0" PositionY="-75.0">
+				<EntityPreference Priority="1.0" EntityDescription="naval_razee"/>
+				<EntityPreference Priority="1.0" EntityDescription="naval_fifth_rate"/>
+				<EntityPreference Priority="1.0" EntityDescription="naval_sixth_rate"/>
+				<EntityPreference Priority="1.0" EntityDescription="naval_steam_ship"/>
+				<EntityPreference Priority="1.0" EntityDescription="naval_medium_galley"/>
+				<EntityPreference Priority="1.0" EntityDescription="naval_xebec"/>
+				<EntityPreference Priority="0.1" EntityDescription="any"/>
+			</ContainerRelative>
+		</GroupFormationBlock>
+		<GroupFormationBlock BlockId="6">
+			<ContainerRelative BlockPriority="1" EntityArrangement="Column" InterEntitySpacing="75.0" RelativeBlockId="5" PositionX="0.0" PositionY="-75.0">
+				<EntityPreference Priority="1.0" EntityDescription="naval_brig"/>
+				<EntityPreference Priority="1.0" EntityDescription="naval_sloop"/>
+				<EntityPreference Priority="0.5" EntityDescription="naval_bomb_ketch"/>
+				<EntityPreference Priority="0.5" EntityDescription="naval_rocket_ship"/>
+				<EntityPreference Priority="1.0" EntityDescription="naval_light_galley"/>
+				<EntityPreference Priority="0.1" EntityDescription="any"/>
+			</ContainerRelative>
+		</GroupFormationBlock>
+		<GroupFormationBlock BlockId="7">
+			<ContainerRelative BlockPriority="1" EntityArrangement="Column" InterEntitySpacing="75.0" RelativeBlockId="6" PositionX="0.0" PositionY="-75.0">
+				<EntityPreference Priority="1.0" EntityDescription="naval_indiaman"/>
+				<EntityPreference Priority="1.0" EntityDescription="naval_lugger"/>
+				<EntityPreference Priority="1.0" EntityDescription="naval_dhow"/>
+				<EntityPreference Priority="0.1" EntityDescription="any"/>
+			</ContainerRelative>
+		</GroupFormationBlock>
+	</GroupFormation>	
+	
+	<GroupFormation FormationName="Naval Triple Line Abreast Heavy Left">
+	
+		<AiPriority>0.6</AiPriority>
+		<AiPurpose>Naval_Attack</AiPurpose>
+		<AiPurpose>Naval_Defend</AiPurpose>
+	
+		<GroupFormationBlock BlockId="0">
+			<ContainerAbsolute BlockPriority="3.5" EntityArrangement="Column" InterEntitySpacing="75.0" PositionX="0.0" PositionY="0.0" MinimumEntityThreshold="4">
+				<EntityPreference Priority="1.0" EntityDescription="naval_admiral"/>
+				<EntityPreference Priority="1.0" EntityDescription="naval_over_first_rate"/>
+				<EntityPreference Priority="1.0" EntityDescription="naval_first_rate"/>
+				<EntityPreference Priority="1.0" EntityDescription="naval_second_rate"/>
+				<EntityPreference Priority="1.0" EntityDescription="naval_third_rate"/>
+				<EntityPreference Priority="1.0" EntityDescription="naval_fourth_rate"/>
+				<EntityPreference Priority="1.0" EntityDescription="naval_galleon"/>
+				<EntityPreference Priority="1.0" EntityDescription="naval_heavy_galley"/>	
+				<EntityPreference Priority="0.1" EntityDescription="any"/>
+			</ContainerAbsolute>
+		</GroupFormationBlock>	
+		<GroupFormationBlock BlockId="1">
+			<ContainerRelative BlockPriority="3" EntityArrangement="Column" InterEntitySpacing="75.0" RelativeBlockId="0" PositionX="150.0" PositionY="0.0">
+				<EntityPreference Priority="1.0" EntityDescription="naval_razee"/>
+				<EntityPreference Priority="1.0" EntityDescription="naval_fifth_rate"/>
+				<EntityPreference Priority="1.0" EntityDescription="naval_sixth_rate"/>
+				<EntityPreference Priority="1.0" EntityDescription="naval_steam_ship"/>
+				<EntityPreference Priority="1.0" EntityDescription="naval_medium_galley"/>
+				<EntityPreference Priority="1.0" EntityDescription="naval_xebec"/>
+				<EntityPreference Priority="0.1" EntityDescription="any"/>
+			</ContainerRelative>
+		</GroupFormationBlock>
+		<GroupFormationBlock BlockId="2">
+			<ContainerRelative BlockPriority="1" EntityArrangement="Column" InterEntitySpacing="75.0" RelativeBlockId="1" PositionX="0.0" PositionY="-75.0">
+				<EntityPreference Priority="1.0" EntityDescription="naval_brig"/>
+				<EntityPreference Priority="1.0" EntityDescription="naval_sloop"/>
+				<EntityPreference Priority="1.0" EntityDescription="naval_light_galley"/>
+				<EntityPreference Priority="0.1" EntityDescription="any"/>
+			</ContainerRelative>
+		</GroupFormationBlock>
+		<GroupFormationBlock BlockId="3">
+			<ContainerRelative BlockPriority="1" EntityArrangement="Column" InterEntitySpacing="75.0" RelativeBlockId="2" PositionX="0.0" PositionY="-75.0">
+				<EntityPreference Priority="1.0" EntityDescription="naval_indiaman"/>
+				<EntityPreference Priority="1.0" EntityDescription="naval_lugger"/>
+				<EntityPreference Priority="1.0" EntityDescription="naval_dhow"/>
+				<EntityPreference Priority="0.1" EntityDescription="any"/>
+			</ContainerRelative>
+		</GroupFormationBlock>
+		<GroupFormationBlock BlockId="4">
+			<ContainerRelative BlockPriority="1.5" EntityArrangement="Column" InterEntitySpacing="75.0" RelativeBlockId="1" PositionX="150.0" PositionY="0.0" MinimumEntityThreshold="1">
+				<EntityPreference Priority="1.0" EntityDescription="naval_bomb_ketch"/>
+				<EntityPreference Priority="1.0" EntityDescription="naval_rocket_ship"/>
+				<EntityPreference Priority="0.3" EntityDescription="any"/>
+			</ContainerRelative>
+		</GroupFormationBlock>
+	</GroupFormation>	
+
+	<GroupFormation FormationName="Naval Triple Line Abreast Frigate">
+	
+		<AiPriority>0.6</AiPriority>
+		<AiPurpose>Naval_Attack</AiPurpose>
+		<AiPurpose>Naval_Defend</AiPurpose>
+	
+		<GroupFormationBlock BlockId="0">
+			<ContainerAbsolute BlockPriority="1.5" EntityArrangement="Column" InterEntitySpacing="75.0" PositionX="0.0" PositionY="0.0">
+				<EntityPreference Priority="1.0" EntityDescription="naval_admiral"/>
+				<EntityPreference Priority="1.0" EntityDescription="naval_over_first_rate"/>
+				<EntityPreference Priority="1.0" EntityDescription="naval_first_rate"/>
+				<EntityPreference Priority="1.0" EntityDescription="naval_second_rate"/>
+				<EntityPreference Priority="1.0" EntityDescription="naval_third_rate"/>
+				<EntityPreference Priority="1.0" EntityDescription="naval_fourth_rate"/>
+				<EntityPreference Priority="1.0" EntityDescription="naval_galleon"/>
+				<EntityPreference Priority="1.0" EntityDescription="naval_heavy_galley"/>
+				<EntityPreference Priority="0.1" EntityDescription="any"/>
+			</ContainerAbsolute>
+		</GroupFormationBlock>	
+		<GroupFormationBlock BlockId="1">
+			<ContainerRelative BlockPriority="4" EntityArrangement="Column" InterEntitySpacing="75.0" RelativeBlockId="0" PositionX="150.0" PositionY="0.0">
+				<EntityPreference Priority="1.0" EntityDescription="naval_razee"/>
+				<EntityPreference Priority="1.0" EntityDescription="naval_fifth_rate"/>
+				<EntityPreference Priority="1.0" EntityDescription="naval_sixth_rate"/>
+				<EntityPreference Priority="1.0" EntityDescription="naval_steam_ship"/>
+				<EntityPreference Priority="1.0" EntityDescription="naval_medium_galley"/>
+				<EntityPreference Priority="1.0" EntityDescription="naval_xebec"/>
+				<EntityPreference Priority="0.1" EntityDescription="any"/>
+			</ContainerRelative>
+		</GroupFormationBlock>
+		<GroupFormationBlock BlockId="2">
+			<ContainerRelative BlockPriority="3.5" EntityArrangement="Column" InterEntitySpacing="75.0" RelativeBlockId="1" PositionX="150.0" PositionY="0.0">
+				<EntityPreference Priority="1.0" EntityDescription="naval_brig"/>
+				<EntityPreference Priority="1.0" EntityDescription="naval_sloop"/>
+				<EntityPreference Priority="1.0" EntityDescription="naval_light_galley"/>
+				<EntityPreference Priority="0.1" EntityDescription="any"/>
+			</ContainerRelative>
+		</GroupFormationBlock>
+		<GroupFormationBlock BlockId="3">
+			<ContainerRelative BlockPriority="1" EntityArrangement="Column" InterEntitySpacing="75.0" RelativeBlockId="2" PositionX="0.0" PositionY="-75.0">
+				<EntityPreference Priority="1.0" EntityDescription="naval_bomb_ketch"/>
+				<EntityPreference Priority="1.0" EntityDescription="naval_rocket_ship"/>
+				<EntityPreference Priority="1.0" EntityDescription="naval_indiaman"/>
+				<EntityPreference Priority="1.0" EntityDescription="naval_lugger"/>
+				<EntityPreference Priority="1.0" EntityDescription="naval_dhow"/>
+				<EntityPreference Priority="0.1" EntityDescription="any"/>
+			</ContainerRelative>
+		</GroupFormationBlock>
+	</GroupFormation>
+	
+	<GroupFormation FormationName="Naval Frigate Screen">
+	
+		<AiPriority>0.8</AiPriority>
+		<AiPurpose>Naval_Attack</AiPurpose>
+		<AiPurpose>Naval_Defend</AiPurpose>
+
+		<GroupFormationBlock BlockId="0">
+			<ContainerAbsolute BlockPriority="2.5" EntityArrangement="Line" InterEntitySpacing="75.0" PositionX="0.0" PositionY="0.0">
+      			<EntityPreference Priority="1.0" EntityDescription="naval_razee"/>
+				<EntityPreference Priority="1.0" EntityDescription="naval_fifth_rate"/>
+				<EntityPreference Priority="1.0" EntityDescription="naval_sixth_rate"/>
+				<EntityPreference Priority="1.0" EntityDescription="naval_steam_ship"/>
+				<EntityPreference Priority="0.5" EntityDescription="naval_medium_galley"/>
+				<EntityPreference Priority="0.5" EntityDescription="naval_xebec"/>
+				<EntityPreference Priority="0.1" EntityDescription="any"/>
+			</ContainerAbsolute>
+		</GroupFormationBlock>
+		<GroupFormationBlock BlockId="1">
+			<ContainerRelative BlockPriority="4" EntityArrangement="Column" InterEntitySpacing="75.0" RelativeBlockId="0" PositionX="0.0" PositionY="-75.0">
+				<EntityPreference Priority="1.0" EntityDescription="naval_over_first_rate"/>
+        		<EntityPreference Priority="1.0" EntityDescription="naval_first_rate"/>
+        		<EntityPreference Priority="1.0" EntityDescription="naval_second_rate"/>
+        		<EntityPreference Priority="1.0" EntityDescription="naval_third_rate"/>
+       			<EntityPreference Priority="1.0" EntityDescription="naval_fourth_rate"/>
+        		<EntityPreference Priority="1.0" EntityDescription="naval_galleon"/>
+        		<EntityPreference Priority="0.5" EntityDescription="naval_heavy_galley"/>
+        		<EntityPreference Priority="1.0" EntityDescription="naval_admiral"/>
+				<EntityPreference Priority="0.1" EntityDescription="any"/>
+			</ContainerRelative>
+		</GroupFormationBlock>
+		<GroupFormationBlock BlockId="2">
+			<ContainerRelative BlockPriority="2" EntityArrangement="Column" InterEntitySpacing="75.0" RelativeBlockId="1" PositionX="0.0" PositionY="-75.0">
+				<EntityPreference Priority="1.0" EntityDescription="naval_brig"/>
+				<EntityPreference Priority="1.0" EntityDescription="naval_sloop"/>
+				<EntityPreference Priority="1.0" EntityDescription="naval_bomb_ketch"/>
+				<EntityPreference Priority="1.0" EntityDescription="naval_rocket_ship"/>
+				<EntityPreference Priority="0.5" EntityDescription="naval_light_galley"/>
+				<EntityPreference Priority="0.1" EntityDescription="any"/>
+			</ContainerRelative>
+		</GroupFormationBlock>
+		<GroupFormationBlock BlockId="3">
+			<ContainerRelative BlockPriority="1.5" EntityArrangement="Column" InterEntitySpacing="75.0" RelativeBlockId="2" PositionX="0.0" PositionY="-75.0">
+				<EntityPreference Priority="1.0" EntityDescription="naval_indiaman"/>
+				<EntityPreference Priority="1.0" EntityDescription="naval_lugger"/>
+				<EntityPreference Priority="0.5" EntityDescription="naval_dhow"/>
+				<EntityPreference Priority="0.1" EntityDescription="any"/>
+			</ContainerRelative>
+		</GroupFormationBlock>
+	</GroupFormation>
+	
+</GroupFormationTable>

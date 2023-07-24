@@ -1,0 +1,432 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="sea_climate_details.xsd" generated="2008-04-17T14:55:52">
+<sea_climate_details>
+<key>lc_am_desert</key>
+<sea_deep_colour>0.02 0.032 0.035</sea_deep_colour>
+<sea_shallow_colour>0.022 0.063 0.083</sea_shallow_colour>
+<sun_colour>1 1 1</sun_colour>
+<sky_colour>0.49 0.54 0.65</sky_colour>
+<s_ColLineage>kNOq8QIAAACQ06rxBAAAAJDTqvECAAAAkNOq8QIAAACQ06rxAgAAAA==
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{CFFF93F5-1574-40DD-BA98-899568AC361F}</s_GUID>
+<s_Lineage>kNOq8QQAAAAAAAAAAAAAAA==
+</s_Lineage>
+</sea_climate_details>
+<sea_climate_details>
+<key>lc_am_great_plains</key>
+<sea_deep_colour>0.02 0.032 0.035</sea_deep_colour>
+<sea_shallow_colour>0.022 0.063 0.083</sea_shallow_colour>
+<sun_colour>1 1 1</sun_colour>
+<sky_colour>0.49 0.54 0.65</sky_colour>
+<s_ColLineage>kNOq8QIAAACQ06rxBAAAAJDTqvECAAAAkNOq8QIAAACQ06rxAgAAAA==
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{9ECB1DCC-6B3C-47B8-AE68-43ACF2AA5F08}</s_GUID>
+<s_Lineage>kNOq8QQAAAAAAAAAAAAAAA==
+</s_Lineage>
+</sea_climate_details>
+<sea_climate_details>
+<key>lc_am_jungle</key>
+<sea_deep_colour>0.02 0.032 0.035</sea_deep_colour>
+<sea_shallow_colour>0.022 0.063 0.083</sea_shallow_colour>
+<sun_colour>1 1 1</sun_colour>
+<sky_colour>0.49 0.54 0.65</sky_colour>
+<s_ColLineage>kNOq8QIAAACQ06rxBAAAAJDTqvECAAAAkNOq8QIAAACQ06rxAgAAAA==
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{4A55FE2B-8A6A-4D67-AA32-D86B27B544DD}</s_GUID>
+<s_Lineage>kNOq8QQAAAAAAAAAAAAAAA==
+</s_Lineage>
+</sea_climate_details>
+<sea_climate_details>
+<key>lc_am_s_arid</key>
+<sea_deep_colour>0.02 0.032 0.035</sea_deep_colour>
+<sea_shallow_colour>0.022 0.063 0.083</sea_shallow_colour>
+<sun_colour>1 1 1</sun_colour>
+<sky_colour>0.49 0.54 0.65</sky_colour>
+<s_ColLineage>kNOq8QIAAACQ06rxBAAAAJDTqvECAAAAkNOq8QIAAACQ06rxAgAAAA==
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{7A2AF530-DE73-45DD-9505-21BF2F07F5A2}</s_GUID>
+<s_Lineage>kNOq8QQAAAAAAAAAAAAAAA==
+</s_Lineage>
+</sea_climate_details>
+<sea_climate_details>
+<key>lc_am_se_usa</key>
+<sea_deep_colour>0.02 0.032 0.035</sea_deep_colour>
+<sea_shallow_colour>0.022 0.063 0.083</sea_shallow_colour>
+<sun_colour>1 1 1</sun_colour>
+<sky_colour>0.49 0.54 0.65</sky_colour>
+<s_ColLineage>kNOq8QIAAACQ06rxBAAAAJDTqvECAAAAkNOq8QIAAACQ06rxAgAAAA==
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{E9B21D51-45DC-4194-A8D8-BDBE1D6FEDD8}</s_GUID>
+<s_Lineage>kNOq8QQAAAAAAAAAAAAAAA==
+</s_Lineage>
+</sea_climate_details>
+<sea_climate_details>
+<key>lc_am_tropical_humid</key>
+<sea_deep_colour>0.02 0.032 0.035</sea_deep_colour>
+<sea_shallow_colour>0.022 0.063 0.083</sea_shallow_colour>
+<sun_colour>1 1 1</sun_colour>
+<sky_colour>0.49 0.54 0.65</sky_colour>
+<s_ColLineage>kNOq8QIAAACQ06rxBAAAAJDTqvECAAAAkNOq8QIAAACQ06rxAgAAAA==
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{C8B39C45-8BB1-471F-8919-2C7133489C04}</s_GUID>
+<s_Lineage>kNOq8QQAAAAAAAAAAAAAAA==
+</s_Lineage>
+</sea_climate_details>
+<sea_climate_details>
+<key>lc_am_us_east</key>
+<sea_deep_colour>0.02 0.032 0.035</sea_deep_colour>
+<sea_shallow_colour>0.022 0.063 0.083</sea_shallow_colour>
+<sun_colour>1 1 1</sun_colour>
+<sky_colour>0.49 0.54 0.65</sky_colour>
+<s_ColLineage>kNOq8QIAAACQ06rxBAAAAJDTqvECAAAAkNOq8QIAAACQ06rxAgAAAA==
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{19078D89-6D81-453F-AD81-16759BD8E82C}</s_GUID>
+<s_Lineage>kNOq8QQAAAAAAAAAAAAAAA==
+</s_Lineage>
+</sea_climate_details>
+<sea_climate_details>
+<key>lc_as_temp_humid</key>
+<sea_deep_colour>0.02 0.032 0.035</sea_deep_colour>
+<sea_shallow_colour>0.022 0.063 0.083</sea_shallow_colour>
+<sun_colour>1 1 1</sun_colour>
+<sky_colour>0.49 0.54 0.65</sky_colour>
+<s_ColLineage>kNOq8QIAAACQ06rxBAAAAJDTqvECAAAAkNOq8QIAAACQ06rxAgAAAA==
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{73AF08F2-F564-4D22-8F76-372CFA15A00B}</s_GUID>
+<s_Lineage>kNOq8QQAAAAAAAAAAAAAAA==
+</s_Lineage>
+</sea_climate_details>
+<sea_climate_details>
+<key>lc_as_temp_s_arid</key>
+<sea_deep_colour>0.02 0.032 0.035</sea_deep_colour>
+<sea_shallow_colour>0.022 0.063 0.083</sea_shallow_colour>
+<sun_colour>1 1 1</sun_colour>
+<sky_colour>0.49 0.54 0.65</sky_colour>
+<s_ColLineage>kNOq8QIAAACQ06rxBAAAAJDTqvECAAAAkNOq8QIAAACQ06rxAgAAAA==
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{5BB10A79-A200-4FB3-8BB1-5273204F6DB8}</s_GUID>
+<s_Lineage>kNOq8QQAAAAAAAAAAAAAAA==
+</s_Lineage>
+</sea_climate_details>
+<sea_climate_details>
+<key>lc_as_trop_humid</key>
+<sea_deep_colour>0.02 0.032 0.035</sea_deep_colour>
+<sea_shallow_colour>0.022 0.063 0.083</sea_shallow_colour>
+<sun_colour>1 1 1</sun_colour>
+<sky_colour>0.49 0.54 0.65</sky_colour>
+<s_ColLineage>kNOq8QIAAACQ06rxBAAAAJDTqvECAAAAkNOq8QIAAACQ06rxAgAAAA==
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{365E7087-C631-4992-AAF6-4401E9F91A2E}</s_GUID>
+<s_Lineage>kNOq8QQAAAAAAAAAAAAAAA==
+</s_Lineage>
+</sea_climate_details>
+<sea_climate_details>
+<key>lc_as_trop_s_arid</key>
+<sea_deep_colour>0.02 0.032 0.035</sea_deep_colour>
+<sea_shallow_colour>0.022 0.063 0.083</sea_shallow_colour>
+<sun_colour>1 1 1</sun_colour>
+<sky_colour>0.49 0.54 0.65</sky_colour>
+<s_ColLineage>kNOq8QIAAACQ06rxBQAAAJDTqvECAAAAkNOq8QIAAACQ06rxAgAAAA==
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{3C893129-9C77-498D-9E19-D0375121D1AB}</s_GUID>
+<s_Lineage>kNOq8QUAAAAAAAAAAAAAAA==
+</s_Lineage>
+</sea_climate_details>
+<sea_climate_details>
+<key>lc_boreal</key>
+<sea_deep_colour>0.02 0.032 0.035</sea_deep_colour>
+<sea_shallow_colour>0.022 0.063 0.083</sea_shallow_colour>
+<sun_colour>1 1 1</sun_colour>
+<sky_colour>0.49 0.54 0.65</sky_colour>
+<s_ColLineage>kNOq8QIAAACQ06rxBAAAAJDTqvECAAAAkNOq8QIAAACQ06rxAgAAAA==
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{BB1CBA1E-9DE2-4B3F-A10D-F68CABF53125}</s_GUID>
+<s_Lineage>kNOq8QQAAAAAAAAAAAAAAA==
+</s_Lineage>
+</sea_climate_details>
+<sea_climate_details>
+<key>lc_desert</key>
+<sea_deep_colour>0.02 0.032 0.035</sea_deep_colour>
+<sea_shallow_colour>0.022 0.063 0.083</sea_shallow_colour>
+<sun_colour>1 1 1</sun_colour>
+<sky_colour>0.49 0.54 0.65</sky_colour>
+<s_ColLineage>kNOq8QIAAACQ06rxBAAAAJDTqvECAAAAkNOq8QIAAACQ06rxAgAAAA==
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{1D4C2F03-4D76-4503-B659-9AB286DA0E99}</s_GUID>
+<s_Lineage>kNOq8QQAAAAAAAAAAAAAAA==
+</s_Lineage>
+</sea_climate_details>
+<sea_climate_details>
+<key>lc_eu_north_humid</key>
+<sea_deep_colour>0.02 0.032 0.035</sea_deep_colour>
+<sea_shallow_colour>0.022 0.063 0.083</sea_shallow_colour>
+<sun_colour>1 1 1</sun_colour>
+<sky_colour>0.49 0.54 0.65</sky_colour>
+<s_ColLineage>kNOq8QMAAACQ06rxBQAAAJDTqvECAAAAkNOq8QIAAACQ06rxAgAAAA==
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{D0F88ED4-B985-4EB9-BA98-825B59683796}</s_GUID>
+<s_Lineage>kNOq8QUAAAAAAAAAAAAAAA==
+</s_Lineage>
+</sea_climate_details>
+<sea_climate_details>
+<key>lc_eu_north_s_arid</key>
+<sea_deep_colour>0.02 0.032 0.035</sea_deep_colour>
+<sea_shallow_colour>0.022 0.063 0.083</sea_shallow_colour>
+<sun_colour>1 1 1</sun_colour>
+<sky_colour>0.49 0.54 0.65</sky_colour>
+<s_ColLineage>kNOq8QIAAACQ06rxBAAAAJDTqvECAAAAkNOq8QIAAACQ06rxAgAAAA==
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{755A9D97-8606-4394-83B8-83A99BA2B5E4}</s_GUID>
+<s_Lineage>kNOq8QQAAAAAAAAAAAAAAA==
+</s_Lineage>
+</sea_climate_details>
+<sea_climate_details>
+<key>lc_eu_south_humid</key>
+<sea_deep_colour>0.02 0.032 0.035</sea_deep_colour>
+<sea_shallow_colour>0.022 0.063 0.083</sea_shallow_colour>
+<sun_colour>1 1 1</sun_colour>
+<sky_colour>0.49 0.54 0.65</sky_colour>
+<s_ColLineage>kNOq8QMAAACQ06rxBQAAAJDTqvECAAAAkNOq8QIAAACQ06rxAgAAAA==
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{71D4C59C-F402-4B05-9770-1EC914A3FB31}</s_GUID>
+<s_Lineage>kNOq8QUAAAAAAAAAAAAAAA==
+</s_Lineage>
+</sea_climate_details>
+<sea_climate_details>
+<key>lc_eu_south_s_arid</key>
+<sea_deep_colour>0.02 0.032 0.035</sea_deep_colour>
+<sea_shallow_colour>0.022 0.063 0.083</sea_shallow_colour>
+<sun_colour>1 1 1</sun_colour>
+<sky_colour>0.49 0.54 0.65</sky_colour>
+<s_ColLineage>kNOq8QIAAACQ06rxBAAAAJDTqvECAAAAkNOq8QIAAACQ06rxAgAAAA==
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{B99D85D1-A6FE-4FED-9E09-973BF077A197}</s_GUID>
+<s_Lineage>kNOq8QQAAAAAAAAAAAAAAA==
+</s_Lineage>
+</sea_climate_details>
+<sea_climate_details>
+<key>lc_eu_central_humid</key>
+<sea_deep_colour>0.02 0.032 0.035</sea_deep_colour>
+<sea_shallow_colour>0.022 0.063 0.083</sea_shallow_colour>
+<sun_colour>1 1 1</sun_colour>
+<sky_colour>0.49 0.54 0.65</sky_colour>
+<s_ColLineage>kNOq8QUAAACQ06rxBAAAAJDTqvECAAAAkNOq8QIAAACQ06rxAgAAAA==
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{A2102DA0-7FBE-452A-B731-B7B6E6A76DAD}</s_GUID>
+<s_Lineage>kNOq8QUAAAAAAAAAAAAAAA==
+</s_Lineage>
+</sea_climate_details>
+<sea_climate_details>
+<key>lc_mediterranean</key>
+<sea_deep_colour>0.02 0.032 0.035</sea_deep_colour>
+<sea_shallow_colour>0.022 0.063 0.083</sea_shallow_colour>
+<sun_colour>1 1 1</sun_colour>
+<sky_colour>0.49 0.54 0.65</sky_colour>
+<s_ColLineage>kNOq8QIAAACQ06rxBAAAAJDTqvECAAAAkNOq8QIAAACQ06rxAgAAAA==
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{185B1B79-B189-40E9-9FE4-0587DD78BD85}</s_GUID>
+<s_Lineage>kNOq8QQAAAAAAAAAAAAAAA==
+</s_Lineage>
+</sea_climate_details>
+<sea_climate_details>
+<key>lc_sand_desert</key>
+<sea_deep_colour>0.02 0.032 0.035</sea_deep_colour>
+<sea_shallow_colour>0.022 0.063 0.083</sea_shallow_colour>
+<sun_colour>1 1 1</sun_colour>
+<sky_colour>0.49 0.54 0.65</sky_colour>
+<s_ColLineage>kNOq8QIAAACQ06rxBAAAAJDTqvECAAAAkNOq8QIAAACQ06rxAgAAAA==
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{03C8BB39-3E4B-463D-A580-29CBE776DBD1}</s_GUID>
+<s_Lineage>kNOq8QQAAAAAAAAAAAAAAA==
+</s_Lineage>
+</sea_climate_details>
+<sea_climate_details>
+<key>lc_steppe</key>
+<sea_deep_colour>0.02 0.032 0.035</sea_deep_colour>
+<sea_shallow_colour>0.022 0.063 0.083</sea_shallow_colour>
+<sun_colour>1 1 1</sun_colour>
+<sky_colour>0.49 0.54 0.65</sky_colour>
+<s_ColLineage>kNOq8QIAAACQ06rxBAAAAJDTqvECAAAAkNOq8QIAAACQ06rxAgAAAA==
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{07DD85D7-A403-4B8C-B0B4-4AB2A59FB420}</s_GUID>
+<s_Lineage>kNOq8QQAAAAAAAAAAAAAAA==
+</s_Lineage>
+</sea_climate_details>
+<sea_climate_details>
+<key>lc_tundra</key>
+<sea_deep_colour>0.02 0.032 0.035</sea_deep_colour>
+<sea_shallow_colour>0.022 0.063 0.083</sea_shallow_colour>
+<sun_colour>1 1 1</sun_colour>
+<sky_colour>0.49 0.54 0.65</sky_colour>
+<s_ColLineage>kNOq8QIAAACQ06rxBAAAAJDTqvECAAAAkNOq8QIAAACQ06rxAgAAAA==
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{170B5A5E-408A-46B8-A47F-1103465284E5}</s_GUID>
+<s_Lineage>kNOq8QQAAAAAAAAAAAAAAA==
+</s_Lineage>
+</sea_climate_details>
+<sea_climate_details>
+<key>sc_arctic</key>
+<sea_deep_colour>0.02 0.032 0.035</sea_deep_colour>
+<sea_shallow_colour>0.022 0.063 0.083</sea_shallow_colour>
+<sun_colour>1 1 1</sun_colour>
+<sky_colour>0.49 0.54 0.65</sky_colour>
+<s_ColLineage>kNOq8QIAAACQ06rxBAAAAJDTqvECAAAAkNOq8QIAAACQ06rxAgAAAA==
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{37A9EDF7-C1A6-4185-B9E4-55A3154FC3EB}</s_GUID>
+<s_Lineage>kNOq8QQAAAAAAAAAAAAAAA==
+</s_Lineage>
+</sea_climate_details>
+<sea_climate_details>
+<key>sc_arctic_coast</key>
+<sea_deep_colour>0.02 0.032 0.035</sea_deep_colour>
+<sea_shallow_colour>0.022 0.063 0.083</sea_shallow_colour>
+<sun_colour>1 1 1</sun_colour>
+<sky_colour>0.49 0.54 0.65</sky_colour>
+<s_ColLineage>kNOq8QIAAACQ06rxBAAAAJDTqvECAAAAkNOq8QIAAACQ06rxAgAAAA==
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{339FDCF0-48C9-49E2-AC3C-3CEDAB622D8D}</s_GUID>
+<s_Lineage>kNOq8QQAAAAAAAAAAAAAAA==
+</s_Lineage>
+</sea_climate_details>
+<sea_climate_details>
+<key>sc_lake</key>
+<sea_deep_colour>0.02 0.032 0.035</sea_deep_colour>
+<sea_shallow_colour>0.022 0.063 0.083</sea_shallow_colour>
+<sun_colour>1 1 1</sun_colour>
+<sky_colour>0.49 0.54 0.65</sky_colour>
+<s_ColLineage>kNOq8QIAAACQ06rxBAAAAJDTqvECAAAAkNOq8QIAAACQ06rxAgAAAA==
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{69BE0D03-5F87-4ED2-95C2-DF07A5CA90D0}</s_GUID>
+<s_Lineage>kNOq8QQAAAAAAAAAAAAAAA==
+</s_Lineage>
+</sea_climate_details>
+<sea_climate_details>
+<key>sc_mediterranean</key>
+<sea_deep_colour>0.02 0.032 0.035</sea_deep_colour>
+<sea_shallow_colour>0.022 0.063 0.083</sea_shallow_colour>
+<sun_colour>1 1 1</sun_colour>
+<sky_colour>0.49 0.54 0.65</sky_colour>
+<s_ColLineage>kNOq8QIAAACQ06rxBAAAAJDTqvECAAAAkNOq8QIAAACQ06rxAgAAAA==
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{F9EF256D-9A16-40A8-A60C-6DC296B63169}</s_GUID>
+<s_Lineage>kNOq8QQAAAAAAAAAAAAAAA==
+</s_Lineage>
+</sea_climate_details>
+<sea_climate_details>
+<key>sc_subtropic</key>
+<sea_deep_colour>0.02 0.032 0.035</sea_deep_colour>
+<sea_shallow_colour>0.022 0.063 0.083</sea_shallow_colour>
+<sun_colour>1 1 1</sun_colour>
+<sky_colour>0.49 0.54 0.65</sky_colour>
+<s_ColLineage>kNOq8QIAAACQ06rxBAAAAJDTqvECAAAAkNOq8QIAAACQ06rxAgAAAA==
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{58A44BC8-606B-4158-AE28-A5BE0C8A9322}</s_GUID>
+<s_Lineage>kNOq8QQAAAAAAAAAAAAAAA==
+</s_Lineage>
+</sea_climate_details>
+<sea_climate_details>
+<key>sc_subtropic_coast</key>
+<sea_deep_colour>0.02 0.032 0.035</sea_deep_colour>
+<sea_shallow_colour>0.022 0.063 0.083</sea_shallow_colour>
+<sun_colour>1 1 1</sun_colour>
+<sky_colour>0.49 0.54 0.65</sky_colour>
+<s_ColLineage>kNOq8QIAAACQ06rxBAAAAJDTqvECAAAAkNOq8QIAAACQ06rxAgAAAA==
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{EF8EB32C-BC85-4982-9867-4BC15F16D6F7}</s_GUID>
+<s_Lineage>kNOq8QQAAAAAAAAAAAAAAA==
+</s_Lineage>
+</sea_climate_details>
+<sea_climate_details>
+<key>sc_temperate</key>
+<sea_deep_colour>0.02 0.032 0.035</sea_deep_colour>
+<sea_shallow_colour>0.022 0.063 0.083</sea_shallow_colour>
+<sun_colour>1 1 1</sun_colour>
+<sky_colour>0.49 0.54 0.65</sky_colour>
+<s_ColLineage>kNOq8QIAAACQ06rxBAAAAJDTqvECAAAAkNOq8QIAAACQ06rxAgAAAA==
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{765E1A76-1814-4ED6-AA53-6CD21CD660C3}</s_GUID>
+<s_Lineage>kNOq8QQAAAAAAAAAAAAAAA==
+</s_Lineage>
+</sea_climate_details>
+<sea_climate_details>
+<key>sc_temperate_coast</key>
+<sea_deep_colour>0.02 0.032 0.035</sea_deep_colour>
+<sea_shallow_colour>0.022 0.063 0.083</sea_shallow_colour>
+<sun_colour>1 1 1</sun_colour>
+<sky_colour>0.49 0.54 0.65</sky_colour>
+<s_ColLineage>kNOq8QIAAACQ06rxBAAAAJDTqvECAAAAkNOq8QIAAACQ06rxAgAAAA==
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{DF2BA603-73BF-45ED-BB37-E4061799F2A5}</s_GUID>
+<s_Lineage>kNOq8QQAAAAAAAAAAAAAAA==
+</s_Lineage>
+</sea_climate_details>
+<sea_climate_details>
+<key>sc_tropic</key>
+<sea_deep_colour>0.02 0.032 0.035</sea_deep_colour>
+<sea_shallow_colour>0.022 0.063 0.083</sea_shallow_colour>
+<sun_colour>1 1 1</sun_colour>
+<sky_colour>0.49 0.54 0.65</sky_colour>
+<s_ColLineage>kNOq8QIAAACQ06rxBAAAAJDTqvECAAAAkNOq8QIAAACQ06rxAgAAAA==
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{0976B47A-6D63-49B2-8B43-D0A0B4E7810F}</s_GUID>
+<s_Lineage>kNOq8QQAAAAAAAAAAAAAAA==
+</s_Lineage>
+</sea_climate_details>
+<sea_climate_details>
+<key>sc_tropic_coast</key>
+<sea_deep_colour>0.02 0.032 0.035</sea_deep_colour>
+<sea_shallow_colour>0.022 0.063 0.083</sea_shallow_colour>
+<sun_colour>1 1 1</sun_colour>
+<sky_colour>0.49 0.54 0.65</sky_colour>
+<s_ColLineage>kNOq8QIAAACQ06rxBAAAAJDTqvECAAAAkNOq8QIAAACQ06rxAgAAAA==
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{B1D0FD67-E7BF-4F98-AD65-DFB352A1D933}</s_GUID>
+<s_Lineage>kNOq8QQAAAAAAAAAAAAAAA==
+</s_Lineage>
+</sea_climate_details>
+<sea_climate_details>
+<key>lc_am_us_central</key>
+<sea_deep_colour>0.02 0.032 0.035</sea_deep_colour>
+<sea_shallow_colour>0.022 0.063 0.083</sea_shallow_colour>
+<sun_colour>1 1 1</sun_colour>
+<sky_colour>0.49 0.54 0.65</sky_colour>
+<s_ColLineage>kNOq8QIAAACQ06rxAgAAAJDTqvECAAAAkNOq8QIAAACQ06rxAgAAAA==
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{D488F0F7-D0E6-4F05-A29C-95F7B78A5BBB}</s_GUID>
+<s_Lineage>kNOq8QIAAAAAAAAAAAAAAA==
+</s_Lineage>
+</sea_climate_details>
+</dataroot>

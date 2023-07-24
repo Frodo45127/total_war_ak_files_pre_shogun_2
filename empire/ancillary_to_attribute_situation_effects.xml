@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="ancillary_to_attribute_situation_effects.xsd" generated="2009-09-16T14:54:21">
+<ancillary_to_attribute_situation_effects>
+<ancillary>Ancillary_Army_Aide_Nephew</ancillary>
+<attribute_situation>Command_Land_Ambushes</attribute_situation>
+<effect_value>-1</effect_value>
+<s_ColLineage>kNOq8QIAAACQ06rxAgAAAJDTqvECAAAA
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{DEDE7035-420E-4AFF-98A8-FFA715340757}</s_GUID>
+<s_Lineage>kNOq8QIAAAAAAAAAAAAAAA==
+</s_Lineage>
+</ancillary_to_attribute_situation_effects>
+<ancillary_to_attribute_situation_effects>
+<ancillary>Ancillary_Army_Aide_Nephew</ancillary>
+<attribute_situation>Movement_Points_Land_Cavalry</attribute_situation>
+<effect_value>-10</effect_value>
+<s_ColLineage>NAnHjgIAAAA0CceOAgAAADQJx44CAAAA
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{17662BF6-5832-408F-970F-7D5AB6C74A41}</s_GUID>
+<s_Lineage>NAnHjgIAAAAAAAAAAAAAAA==
+</s_Lineage>
+</ancillary_to_attribute_situation_effects>
+</dataroot>

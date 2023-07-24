@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="terrain_tilesets.xsd" generated="2009-10-30T16:23:48">
+<terrain_tilesets>
+<tileset_name>default</tileset_name>
+<s_ColLineage>W4e7tQMAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{572174D5-2BE4-44B8-BCE3-13791926DA5F}</s_GUID>
+<s_Lineage>W4e7tQMAAAAAAAAAAAAAAA==
+</s_Lineage>
+</terrain_tilesets>
+<terrain_tilesets>
+<tileset_name>desert</tileset_name>
+<s_ColLineage>W4e7tQIAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{8E72E8C0-FECD-47B1-AD0E-B086E8DF7511}</s_GUID>
+<s_Lineage>W4e7tQIAAAAAAAAAAAAAAA==
+</s_Lineage>
+</terrain_tilesets>
+</dataroot>

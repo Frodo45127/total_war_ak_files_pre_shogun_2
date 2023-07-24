@@ -1,0 +1,274 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:od="urn:schemas-microsoft-com:officedata">
+<xsd:element name="dataroot">
+<xsd:complexType>
+<xsd:sequence>
+<xsd:element ref="unit_stats_naval" minOccurs="0" maxOccurs="unbounded"/>
+</xsd:sequence>
+<xsd:attribute name="generated" type="xsd:dateTime"/>
+</xsd:complexType>
+</xsd:element>
+<xsd:element name="unit_stats_naval">
+<xsd:annotation>
+<xsd:appinfo/>
+</xsd:annotation>
+<xsd:complexType>
+<xsd:sequence>
+<xsd:element name="key" minOccurs="1" od:jetType="text" od:sqlSType="nvarchar" od:nonNullable="yes">
+<xsd:simpleType>
+<xsd:restriction base="xsd:string">
+<xsd:maxLength value="255"/>
+</xsd:restriction>
+</xsd:simpleType>
+</xsd:element>
+<xsd:element name="morale" minOccurs="0" od:jetType="double" od:sqlSType="float" type="xsd:double"/>
+<xsd:element name="mothball_cost" minOccurs="1" od:jetType="integer" od:sqlSType="smallint" od:nonNullable="yes" type="xsd:short"/>
+<xsd:element name="reactivate_cost" minOccurs="1" od:jetType="integer" od:sqlSType="smallint" od:nonNullable="yes" type="xsd:short"/>
+<xsd:element name="repair_cost_port" minOccurs="1" od:jetType="longinteger" od:sqlSType="int" od:nonNullable="yes" type="xsd:int"/>
+<xsd:element name="repair_cost_sea" minOccurs="1" od:jetType="longinteger" od:sqlSType="int" od:nonNullable="yes" type="xsd:int"/>
+<xsd:element name="admiral_promotion_cost_record" minOccurs="0" od:jetType="text" od:sqlSType="nvarchar">
+<xsd:simpleType>
+<xsd:restriction base="xsd:string">
+<xsd:maxLength value="50"/>
+</xsd:restriction>
+</xsd:simpleType>
+</xsd:element>
+<xsd:element name="bow_chasers" minOccurs="0" od:jetType="text" od:sqlSType="nvarchar">
+<xsd:simpleType>
+<xsd:restriction base="xsd:string">
+<xsd:maxLength value="255"/>
+</xsd:restriction>
+</xsd:simpleType>
+</xsd:element>
+<xsd:element name="stern_chasers" minOccurs="0" od:jetType="text" od:sqlSType="nvarchar">
+<xsd:simpleType>
+<xsd:restriction base="xsd:string">
+<xsd:maxLength value="255"/>
+</xsd:restriction>
+</xsd:simpleType>
+</xsd:element>
+<xsd:element name="deck_1_top" minOccurs="0" od:jetType="text" od:sqlSType="nvarchar">
+<xsd:simpleType>
+<xsd:restriction base="xsd:string">
+<xsd:maxLength value="255"/>
+</xsd:restriction>
+</xsd:simpleType>
+</xsd:element>
+<xsd:element name="deck_2" minOccurs="0" od:jetType="text" od:sqlSType="nvarchar">
+<xsd:simpleType>
+<xsd:restriction base="xsd:string">
+<xsd:maxLength value="255"/>
+</xsd:restriction>
+</xsd:simpleType>
+</xsd:element>
+<xsd:element name="deck_3" minOccurs="0" od:jetType="text" od:sqlSType="nvarchar">
+<xsd:simpleType>
+<xsd:restriction base="xsd:string">
+<xsd:maxLength value="255"/>
+</xsd:restriction>
+</xsd:simpleType>
+</xsd:element>
+<xsd:element name="deck_4" minOccurs="0" od:jetType="text" od:sqlSType="nvarchar">
+<xsd:simpleType>
+<xsd:restriction base="xsd:string">
+<xsd:maxLength value="50"/>
+</xsd:restriction>
+</xsd:simpleType>
+</xsd:element>
+<xsd:element name="deck_5" minOccurs="0" od:jetType="text" od:sqlSType="nvarchar">
+<xsd:simpleType>
+<xsd:restriction base="xsd:string">
+<xsd:maxLength value="50"/>
+</xsd:restriction>
+</xsd:simpleType>
+</xsd:element>
+<xsd:element name="ship_model" minOccurs="1" od:jetType="text" od:sqlSType="nvarchar" od:nonNullable="yes">
+<xsd:simpleType>
+<xsd:restriction base="xsd:string">
+<xsd:maxLength value="255"/>
+</xsd:restriction>
+</xsd:simpleType>
+</xsd:element>
+<xsd:element name="admiral" minOccurs="1" od:jetType="text" od:sqlSType="nvarchar" od:nonNullable="yes">
+<xsd:simpleType>
+<xsd:restriction base="xsd:string">
+<xsd:maxLength value="50"/>
+</xsd:restriction>
+</xsd:simpleType>
+</xsd:element>
+<xsd:element name="officer1" minOccurs="0" od:jetType="text" od:sqlSType="nvarchar">
+<xsd:simpleType>
+<xsd:restriction base="xsd:string">
+<xsd:maxLength value="50"/>
+</xsd:restriction>
+</xsd:simpleType>
+</xsd:element>
+<xsd:element name="officer2" minOccurs="0" od:jetType="text" od:sqlSType="nvarchar">
+<xsd:simpleType>
+<xsd:restriction base="xsd:string">
+<xsd:maxLength value="50"/>
+</xsd:restriction>
+</xsd:simpleType>
+</xsd:element>
+<xsd:element name="officer3" minOccurs="0" od:jetType="text" od:sqlSType="nvarchar">
+<xsd:simpleType>
+<xsd:restriction base="xsd:string">
+<xsd:maxLength value="50"/>
+</xsd:restriction>
+</xsd:simpleType>
+</xsd:element>
+<xsd:element name="num_marines" minOccurs="1" od:jetType="integer" od:sqlSType="smallint" od:nonNullable="yes" type="xsd:short"/>
+<xsd:element name="num_seamen" minOccurs="1" od:jetType="integer" od:sqlSType="smallint" od:nonNullable="yes" type="xsd:short"/>
+<xsd:element name="num_gunners" minOccurs="0" od:jetType="double" od:sqlSType="float" type="xsd:double"/>
+<xsd:element name="core_gunner_marksmanship" minOccurs="1" od:jetType="integer" od:sqlSType="smallint" od:nonNullable="yes" type="xsd:short"/>
+<xsd:element name="core_gunner_loading_skill" minOccurs="1" od:jetType="integer" od:sqlSType="smallint" od:nonNullable="yes" type="xsd:short"/>
+<xsd:element name="firing_mechanism" minOccurs="1" od:jetType="text" od:sqlSType="nvarchar" od:nonNullable="yes">
+<xsd:simpleType>
+<xsd:restriction base="xsd:string">
+<xsd:maxLength value="50"/>
+</xsd:restriction>
+</xsd:simpleType>
+</xsd:element>
+<xsd:element name="water_bail_out_modifier" minOccurs="1" od:jetType="double" od:sqlSType="float" od:nonNullable="yes" type="xsd:double"/>
+<xsd:element name="flood_threshold_to_sink" minOccurs="1" od:jetType="double" od:sqlSType="float" od:nonNullable="yes" type="xsd:double"/>
+<xsd:element name="fire_risk_modifier" minOccurs="1" od:jetType="double" od:sqlSType="float" od:nonNullable="yes" type="xsd:double"/>
+<xsd:element name="mass" minOccurs="1" od:jetType="integer" od:sqlSType="smallint" od:nonNullable="yes" type="xsd:short"/>
+<xsd:element name="collision_momentum_modifer" minOccurs="1" od:jetType="double" od:sqlSType="float" od:nonNullable="yes" type="xsd:double"/>
+<xsd:element name="formation_distance" minOccurs="1" od:jetType="integer" od:sqlSType="smallint" od:nonNullable="yes" type="xsd:short"/>
+<xsd:element name="minimum_distance" minOccurs="1" od:jetType="integer" od:sqlSType="smallint" od:nonNullable="yes" type="xsd:short"/>
+<xsd:element name="formation_integrity" minOccurs="1" od:jetType="integer" od:sqlSType="smallint" od:nonNullable="yes" type="xsd:short"/>
+<xsd:element name="top_speed" minOccurs="1" od:jetType="integer" od:sqlSType="smallint" od:nonNullable="yes" type="xsd:short"/>
+<xsd:element name="acceleration" minOccurs="1" od:jetType="double" od:sqlSType="float" od:nonNullable="yes" type="xsd:double"/>
+<xsd:element name="stopping_threshold" minOccurs="1" od:jetType="double" od:sqlSType="float" od:nonNullable="yes" type="xsd:double"/>
+<xsd:element name="heel_factor" minOccurs="1" od:jetType="double" od:sqlSType="float" od:nonNullable="yes" type="xsd:double"/>
+<xsd:element name="beating_angle" minOccurs="1" od:jetType="integer" od:sqlSType="smallint" od:nonNullable="yes" type="xsd:short"/>
+<xsd:element name="max_yard_angle" minOccurs="1" od:jetType="integer" od:sqlSType="smallint" od:nonNullable="yes" type="xsd:short"/>
+<xsd:element name="sail_furl_angle" minOccurs="1" od:jetType="integer" od:sqlSType="smallint" od:nonNullable="yes" type="xsd:short"/>
+<xsd:element name="speed_wind_astern" minOccurs="1" od:jetType="double" od:sqlSType="float" od:nonNullable="yes" type="xsd:double"/>
+<xsd:element name="speed_15_deg" minOccurs="1" od:jetType="double" od:sqlSType="float" od:nonNullable="yes" type="xsd:double"/>
+<xsd:element name="speed_30_deg" minOccurs="1" od:jetType="double" od:sqlSType="float" od:nonNullable="yes" type="xsd:double"/>
+<xsd:element name="speed_45_deg" minOccurs="1" od:jetType="double" od:sqlSType="float" od:nonNullable="yes" type="xsd:double"/>
+<xsd:element name="speed_60_deg" minOccurs="1" od:jetType="double" od:sqlSType="float" od:nonNullable="yes" type="xsd:double"/>
+<xsd:element name="speed_75_deg" minOccurs="1" od:jetType="double" od:sqlSType="float" od:nonNullable="yes" type="xsd:double"/>
+<xsd:element name="speed_90_deg" minOccurs="1" od:jetType="double" od:sqlSType="float" od:nonNullable="yes" type="xsd:double"/>
+<xsd:element name="speed_105_deg" minOccurs="1" od:jetType="double" od:sqlSType="float" od:nonNullable="yes" type="xsd:double"/>
+<xsd:element name="speed_120_deg" minOccurs="1" od:jetType="double" od:sqlSType="float" od:nonNullable="yes" type="xsd:double"/>
+<xsd:element name="speed_135_deg" minOccurs="1" od:jetType="double" od:sqlSType="float" od:nonNullable="yes" type="xsd:double"/>
+<xsd:element name="speed_145_deg" minOccurs="1" od:jetType="double" od:sqlSType="float" od:nonNullable="yes" type="xsd:double"/>
+<xsd:element name="speed_180_deg" minOccurs="1" od:jetType="double" od:sqlSType="float" od:nonNullable="yes" type="xsd:double"/>
+<xsd:element name="position_damping" minOccurs="1" od:jetType="double" od:sqlSType="float" od:nonNullable="yes" type="xsd:double"/>
+<xsd:element name="rotation_damping" minOccurs="1" od:jetType="double" od:sqlSType="float" od:nonNullable="yes" type="xsd:double"/>
+<xsd:element name="turn_rate_stopped" minOccurs="1" od:jetType="double" od:sqlSType="float" od:nonNullable="yes" type="xsd:double"/>
+<xsd:element name="turn_rate_at_10_percent" minOccurs="1" od:jetType="double" od:sqlSType="float" od:nonNullable="yes" type="xsd:double"/>
+<xsd:element name="turn_rate_at_20_percent" minOccurs="1" od:jetType="double" od:sqlSType="float" od:nonNullable="yes" type="xsd:double"/>
+<xsd:element name="turn_rate_at_35_percent" minOccurs="1" od:jetType="double" od:sqlSType="float" od:nonNullable="yes" type="xsd:double"/>
+<xsd:element name="turn_rate_at_50_percent" minOccurs="1" od:jetType="double" od:sqlSType="float" od:nonNullable="yes" type="xsd:double"/>
+<xsd:element name="turn_rate_at_65_percent" minOccurs="1" od:jetType="double" od:sqlSType="float" od:nonNullable="yes" type="xsd:double"/>
+<xsd:element name="turn_rate_at_80_percent" minOccurs="1" od:jetType="double" od:sqlSType="float" od:nonNullable="yes" type="xsd:double"/>
+<xsd:element name="turn_rate_at_full_speed" minOccurs="1" od:jetType="double" od:sqlSType="float" od:nonNullable="yes" type="xsd:double"/>
+<xsd:element name="top_gallants_allowed" minOccurs="1" od:jetType="yesno" od:sqlSType="bit" od:nonNullable="yes" type="xsd:boolean"/>
+<xsd:element name="side_panels_above_water_1_top_armour" minOccurs="1" od:jetType="integer" od:sqlSType="smallint" od:nonNullable="yes" type="xsd:short"/>
+<xsd:element name="side_panels_above_water_1_top_hits" minOccurs="1" od:jetType="integer" od:sqlSType="smallint" od:nonNullable="yes" type="xsd:short"/>
+<xsd:element name="side_panels_above_water_1_top_critical" minOccurs="1" od:jetType="double" od:sqlSType="float" od:nonNullable="yes" type="xsd:double"/>
+<xsd:element name="side_panels_above_water_2_armour" minOccurs="1" od:jetType="integer" od:sqlSType="smallint" od:nonNullable="yes" type="xsd:short"/>
+<xsd:element name="side_panels_above_water_2_hits" minOccurs="1" od:jetType="integer" od:sqlSType="smallint" od:nonNullable="yes" type="xsd:short"/>
+<xsd:element name="side_panels_above_water_2_critical" minOccurs="1" od:jetType="double" od:sqlSType="float" od:nonNullable="yes" type="xsd:double"/>
+<xsd:element name="side_panels_below_water_armour" minOccurs="1" od:jetType="integer" od:sqlSType="smallint" od:nonNullable="yes" type="xsd:short"/>
+<xsd:element name="side_panels_below_water_hits" minOccurs="1" od:jetType="integer" od:sqlSType="smallint" od:nonNullable="yes" type="xsd:short"/>
+<xsd:element name="side_panels_below_water_critical" minOccurs="1" od:jetType="double" od:sqlSType="float" od:nonNullable="yes" type="xsd:double"/>
+<xsd:element name="prow_panels_above_water_armour" minOccurs="1" od:jetType="integer" od:sqlSType="smallint" od:nonNullable="yes" type="xsd:short"/>
+<xsd:element name="prow_panels_above_water_hits" minOccurs="1" od:jetType="integer" od:sqlSType="smallint" od:nonNullable="yes" type="xsd:short"/>
+<xsd:element name="prow_panels_above_water_critical" minOccurs="1" od:jetType="double" od:sqlSType="float" od:nonNullable="yes" type="xsd:double"/>
+<xsd:element name="prow_panels_below_water_armour" minOccurs="1" od:jetType="longinteger" od:sqlSType="int" od:nonNullable="yes" type="xsd:int"/>
+<xsd:element name="prow_panels_below_water_hits" minOccurs="1" od:jetType="longinteger" od:sqlSType="int" od:nonNullable="yes" type="xsd:int"/>
+<xsd:element name="prow_panels_below_water_critical" minOccurs="1" od:jetType="single" od:sqlSType="real" od:nonNullable="yes" type="xsd:float"/>
+<xsd:element name="stern_panels_above_water_armour" minOccurs="1" od:jetType="integer" od:sqlSType="smallint" od:nonNullable="yes" type="xsd:short"/>
+<xsd:element name="stern_panels_above_water_hits" minOccurs="1" od:jetType="integer" od:sqlSType="smallint" od:nonNullable="yes" type="xsd:short"/>
+<xsd:element name="stern_panels_above_water_critical" minOccurs="1" od:jetType="double" od:sqlSType="float" od:nonNullable="yes" type="xsd:double"/>
+<xsd:element name="stern_panels_below_water_armour" minOccurs="1" od:jetType="longinteger" od:sqlSType="int" od:nonNullable="yes" type="xsd:int"/>
+<xsd:element name="stern_panels_below_water_hits" minOccurs="1" od:jetType="longinteger" od:sqlSType="int" od:nonNullable="yes" type="xsd:int"/>
+<xsd:element name="stern_panels_below_water_critical" minOccurs="1" od:jetType="single" od:sqlSType="real" od:nonNullable="yes" type="xsd:float"/>
+<xsd:element name="mast_1_front_armour" minOccurs="1" od:jetType="integer" od:sqlSType="smallint" od:nonNullable="yes" type="xsd:short"/>
+<xsd:element name="mast_1_front_hits" minOccurs="1" od:jetType="integer" od:sqlSType="smallint" od:nonNullable="yes" type="xsd:short"/>
+<xsd:element name="mast_1_front_critical" minOccurs="1" od:jetType="double" od:sqlSType="float" od:nonNullable="yes" type="xsd:double"/>
+<xsd:element name="mast_2_armour" minOccurs="1" od:jetType="integer" od:sqlSType="smallint" od:nonNullable="yes" type="xsd:short"/>
+<xsd:element name="mast_2_hits" minOccurs="1" od:jetType="integer" od:sqlSType="smallint" od:nonNullable="yes" type="xsd:short"/>
+<xsd:element name="mast_2_critical" minOccurs="1" od:jetType="double" od:sqlSType="float" od:nonNullable="yes" type="xsd:double"/>
+<xsd:element name="mast_3_armour" minOccurs="1" od:jetType="integer" od:sqlSType="smallint" od:nonNullable="yes" type="xsd:short"/>
+<xsd:element name="mast_3_hits" minOccurs="1" od:jetType="integer" od:sqlSType="smallint" od:nonNullable="yes" type="xsd:short"/>
+<xsd:element name="mast_3_critical" minOccurs="1" od:jetType="double" od:sqlSType="float" od:nonNullable="yes" type="xsd:double"/>
+<xsd:element name="top_sails_armour" minOccurs="1" od:jetType="integer" od:sqlSType="smallint" od:nonNullable="yes" type="xsd:short"/>
+<xsd:element name="top_sails_hits" minOccurs="1" od:jetType="integer" od:sqlSType="smallint" od:nonNullable="yes" type="xsd:short"/>
+<xsd:element name="top_sails_critical" minOccurs="1" od:jetType="double" od:sqlSType="float" od:nonNullable="yes" type="xsd:double"/>
+<xsd:element name="middle_sails_armour" minOccurs="1" od:jetType="integer" od:sqlSType="smallint" od:nonNullable="yes" type="xsd:short"/>
+<xsd:element name="middle_sails_hits" minOccurs="1" od:jetType="integer" od:sqlSType="smallint" od:nonNullable="yes" type="xsd:short"/>
+<xsd:element name="middle_sails_critical" minOccurs="1" od:jetType="double" od:sqlSType="float" od:nonNullable="yes" type="xsd:double"/>
+<xsd:element name="bottom_sails_armour" minOccurs="1" od:jetType="integer" od:sqlSType="smallint" od:nonNullable="yes" type="xsd:short"/>
+<xsd:element name="bottom_sails_hits" minOccurs="1" od:jetType="integer" od:sqlSType="smallint" od:nonNullable="yes" type="xsd:short"/>
+<xsd:element name="bottom_sails_critical" minOccurs="1" od:jetType="double" od:sqlSType="float" od:nonNullable="yes" type="xsd:double"/>
+<xsd:element name="top_gallants_sails_armour" minOccurs="1" od:jetType="integer" od:sqlSType="smallint" od:nonNullable="yes" type="xsd:short"/>
+<xsd:element name="top_gallants_sails_hits" minOccurs="1" od:jetType="integer" od:sqlSType="smallint" od:nonNullable="yes" type="xsd:short"/>
+<xsd:element name="top_gallants_sails_critical" minOccurs="1" od:jetType="double" od:sqlSType="float" od:nonNullable="yes" type="xsd:double"/>
+<xsd:element name="mast_bowsprit_armour" minOccurs="0" od:jetType="longinteger" od:sqlSType="int" type="xsd:int"/>
+<xsd:element name="mast_bowsprit_hits" minOccurs="0" od:jetType="longinteger" od:sqlSType="int" type="xsd:int"/>
+<xsd:element name="mast_bowsprit_critical" minOccurs="0" od:jetType="double" od:sqlSType="float" type="xsd:double"/>
+<xsd:element name="front_sails_armour" minOccurs="0" od:jetType="longinteger" od:sqlSType="int" type="xsd:int"/>
+<xsd:element name="front_sails_hits" minOccurs="0" od:jetType="longinteger" od:sqlSType="int" type="xsd:int"/>
+<xsd:element name="front_sails_critical" minOccurs="0" od:jetType="double" od:sqlSType="float" type="xsd:double"/>
+<xsd:element name="back_sails_armour" minOccurs="0" od:jetType="longinteger" od:sqlSType="int" type="xsd:int"/>
+<xsd:element name="back_sails_hits" minOccurs="0" od:jetType="longinteger" od:sqlSType="int" type="xsd:int"/>
+<xsd:element name="back_sails_critical" minOccurs="0" od:jetType="double" od:sqlSType="float" type="xsd:double"/>
+<xsd:element name="magazine_armour" minOccurs="1" od:jetType="integer" od:sqlSType="smallint" od:nonNullable="yes" type="xsd:short"/>
+<xsd:element name="magazine_hits" minOccurs="1" od:jetType="integer" od:sqlSType="smallint" od:nonNullable="yes" type="xsd:short"/>
+<xsd:element name="magazine_critical" minOccurs="1" od:jetType="double" od:sqlSType="float" od:nonNullable="yes" type="xsd:double"/>
+<xsd:element name="scares_enemies" minOccurs="1" od:jetType="yesno" od:sqlSType="bit" od:nonNullable="yes" type="xsd:boolean"/>
+<xsd:element name="inspire" minOccurs="1" od:jetType="yesno" od:sqlSType="bit" od:nonNullable="yes" type="xsd:boolean"/>
+<xsd:element name="can_trade" minOccurs="1" od:jetType="yesno" od:sqlSType="bit" od:nonNullable="yes" type="xsd:boolean"/>
+<xsd:element name="ship_rating_icon" minOccurs="0" od:jetType="text" od:sqlSType="nvarchar">
+<xsd:simpleType>
+<xsd:restriction base="xsd:string">
+<xsd:maxLength value="50"/>
+</xsd:restriction>
+</xsd:simpleType>
+</xsd:element>
+<xsd:element name="stat_bar_manoeuvrability_rating" minOccurs="1" od:jetType="text" od:sqlSType="nvarchar" od:nonNullable="yes">
+<xsd:simpleType>
+<xsd:restriction base="xsd:string">
+<xsd:maxLength value="50"/>
+</xsd:restriction>
+</xsd:simpleType>
+</xsd:element>
+<xsd:element name="stat_bar_hull_strength" minOccurs="1" od:jetType="longinteger" od:sqlSType="int" od:nonNullable="yes" type="xsd:int"/>
+<xsd:element name="category" minOccurs="1" od:jetType="text" od:sqlSType="nvarchar" od:nonNullable="yes">
+<xsd:simpleType>
+<xsd:restriction base="xsd:string">
+<xsd:maxLength value="50"/>
+</xsd:restriction>
+</xsd:simpleType>
+</xsd:element>
+<xsd:element name="s_ColLineage" minOccurs="0" od:jetType="oleobject" od:sqlSType="image">
+<xsd:simpleType>
+<xsd:restriction base="xsd:base64Binary">
+<xsd:maxLength value="1476395008"/>
+</xsd:restriction>
+</xsd:simpleType>
+</xsd:element>
+<xsd:element name="s_Generation" minOccurs="0" od:jetType="longinteger" od:sqlSType="int" type="xsd:int"/>
+<xsd:element name="s_GUID" minOccurs="0" od:jetType="replicationid" od:sqlSType="uniqueidentifier" od:autoUnique="yes">
+<xsd:simpleType>
+<xsd:restriction base="xsd:string">
+<xsd:maxLength value="38"/>
+</xsd:restriction>
+</xsd:simpleType>
+</xsd:element>
+<xsd:element name="s_Lineage" minOccurs="0" od:jetType="oleobject" od:sqlSType="image">
+<xsd:simpleType>
+<xsd:restriction base="xsd:base64Binary">
+<xsd:maxLength value="1476395008"/>
+</xsd:restriction>
+</xsd:simpleType>
+</xsd:element>
+</xsd:sequence>
+</xsd:complexType>
+</xsd:element>
+</xsd:schema>

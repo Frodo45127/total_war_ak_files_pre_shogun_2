@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="campaign_ai_managers.xsd" generated="2009-08-17T12:29:42">
+<campaign_ai_managers>
+<manager>EMPTY</manager>
+<description>Manager which will just end it&apos;s turn</description>
+<s_ColLineage>kNOq8QMAAACQ06rxAwAAAGmTimEEAAAA
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{3674C36B-F47C-4EC0-99CD-C23AD3238987}</s_GUID>
+<s_Lineage>aZOKYQQAAACQ06rxAwAAAAAAAAAAAAAA
+</s_Lineage>
+<project_specific>0</project_specific>
+</campaign_ai_managers>
+<campaign_ai_managers>
+<manager>episode_1_powhatan</manager>
+<description>Manager for ep1 powhatan</description>
+<s_ColLineage>kNOq8QMAAACQ06rxBQAAAGmTimEGAAAA
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{0D45A387-C9C0-4776-B838-9CE9BA05E788}</s_GUID>
+<s_Lineage>aZOKYQYAAACQ06rxBQAAAAAAAAAAAAAA
+</s_Lineage>
+<project_specific>0</project_specific>
+</campaign_ai_managers>
+<campaign_ai_managers>
+<manager>episode_2_britain</manager>
+<description>Manager for ep2 britain</description>
+<s_ColLineage>kNOq8QIAAACQ06rxAgAAAGmTimEDAAAA
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{A1E84240-0530-4EAC-BBC4-5ED4BCDE9B25}</s_GUID>
+<s_Lineage>aZOKYQMAAACQ06rxAgAAAAAAAAAAAAAA
+</s_Lineage>
+<project_specific>0</project_specific>
+</campaign_ai_managers>
+<campaign_ai_managers>
+<manager>episode_2_france</manager>
+<description>Manager for ep2 france</description>
+<s_ColLineage>kNOq8QIAAACQ06rxAgAAAGmTimEDAAAA
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{4756F256-37C4-43D3-91EA-D6611B4975A1}</s_GUID>
+<s_Lineage>aZOKYQMAAACQ06rxAgAAAAAAAAAAAAAA
+</s_Lineage>
+<project_specific>0</project_specific>
+</campaign_ai_managers>
+<campaign_ai_managers>
+<manager>episode_2_huron</manager>
+<description>Manager for ep3 huron</description>
+<s_ColLineage>kNOq8QMAAACQ06rxBAAAAGmTimEFAAAA
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{02324E57-C2AB-4668-805F-BF7962DDB187}</s_GUID>
+<s_Lineage>aZOKYQUAAACQ06rxBAAAAAAAAAAAAAAA
+</s_Lineage>
+<project_specific>0</project_specific>
+</campaign_ai_managers>
+<campaign_ai_managers>
+<manager>episode_2_iroquois</manager>
+<description>Manager for ep2 iroquois</description>
+<s_ColLineage>kNOq8QMAAACQ06rxAwAAAGmTimEEAAAA
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{459B1C62-9986-4B03-80C2-7F19A96C10B4}</s_GUID>
+<s_Lineage>aZOKYQQAAACQ06rxAwAAAAAAAAAAAAAA
+</s_Lineage>
+<project_specific>0</project_specific>
+</campaign_ai_managers>
+<campaign_ai_managers>
+<manager>episode_3_britain</manager>
+<description>Manager for ep3 britain</description>
+<s_ColLineage>kNOq8QIAAACQ06rxAgAAAGmTimEDAAAA
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{094F5706-B046-42CE-A918-80A6A653C6C2}</s_GUID>
+<s_Lineage>aZOKYQMAAACQ06rxAgAAAAAAAAAAAAAA
+</s_Lineage>
+<project_specific>0</project_specific>
+</campaign_ai_managers>
+<campaign_ai_managers>
+<manager>episode_3_dutch</manager>
+<description>Manager for ep3 dutch</description>
+<s_ColLineage>kNOq8QIAAACQ06rxAgAAAGmTimEDAAAA
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{180182CB-7A3F-4FEA-8FAB-856A8366EF1A}</s_GUID>
+<s_Lineage>aZOKYQMAAACQ06rxAgAAAAAAAAAAAAAA
+</s_Lineage>
+<project_specific>0</project_specific>
+</campaign_ai_managers>
+<campaign_ai_managers>
+<manager>episode_3_france</manager>
+<description>Manager for ep3 france</description>
+<s_ColLineage>kNOq8QIAAACQ06rxAgAAAGmTimEDAAAA
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{9B4C6CBB-2A6F-4B93-9E28-E70D39302EE5}</s_GUID>
+<s_Lineage>aZOKYQMAAACQ06rxAgAAAAAAAAAAAAAA
+</s_Lineage>
+<project_specific>0</project_specific>
+</campaign_ai_managers>
+<campaign_ai_managers>
+<manager>episode_3_native_americans</manager>
+<description>Manager for ep3 native americans</description>
+<s_ColLineage>kNOq8QIAAACQ06rxAgAAAGmTimEDAAAA
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{F0A8655A-79AB-41BA-BF3B-B10C72A29A31}</s_GUID>
+<s_Lineage>aZOKYQMAAACQ06rxAgAAAAAAAAAAAAAA
+</s_Lineage>
+<project_specific>0</project_specific>
+</campaign_ai_managers>
+<campaign_ai_managers>
+<manager>episode_3_spain</manager>
+<description>Manager for ep3 spain</description>
+<s_ColLineage>kNOq8QIAAACQ06rxAgAAAGmTimEDAAAA
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{A70DD20D-D7F5-4D33-B1DE-0AC931AE9BC9}</s_GUID>
+<s_Lineage>aZOKYQMAAACQ06rxAgAAAAAAAAAAAAAA
+</s_Lineage>
+<project_specific>0</project_specific>
+</campaign_ai_managers>
+<campaign_ai_managers>
+<manager>FULL</manager>
+<description>Manager which contains all behaviours</description>
+<s_ColLineage>kNOq8QMAAACQ06rxAwAAAGmTimEEAAAA
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{8F492993-F7EF-4D7C-9313-988BD6CCC730}</s_GUID>
+<s_Lineage>aZOKYQQAAACQ06rxAwAAAAAAAAAAAAAA
+</s_Lineage>
+<project_specific>0</project_specific>
+</campaign_ai_managers>
+<campaign_ai_managers>
+<manager>MAINTAINANCE</manager>
+<description>Manager which only contains defensive and constructive behaviours</description>
+<s_ColLineage>kNOq8QIAAACQ06rxAwAAAGmTimEEAAAA
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{7285B4FB-7502-4A14-BC60-E59556DE7795}</s_GUID>
+<s_Lineage>aZOKYQQAAACQ06rxAwAAAAAAAAAAAAAA
+</s_Lineage>
+<project_specific>0</project_specific>
+</campaign_ai_managers>
+<campaign_ai_managers>
+<manager>pirates</manager>
+<description>Manager for pirate factions</description>
+<s_ColLineage>kNOq8QUAAACQ06rxAwAAAGmTimEGAAAA
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{3FE74BEF-BBEE-42B4-89BC-1547C77391D0}</s_GUID>
+<s_Lineage>aZOKYQYAAACQ06rxBQAAAAAAAAAAAAAA
+</s_Lineage>
+<project_specific>0</project_specific>
+</campaign_ai_managers>
+<campaign_ai_managers>
+<manager>NAN</manager>
+<description>Native American Nations manager</description>
+<s_ColLineage>j6GNJAQAAACPoY0kBAAAAI+hjSQCAAAA
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{8F6257E5-ADE0-4EC9-91C5-A0C8A8B02C39}</s_GUID>
+<s_Lineage>j6GNJAQAAAAAAAAAAAAAAA==
+</s_Lineage>
+<project_specific>1</project_specific>
+</campaign_ai_managers>
+</dataroot>

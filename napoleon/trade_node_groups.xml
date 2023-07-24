@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="trade_node_groups.xsd" generated="2010-03-12T11:52:24">
+<trade_node_groups>
+<key>eur_africa</key>
+<display_name>Africa</display_name>
+<s_ColLineage>W4e7tQIAAABbh7u1AgAAAA==
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{A941806B-7DE0-4D42-BF9D-0892DA4BAB07}</s_GUID>
+<s_Lineage>W4e7tQIAAAAAAAAAAAAAAA==
+</s_Lineage>
+</trade_node_groups>
+<trade_node_groups>
+<key>eur_black_sea</key>
+<display_name>Black Sea</display_name>
+<s_ColLineage>W4e7tQQAAABbh7u1AwAAAA==
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{C92F81F3-1E69-4E39-9953-504A7FD6E96C}</s_GUID>
+<s_Lineage>W4e7tQQAAAAAAAAAAAAAAA==
+</s_Lineage>
+</trade_node_groups>
+<trade_node_groups>
+<key>eur_india</key>
+<display_name>India</display_name>
+<s_ColLineage>W4e7tQIAAABbh7u1AgAAAA==
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{DBA15EFE-83ED-49D4-9F5A-CB6592CD1F8F}</s_GUID>
+<s_Lineage>W4e7tQIAAAAAAAAAAAAAAA==
+</s_Lineage>
+</trade_node_groups>
+<trade_node_groups>
+<key>eur_mediterranean</key>
+<display_name>Mediterranean</display_name>
+<s_ColLineage>W4e7tQIAAABbh7u1AgAAAA==
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{62D8F1EC-AD22-45E1-9BB5-5322899675AD}</s_GUID>
+<s_Lineage>W4e7tQIAAAAAAAAAAAAAAA==
+</s_Lineage>
+</trade_node_groups>
+<trade_node_groups>
+<key>eur_north_america</key>
+<display_name>North America</display_name>
+<s_ColLineage>W4e7tQMAAABbh7u1AgAAAA==
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{8F9C75EA-D449-4CBA-A212-1313010C3675}</s_GUID>
+<s_Lineage>W4e7tQMAAAAAAAAAAAAAAA==
+</s_Lineage>
+</trade_node_groups>
+<trade_node_groups>
+<key>eur_south_america</key>
+<display_name>South America</display_name>
+<s_ColLineage>W4e7tQIAAABbh7u1AgAAAA==
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{2D1C289A-FB8D-4FDD-A88C-66A80F462DE3}</s_GUID>
+<s_Lineage>W4e7tQIAAAAAAAAAAAAAAA==
+</s_Lineage>
+</trade_node_groups>
+<trade_node_groups>
+<key>placeholder_group</key>
+<display_name>placeholder group</display_name>
+<s_ColLineage>W4e7tQIAAABbh7u1AQAAAA==
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{0A1BC753-C180-4B0A-AC73-A50DFB0C6799}</s_GUID>
+<s_Lineage>W4e7tQIAAAAAAAAAAAAAAA==
+</s_Lineage>
+</trade_node_groups>
+<trade_node_groups>
+<key>eur_north_europe</key>
+<display_name>Northern Europe</display_name>
+<s_ColLineage>arltagIAAABquW1qAgAAAA==
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{BCD1E4D5-2DFE-4651-AE7C-B60CE86310DF}</s_GUID>
+<s_Lineage>arltagIAAAAAAAAAAAAAAA==
+</s_Lineage>
+</trade_node_groups>
+</dataroot>

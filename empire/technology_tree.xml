@@ -1,0 +1,993 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="technology_tree.xsd" generated="2007-08-21T17:30:42">
+<technology_tree>
+<key>tech_advance_in_column</key>
+<onscreen_name>Advance in Column</onscreen_name>
+<thread>techtree_army</thread>
+<conditions>hasTech(tech_square_formation)</conditions>
+<research_cost>125</research_cost>
+<prestige_points>0</prestige_points>
+<town_wealth_growth_change>0</town_wealth_growth_change>
+<farming_pop_change>0</farming_pop_change>
+<max_pop_per_farm_change>0</max_pop_per_farm_change>
+</technology_tree>
+<technology_tree>
+<key>tech_advanced_irrigation</key>
+<onscreen_name>Advanced Irrigation</onscreen_name>
+<thread>techtree_agriculture</thread>
+<conditions>hasTech(tech_four-field_crop_rotation) AND hasGlobalBuildingLvl(agriculture, 2)</conditions>
+<research_cost>150</research_cost>
+<prestige_points>0</prestige_points>
+<town_wealth_growth_change>0</town_wealth_growth_change>
+<farming_pop_change>0.0005</farming_pop_change>
+<max_pop_per_farm_change>0.1</max_pop_per_farm_change>
+</technology_tree>
+<technology_tree>
+<key>tech_advanced_metallurgy</key>
+<onscreen_name>Advanced Metallurgy</onscreen_name>
+<thread>techtree_industry</thread>
+<conditions>hasTech(tech_measuring_tools)</conditions>
+<research_cost>250</research_cost>
+<prestige_points>0</prestige_points>
+<town_wealth_growth_change>0</town_wealth_growth_change>
+<farming_pop_change>0</farming_pop_change>
+<max_pop_per_farm_change>0</max_pop_per_farm_change>
+</technology_tree>
+<technology_tree>
+<key>tech_advanced_skirmishing</key>
+<onscreen_name>Advanced Skirmishing</onscreen_name>
+<thread>techtree_army</thread>
+<conditions>hasTech(tech_light_infantry_doctrine)</conditions>
+<research_cost>300</research_cost>
+<prestige_points>0</prestige_points>
+<town_wealth_growth_change>0</town_wealth_growth_change>
+<farming_pop_change>0</farming_pop_change>
+<max_pop_per_farm_change>0</max_pop_per_farm_change>
+</technology_tree>
+<technology_tree>
+<key>tech_airguns</key>
+<onscreen_name>Airguns</onscreen_name>
+<thread>techtree_army</thread>
+<conditions>hasTech(tech_carbines) AND hasGlobalBuildingLvl(army-admin, 3)</conditions>
+<research_cost>250</research_cost>
+<prestige_points>0</prestige_points>
+<town_wealth_growth_change>0</town_wealth_growth_change>
+<farming_pop_change>0</farming_pop_change>
+<max_pop_per_farm_change>0</max_pop_per_farm_change>
+</technology_tree>
+<technology_tree>
+<key>tech_anti_clericism</key>
+<onscreen_name>Anti-Clericism</onscreen_name>
+<thread>techtree_philosophy</thread>
+<conditions>hasTech(tech_transcendental_idealism) AND hasGlobalBuilding(college)</conditions>
+<research_cost>250</research_cost>
+<prestige_points>2</prestige_points>
+<town_wealth_growth_change>0</town_wealth_growth_change>
+<farming_pop_change>0</farming_pop_change>
+<max_pop_per_farm_change>0</max_pop_per_farm_change>
+</technology_tree>
+<technology_tree>
+<key>tech_basic_steam_pump</key>
+<onscreen_name>Basic Steam Pump</onscreen_name>
+<thread>techtree_industry</thread>
+<conditions>hasGlobalBuilding(iron_workshops)</conditions>
+<research_cost>175</research_cost>
+<prestige_points>0</prestige_points>
+<town_wealth_growth_change>0</town_wealth_growth_change>
+<farming_pop_change>0</farming_pop_change>
+<max_pop_per_farm_change>0</max_pop_per_farm_change>
+</technology_tree>
+<technology_tree>
+<key>tech_break_and_reform</key>
+<onscreen_name>Break and Reform</onscreen_name>
+<thread>techtree_army</thread>
+<conditions>hasTech(tech_fire_and_retreat) AND hasGlobalBuildingLvl(army-admin, 4)</conditions>
+<research_cost>300</research_cost>
+<prestige_points>0</prestige_points>
+<town_wealth_growth_change>0</town_wealth_growth_change>
+<farming_pop_change>0</farming_pop_change>
+<max_pop_per_farm_change>0</max_pop_per_farm_change>
+</technology_tree>
+<technology_tree>
+<key>tech_breech-loaded_cannon</key>
+<onscreen_name>Breech-Loaded Cannon</onscreen_name>
+<thread>techtree_naval</thread>
+<conditions>hasTech(tech_rifled_cannon)</conditions>
+<research_cost>300</research_cost>
+<prestige_points>0</prestige_points>
+<town_wealth_growth_change>0</town_wealth_growth_change>
+<farming_pop_change>0</farming_pop_change>
+<max_pop_per_farm_change>0</max_pop_per_farm_change>
+</technology_tree>
+<technology_tree>
+<key>tech_cadenced_marching</key>
+<onscreen_name>Cadenced Marching</onscreen_name>
+<thread>techtree_army</thread>
+<conditions>hasTech(tech_advance_in_column) AND hasGlobalBuildingLvl(army-admin, 1)</conditions>
+<research_cost>150</research_cost>
+<prestige_points>0</prestige_points>
+<town_wealth_growth_change>0</town_wealth_growth_change>
+<farming_pop_change>0</farming_pop_change>
+<max_pop_per_farm_change>0</max_pop_per_farm_change>
+</technology_tree>
+<technology_tree>
+<key>tech_canister_shot</key>
+<onscreen_name>Canister Shot</onscreen_name>
+<thread>techtree_army</thread>
+<conditions>hasGlobalBuildingLvl(ordnance, 0)</conditions>
+<research_cost>100</research_cost>
+<prestige_points>0</prestige_points>
+<town_wealth_growth_change>0</town_wealth_growth_change>
+<farming_pop_change>0</farming_pop_change>
+<max_pop_per_farm_change>0</max_pop_per_farm_change>
+</technology_tree>
+<technology_tree>
+<key>tech_carbines</key>
+<onscreen_name>Carbines</onscreen_name>
+<thread>techtree_army</thread>
+<conditions>hasTech(tech_socket_bayonet) AND hasGlobalBuildingLvl(army-admin, 2)</conditions>
+<research_cost>225</research_cost>
+<prestige_points>0</prestige_points>
+<town_wealth_growth_change>0</town_wealth_growth_change>
+<farming_pop_change>0</farming_pop_change>
+<max_pop_per_farm_change>0</max_pop_per_farm_change>
+</technology_tree>
+<technology_tree>
+<key>tech_carcass_shot</key>
+<onscreen_name>Carcass Shot (Incendiary)</onscreen_name>
+<thread>techtree_army</thread>
+<conditions>hasTech(tech_explosive_shells) AND hasGlobalBuildingLvl(ordnance, 2)</conditions>
+<research_cost>150</research_cost>
+<prestige_points>0</prestige_points>
+<town_wealth_growth_change>0</town_wealth_growth_change>
+<farming_pop_change>0</farming_pop_change>
+<max_pop_per_farm_change>0</max_pop_per_farm_change>
+</technology_tree>
+<technology_tree>
+<key>tech_carronades</key>
+<onscreen_name>Carronades</onscreen_name>
+<thread>techtree_naval</thread>
+<conditions>hasTech(tech_flintlock_cannon) hasGlobalBuildingLvl(navy-admin, 1)</conditions>
+<research_cost>200</research_cost>
+<prestige_points>0</prestige_points>
+<town_wealth_growth_change>0</town_wealth_growth_change>
+<farming_pop_change>0</farming_pop_change>
+<max_pop_per_farm_change>0</max_pop_per_farm_change>
+</technology_tree>
+<technology_tree>
+<key>tech_citizenship</key>
+<onscreen_name>Citizenship</onscreen_name>
+<thread>techtree_philosophy</thread>
+<conditions>hasTech(tech_rights_of_man) AND hasGlobalBuilding(university)</conditions>
+<research_cost>300</research_cost>
+<prestige_points>3</prestige_points>
+<town_wealth_growth_change>0</town_wealth_growth_change>
+<farming_pop_change>0</farming_pop_change>
+<max_pop_per_farm_change>0</max_pop_per_farm_change>
+</technology_tree>
+<technology_tree>
+<key>tech_classical_economics</key>
+<onscreen_name>Classical Economics</onscreen_name>
+<thread>techtree_philosophy</thread>
+<conditions>hasTech(tech_free_trade_doctrine) AND hasTech(tech_secular_humanism)</conditions>
+<research_cost>325</research_cost>
+<prestige_points>3</prestige_points>
+<town_wealth_growth_change>0.001</town_wealth_growth_change>
+<farming_pop_change>0</farming_pop_change>
+<max_pop_per_farm_change>0</max_pop_per_farm_change>
+</technology_tree>
+<technology_tree>
+<key>tech_coke_blast_furnace</key>
+<onscreen_name>Coke Blast Furnace</onscreen_name>
+<thread>techtree_industry</thread>
+<conditions>hasGlobalBuilding(ironmasters_works) AND hasTech(tech_basic_steam_pump)</conditions>
+<research_cost>200</research_cost>
+<prestige_points>0</prestige_points>
+<town_wealth_growth_change>0</town_wealth_growth_change>
+<farming_pop_change>0</farming_pop_change>
+<max_pop_per_farm_change>0</max_pop_per_farm_change>
+</technology_tree>
+<technology_tree>
+<key>tech_copper_bottoms</key>
+<onscreen_name>Copper Bottoms</onscreen_name>
+<thread>techtree_naval</thread>
+<conditions>hasTech(tech_seasoning) hasGlobalBuildingLvl(navy-admin, 1)</conditions>
+<research_cost>150</research_cost>
+<prestige_points>0</prestige_points>
+<town_wealth_growth_change>0</town_wealth_growth_change>
+<farming_pop_change>0</farming_pop_change>
+<max_pop_per_farm_change>0</max_pop_per_farm_change>
+</technology_tree>
+<technology_tree>
+<key>tech_cotton_gin</key>
+<onscreen_name>Cotton Gin</onscreen_name>
+<thread>techtree_agriculture</thread>
+<conditions>top level plantation building</conditions>
+<research_cost>200</research_cost>
+<prestige_points>0</prestige_points>
+<town_wealth_growth_change>0</town_wealth_growth_change>
+<farming_pop_change>0</farming_pop_change>
+<max_pop_per_farm_change>0</max_pop_per_farm_change>
+</technology_tree>
+<technology_tree>
+<key>tech_diamond_formatin</key>
+<onscreen_name>Diamond Formation</onscreen_name>
+<thread>techtree_army</thread>
+<conditions>hasTech(tech_wedge_formation) AND hasGlobalBuildingLvl(army-admin, 3)</conditions>
+<research_cost>275</research_cost>
+<prestige_points>0</prestige_points>
+<town_wealth_growth_change>0</town_wealth_growth_change>
+<farming_pop_change>0</farming_pop_change>
+<max_pop_per_farm_change>0</max_pop_per_farm_change>
+</technology_tree>
+<technology_tree>
+<key>tech_division_of_labour</key>
+<onscreen_name>Division of Labour</onscreen_name>
+<thread>techtree_philosophy</thread>
+<conditions>hasTech(tech_physiocracy) AND hasTech(tech_empiricism)</conditions>
+<research_cost>150</research_cost>
+<prestige_points>1</prestige_points>
+<town_wealth_growth_change>0.001</town_wealth_growth_change>
+<farming_pop_change>0</farming_pop_change>
+<max_pop_per_farm_change>0</max_pop_per_farm_change>
+</technology_tree>
+<technology_tree>
+<key>tech_egalitarianism</key>
+<onscreen_name>Egalitarianism</onscreen_name>
+<thread>techtree_philosophy</thread>
+<conditions>hasTech(tech_citizenship)</conditions>
+<research_cost>325</research_cost>
+<prestige_points>3</prestige_points>
+<town_wealth_growth_change>0</town_wealth_growth_change>
+<farming_pop_change>0</farming_pop_change>
+<max_pop_per_farm_change>0</max_pop_per_farm_change>
+</technology_tree>
+<technology_tree>
+<key>tech_empiricism</key>
+<onscreen_name>Empiricism</onscreen_name>
+<thread>techtree_philosophy</thread>
+<conditions>hasGlobalBuilding(library)</conditions>
+<research_cost>100</research_cost>
+<prestige_points>0</prestige_points>
+<town_wealth_growth_change>0</town_wealth_growth_change>
+<farming_pop_change>0</farming_pop_change>
+<max_pop_per_farm_change>0</max_pop_per_farm_change>
+</technology_tree>
+<technology_tree>
+<key>tech_european_doctrine</key>
+<onscreen_name>European Doctrine</onscreen_name>
+<thread>techtree_army</thread>
+<conditions>isCulture(middle_east) AND hasGlobalBuildingLvl(army-admin, 3)</conditions>
+<research_cost>225</research_cost>
+<prestige_points>0</prestige_points>
+<town_wealth_growth_change>0</town_wealth_growth_change>
+<farming_pop_change>0</farming_pop_change>
+<max_pop_per_farm_change>0</max_pop_per_farm_change>
+</technology_tree>
+<technology_tree>
+<key>tech_explosive_rockets</key>
+<onscreen_name>Explosive Rockets</onscreen_name>
+<thread>techtree_army</thread>
+<conditions>hasTech(tech_carcass_shot) AND hasGlobalBuildingLvl(ordnance, 4)</conditions>
+<research_cost>200</research_cost>
+<prestige_points>0</prestige_points>
+<town_wealth_growth_change>0</town_wealth_growth_change>
+<farming_pop_change>0</farming_pop_change>
+<max_pop_per_farm_change>0</max_pop_per_farm_change>
+</technology_tree>
+<technology_tree>
+<key>tech_explosive_shells</key>
+<onscreen_name>Explosive Shells</onscreen_name>
+<thread>techtree_army</thread>
+<conditions>hasTech(tech_canister_shot) AND hasGlobalBuildingLvl(ordnance, 1)</conditions>
+<research_cost>125</research_cost>
+<prestige_points>0</prestige_points>
+<town_wealth_growth_change>0</town_wealth_growth_change>
+<farming_pop_change>0</farming_pop_change>
+<max_pop_per_farm_change>0</max_pop_per_farm_change>
+</technology_tree>
+<technology_tree>
+<key>tech_fire_and_advance</key>
+<onscreen_name>Fire &amp; Advance</onscreen_name>
+<thread>techtree_army</thread>
+<conditions>hasTech(tech_cadenced_marching) AND hasGlobalBuildingLvl(army-admin, 2)</conditions>
+<research_cost>175</research_cost>
+<prestige_points>0</prestige_points>
+<town_wealth_growth_change>0</town_wealth_growth_change>
+<farming_pop_change>0</farming_pop_change>
+<max_pop_per_farm_change>0</max_pop_per_farm_change>
+</technology_tree>
+<technology_tree>
+<key>tech_fire_and_retreat</key>
+<onscreen_name>Fire and Retreat</onscreen_name>
+<thread>techtree_army</thread>
+<conditions>hasTech(tech_fire_and_advance) AND hasGlobalBuildingLvl(army-admin, 3)</conditions>
+<research_cost>275</research_cost>
+<prestige_points>0</prestige_points>
+<town_wealth_growth_change>0</town_wealth_growth_change>
+<farming_pop_change>0</farming_pop_change>
+<max_pop_per_farm_change>0</max_pop_per_farm_change>
+</technology_tree>
+<technology_tree>
+<key>tech_fire_by_rank</key>
+<onscreen_name>Fire by Rank</onscreen_name>
+<thread>techtree_army</thread>
+<conditions>hasGlobalBuildingLvl(army-admin, 1)</conditions>
+<research_cost>100</research_cost>
+<prestige_points>0</prestige_points>
+<town_wealth_growth_change>0</town_wealth_growth_change>
+<farming_pop_change>0</farming_pop_change>
+<max_pop_per_farm_change>0</max_pop_per_farm_change>
+</technology_tree>
+<technology_tree>
+<key>tech_flintlock_cannon</key>
+<onscreen_name>Flintlock Cannon</onscreen_name>
+<thread>techtree_naval</thread>
+<conditions>hasGlobalBuildingLvl(navy-admin, 0)</conditions>
+<research_cost>150</research_cost>
+<prestige_points>0</prestige_points>
+<town_wealth_growth_change>0</town_wealth_growth_change>
+<farming_pop_change>0</farming_pop_change>
+<max_pop_per_farm_change>0</max_pop_per_farm_change>
+</technology_tree>
+<technology_tree>
+<key>tech_flying_shuttle</key>
+<onscreen_name>Flying Shuttle</onscreen_name>
+<thread>techtree_industry</thread>
+<conditions>hasGlobalBuilding(weavers_cottages)</conditions>
+<research_cost>175</research_cost>
+<prestige_points>0</prestige_points>
+<town_wealth_growth_change>0.001</town_wealth_growth_change>
+<farming_pop_change>0</farming_pop_change>
+<max_pop_per_farm_change>0</max_pop_per_farm_change>
+</technology_tree>
+<technology_tree>
+<key>tech_four-field_crop_rotation</key>
+<onscreen_name>Four-Field Crop Rotation</onscreen_name>
+<thread>techtree_agriculture</thread>
+<conditions>hasGlobalBuildingLvl(agriculture, 1)</conditions>
+<research_cost>100</research_cost>
+<prestige_points>0</prestige_points>
+<town_wealth_growth_change>0</town_wealth_growth_change>
+<farming_pop_change>0.0005</farming_pop_change>
+<max_pop_per_farm_change>0.1</max_pop_per_farm_change>
+</technology_tree>
+<technology_tree>
+<key>tech_free_trade_doctrine</key>
+<onscreen_name>Free Trade Doctrine</onscreen_name>
+<thread>techtree_philosophy</thread>
+<conditions>hasTech(tech_wealth_of_nations) AND hasGlobalBuilding(ceramics_factory)</conditions>
+<research_cost>300</research_cost>
+<prestige_points>3</prestige_points>
+<town_wealth_growth_change>0.001</town_wealth_growth_change>
+<farming_pop_change>0</farming_pop_change>
+<max_pop_per_farm_change>0</max_pop_per_farm_change>
+</technology_tree>
+<technology_tree>
+<key>tech_government_by_consent</key>
+<onscreen_name>Government by Consent</onscreen_name>
+<thread>techtree_philosophy</thread>
+<conditions>hasGlobalBuilding(school) AND hasTech(tech_social_contract)</conditions>
+<research_cost>150</research_cost>
+<prestige_points>1</prestige_points>
+<town_wealth_growth_change>0</town_wealth_growth_change>
+<farming_pop_change>0</farming_pop_change>
+<max_pop_per_farm_change>0</max_pop_per_farm_change>
+</technology_tree>
+<technology_tree>
+<key>tech_grape_chain_shot</key>
+<onscreen_name>Grape &amp; Chain Shot</onscreen_name>
+<thread>techtree_naval</thread>
+<conditions>hasGlobalBuildingLvl(navy-admin, 0) AND hasTech(tech_canister_shot)</conditions>
+<research_cost>100</research_cost>
+<prestige_points>0</prestige_points>
+<town_wealth_growth_change>0</town_wealth_growth_change>
+<farming_pop_change>0</farming_pop_change>
+<max_pop_per_farm_change>0</max_pop_per_farm_change>
+</technology_tree>
+<technology_tree>
+<key>tech_improved_animal_husbandry</key>
+<onscreen_name>Improved Animal Husbandry</onscreen_name>
+<thread>techtree_agriculture</thread>
+<conditions>hasGlobalBuildingLvl(agriculture, 1)</conditions>
+<research_cost>100</research_cost>
+<prestige_points>0</prestige_points>
+<town_wealth_growth_change>0</town_wealth_growth_change>
+<farming_pop_change>0.0005</farming_pop_change>
+<max_pop_per_farm_change>0.1</max_pop_per_farm_change>
+</technology_tree>
+<technology_tree>
+<key>tech_improved_coppering</key>
+<onscreen_name>Improved Coppering</onscreen_name>
+<thread>techtree_naval</thread>
+<conditions>hasTech(tech_copper_bottoms) AND hasGlobalBuildingLvl(navy-admin, 2)</conditions>
+<research_cost>250</research_cost>
+<prestige_points>0</prestige_points>
+<town_wealth_growth_change>0</town_wealth_growth_change>
+<farming_pop_change>0</farming_pop_change>
+<max_pop_per_farm_change>0</max_pop_per_farm_change>
+</technology_tree>
+<technology_tree>
+<key>tech_improved_grapeshot</key>
+<onscreen_name>Improved Grapeshot</onscreen_name>
+<thread>techtree_naval</thread>
+<conditions>hasTech(tech_grape_chain_shot)</conditions>
+<research_cost>160</research_cost>
+<prestige_points>0</prestige_points>
+<town_wealth_growth_change>0</town_wealth_growth_change>
+<farming_pop_change>0</farming_pop_change>
+<max_pop_per_farm_change>0</max_pop_per_farm_change>
+</technology_tree>
+<technology_tree>
+<key>tech_improved_grenades</key>
+<onscreen_name>Improved Grenades</onscreen_name>
+<thread>techtree_army</thread>
+<conditions>hasGlobalBuildingLvl(ordnance, 0)</conditions>
+<research_cost>100</research_cost>
+<prestige_points>0</prestige_points>
+<town_wealth_growth_change>0</town_wealth_growth_change>
+<farming_pop_change>0</farming_pop_change>
+<max_pop_per_farm_change>0</max_pop_per_farm_change>
+</technology_tree>
+<technology_tree>
+<key>tech_improved_platoon_firing</key>
+<onscreen_name>Improved Platoon Firing</onscreen_name>
+<thread>techtree_army</thread>
+<conditions>hasTech(tech_platoon_firing) AND hasGlobalBuildingLvl(army-admin, 3)</conditions>
+<research_cost>275</research_cost>
+<prestige_points>0</prestige_points>
+<town_wealth_growth_change>0</town_wealth_growth_change>
+<farming_pop_change>0</farming_pop_change>
+<max_pop_per_farm_change>0</max_pop_per_farm_change>
+</technology_tree>
+<technology_tree>
+<key>tech_interchangeable_parts</key>
+<onscreen_name>Interchangeable Parts</onscreen_name>
+<thread>techtree_industry</thread>
+<conditions>hasTech(tech_machine_tools)</conditions>
+<research_cost>275</research_cost>
+<prestige_points>0</prestige_points>
+<town_wealth_growth_change>0</town_wealth_growth_change>
+<farming_pop_change>0</farming_pop_change>
+<max_pop_per_farm_change>0</max_pop_per_farm_change>
+</technology_tree>
+<technology_tree>
+<key>tech_joint_stock_companies</key>
+<onscreen_name>Joint Stock Companies</onscreen_name>
+<thread>techtree_philosophy</thread>
+<conditions>hasTech(tech_division_of_labour) AND hasGlobalBuilding(kilns)</conditions>
+<research_cost>200</research_cost>
+<prestige_points>2</prestige_points>
+<town_wealth_growth_change>0.001</town_wealth_growth_change>
+<farming_pop_change>0</farming_pop_change>
+<max_pop_per_farm_change>0</max_pop_per_farm_change>
+</technology_tree>
+<technology_tree>
+<key>tech_light_infantry_doctrine</key>
+<onscreen_name>Light Infantry Doctrine</onscreen_name>
+<thread>techtree_army</thread>
+<conditions>hasTech(tech_platoon_firing)</conditions>
+<research_cost>225</research_cost>
+<prestige_points>0</prestige_points>
+<town_wealth_growth_change>0</town_wealth_growth_change>
+<farming_pop_change>0</farming_pop_change>
+<max_pop_per_farm_change>0</max_pop_per_farm_change>
+</technology_tree>
+<technology_tree>
+<key>tech_lime_juice_sauerkraut</key>
+<onscreen_name>Lime Juice &amp; Sauerkraut</onscreen_name>
+<thread>techtree_naval</thread>
+<conditions>hasGlobalBuildingLvl(navy-admin, 0)</conditions>
+<research_cost>100</research_cost>
+<prestige_points>0</prestige_points>
+<town_wealth_growth_change>0</town_wealth_growth_change>
+<farming_pop_change>0</farming_pop_change>
+<max_pop_per_farm_change>0</max_pop_per_farm_change>
+</technology_tree>
+<technology_tree>
+<key>tech_longtitude_watch</key>
+<onscreen_name>Longtitude Watch</onscreen_name>
+<thread>techtree_naval</thread>
+<conditions>hasTech(tech_sextant) AND hasGlobalBuildingLvl(navy-admin, 1)</conditions>
+<research_cost>150</research_cost>
+<prestige_points>0</prestige_points>
+<town_wealth_growth_change>0</town_wealth_growth_change>
+<farming_pop_change>0</farming_pop_change>
+<max_pop_per_farm_change>0</max_pop_per_farm_change>
+</technology_tree>
+<technology_tree>
+<key>tech_machine_tools</key>
+<onscreen_name>Machine Tools</onscreen_name>
+<thread>techtree_industry</thread>
+<conditions>hasTech(tech_advanced_metallurgy) AND hasTech(tech_wealth_of_nations)</conditions>
+<research_cost>275</research_cost>
+<prestige_points>0</prestige_points>
+<town_wealth_growth_change>0</town_wealth_growth_change>
+<farming_pop_change>0</farming_pop_change>
+<max_pop_per_farm_change>0</max_pop_per_farm_change>
+</technology_tree>
+<technology_tree>
+<key>tech_machined_rifling</key>
+<onscreen_name>Machined Rifling</onscreen_name>
+<thread>techtree_army</thread>
+<conditions>hasTech(tech_screw_breach) AND hasTech(tech_machine_tools) AND hasGlobalBuildingLvl(army-admin, 4)</conditions>
+<research_cost>275</research_cost>
+<prestige_points>2</prestige_points>
+<town_wealth_growth_change>0</town_wealth_growth_change>
+<farming_pop_change>0</farming_pop_change>
+<max_pop_per_farm_change>0</max_pop_per_farm_change>
+</technology_tree>
+<technology_tree>
+<key>tech_mass_production</key>
+<onscreen_name>Mass Production</onscreen_name>
+<thread>techtree_industry</thread>
+<conditions>hasTech(tech_power_loom) AND hasTech(tech_classical_economics) AND hasGlobalBuilding(steam-powered_cloth_mill)</conditions>
+<research_cost>350</research_cost>
+<prestige_points>1</prestige_points>
+<town_wealth_growth_change>0.001</town_wealth_growth_change>
+<farming_pop_change>0</farming_pop_change>
+<max_pop_per_farm_change>0</max_pop_per_farm_change>
+</technology_tree>
+<technology_tree>
+<key>tech_measuring_tools</key>
+<onscreen_name>Measuring Tools</onscreen_name>
+<thread>techtree_industry</thread>
+<conditions>hasTech(tech_coke_blast_furnace)</conditions>
+<research_cost>225</research_cost>
+<prestige_points>0</prestige_points>
+<town_wealth_growth_change>0</town_wealth_growth_change>
+<farming_pop_change>0</farming_pop_change>
+<max_pop_per_farm_change>0</max_pop_per_farm_change>
+</technology_tree>
+<technology_tree>
+<key>tech_meteorological_studies</key>
+<onscreen_name>Meteorological Studies</onscreen_name>
+<thread>techtree_naval</thread>
+<conditions>hasTech(tech_oceanographic_survey)</conditions>
+<research_cost>300</research_cost>
+<prestige_points>0</prestige_points>
+<town_wealth_growth_change>0</town_wealth_growth_change>
+<farming_pop_change>0</farming_pop_change>
+<max_pop_per_farm_change>0</max_pop_per_farm_change>
+</technology_tree>
+<technology_tree>
+<key>tech_new_model_bayonet_drill</key>
+<onscreen_name>New Model Bayonet Drill</onscreen_name>
+<thread>techtree_army</thread>
+<conditions>hasTech(tech_socket_bayonet) AND hasGlobalBuildingLvl(army-admin, 2)</conditions>
+<research_cost>200</research_cost>
+<prestige_points>0</prestige_points>
+<town_wealth_growth_change>0</town_wealth_growth_change>
+<farming_pop_change>0</farming_pop_change>
+<max_pop_per_farm_change>0</max_pop_per_farm_change>
+</technology_tree>
+<technology_tree>
+<key>tech_oceanographic_survey</key>
+<onscreen_name>Oceanographic Survey</onscreen_name>
+<thread>techtree_naval</thread>
+<conditions>hasTech(tech_preserved_foods) AND hasTech(tech_pocket_chronometer) AND hasGlobalBuildingLvl(navy-admin, 2)</conditions>
+<research_cost>250</research_cost>
+<prestige_points>0</prestige_points>
+<town_wealth_growth_change>0</town_wealth_growth_change>
+<farming_pop_change>0</farming_pop_change>
+<max_pop_per_farm_change>0</max_pop_per_farm_change>
+</technology_tree>
+<technology_tree>
+<key>tech_percussion_cap</key>
+<onscreen_name>Percussion Cap</onscreen_name>
+<thread>techtree_army</thread>
+<conditions>hasTech(tech_percussion_shells)</conditions>
+<research_cost>300</research_cost>
+<prestige_points>0</prestige_points>
+<town_wealth_growth_change>0</town_wealth_growth_change>
+<farming_pop_change>0</farming_pop_change>
+<max_pop_per_farm_change>0</max_pop_per_farm_change>
+</technology_tree>
+<technology_tree>
+<key>tech_percussion_shells</key>
+<onscreen_name>Percussion Shells</onscreen_name>
+<thread>techtree_army</thread>
+<conditions>hasTech(tech_shrapnel_shot)</conditions>
+<research_cost>275</research_cost>
+<prestige_points>0</prestige_points>
+<town_wealth_growth_change>0</town_wealth_growth_change>
+<farming_pop_change>0</farming_pop_change>
+<max_pop_per_farm_change>0</max_pop_per_farm_change>
+</technology_tree>
+<technology_tree>
+<key>tech_physiocracy</key>
+<onscreen_name>Physiocracy</onscreen_name>
+<thread>techtree_philosophy</thread>
+<conditions>hasGlobalBuildingLvl(agriculture, 0)</conditions>
+<research_cost>100</research_cost>
+<prestige_points>0</prestige_points>
+<town_wealth_growth_change>0.001</town_wealth_growth_change>
+<farming_pop_change>0</farming_pop_change>
+<max_pop_per_farm_change>0</max_pop_per_farm_change>
+</technology_tree>
+<technology_tree>
+<key>tech_platoon_firing</key>
+<onscreen_name>Platoon Firing</onscreen_name>
+<thread>techtree_army</thread>
+<conditions>hasTech(tech_fire_by_rank) AND hasGlobalBuildingLvl(army-admin, 2)</conditions>
+<research_cost>175</research_cost>
+<prestige_points>0</prestige_points>
+<town_wealth_growth_change>0</town_wealth_growth_change>
+<farming_pop_change>0</farming_pop_change>
+<max_pop_per_farm_change>0</max_pop_per_farm_change>
+</technology_tree>
+<technology_tree>
+<key>tech_plug_bayonet</key>
+<onscreen_name>Plug Bayonet</onscreen_name>
+<thread>techtree_army</thread>
+<conditions>hasGlobalBuildingLvl(army-admin, 0)</conditions>
+<research_cost>100</research_cost>
+<prestige_points>0</prestige_points>
+<town_wealth_growth_change>0</town_wealth_growth_change>
+<farming_pop_change>0</farming_pop_change>
+<max_pop_per_farm_change>0</max_pop_per_farm_change>
+</technology_tree>
+<technology_tree>
+<key>tech_pocket_chronometer</key>
+<onscreen_name>Pocket Chronometer</onscreen_name>
+<thread>techtree_naval</thread>
+<conditions>hasTech(tech_longtitude_watch)</conditions>
+<research_cost>200</research_cost>
+<prestige_points>0</prestige_points>
+<town_wealth_growth_change>0</town_wealth_growth_change>
+<farming_pop_change>0</farming_pop_change>
+<max_pop_per_farm_change>0</max_pop_per_farm_change>
+</technology_tree>
+<technology_tree>
+<key>tech_power_loom</key>
+<onscreen_name>Power Loom</onscreen_name>
+<thread>techtree_industry</thread>
+<conditions>hasTech(tech_punchcard_loom) AND hasTech(tech_spinning_mule)</conditions>
+<research_cost>325</research_cost>
+<prestige_points>0</prestige_points>
+<town_wealth_growth_change>0.001</town_wealth_growth_change>
+<farming_pop_change>0</farming_pop_change>
+<max_pop_per_farm_change>0</max_pop_per_farm_change>
+</technology_tree>
+<technology_tree>
+<key>tech_preserved_foods</key>
+<onscreen_name>Preserved Foods</onscreen_name>
+<thread>techtree_naval</thread>
+<conditions>hasTech(tech_lime_juice_sauerkraut) AND hasGlobalBuildingLvl(navy-admin, 1)</conditions>
+<research_cost>200</research_cost>
+<prestige_points>0</prestige_points>
+<town_wealth_growth_change>0.001</town_wealth_growth_change>
+<farming_pop_change>0</farming_pop_change>
+<max_pop_per_farm_change>0</max_pop_per_farm_change>
+</technology_tree>
+<technology_tree>
+<key>tech_puddling_furnace</key>
+<onscreen_name>Puddling Furnace</onscreen_name>
+<thread>techtree_industry</thread>
+<conditions>hasTech(tech_coke_blast_furnace)</conditions>
+<research_cost>225</research_cost>
+<prestige_points>0</prestige_points>
+<town_wealth_growth_change>0</town_wealth_growth_change>
+<farming_pop_change>0</farming_pop_change>
+<max_pop_per_farm_change>0</max_pop_per_farm_change>
+</technology_tree>
+<technology_tree>
+<key>tech_punchcard_loom</key>
+<onscreen_name>Punchcard Loom</onscreen_name>
+<thread>techtree_industry</thread>
+<conditions>hasTech(tech_flying_shuttle) AND hasGlobalBuilding(water-powered_cloth_mill)</conditions>
+<research_cost>225</research_cost>
+<prestige_points>0</prestige_points>
+<town_wealth_growth_change>0.001</town_wealth_growth_change>
+<farming_pop_change>0</farming_pop_change>
+<max_pop_per_farm_change>0</max_pop_per_farm_change>
+</technology_tree>
+<technology_tree>
+<key>tech_quicklime_shells</key>
+<onscreen_name>Quicklime Shells</onscreen_name>
+<thread>techtree_army</thread>
+<conditions>hasTech(tech_carcass_shot) AND hasGlobalBuildingLvl(ordnance, 3)</conditions>
+<research_cost>200</research_cost>
+<prestige_points>0</prestige_points>
+<town_wealth_growth_change>0</town_wealth_growth_change>
+<farming_pop_change>0</farming_pop_change>
+<max_pop_per_farm_change>0</max_pop_per_farm_change>
+</technology_tree>
+<technology_tree>
+<key>tech_rifled_cannons</key>
+<onscreen_name>Rifled Cannons</onscreen_name>
+<thread>techtree_naval</thread>
+<conditions>hasTech(tech_carronades) AND hasGlobalBuildingLvl(navy-admin, 2)</conditions>
+<research_cost>250</research_cost>
+<prestige_points>0</prestige_points>
+<town_wealth_growth_change>0</town_wealth_growth_change>
+<farming_pop_change>0</farming_pop_change>
+<max_pop_per_farm_change>0</max_pop_per_farm_change>
+</technology_tree>
+<technology_tree>
+<key>tech_rights_of_man</key>
+<onscreen_name>Rights of Man</onscreen_name>
+<thread>techtree_philosophy</thread>
+<conditions>hasTech(tech_separation_of_powers)</conditions>
+<research_cost>250</research_cost>
+<prestige_points>0</prestige_points>
+<town_wealth_growth_change>0</town_wealth_growth_change>
+<farming_pop_change>0</farming_pop_change>
+<max_pop_per_farm_change>0</max_pop_per_farm_change>
+</technology_tree>
+<technology_tree>
+<key>tech_ring_bayonet</key>
+<onscreen_name>Ring Bayonet</onscreen_name>
+<thread>techtree_army</thread>
+<conditions>hasTech(tech_plug_bayonet)</conditions>
+<research_cost>125</research_cost>
+<prestige_points>0</prestige_points>
+<town_wealth_growth_change>0</town_wealth_growth_change>
+<farming_pop_change>0</farming_pop_change>
+<max_pop_per_farm_change>0</max_pop_per_farm_change>
+</technology_tree>
+<technology_tree>
+<key>tech_screw_breach</key>
+<onscreen_name>Screw Breach</onscreen_name>
+<thread>techtree_army</thread>
+<conditions>hasTech(tech_light_infantry_doctrine) AND hasGlobalBuildingLvl(army-admin, 3)</conditions>
+<research_cost>275</research_cost>
+<prestige_points>0</prestige_points>
+<town_wealth_growth_change>0</town_wealth_growth_change>
+<farming_pop_change>0</farming_pop_change>
+<max_pop_per_farm_change>0</max_pop_per_farm_change>
+</technology_tree>
+<technology_tree>
+<key>tech_seasoning</key>
+<onscreen_name>Seasoning</onscreen_name>
+<thread>techtree_naval</thread>
+<conditions>hasGlobalBuildingLvl(navy-admin, 0)</conditions>
+<research_cost>100</research_cost>
+<prestige_points>0</prestige_points>
+<town_wealth_growth_change>0</town_wealth_growth_change>
+<farming_pop_change>0</farming_pop_change>
+<max_pop_per_farm_change>0</max_pop_per_farm_change>
+</technology_tree>
+<technology_tree>
+<key>tech_secular_humanism</key>
+<onscreen_name>Secular Humanism</onscreen_name>
+<thread>techtree_philosophy</thread>
+<conditions>hasTech(tech_anti_clericism) AND hasGlobalBuilding(university)</conditions>
+<research_cost>300</research_cost>
+<prestige_points>3</prestige_points>
+<town_wealth_growth_change>0</town_wealth_growth_change>
+<farming_pop_change>0</farming_pop_change>
+<max_pop_per_farm_change>0</max_pop_per_farm_change>
+</technology_tree>
+<technology_tree>
+<key>tech_seed_planting_drill</key>
+<onscreen_name>Seed Planting Drill</onscreen_name>
+<thread>techtree_agriculture</thread>
+<conditions>hasGlobalBuildingLvl(agriculture, 2) AND hasTech(tech_four-field_crop_rotation)</conditions>
+<research_cost>150</research_cost>
+<prestige_points>0</prestige_points>
+<town_wealth_growth_change>0</town_wealth_growth_change>
+<farming_pop_change>0.0005</farming_pop_change>
+<max_pop_per_farm_change>0.15</max_pop_per_farm_change>
+</technology_tree>
+<technology_tree>
+<key>tech_selective_breeding</key>
+<onscreen_name>Selective Breeding</onscreen_name>
+<thread>techtree_agriculture</thread>
+<conditions>hasTech(tech_improved_animal_husbandry) AND hasGlobalBuildingLvl(agriculture, 2)</conditions>
+<research_cost>150</research_cost>
+<prestige_points>0</prestige_points>
+<town_wealth_growth_change>0</town_wealth_growth_change>
+<farming_pop_change>0.0005</farming_pop_change>
+<max_pop_per_farm_change>0.15</max_pop_per_farm_change>
+</technology_tree>
+<technology_tree>
+<key>tech_separation_of_powers</key>
+<onscreen_name>Separation of Powers</onscreen_name>
+<thread>techtree_philosophy</thread>
+<conditions>hasTech(tech_government_by_consent) AND hasTech(tech_utilitarianism) AND hasGlobalBuilding(college)</conditions>
+<research_cost>200</research_cost>
+<prestige_points>2</prestige_points>
+<town_wealth_growth_change>0</town_wealth_growth_change>
+<farming_pop_change>0</farming_pop_change>
+<max_pop_per_farm_change>0</max_pop_per_farm_change>
+</technology_tree>
+<technology_tree>
+<key>tech_sextant</key>
+<onscreen_name>Sextant</onscreen_name>
+<thread>techtree_naval</thread>
+<conditions>hasGlobalBuildingLvl(navy-admin, 0)</conditions>
+<research_cost>100</research_cost>
+<prestige_points>0</prestige_points>
+<town_wealth_growth_change>0</town_wealth_growth_change>
+<farming_pop_change>0</farming_pop_change>
+<max_pop_per_farm_change>0</max_pop_per_farm_change>
+</technology_tree>
+<technology_tree>
+<key>tech_sheet_lead_cartridges</key>
+<onscreen_name>Sheet Lead Cartridges</onscreen_name>
+<thread>techtree_naval</thread>
+<conditions>hasTech(tech_improved_grapeshot) AND hasGlobalBuildingLvl(navy-admin, 2)</conditions>
+<research_cost>300</research_cost>
+<prestige_points>0</prestige_points>
+<town_wealth_growth_change>0</town_wealth_growth_change>
+<farming_pop_change>0</farming_pop_change>
+<max_pop_per_farm_change>0</max_pop_per_farm_change>
+</technology_tree>
+<technology_tree>
+<key>tech_shortened_carbines</key>
+<onscreen_name>Shortened Carbines</onscreen_name>
+<thread>techtree_army</thread>
+<conditions>hasTech(tech_carbines) AND hasGlobalBuildingLvl(army-admin, 3)</conditions>
+<research_cost>250</research_cost>
+<prestige_points>0</prestige_points>
+<town_wealth_growth_change>0</town_wealth_growth_change>
+<farming_pop_change>0</farming_pop_change>
+<max_pop_per_farm_change>0</max_pop_per_farm_change>
+</technology_tree>
+<technology_tree>
+<key>tech_shrapnel_shot</key>
+<onscreen_name>Shrapnel Shot</onscreen_name>
+<thread>techtree_army</thread>
+<conditions>hasTech(tech_carcass_shot) AND hasGlobalBuildingLvl(ordnance, 5)</conditions>
+<research_cost>200</research_cost>
+<prestige_points>0</prestige_points>
+<town_wealth_growth_change>0</town_wealth_growth_change>
+<farming_pop_change>0</farming_pop_change>
+<max_pop_per_farm_change>0</max_pop_per_farm_change>
+</technology_tree>
+<technology_tree>
+<key>tech_social_contract</key>
+<onscreen_name>Social Contract</onscreen_name>
+<thread>techtree_philosophy</thread>
+<conditions>hasGlobalBuilding(library)</conditions>
+<research_cost>100</research_cost>
+<prestige_points>0</prestige_points>
+<town_wealth_growth_change>0</town_wealth_growth_change>
+<farming_pop_change>0</farming_pop_change>
+<max_pop_per_farm_change>0</max_pop_per_farm_change>
+</technology_tree>
+<technology_tree>
+<key>tech_socket_bayonet</key>
+<onscreen_name>Socket Bayonet</onscreen_name>
+<thread>techtree_army</thread>
+<conditions>hasTech(tech_ring_bayonet) AND hasGlobalBuildingLvl(army-admin, 1)</conditions>
+<research_cost>175</research_cost>
+<prestige_points>0</prestige_points>
+<town_wealth_growth_change>0</town_wealth_growth_change>
+<farming_pop_change>0</farming_pop_change>
+<max_pop_per_farm_change>0</max_pop_per_farm_change>
+</technology_tree>
+<technology_tree>
+<key>tech_spinning_frame</key>
+<onscreen_name>Spinning Frame</onscreen_name>
+<thread>techtree_industry</thread>
+<conditions>hasGlobalBuilding(weavers_cottages)</conditions>
+<research_cost>200</research_cost>
+<prestige_points>0</prestige_points>
+<town_wealth_growth_change>0.001</town_wealth_growth_change>
+<farming_pop_change>0</farming_pop_change>
+<max_pop_per_farm_change>0</max_pop_per_farm_change>
+</technology_tree>
+<technology_tree>
+<key>tech_spinning_jenny</key>
+<onscreen_name>Spinning Jenny</onscreen_name>
+<thread>techtree_industry</thread>
+<conditions>hasGlobalBuilding(weavers_cottages)</conditions>
+<research_cost>200</research_cost>
+<prestige_points>0</prestige_points>
+<town_wealth_growth_change>0.001</town_wealth_growth_change>
+<farming_pop_change>0</farming_pop_change>
+<max_pop_per_farm_change>0</max_pop_per_farm_change>
+</technology_tree>
+<technology_tree>
+<key>tech_spinning_mule</key>
+<onscreen_name>Spinning Mule</onscreen_name>
+<thread>techtree_industry</thread>
+<conditions>hasTech(tech_spinning_frame) AND hasTech(tech_spinning_jenny) AND hasTech(tech_division_of_labour)</conditions>
+<research_cost>250</research_cost>
+<prestige_points>0</prestige_points>
+<town_wealth_growth_change>0.001</town_wealth_growth_change>
+<farming_pop_change>0</farming_pop_change>
+<max_pop_per_farm_change>0</max_pop_per_farm_change>
+</technology_tree>
+<technology_tree>
+<key>tech_square_formation</key>
+<onscreen_name>Square Formation</onscreen_name>
+<thread>techtree_army</thread>
+<conditions>hasGlobalBuildingLvl(army-admin, 0)</conditions>
+<research_cost>100</research_cost>
+<prestige_points>0</prestige_points>
+<town_wealth_growth_change>0</town_wealth_growth_change>
+<farming_pop_change>0</farming_pop_change>
+<max_pop_per_farm_change>0</max_pop_per_farm_change>
+</technology_tree>
+<technology_tree>
+<key>tech_steam_engine</key>
+<onscreen_name>Steam Engine</onscreen_name>
+<thread>techtree_industry</thread>
+<conditions>hasTech(tech_machine_tools) AND hasGlobalBuilding(steam_engine_factory)</conditions>
+<research_cost>275</research_cost>
+<prestige_points>0</prestige_points>
+<town_wealth_growth_change>0</town_wealth_growth_change>
+<farming_pop_change>0</farming_pop_change>
+<max_pop_per_farm_change>0</max_pop_per_farm_change>
+</technology_tree>
+<technology_tree>
+<key>tech_steam-pumped_land_reclamation</key>
+<onscreen_name>Steam-Pumped Land Reclamation</onscreen_name>
+<thread>techtree_agriculture</thread>
+<conditions>hasTech(tech_advanced_irrigation) AND hasGlobalBuildingLvl(agriculture, 3)</conditions>
+<research_cost>200</research_cost>
+<prestige_points>0</prestige_points>
+<town_wealth_growth_change>0</town_wealth_growth_change>
+<farming_pop_change>0.0005</farming_pop_change>
+<max_pop_per_farm_change>0.2</max_pop_per_farm_change>
+</technology_tree>
+<technology_tree>
+<key>tech_threshing_machine</key>
+<onscreen_name>Threshing Machine</onscreen_name>
+<thread>techtree_agriculture</thread>
+<conditions>hasTech(tech_seed_planting_drill) AND hasGlobalBuildingLvl(agriculture, 3)</conditions>
+<research_cost>200</research_cost>
+<prestige_points>0</prestige_points>
+<town_wealth_growth_change>0</town_wealth_growth_change>
+<farming_pop_change>0.0005</farming_pop_change>
+<max_pop_per_farm_change>0.2</max_pop_per_farm_change>
+</technology_tree>
+<technology_tree>
+<key>tech_top_gallants</key>
+<onscreen_name>Top Gallants</onscreen_name>
+<thread>techtree_naval</thread>
+<conditions>hasGlobalBuildingLvl(navy-admin, 2)</conditions>
+<research_cost>250</research_cost>
+<prestige_points>0</prestige_points>
+<town_wealth_growth_change>0</town_wealth_growth_change>
+<farming_pop_change>0</farming_pop_change>
+<max_pop_per_farm_change>0</max_pop_per_farm_change>
+</technology_tree>
+<technology_tree>
+<key>tech_transcendental_idealism</key>
+<onscreen_name>Transcendental Idealism</onscreen_name>
+<thread>techtree_philosophy</thread>
+<conditions>hasTech(tech_utilitarianism) AND hasGlobalBuilding(college)</conditions>
+<research_cost>200</research_cost>
+<prestige_points>2</prestige_points>
+<town_wealth_growth_change>0</town_wealth_growth_change>
+<farming_pop_change>0</farming_pop_change>
+<max_pop_per_farm_change>0</max_pop_per_farm_change>
+</technology_tree>
+<technology_tree>
+<key>tech_utilitarianism</key>
+<onscreen_name>Utilitarianism</onscreen_name>
+<thread>techtree_philosophy</thread>
+<conditions>hasTech(tech_empiricism) AND hasGlobalBuilding(school)</conditions>
+<research_cost>150</research_cost>
+<prestige_points>1</prestige_points>
+<town_wealth_growth_change>0</town_wealth_growth_change>
+<farming_pop_change>0</farming_pop_change>
+<max_pop_per_farm_change>0</max_pop_per_farm_change>
+</technology_tree>
+<technology_tree>
+<key>tech_wealth_of_nations</key>
+<onscreen_name>Wealth of Nations</onscreen_name>
+<thread>techtree_philosophy</thread>
+<conditions>hasTech(tech_joint_stock_companies) AND hasTech(tech_utilitarianism)</conditions>
+<research_cost>225</research_cost>
+<prestige_points>0</prestige_points>
+<town_wealth_growth_change>0</town_wealth_growth_change>
+<farming_pop_change>0</farming_pop_change>
+<max_pop_per_farm_change>0</max_pop_per_farm_change>
+</technology_tree>
+<technology_tree>
+<key>tech_wedge_formation</key>
+<onscreen_name>Wedge Formation</onscreen_name>
+<thread>techtree_army</thread>
+<conditions>hasGlobalBuildingLvl(army-admin, 2)</conditions>
+<research_cost>175</research_cost>
+<prestige_points>0</prestige_points>
+<town_wealth_growth_change>0</town_wealth_growth_change>
+<farming_pop_change>0</farming_pop_change>
+<max_pop_per_farm_change>0</max_pop_per_farm_change>
+</technology_tree>
+</dataroot>

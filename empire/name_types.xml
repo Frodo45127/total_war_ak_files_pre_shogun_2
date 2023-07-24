@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="name_types.xsd" generated="2007-04-19T16:57:47">
+<name_types>
+<key>forename</key>
+</name_types>
+<name_types>
+<key>surname</key>
+</name_types>
+<name_types>
+<key>town</key>
+</name_types>
+<name_types>
+<key>unit</key>
+</name_types>
+</dataroot>

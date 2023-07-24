@@ -1,0 +1,451 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="public_order_factors.xsd" generated="2010-03-18T12:02:23">
+<public_order_factors>
+<factor>happiness_bankruptcy</factor>
+<positive_pip_path>data/ui/campaign ui/pips/bankruptcy-unhappy.tga</positive_pip_path>
+<positive_tooltip>Bankruptcy:%S||You have recently gone bankrupt. Ensure your income is greater than your costs.||Raise taxes and reduce standing armies to balance your budget.</positive_tooltip>
+<negative_pip_path>data/ui/campaign ui/pips/bankruptcy-unhappy.tga</negative_pip_path>
+<negative_tooltip>Bankruptcy:%S||You have recently gone bankrupt. Ensure your income is greater than your costs.||Raise taxes and reduce standing armies to balance your budget.</negative_tooltip>
+<Gen_TempField_x002A_0>0</Gen_TempField_x002A_0>
+<Gen_TempField_x002A_1>0</Gen_TempField_x002A_1>
+<s_ColLineage>kNOq8QEAAACQ06rxCAAAAJDTqvEPAAAAkNOq8QkAAACQ06rxBwAAAJDTqvEEAAAA
+kNOq8Q4AAACQ06rxCgAAAA==
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{C092177D-65D3-440F-B4DA-2E6CD218E86C}</s_GUID>
+<s_Lineage>kNOq8Q8AAAAAAAAAAAAAAA==
+</s_Lineage>
+</public_order_factors>
+<public_order_factors>
+<factor>happiness_characters</factor>
+<positive_pip_path>data/ui/campaign ui/pips/character_traits-happy.tga</positive_pip_path>
+<positive_tooltip>People in government: %S ||This is from your ministers&apos; traits.||You can view all their effects on the Government panel.</positive_tooltip>
+<negative_pip_path>data/ui/campaign ui/pips/character_traits-unhappy.tga</negative_pip_path>
+<negative_tooltip>People in government: %S ||This is from your ministers&apos; traits.||You can view all their traits on the Government panel.</negative_tooltip>
+<Gen_TempField_x002A_0>0</Gen_TempField_x002A_0>
+<Gen_TempField_x002A_1>0</Gen_TempField_x002A_1>
+<s_ColLineage>kNOq8QEAAACQ06rxAgAAAJDTqvESAAAAkNOq8QQAAACQ06rxCAAAAJDTqvEDAAAA
+kNOq8REAAACQ06rxCQAAAA==
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{8AFA9B99-8DF8-46D8-ADF8-26231D54C6F4}</s_GUID>
+<s_Lineage>kNOq8RIAAAAAAAAAAAAAAA==
+</s_Lineage>
+</public_order_factors>
+<public_order_factors>
+<factor>happiness_culture</factor>
+<positive_pip_path>data/ui/campaign ui/pips/culture-happy.tga</positive_pip_path>
+<positive_tooltip>Entertainment and culture: %S ||Increase this by developing your entertainment and cultural buildings such as theatres and inns.</positive_tooltip>
+<negative_pip_path>data/ui/campaign ui/pips/culture-unhappy.tga</negative_pip_path>
+<negative_tooltip>Cultural differences: %S ||Cultural differences between region and ruling nation are creating unhappiness. ||In order to win over the populace you could reduce taxes and build entertainment buildings. ||Alternatively, you could garrison more troops in the area to increase repression.</negative_tooltip>
+<Gen_TempField_x002A_0>0</Gen_TempField_x002A_0>
+<Gen_TempField_x002A_1>0</Gen_TempField_x002A_1>
+<s_ColLineage>kNOq8QEAAACQ06rxAwAAAJDTqvEMAAAAkNOq8QMAAACQ06rxBgAAAJDTqvECAAAA
+kNOq8Q4AAACQ06rxBwAAAA==
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{35C99140-6887-443A-8E5F-0A128DE90695}</s_GUID>
+<s_Lineage>kNOq8Q4AAAAAAAAAAAAAAA==
+</s_Lineage>
+</public_order_factors>
+<public_order_factors>
+<factor>happiness_events</factor>
+<positive_pip_path>data/ui/campaign ui/pips/placeholder-happy.tga</positive_pip_path>
+<positive_tooltip>Events: %S</positive_tooltip>
+<negative_pip_path>data/ui/campaign ui/pips/placeholder-unhappy.tga</negative_pip_path>
+<Gen_TempField_x002A_0>0</Gen_TempField_x002A_0>
+<Gen_TempField_x002A_1>0</Gen_TempField_x002A_1>
+<s_ColLineage>kNOq8QEAAACQ06rxAwAAAJDTqvEBAAAAkNOq8QoAAACQ06rxBwAAAJDTqvECAAAA
+kNOq8QkAAACQ06rxCAAAAA==
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{0EC0FFEB-052F-4546-9B2A-344EEDF7F4BF}</s_GUID>
+<s_Lineage>kNOq8QoAAAAAAAAAAAAAAA==
+</s_Lineage>
+</public_order_factors>
+<public_order_factors>
+<factor>happiness_gentlemen</factor>
+<positive_pip_path>data/ui/campaign ui/pips/character-happy.tga</positive_pip_path>
+<positive_tooltip>Agent effects: %S||Your own (or allied) agents are agitating against opposition elements in the city, improving your control over the region.</positive_tooltip>
+<negative_pip_path>data/ui/campaign ui/pips/character-unhappy.tga</negative_pip_path>
+<negative_tooltip>Agent effects: %S||Foreign agents are agitating against the authorities inside the city, having a negative impact upon regional public order.</negative_tooltip>
+<Gen_TempField_x002A_0>0</Gen_TempField_x002A_0>
+<Gen_TempField_x002A_1>0</Gen_TempField_x002A_1>
+<s_ColLineage>W4e7tQIAAABquW1qEgAAAGq5bWoRAAAAarltahIAAABbh7u1AQAAAFuHu7UBAAAA
+arltahAAAABbh7u1AQAAAA==
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{9279724C-FAD3-4574-BD1E-39642D2C1968}</s_GUID>
+<s_Lineage>arltahIAAABbh7u1DwAAAAAAAAAAAAAA
+</s_Lineage>
+</public_order_factors>
+<public_order_factors>
+<factor>happiness_gov_type</factor>
+<positive_pip_path>data/ui/campaign ui/pips/government-happy.tga</positive_pip_path>
+<positive_tooltip>Government type: %S||Your government type has a positive effect on this class.</positive_tooltip>
+<negative_pip_path>data/ui/campaign ui/pips/government-unhappy.tga</negative_pip_path>
+<negative_tooltip>Government type: %S||This government type has a negative effect on this class.</negative_tooltip>
+<Gen_TempField_x002A_0>0</Gen_TempField_x002A_0>
+<Gen_TempField_x002A_1>0</Gen_TempField_x002A_1>
+<s_ColLineage>kNOq8QUAAACQ06rxAwAAAJDTqvEQAAAAkNOq8QsAAACQ06rxCAAAAJDTqvECAAAA
+kNOq8REAAACQ06rxCQAAAA==
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{A3CBB429-DE9B-4770-930A-C98062F2E89A}</s_GUID>
+<s_Lineage>kNOq8REAAAAAAAAAAAAAAA==
+</s_Lineage>
+</public_order_factors>
+<public_order_factors>
+<factor>happiness_industrialisation</factor>
+<positive_pip_path>data/ui/campaign ui/pips/industry-unhappy.tga</positive_pip_path>
+<positive_tooltip>Industrialisation: %S||The people are unhappy about the increase in industrialisation in this region.||You can counter this effect by developing entertainment buildings to increase happiness, or lowering tax rates. ||Demolishing industrial buildings in the region will decrease unhappiness, but it will also negatively effect your region wealth and should only be attempted as a last resort.</positive_tooltip>
+<negative_pip_path>data/ui/campaign ui/pips/industry-unhappy.tga</negative_pip_path>
+<negative_tooltip>Industrialisation: %S ||This class is unhappy about the increase in industrialisation in this region.||You can counter this effect by developing entertainment buildings to increase happiness, or lowering tax rates. ||Demolishing industrial buildings in the region will decrease unhappiness, but it will also negatively effect your region wealth and should only be attempted as a last resort.</negative_tooltip>
+<Gen_TempField_x002A_0>0</Gen_TempField_x002A_0>
+<Gen_TempField_x002A_1>0</Gen_TempField_x002A_1>
+<s_ColLineage>kNOq8QEAAACQ06rxAwAAAJDTqvEIAAAAkNOq8QMAAACQ06rxBQAAAJDTqvECAAAA
+kNOq8QsAAACQ06rxBgAAAA==
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{39286070-BA46-45F1-A4F7-44757C9743E8}</s_GUID>
+<s_Lineage>kNOq8QsAAAAAAAAAAAAAAA==
+</s_Lineage>
+</public_order_factors>
+<public_order_factors>
+<factor>happiness_reform</factor>
+<positive_pip_path>data/ui/campaign ui/pips/clamour_for_reforms-unhappy.tga</positive_pip_path>
+<positive_tooltip>Political change: %S||Political changes have had a positive effect on public order.</positive_tooltip>
+<negative_pip_path>data/ui/campaign ui/pips/clamour_for_reforms-unhappy.tga</negative_pip_path>
+<negative_tooltip>Clamour for reform: %S ||As your nation becomes more advanced and educated, your population will demand political change.</negative_tooltip>
+<Gen_TempField_x002A_0>0</Gen_TempField_x002A_0>
+<Gen_TempField_x002A_1>0</Gen_TempField_x002A_1>
+<s_ColLineage>kNOq8QEAAACQ06rxFgAAAJDTqvETAAAAkNOq8RUAAACQ06rxBgAAAJDTqvECAAAA
+NAnHjhkAAACQ06rxBwAAAA==
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{75225352-F7C6-4127-8662-F02BE3F7E1F2}</s_GUID>
+<s_Lineage>NAnHjhkAAACQ06rxFgAAAAAAAAAAAAAA
+</s_Lineage>
+</public_order_factors>
+<public_order_factors>
+<factor>happiness_religion</factor>
+<positive_pip_path>data/ui/campaign ui/pips/buildings_religion-happy.tga</positive_pip_path>
+<positive_tooltip>Religious happiness: %S||Increase this by converting this region to your nation&apos;s religion.</positive_tooltip>
+<negative_pip_path>data/ui/campaign ui/pips/religion_unrest-unhappy.tga</negative_pip_path>
+<negative_tooltip>Religious unrest: %S||Counter this by converting this region to your nation&apos;s state religion.</negative_tooltip>
+<Gen_TempField_x002A_0>0</Gen_TempField_x002A_0>
+<Gen_TempField_x002A_1>0</Gen_TempField_x002A_1>
+<s_ColLineage>kNOq8QEAAACQ06rxCQAAAJDTqvEQAAAAkNOq8QMAAACQ06rxBwAAAJDTqvECAAAA
+kNOq8REAAACQ06rxCgAAAA==
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{D915E041-1F02-42FD-AA9E-5FE6BF468571}</s_GUID>
+<s_Lineage>kNOq8REAAAAAAAAAAAAAAA==
+</s_Lineage>
+</public_order_factors>
+<public_order_factors>
+<factor>happiness_resistance</factor>
+<positive_pip_path>data/ui/campaign ui/pips/conquest_cultural_differences-happy.tga</positive_pip_path>
+<positive_tooltip>Resistance to foreign occupation: %S</positive_tooltip>
+<negative_pip_path>data/ui/campaign ui/pips/conquest_cultural_differences-unhappy.tga</negative_pip_path>
+<negative_tooltip>Resistance to foreign occupation: %S||Some of the population remain loyal to the former government.||This will reduce over time. Garrison more troops in the area to increase repression, or exempt the region from tax.||You can do this on the region details panel.</negative_tooltip>
+<Gen_TempField_x002A_0>0</Gen_TempField_x002A_0>
+<Gen_TempField_x002A_1>0</Gen_TempField_x002A_1>
+<s_ColLineage>kNOq8QEAAACQ06rxAwAAAJDTqvEVAAAAkNOq8QMAAACQ06rxBwAAAJDTqvECAAAA
+kNOq8REAAACQ06rxCAAAAA==
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{8F33F02C-BCAC-40C8-8730-C6E50E771A87}</s_GUID>
+<s_Lineage>kNOq8RUAAAAAAAAAAAAAAA==
+</s_Lineage>
+</public_order_factors>
+<public_order_factors>
+<factor>happiness_tax_rate</factor>
+<positive_pip_path>data/ui/campaign ui/pips/taxes-unhappy.tga</positive_pip_path>
+<positive_tooltip>Tax burden: %S||To lessen the tax burden on your population simply lower taxes.||You can do this on the Government panel.</positive_tooltip>
+<negative_pip_path>data/ui/campaign ui/pips/taxes-unhappy.tga</negative_pip_path>
+<negative_tooltip>Tax burden: %S||To lessen the tax burden on your population simply lower taxes.||You can do this on the Government panel.</negative_tooltip>
+<Gen_TempField_x002A_0>0</Gen_TempField_x002A_0>
+<Gen_TempField_x002A_1>0</Gen_TempField_x002A_1>
+<s_ColLineage>kNOq8QEAAACQ06rxAwAAAJDTqvEJAAAAkNOq8QMAAACQ06rxBgAAAJDTqvECAAAA
+kNOq8QoAAACQ06rxBwAAAA==
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{BC20D383-FA4E-449D-9A0C-62AF8CF6EA2F}</s_GUID>
+<s_Lineage>kNOq8QoAAAAAAAAAAAAAAA==
+</s_Lineage>
+</public_order_factors>
+<public_order_factors>
+<factor>happiness_war</factor>
+<positive_pip_path>data/ui/campaign ui/pips/war_results-happy.tga</positive_pip_path>
+<positive_tooltip>Patriotic fervour: %S||Patriotic feelings are bouyed by great victories, and by going to war with a hostile enemy nation.</positive_tooltip>
+<negative_pip_path>data/ui/campaign ui/pips/war_weariness-unhappy.tga</negative_pip_path>
+<negative_tooltip>War weariness: %S||War weariness is a result of defeats on the field of battle, and of attacking nations that are your friends.</negative_tooltip>
+<Gen_TempField_x002A_0>0</Gen_TempField_x002A_0>
+<Gen_TempField_x002A_1>0</Gen_TempField_x002A_1>
+<s_ColLineage>kNOq8QEAAACQ06rxAQAAAJDTqvEMAAAAkNOq8QEAAACQ06rxBgAAAJDTqvECAAAA
+kNOq8QoAAACQ06rxBwAAAA==
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{BAC7BCBE-7524-4B67-86AE-4055210C0D62}</s_GUID>
+<s_Lineage>kNOq8QwAAAAAAAAAAAAAAA==
+</s_Lineage>
+</public_order_factors>
+<public_order_factors>
+<factor>population_growth_base</factor>
+<positive_pip_path>data/ui/campaign ui/pips/population_subsistence.tga</positive_pip_path>
+<positive_tooltip>Subsistence agriculture: %S||This is the background level of food production in the region.</positive_tooltip>
+<Gen_TempField_x002A_0>0</Gen_TempField_x002A_0>
+<Gen_TempField_x002A_1>0</Gen_TempField_x002A_1>
+<s_ColLineage>kNOq8QIAAACQ06rxCwAAAJDTqvEGAAAAkNOq8QEAAACQ06rxCQAAAJDTqvEBAAAA
+kNOq8RAAAACQ06rxDAAAAA==
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{9924E931-C6AC-49D1-8E31-053961B76EB5}</s_GUID>
+<s_Lineage>kNOq8RAAAAAAAAAAAAAAAA==
+</s_Lineage>
+</public_order_factors>
+<public_order_factors>
+<factor>population_growth_buildings</factor>
+<positive_pip_path>data/ui/campaign ui/pips/agriculture.tga</positive_pip_path>
+<positive_tooltip>Agriculture: %S||Increase this by developing your farms and researching agricultural technologies.</positive_tooltip>
+<Gen_TempField_x002A_0>0</Gen_TempField_x002A_0>
+<Gen_TempField_x002A_1>0</Gen_TempField_x002A_1>
+<s_ColLineage>kNOq8QEAAACQ06rxBQAAAJDTqvEDAAAAkNOq8QEAAACQ06rxAQAAAJDTqvECAAAA
+kNOq8QkAAACQ06rxBgAAAA==
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{07CF058B-70E8-4480-A648-3C4EE303A2F1}</s_GUID>
+<s_Lineage>kNOq8QkAAAAAAAAAAAAAAA==
+</s_Lineage>
+</public_order_factors>
+<public_order_factors>
+<factor>population_growth_food_shortages</factor>
+<positive_pip_path>data/ui/campaign ui/pips/food-shortage_unhappy.tga</positive_pip_path>
+<positive_tooltip>Food shortages: %S||Increase food production by building or upgrading current farm buildings. ||Research into agricultural technologies will also be beneficial.</positive_tooltip>
+<Gen_TempField_x002A_0>0</Gen_TempField_x002A_0>
+<Gen_TempField_x002A_1>0</Gen_TempField_x002A_1>
+<s_ColLineage>kNOq8QEAAACQ06rxAQAAAJDTqvEEAAAAkNOq8QEAAACQ06rxAQAAAJDTqvECAAAA
+kNOq8QgAAACQ06rxBQAAAA==
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{776E2524-DE3D-48A3-A75B-8670782F5412}</s_GUID>
+<s_Lineage>kNOq8QgAAAAAAAAAAAAAAA==
+</s_Lineage>
+</public_order_factors>
+<public_order_factors>
+<factor>population_growth_happiness</factor>
+<positive_pip_path>data/ui/campaign ui/pips/happiness.tga</positive_pip_path>
+<positive_tooltip>Happiness: %S</positive_tooltip>
+<negative_tooltip>Unhappiness: %S</negative_tooltip>
+<Gen_TempField_x002A_0>0</Gen_TempField_x002A_0>
+<Gen_TempField_x002A_1>0</Gen_TempField_x002A_1>
+<s_ColLineage>kNOq8QEAAACQ06rxAQAAAJDTqvEHAAAAkNOq8QEAAACQ06rxAQAAAJDTqvECAAAA
+kNOq8QYAAACQ06rxBAAAAA==
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{067A527A-9B97-4EFF-8DB8-CC07FDF233EA}</s_GUID>
+<s_Lineage>kNOq8QcAAAAAAAAAAAAAAA==
+</s_Lineage>
+</public_order_factors>
+<public_order_factors>
+<factor>population_growth_migration</factor>
+<positive_pip_path>data/ui/campaign ui/pips/migration_happy.tga</positive_pip_path>
+<positive_tooltip>Immigration from the home theatre: %S||Unhappiness drives people to seek a better life elsewhere.</positive_tooltip>
+<negative_pip_path>data/ui/campaign ui/pips/migration_unhappy.tga</negative_pip_path>
+<negative_tooltip>Emigration to the colonies: %S||Unhappiness drives people to seek a better life elsewhere.</negative_tooltip>
+<Gen_TempField_x002A_0>0</Gen_TempField_x002A_0>
+<Gen_TempField_x002A_1>0</Gen_TempField_x002A_1>
+<s_ColLineage>kNOq8QIAAACQ06rxCgAAAJDTqvEQAAAAkNOq8QoAAACQ06rxCQAAAJDTqvEBAAAA
+kNOq8REAAACQ06rxCwAAAA==
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{870EADFA-85E6-4233-AA24-FB1536092F8C}</s_GUID>
+<s_Lineage>kNOq8REAAAAAAAAAAAAAAA==
+</s_Lineage>
+</public_order_factors>
+<public_order_factors>
+<factor>population_growth_military</factor>
+<positive_pip_path>data/ui/campaign ui/pips/devastation-unhappy.tga</positive_pip_path>
+<positive_tooltip>Devastation by armies: %S||Ensure there are no enemy armies inside your region.</positive_tooltip>
+<Gen_TempField_x002A_0>0</Gen_TempField_x002A_0>
+<Gen_TempField_x002A_1>0</Gen_TempField_x002A_1>
+<s_ColLineage>kNOq8QEAAACQ06rxAQAAAJDTqvEEAAAAkNOq8QEAAACQ06rxAQAAAJDTqvECAAAA
+kNOq8QkAAACQ06rxBQAAAA==
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{996C2140-6DF2-468A-A606-750F08D5C49E}</s_GUID>
+<s_Lineage>kNOq8QkAAAAAAAAAAAAAAA==
+</s_Lineage>
+</public_order_factors>
+<public_order_factors>
+<factor>population_growth_policies</factor>
+<positive_pip_path>data/ui/campaign ui/pips/placeholder-happy.tga</positive_pip_path>
+<positive_tooltip>Policies</positive_tooltip>
+<Gen_TempField_x002A_0>0</Gen_TempField_x002A_0>
+<Gen_TempField_x002A_1>0</Gen_TempField_x002A_1>
+<s_ColLineage>kNOq8QEAAACQ06rxAQAAAJDTqvEDAAAAkNOq8QEAAACQ06rxAQAAAJDTqvECAAAA
+kNOq8QQAAACQ06rxBAAAAA==
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{E0DB2C24-E2CD-4601-B0E8-5D5DB55926B0}</s_GUID>
+<s_Lineage>kNOq8QQAAAAAAAAAAAAAAA==
+</s_Lineage>
+</public_order_factors>
+<public_order_factors>
+<factor>population_growth_ports</factor>
+<positive_pip_path>data/ui/campaign ui/pips/trade_port.tga</positive_pip_path>
+<positive_tooltip>Ports: %S||Increase this factor by developing your fishing ports.</positive_tooltip>
+<Gen_TempField_x002A_0>0</Gen_TempField_x002A_0>
+<Gen_TempField_x002A_1>0</Gen_TempField_x002A_1>
+<s_ColLineage>kNOq8QIAAACQ06rxBAAAAJDTqvECAAAAkNOq8QEAAACQ06rxAQAAAJDTqvEBAAAA
+kNOq8QcAAACQ06rxBQAAAA==
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{4FAD73B5-9EF2-45B1-B062-98B12146DDEB}</s_GUID>
+<s_Lineage>kNOq8QcAAAAAAAAAAAAAAA==
+</s_Lineage>
+</public_order_factors>
+<public_order_factors>
+<factor>population_growth_taxes</factor>
+<positive_pip_path>data/ui/campaign ui/pips/taxes-unhappy.tga</positive_pip_path>
+<positive_tooltip>Tax burden: %S||To counter this, simply lower taxes for the lower classes.||You can do this on the Government panel.</positive_tooltip>
+<Gen_TempField_x002A_0>0</Gen_TempField_x002A_0>
+<Gen_TempField_x002A_1>0</Gen_TempField_x002A_1>
+<s_ColLineage>kNOq8QEAAACQ06rxAQAAAJDTqvEEAAAAkNOq8QEAAACQ06rxAQAAAJDTqvECAAAA
+kNOq8QgAAACQ06rxBQAAAA==
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{A3D30D5D-589C-46C8-9C64-C27B784B769C}</s_GUID>
+<s_Lineage>kNOq8QgAAAAAAAAAAAAAAA==
+</s_Lineage>
+</public_order_factors>
+<public_order_factors>
+<factor>population_growth_technologies</factor>
+<positive_pip_path>data/ui/campaign ui/pips/town_research.tga</positive_pip_path>
+<positive_tooltip>Technologies: %S||Increase this factor by research farming technologies.</positive_tooltip>
+<Gen_TempField_x002A_0>0</Gen_TempField_x002A_0>
+<Gen_TempField_x002A_1>0</Gen_TempField_x002A_1>
+<s_ColLineage>kNOq8QEAAACQ06rxBwAAAJDTqvEGAAAAkNOq8QEAAACQ06rxAQAAAJDTqvECAAAA
+kNOq8Q0AAACQ06rxCAAAAA==
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{5484719B-0B62-48A6-BF92-0D8200A88CE8}</s_GUID>
+<s_Lineage>kNOq8Q0AAAAAAAAAAAAAAA==
+</s_Lineage>
+</public_order_factors>
+<public_order_factors>
+<factor>population_growth_unrest</factor>
+<positive_pip_path>data/ui/campaign ui/pips/placeholder-unhappy.tga</positive_pip_path>
+<positive_tooltip>Unrest</positive_tooltip>
+<Gen_TempField_x002A_0>0</Gen_TempField_x002A_0>
+<Gen_TempField_x002A_1>0</Gen_TempField_x002A_1>
+<s_ColLineage>kNOq8QEAAACQ06rxAQAAAJDTqvEDAAAAkNOq8QEAAACQ06rxAQAAAJDTqvECAAAA
+kNOq8QQAAACQ06rxBAAAAA==
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{25DAF3C6-A49A-4DED-A101-69220C20F9AD}</s_GUID>
+<s_Lineage>kNOq8QQAAAAAAAAAAAAAAA==
+</s_Lineage>
+</public_order_factors>
+<public_order_factors>
+<factor>repression_buildings</factor>
+<positive_pip_path>data/ui/campaign ui/pips/buildings-repression.tga</positive_pip_path>
+<positive_tooltip>Government buildings (Repression): %S||Increase repression in your regions by upgrading government buildings.</positive_tooltip>
+<Gen_TempField_x002A_0>0</Gen_TempField_x002A_0>
+<Gen_TempField_x002A_1>0</Gen_TempField_x002A_1>
+<s_ColLineage>kNOq8QEAAACQ06rxBgAAAJDTqvEFAAAAkNOq8QEAAACQ06rxAQAAAJDTqvECAAAA
+kNOq8QoAAACQ06rxBwAAAA==
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{2CF670C2-5729-49B3-9311-3331E7AACFFB}</s_GUID>
+<s_Lineage>kNOq8QoAAAAAAAAAAAAAAA==
+</s_Lineage>
+</public_order_factors>
+<public_order_factors>
+<factor>repression_characters</factor>
+<positive_pip_path>data/ui/campaign ui/pips/character_traits-repression.tga</positive_pip_path>
+<positive_tooltip>People in government (Repression): %S||This is from your minister&apos;s traits.||You can view all their effects on the Government panel.</positive_tooltip>
+<Gen_TempField_x002A_0>0</Gen_TempField_x002A_0>
+<Gen_TempField_x002A_1>0</Gen_TempField_x002A_1>
+<s_ColLineage>kNOq8QEAAACQ06rxBgAAAJDTqvEEAAAAkNOq8QEAAACQ06rxAQAAAJDTqvECAAAA
+kNOq8QoAAACQ06rxBwAAAA==
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{1D118A2B-2500-4F97-8719-0310A74368D8}</s_GUID>
+<s_Lineage>kNOq8QoAAAAAAAAAAAAAAA==
+</s_Lineage>
+</public_order_factors>
+<public_order_factors>
+<factor>repression_garrison</factor>
+<positive_pip_path>data/ui/campaign ui/pips/garrison-repression.tga</positive_pip_path>
+<positive_tooltip>Garrisoned forces (Repression): %S||Improve this factor by increasing the garrison size in your city.||The larger the population, the more units are required.</positive_tooltip>
+<Gen_TempField_x002A_0>0</Gen_TempField_x002A_0>
+<Gen_TempField_x002A_1>0</Gen_TempField_x002A_1>
+<s_ColLineage>kNOq8QEAAACQ06rxAQAAAJDTqvEEAAAAkNOq8QEAAACQ06rxAQAAAJDTqvECAAAA
+kNOq8QgAAACQ06rxBQAAAA==
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{13519BE4-D78C-40B3-B939-D506E91F2519}</s_GUID>
+<s_Lineage>kNOq8QgAAAAAAAAAAAAAAA==
+</s_Lineage>
+</public_order_factors>
+<public_order_factors>
+<factor>repression_gov_type</factor>
+<positive_pip_path>data/ui/campaign ui/pips/government-repression.tga</positive_pip_path>
+<positive_tooltip>Government type (Repression): %S||Your government type has a repression effect, improving public order.</positive_tooltip>
+<Gen_TempField_x002A_0>0</Gen_TempField_x002A_0>
+<Gen_TempField_x002A_1>0</Gen_TempField_x002A_1>
+<s_ColLineage>kNOq8QEAAACQ06rxAQAAAJDTqvEEAAAAkNOq8QEAAACQ06rxAQAAAJDTqvECAAAA
+kNOq8QgAAACQ06rxBQAAAA==
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{CD7013D3-E0D0-430B-90D8-17FE946D1278}</s_GUID>
+<s_Lineage>kNOq8QgAAAAAAAAAAAAAAA==
+</s_Lineage>
+</public_order_factors>
+<public_order_factors>
+<factor>repression_military_crackdown</factor>
+<positive_pip_path>data/ui/campaign ui/pips/military-crackdown-repression.tga</positive_pip_path>
+<positive_tooltip>Military crackdown (Repression): %S||Recent suppression of the rebels has reduced the appetite for more bloodshed.||This allows you time to rebuild the region and fix any damage that may have been caused during the rebellion.</positive_tooltip>
+<Gen_TempField_x002A_0>0</Gen_TempField_x002A_0>
+<Gen_TempField_x002A_1>0</Gen_TempField_x002A_1>
+<s_ColLineage>kNOq8QIAAACQ06rxBgAAAJDTqvEEAAAAkNOq8QEAAACQ06rxAQAAAJDTqvEBAAAA
+kNOq8QoAAACQ06rxBwAAAA==
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{A14DE7F8-D278-4108-B359-885D19D01620}</s_GUID>
+<s_Lineage>kNOq8QoAAAAAAAAAAAAAAA==
+</s_Lineage>
+</public_order_factors>
+<public_order_factors>
+<factor>repression_policing</factor>
+<positive_pip_path>data/ui/campaign ui/pips/policing-repression.tga</positive_pip_path>
+<positive_tooltip>Town Watch (Repression): %S||This is an expensive emergency measure to suppress unrest.</positive_tooltip>
+<Gen_TempField_x002A_0>0</Gen_TempField_x002A_0>
+<Gen_TempField_x002A_1>0</Gen_TempField_x002A_1>
+<s_ColLineage>kNOq8QEAAACQ06rxAQAAAJDTqvEFAAAAkNOq8QEAAACQ06rxAQAAAJDTqvECAAAA
+kNOq8QkAAACQ06rxBgAAAA==
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{B1E54BB5-2555-46BB-B083-BD44C00B49C9}</s_GUID>
+<s_Lineage>kNOq8QkAAAAAAAAAAAAAAA==
+</s_Lineage>
+</public_order_factors>
+<public_order_factors>
+<factor>happiness_alignment</factor>
+<positive_pip_path>data/ui/campaign ui/pips/buildings_religion-happy.tga</positive_pip_path>
+<positive_tooltip>Political satisfaction: %S||Increase this by converting this region to your nation&apos;s political alignment.</positive_tooltip>
+<negative_pip_path>data/ui/campaign ui/pips/political_unrest-unhappy.tga</negative_pip_path>
+<negative_tooltip>Political unrest: %S||Counter this by converting this region to your nation&apos;s political alignment.</negative_tooltip>
+<Gen_TempField_x002A_0>0</Gen_TempField_x002A_0>
+<Gen_TempField_x002A_1>0</Gen_TempField_x002A_1>
+<s_ColLineage>arltagIAAABquW1qAgAAAGq5bWoCAAAAarltagMAAABquW1qAQAAAGq5bWoBAAAA
+arltagIAAABquW1qAQAAAA==
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{429E4D91-23F9-4FDA-9FDF-73A291E5F843}</s_GUID>
+<s_Lineage>arltagMAAAAAAAAAAAAAAA==
+</s_Lineage>
+</public_order_factors>
+</dataroot>

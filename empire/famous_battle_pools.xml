@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="famous_battle_pools.xsd" generated="2007-08-21T17:31:15">
+<famous_battle_pools>
+<pool_id>1</pool_id>
+<pool_posX>-19</pool_posX>
+<pool_posY>396</pool_posY>
+<pool_radius>12</pool_radius>
+<battle_name>Battle Of Edinburgh</battle_name>
+</famous_battle_pools>
+<famous_battle_pools>
+<pool_id>2</pool_id>
+<pool_posX>1</pool_posX>
+<pool_posY>370</pool_posY>
+<pool_radius>13</pool_radius>
+<battle_name>Battle of Sussex</battle_name>
+</famous_battle_pools>
+<famous_battle_pools>
+<pool_id>3</pool_id>
+<pool_posX>-10</pool_posX>
+<pool_posY>280</pool_posY>
+<pool_radius>20</pool_radius>
+<battle_name>Spanish Battle</battle_name>
+</famous_battle_pools>
+</dataroot>

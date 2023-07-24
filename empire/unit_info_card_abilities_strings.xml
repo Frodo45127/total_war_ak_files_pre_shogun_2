@@ -1,0 +1,641 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="unit_info_card_abilities_strings.xsd" generated="2009-10-30T12:51:42">
+<unit_info_card_abilities_strings>
+<key>bad_marksmanship</key>
+<bullet_text>Poor shots</bullet_text>
+<tooltip_text>There&apos;s only so much you can blame on the weapon…</tooltip_text>
+<s_ColLineage>kNOq8QIAAACQ06rxAgAAAJDTqvECAAAA
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{E22B2709-A0D8-466E-B3E1-33A522E43E6C}</s_GUID>
+<s_Lineage>kNOq8QIAAAAAAAAAAAAAAA==
+</s_Lineage>
+</unit_info_card_abilities_strings>
+<unit_info_card_abilities_strings>
+<key>bad_reload</key>
+<bullet_text>Sloppy reloaders</bullet_text>
+<tooltip_text>&quot;Faster man! No, not like that, you&apos;ve left the ramrod in!&quot;</tooltip_text>
+<s_ColLineage>kNOq8QIAAACQ06rxAgAAAJDTqvECAAAA
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{FF6E3DFD-A9CC-4F22-AF75-D618F449DE6E}</s_GUID>
+<s_Lineage>kNOq8QIAAAAAAAAAAAAAAA==
+</s_Lineage>
+</unit_info_card_abilities_strings>
+<unit_info_card_abilities_strings>
+<key>cadenced_marching</key>
+<bullet_text>Cadenced Marching</bullet_text>
+<tooltip_text>Increases campaign map movement</tooltip_text>
+<s_ColLineage>kNOq8QIAAACQ06rxAgAAAJDTqvEDAAAA
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{149EF0CE-EB94-4CF0-9331-45E2640D99D7}</s_GUID>
+<s_Lineage>kNOq8QMAAAAAAAAAAAAAAA==
+</s_Lineage>
+</unit_info_card_abilities_strings>
+<unit_info_card_abilities_strings>
+<key>campmap_stealth</key>
+<bullet_text>Paths seldom trod</bullet_text>
+<tooltip_text>These men use every fold of the land to conceal the route of their march, and are harder to spot on the campaign map.</tooltip_text>
+<s_ColLineage>kNOq8QEAAACQ06rxAQAAAJDTqvEBAAAA
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{CF6922F4-43C2-451B-B365-D9811EEB9215}</s_GUID>
+<s_Lineage>kNOq8QEAAAAAAAAAAAAAAA==
+</s_Lineage>
+</unit_info_card_abilities_strings>
+<unit_info_card_abilities_strings>
+<key>can_trade</key>
+<bullet_text>Trade ship</bullet_text>
+<tooltip_text>Can exploit resources when placed at a trade post</tooltip_text>
+<s_ColLineage>kNOq8QIAAACQ06rxAgAAAJDTqvECAAAA
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{2C42F6AF-8588-4A99-8125-07CF72193B81}</s_GUID>
+<s_Lineage>kNOq8QIAAAAAAAAAAAAAAA==
+</s_Lineage>
+</unit_info_card_abilities_strings>
+<unit_info_card_abilities_strings>
+<key>canister_shot</key>
+<bullet_text>Canister Shot</bullet_text>
+<tooltip_text>A short range anti-personnel munition</tooltip_text>
+<s_ColLineage>kNOq8QIAAACQ06rxAgAAAJDTqvECAAAA
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{F6B509AE-1894-4F08-81BF-A6BC20824678}</s_GUID>
+<s_Lineage>kNOq8QIAAAAAAAAAAAAAAA==
+</s_Lineage>
+</unit_info_card_abilities_strings>
+<unit_info_card_abilities_strings>
+<key>cant_run</key>
+<bullet_text>Slow-moving</bullet_text>
+<tooltip_text>This unit is unable to move at anything above a walking pace</tooltip_text>
+<s_ColLineage>kNOq8QEAAACQ06rxAQAAAJDTqvEBAAAA
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{9D912115-35F7-48F8-AF7C-326449568B7F}</s_GUID>
+<s_Lineage>kNOq8QEAAAAAAAAAAAAAAA==
+</s_Lineage>
+</unit_info_card_abilities_strings>
+<unit_info_card_abilities_strings>
+<key>carcass_shot</key>
+<bullet_text>Carcass Shot</bullet_text>
+<tooltip_text>An incendiary munition</tooltip_text>
+<s_ColLineage>kNOq8QIAAACQ06rxAgAAAJDTqvECAAAA
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{B209DD8C-28FF-467A-86E2-22EDE6207C2C}</s_GUID>
+<s_Lineage>kNOq8QIAAAAAAAAAAAAAAA==
+</s_Lineage>
+</unit_info_card_abilities_strings>
+<unit_info_card_abilities_strings>
+<key>cold_resistant</key>
+<bullet_text>Resistant to cold fatigue</bullet_text>
+<tooltip_text>These men suffer less fatigue when fighting in a cold climate</tooltip_text>
+<s_ColLineage>kNOq8QIAAACQ06rxAgAAAJDTqvECAAAA
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{A9AC1589-D97B-4092-9125-898072FC0DA4}</s_GUID>
+<s_Lineage>kNOq8QIAAAAAAAAAAAAAAA==
+</s_Lineage>
+</unit_info_card_abilities_strings>
+<unit_info_card_abilities_strings>
+<key>copper_bottoms</key>
+<bullet_text>Copper Bottoms</bullet_text>
+<tooltip_text>Increases ship speed</tooltip_text>
+<s_ColLineage>kNOq8QIAAACQ06rxAgAAAJDTqvECAAAA
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{5AFCA195-D958-488D-A68C-CAB7BFD29CAF}</s_GUID>
+<s_Lineage>kNOq8QIAAAAAAAAAAAAAAA==
+</s_Lineage>
+</unit_info_card_abilities_strings>
+<unit_info_card_abilities_strings>
+<key>diamond_formation</key>
+<bullet_text>Diamond formation</bullet_text>
+<tooltip_text>An evolution of the wedge formation, the diamond formation is even more effective at disrupting enemy formations</tooltip_text>
+<s_ColLineage>kNOq8QIAAACQ06rxAwAAAJDTqvEDAAAA
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{D10738EF-9D2A-4FFC-976D-B2F0D9D0D003}</s_GUID>
+<s_Lineage>kNOq8QMAAAAAAAAAAAAAAA==
+</s_Lineage>
+</unit_info_card_abilities_strings>
+<unit_info_card_abilities_strings>
+<key>disciplined</key>
+<bullet_text>Resistant to morale shocks</bullet_text>
+<tooltip_text>These men are better able to resist the sudden shocks of combat without breaking and running.</tooltip_text>
+<s_ColLineage>kNOq8QEAAACQ06rxAQAAAJDTqvEBAAAA
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{2B92748F-8EFE-4D42-94E0-4656885DFD05}</s_GUID>
+<s_Lineage>kNOq8QEAAAAAAAAAAAAAAA==
+</s_Lineage>
+</unit_info_card_abilities_strings>
+<unit_info_card_abilities_strings>
+<key>dismount</key>
+<bullet_text>Can dismount</bullet_text>
+<tooltip_text>This unit can dismount to fight on foot then remount to quickly reposition</tooltip_text>
+<s_ColLineage>kNOq8QEAAACQ06rxAQAAAJDTqvEBAAAA
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{F06A61D8-B2AF-4094-BA88-08B9806D17BB}</s_GUID>
+<s_Lineage>kNOq8QEAAAAAAAAAAAAAAA==
+</s_Lineage>
+</unit_info_card_abilities_strings>
+<unit_info_card_abilities_strings>
+<key>explosive_shells</key>
+<bullet_text>Explosive Shells</bullet_text>
+<tooltip_text>Explosive projectiles whose detonation is governed by a lit fuse</tooltip_text>
+<s_ColLineage>kNOq8QIAAACQ06rxAgAAAJDTqvECAAAA
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{A5FE9E9E-D939-442B-B8F9-88D462839E80}</s_GUID>
+<s_Lineage>kNOq8QIAAAAAAAAAAAAAAA==
+</s_Lineage>
+</unit_info_card_abilities_strings>
+<unit_info_card_abilities_strings>
+<key>fatigue_resistant</key>
+<bullet_text>Good stamina</bullet_text>
+<tooltip_text>Superb stamina makes these men tire less quickly</tooltip_text>
+<s_ColLineage>kNOq8QIAAACQ06rxAgAAAJDTqvECAAAA
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{0F1B0610-5528-4E44-9BA0-315D40FF8EE2}</s_GUID>
+<s_Lineage>kNOq8QIAAAAAAAAAAAAAAA==
+</s_Lineage>
+</unit_info_card_abilities_strings>
+<unit_info_card_abilities_strings>
+<key>fire_and_advance</key>
+<bullet_text>Fire and advance drill</bullet_text>
+<tooltip_text>This unit can advance by rank, claiming ground whilst maintaining a steady rate of fire</tooltip_text>
+<s_ColLineage>kNOq8QIAAACQ06rxAwAAAJDTqvECAAAA
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{1FC3DC42-321D-4162-808C-9B262F1924A8}</s_GUID>
+<s_Lineage>kNOq8QMAAAAAAAAAAAAAAA==
+</s_Lineage>
+</unit_info_card_abilities_strings>
+<unit_info_card_abilities_strings>
+<key>fragile_hull</key>
+<bullet_text>Fragile Hull</bullet_text>
+<tooltip_text>A thin-timbered hull provides little protection against a sustained cannonade</tooltip_text>
+<s_ColLineage>kNOq8QIAAACQ06rxAgAAAJDTqvECAAAA
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{0EB4E6F7-2217-4C56-AF73-B3A3D71D5251}</s_GUID>
+<s_Lineage>kNOq8QIAAAAAAAAAAAAAAA==
+</s_Lineage>
+</unit_info_card_abilities_strings>
+<unit_info_card_abilities_strings>
+<key>good_defence</key>
+<bullet_text>Good Defence</bullet_text>
+<tooltip_text>These men are better than average at staying in one piece</tooltip_text>
+<s_ColLineage>kNOq8QIAAACQ06rxAgAAAJDTqvECAAAA
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{5C9B05D9-183E-499A-B003-CE7E12B77647}</s_GUID>
+<s_Lineage>kNOq8QIAAAAAAAAAAAAAAA==
+</s_Lineage>
+</unit_info_card_abilities_strings>
+<unit_info_card_abilities_strings>
+<key>good_firepower</key>
+<bullet_text>Heavy Firepower</bullet_text>
+<tooltip_text>Packs sufficient firepower to trouble the heaviest opponent</tooltip_text>
+<s_ColLineage>kNOq8QIAAACQ06rxAgAAAJDTqvECAAAA
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{75C1AD11-88EA-47C1-AA8D-8FA75780B86B}</s_GUID>
+<s_Lineage>kNOq8QIAAAAAAAAAAAAAAA==
+</s_Lineage>
+</unit_info_card_abilities_strings>
+<unit_info_card_abilities_strings>
+<key>good_markmanship</key>
+<bullet_text>Crack Shots</bullet_text>
+<tooltip_text>Steady hands and sharp eyes make for fine shots</tooltip_text>
+<s_ColLineage>kNOq8QIAAACQ06rxAgAAAJDTqvECAAAA
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{9E430C33-AAAA-4621-BE15-4E19E17938AF}</s_GUID>
+<s_Lineage>kNOq8QIAAAAAAAAAAAAAAA==
+</s_Lineage>
+</unit_info_card_abilities_strings>
+<unit_info_card_abilities_strings>
+<key>good_morale</key>
+<bullet_text>High Morale</bullet_text>
+<tooltip_text>A strong esprit de corps unites these men, giving them high morale</tooltip_text>
+<s_ColLineage>kNOq8QIAAACQ06rxAgAAAJDTqvECAAAA
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{4964B1A1-74E9-465F-AEA6-98F619701F8C}</s_GUID>
+<s_Lineage>kNOq8QIAAAAAAAAAAAAAAA==
+</s_Lineage>
+</unit_info_card_abilities_strings>
+<unit_info_card_abilities_strings>
+<key>good_reload</key>
+<bullet_text>Practiced Loading Drill</bullet_text>
+<tooltip_text>Constant repetition shaves fractions from loading times and helps to eliminate misfires</tooltip_text>
+<s_ColLineage>kNOq8QIAAACQ06rxAgAAAJDTqvEDAAAA
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{3AEFF1A6-BEF1-4603-9869-5B7C75ECD5E6}</s_GUID>
+<s_Lineage>kNOq8QMAAAAAAAAAAAAAAA==
+</s_Lineage>
+</unit_info_card_abilities_strings>
+<unit_info_card_abilities_strings>
+<key>grappling_hook</key>
+<bullet_text>Grappling hook</bullet_text>
+<tooltip_text>placeholder</tooltip_text>
+<s_ColLineage>kNOq8QIAAACQ06rxAgAAAJDTqvECAAAA
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{72682D78-7B58-401A-9410-742DB9D40129}</s_GUID>
+<s_Lineage>kNOq8QIAAAAAAAAAAAAAAA==
+</s_Lineage>
+</unit_info_card_abilities_strings>
+<unit_info_card_abilities_strings>
+<key>grappling_hooks</key>
+<bullet_text>Grappling Hooks</bullet_text>
+<tooltip_text>These men are practiced in the use of grappling hooks to scale fort walls</tooltip_text>
+<s_ColLineage>kNOq8QIAAACQ06rxAgAAAJDTqvECAAAA
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{6ACA21C0-75F7-4269-92A8-3278B84AA88B}</s_GUID>
+<s_Lineage>kNOq8QIAAAAAAAAAAAAAAA==
+</s_Lineage>
+</unit_info_card_abilities_strings>
+<unit_info_card_abilities_strings>
+<key>grenades</key>
+<bullet_text>Can throw grenades</bullet_text>
+<tooltip_text>Can throw crude grenades to clear entrenchments and occupied buildings</tooltip_text>
+<s_ColLineage>kNOq8QEAAACQ06rxAQAAAJDTqvEBAAAA
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{18AF579B-F2AA-4AC3-AE13-7D065BDD9C30}</s_GUID>
+<s_Lineage>kNOq8QEAAAAAAAAAAAAAAA==
+</s_Lineage>
+</unit_info_card_abilities_strings>
+<unit_info_card_abilities_strings>
+<key>heat_resistant</key>
+<bullet_text>Resistant to heat fatigue</bullet_text>
+<tooltip_text>These men suffer less fatigue when fighting in a hot climate</tooltip_text>
+<s_ColLineage>kNOq8QIAAACQ06rxAgAAAJDTqvECAAAA
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{5F3E8041-992C-4292-9261-B8E66B71A13C}</s_GUID>
+<s_Lineage>kNOq8QIAAAAAAAAAAAAAAA==
+</s_Lineage>
+</unit_info_card_abilities_strings>
+<unit_info_card_abilities_strings>
+<key>hide_buildings</key>
+<bullet_text>Can hide in buildings</bullet_text>
+<tooltip_text>Once they have garrisoned a building, these men will lie low until the time is right to spring their ambush.</tooltip_text>
+<s_ColLineage>kNOq8QEAAACQ06rxAQAAAJDTqvEBAAAA
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{D9AA0354-ABC0-4B5A-86AC-963EE882AE2A}</s_GUID>
+<s_Lineage>kNOq8QEAAAAAAAAAAAAAAA==
+</s_Lineage>
+</unit_info_card_abilities_strings>
+<unit_info_card_abilities_strings>
+<key>hide_grass</key>
+<bullet_text>Can hide in long grass</bullet_text>
+<tooltip_text>When stationary in long grass, these men will position themselves so as to be invisible to the enemy.</tooltip_text>
+<s_ColLineage>kNOq8QEAAACQ06rxAQAAAJDTqvEBAAAA
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{04E2DDCE-90DF-4EA6-9B03-7FABDCFDE11F}</s_GUID>
+<s_Lineage>kNOq8QEAAAAAAAAAAAAAAA==
+</s_Lineage>
+</unit_info_card_abilities_strings>
+<unit_info_card_abilities_strings>
+<key>hide_scrub</key>
+<bullet_text>Can hide in light scrub</bullet_text>
+<tooltip_text>When stationary in light scrub, these men will position themselves so as to be invisible to the enemy</tooltip_text>
+<s_ColLineage>kNOq8QEAAACQ06rxAQAAAJDTqvEBAAAA
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{87934A3B-2795-4BE4-A7FF-68E2C6A732A2}</s_GUID>
+<s_Lineage>kNOq8QEAAAAAAAAAAAAAAA==
+</s_Lineage>
+</unit_info_card_abilities_strings>
+<unit_info_card_abilities_strings>
+<key>hide_woods</key>
+<bullet_text>Can hide in woodland</bullet_text>
+<tooltip_text>When stationary in wooded areas, these men will position themselves so as to be invisible to the enemy</tooltip_text>
+<s_ColLineage>kNOq8QEAAACQ06rxAQAAAJDTqvEBAAAA
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{CB9FF5D1-A9AE-4EC0-99A9-7310A410FF1E}</s_GUID>
+<s_Lineage>kNOq8QEAAAAAAAAAAAAAAA==
+</s_Lineage>
+</unit_info_card_abilities_strings>
+<unit_info_card_abilities_strings>
+<key>inspire</key>
+<bullet_text>Inspires nearby units</bullet_text>
+<tooltip_text>This fine body of men set an inspiring example to comrades nearby, making them less likely to rout</tooltip_text>
+<s_ColLineage>kNOq8QIAAACQ06rxAgAAAJDTqvECAAAA
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{B57F0778-2D79-4766-942B-E359BB70249F}</s_GUID>
+<s_Lineage>kNOq8QIAAAAAAAAAAAAAAA==
+</s_Lineage>
+</unit_info_card_abilities_strings>
+<unit_info_card_abilities_strings>
+<key>light_infantry_behaviour</key>
+<bullet_text>Light Infantry Tactics</bullet_text>
+<tooltip_text>Spreading out to find cover helps to reduce casualties</tooltip_text>
+<s_ColLineage>kNOq8QIAAACQ06rxAgAAAJDTqvECAAAA
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{6102BDEE-9F98-4207-9983-5F5A82F3AFBF}</s_GUID>
+<s_Lineage>kNOq8QIAAAAAAAAAAAAAAA==
+</s_Lineage>
+</unit_info_card_abilities_strings>
+<unit_info_card_abilities_strings>
+<key>long_range</key>
+<bullet_text>Long Range Weapons</bullet_text>
+<tooltip_text>This unit employs long range weaponry</tooltip_text>
+<s_ColLineage>kNOq8QIAAACQ06rxAgAAAJDTqvECAAAA
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{CC460D29-01E2-42C9-82F1-9E21C3E03219}</s_GUID>
+<s_Lineage>kNOq8QIAAAAAAAAAAAAAAA==
+</s_Lineage>
+</unit_info_card_abilities_strings>
+<unit_info_card_abilities_strings>
+<key>manoeuvrable</key>
+<bullet_text>Manoeuvrable</bullet_text>
+<tooltip_text>Able to turn almost in its own length, this ship handles like a dream</tooltip_text>
+<s_ColLineage>kNOq8QIAAACQ06rxAgAAAJDTqvECAAAA
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{83FA664C-8862-4FDA-A5CA-8A045B1325CE}</s_GUID>
+<s_Lineage>kNOq8QIAAAAAAAAAAAAAAA==
+</s_Lineage>
+</unit_info_card_abilities_strings>
+<unit_info_card_abilities_strings>
+<key>melee_vs_cavalry</key>
+<bullet_text>Melee bonus versus cavalry</bullet_text>
+<tooltip_text>These men are effective at countering mounted opponents</tooltip_text>
+<s_ColLineage>kNOq8QEAAACQ06rxAQAAAJDTqvEBAAAA
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{FED6923A-DBC8-4C7C-A4A1-5EC671E2F1AE}</s_GUID>
+<s_Lineage>kNOq8QEAAAAAAAAAAAAAAA==
+</s_Lineage>
+</unit_info_card_abilities_strings>
+<unit_info_card_abilities_strings>
+<key>percussion_shells</key>
+<bullet_text>Percussion Shells</bullet_text>
+<tooltip_text>Explode on impact, thus less error-prone than conventional explosive shells</tooltip_text>
+<s_ColLineage>kNOq8QIAAACQ06rxAgAAAJDTqvECAAAA
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{20FF7941-14E4-400B-A698-BB9212A44E3B}</s_GUID>
+<s_Lineage>kNOq8QIAAAAAAAAAAAAAAA==
+</s_Lineage>
+</unit_info_card_abilities_strings>
+<unit_info_card_abilities_strings>
+<key>pike_square_formation</key>
+<bullet_text>Pike Square Formation</bullet_text>
+<tooltip_text>The pike square is an immobile solid square of men presenting a wall of pikes on all sides to deter cavalry attack</tooltip_text>
+<s_ColLineage>kNOq8QIAAACQ06rxAgAAAJDTqvEDAAAA
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{982C9305-2DCB-4E0F-B0D3-5F12942C5BD6}</s_GUID>
+<s_Lineage>kNOq8QMAAAAAAAAAAAAAAA==
+</s_Lineage>
+</unit_info_card_abilities_strings>
+<unit_info_card_abilities_strings>
+<key>pike_wall_formation</key>
+<bullet_text>Pike Wall</bullet_text>
+<tooltip_text>A tight-packed formation presenting a wall of pikes to the front to deter enemy cavalry attack</tooltip_text>
+<s_ColLineage>kNOq8QMAAACQ06rxAgAAAJDTqvECAAAA
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{2E9DF6D6-57B6-4A77-9285-46B752CCA3AD}</s_GUID>
+<s_Lineage>kNOq8QMAAAAAAAAAAAAAAA==
+</s_Lineage>
+</unit_info_card_abilities_strings>
+<unit_info_card_abilities_strings>
+<key>platoon_fire</key>
+<bullet_text>Platoon firing drill</bullet_text>
+<tooltip_text>Trained to fire in groups, or platoons, so as to maintain an unceasing fire on the enemy</tooltip_text>
+<s_ColLineage>kNOq8QIAAACQ06rxAgAAAJDTqvECAAAA
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{5B4D259D-FBC8-4341-84B9-3A9CEEEC8D07}</s_GUID>
+<s_Lineage>kNOq8QIAAAAAAAAAAAAAAA==
+</s_Lineage>
+</unit_info_card_abilities_strings>
+<unit_info_card_abilities_strings>
+<key>plug_bayonet</key>
+<bullet_text>Plug Bayonet</bullet_text>
+<tooltip_text>Provide melee bonuses, particularly against charging units, but prevent further firing once fixed</tooltip_text>
+<s_ColLineage>kNOq8QIAAACQ06rxAgAAAJDTqvECAAAA
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{AEF9B79F-44F0-43CA-AA14-DDABA73AC875}</s_GUID>
+<s_Lineage>kNOq8QIAAAAAAAAAAAAAAA==
+</s_Lineage>
+</unit_info_card_abilities_strings>
+<unit_info_card_abilities_strings>
+<key>policing_bonus</key>
+<bullet_text>Garrison policing bonus</bullet_text>
+<tooltip_text>The draconian techniques employed by these men when on garrison duty are highly effective at maintaining public order.</tooltip_text>
+<s_ColLineage>kNOq8QEAAACQ06rxAQAAAJDTqvEBAAAA
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{7AEDFFEE-5128-45CF-BA14-19E2E21535B8}</s_GUID>
+<s_Lineage>kNOq8QEAAAAAAAAAAAAAAA==
+</s_Lineage>
+</unit_info_card_abilities_strings>
+<unit_info_card_abilities_strings>
+<key>quicklime_shells</key>
+<bullet_text>Quicklime Shells</bullet_text>
+<tooltip_text>These projectiles burst to shower the target with caustic quicklime</tooltip_text>
+<s_ColLineage>kNOq8QIAAACQ06rxAgAAAJDTqvECAAAA
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{CD28C3EC-6B30-4CBD-9381-156ED052E57F}</s_GUID>
+<s_Lineage>kNOq8QIAAAAAAAAAAAAAAA==
+</s_Lineage>
+</unit_info_card_abilities_strings>
+<unit_info_card_abilities_strings>
+<key>rally_general</key>
+<bullet_text>Can rally routing troops</bullet_text>
+<tooltip_text>The general can rally routing troops, returning them to the fray</tooltip_text>
+<s_ColLineage>kNOq8QEAAACQ06rxAQAAAJDTqvEBAAAA
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{1CEC091C-FD47-4300-869E-C6A075B91FC5}</s_GUID>
+<s_Lineage>kNOq8QEAAAAAAAAAAAAAAA==
+</s_Lineage>
+</unit_info_card_abilities_strings>
+<unit_info_card_abilities_strings>
+<key>rally_unit</key>
+<bullet_text>Can rally routing comrades</bullet_text>
+<tooltip_text>These men command sufficient respect to be able to rally their routing comrades</tooltip_text>
+<s_ColLineage>kNOq8QEAAACQ06rxAQAAAJDTqvEBAAAA
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{F811BFE2-088B-441C-8343-B3234330ED3C}</s_GUID>
+<s_Lineage>kNOq8QEAAAAAAAAAAAAAAA==
+</s_Lineage>
+</unit_info_card_abilities_strings>
+<unit_info_card_abilities_strings>
+<key>rank_fire</key>
+<bullet_text>Rank firing drill</bullet_text>
+<tooltip_text>Will fire by rank from front to rear, each rank kneeling to reload and allowing those behind a clear field of fire</tooltip_text>
+<s_ColLineage>kNOq8QIAAACQ06rxAgAAAJDTqvECAAAA
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{475A11B4-7A98-43D3-8019-72890F37C0D7}</s_GUID>
+<s_Lineage>kNOq8QIAAAAAAAAAAAAAAA==
+</s_Lineage>
+</unit_info_card_abilities_strings>
+<unit_info_card_abilities_strings>
+<key>rifled_cannons</key>
+<bullet_text>Rifled Cannons</bullet_text>
+<tooltip_text>Range and accuracy of cannons is improved</tooltip_text>
+<s_ColLineage>kNOq8QIAAACQ06rxAgAAAJDTqvEDAAAA
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{87C9D09C-E9F4-410C-A27E-A2782A32E963}</s_GUID>
+<s_Lineage>kNOq8QMAAAAAAAAAAAAAAA==
+</s_Lineage>
+</unit_info_card_abilities_strings>
+<unit_info_card_abilities_strings>
+<key>ring_bayonet</key>
+<bullet_text>Ring Bayonet</bullet_text>
+<tooltip_text>Provide melee bonuses, particularly against charging units, but cause slower reloading when fixed</tooltip_text>
+<s_ColLineage>kNOq8QIAAACQ06rxAgAAAJDTqvECAAAA
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{03130974-6D91-4516-9FD4-9A2A60021671}</s_GUID>
+<s_Lineage>kNOq8QIAAAAAAAAAAAAAAA==
+</s_Lineage>
+</unit_info_card_abilities_strings>
+<unit_info_card_abilities_strings>
+<key>scares_enemies</key>
+<bullet_text>Scares enemies</bullet_text>
+<tooltip_text>The fierce appearance of these warriors is unnerving for those who must face them in battle</tooltip_text>
+<s_ColLineage>kNOq8QIAAACQ06rxAgAAAJDTqvECAAAA
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{EB6C0786-05A9-45AB-88BF-2D43FC8C61D9}</s_GUID>
+<s_Lineage>kNOq8QIAAAAAAAAAAAAAAA==
+</s_Lineage>
+</unit_info_card_abilities_strings>
+<unit_info_card_abilities_strings>
+<key>scares_horses</key>
+<bullet_text>Scares horses</bullet_text>
+<tooltip_text>The unfamiliar sight, sound and smell of a camel or elephant can unsettle enemy horses</tooltip_text>
+<s_ColLineage>kNOq8QEAAACQ06rxAQAAAJDTqvECAAAA
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{B9939212-5C33-47A8-847A-D00C2362D553}</s_GUID>
+<s_Lineage>kNOq8QIAAAAAAAAAAAAAAA==
+</s_Lineage>
+</unit_info_card_abilities_strings>
+<unit_info_card_abilities_strings>
+<key>shrapnel_shot</key>
+<bullet_text>Shrapnel Shot</bullet_text>
+<tooltip_text>An air-burst munition which showers targets with metal fragments</tooltip_text>
+<s_ColLineage>kNOq8QIAAACQ06rxAgAAAJDTqvECAAAA
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{D3DD20A3-1547-4E02-A01B-1BAC6624DA54}</s_GUID>
+<s_Lineage>kNOq8QIAAAAAAAAAAAAAAA==
+</s_Lineage>
+</unit_info_card_abilities_strings>
+<unit_info_card_abilities_strings>
+<key>skirmish</key>
+<bullet_text>Can skirmish</bullet_text>
+<tooltip_text>A skirmishing unit will retreat from enemies threatening their position</tooltip_text>
+<s_ColLineage>kNOq8QEAAACQ06rxAQAAAJDTqvEBAAAA
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{C6CC2F23-5D57-42F8-9958-9B7CF652CA84}</s_GUID>
+<s_Lineage>kNOq8QEAAAAAAAAAAAAAAA==
+</s_Lineage>
+</unit_info_card_abilities_strings>
+<unit_info_card_abilities_strings>
+<key>snipe</key>
+<bullet_text>Remains hidden whilst firing</bullet_text>
+<tooltip_text>The powerful air rifles which these men possess allow them to open fire without giving away their position.</tooltip_text>
+<s_ColLineage>kNOq8QEAAACQ06rxAQAAAJDTqvEBAAAA
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{E53BFE7A-6DDC-4F73-8E56-163C764CF023}</s_GUID>
+<s_Lineage>kNOq8QEAAAAAAAAAAAAAAA==
+</s_Lineage>
+</unit_info_card_abilities_strings>
+<unit_info_card_abilities_strings>
+<key>socket_bayonet</key>
+<bullet_text>Socket Bayonet</bullet_text>
+<tooltip_text>Provide melee bonuses, particularly against charging units.</tooltip_text>
+<s_ColLineage>kNOq8QIAAACQ06rxAwAAAJDTqvEEAAAA
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{9A6EF9D2-2C37-4269-8D58-E05D22E7559B}</s_GUID>
+<s_Lineage>kNOq8QQAAAAAAAAAAAAAAA==
+</s_Lineage>
+</unit_info_card_abilities_strings>
+<unit_info_card_abilities_strings>
+<key>square_formation</key>
+<bullet_text>Can adopt square formation</bullet_text>
+<tooltip_text>Can adopt a square formation to repel cavalry attacks at the cost of unit mobility</tooltip_text>
+<s_ColLineage>kNOq8QIAAACQ06rxAgAAAJDTqvECAAAA
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{BCA75B8C-0E86-4CBA-A2F8-2DFC2DF455D6}</s_GUID>
+<s_Lineage>kNOq8QIAAAAAAAAAAAAAAA==
+</s_Lineage>
+</unit_info_card_abilities_strings>
+<unit_info_card_abilities_strings>
+<key>stalk</key>
+<bullet_text>Remains hidden whilst walking</bullet_text>
+<tooltip_text>These men can slowly stalk a target without giving away their position, though running or firing will draw attention.</tooltip_text>
+<s_ColLineage>kNOq8QEAAACQ06rxAQAAAJDTqvEBAAAA
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{523651D7-C2CA-42EE-A49C-8633881225A2}</s_GUID>
+<s_Lineage>kNOq8QEAAAAAAAAAAAAAAA==
+</s_Lineage>
+</unit_info_card_abilities_strings>
+<unit_info_card_abilities_strings>
+<key>top_gallants</key>
+<bullet_text>Top Gallants</bullet_text>
+<tooltip_text>Increased ship speed</tooltip_text>
+<s_ColLineage>kNOq8QIAAACQ06rxAgAAAJDTqvECAAAA
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{1B3098E5-2B81-4FE4-9DBD-26D17791DF92}</s_GUID>
+<s_Lineage>kNOq8QIAAAAAAAAAAAAAAA==
+</s_Lineage>
+</unit_info_card_abilities_strings>
+<unit_info_card_abilities_strings>
+<key>wedge_formation</key>
+<bullet_text>Wedge formation</bullet_text>
+<tooltip_text>Trained to charge in a wedge formation in order to better penetrate enemy formations</tooltip_text>
+<s_ColLineage>kNOq8QIAAACQ06rxAwAAAJDTqvEDAAAA
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{F2D64018-0DFF-47E6-A006-3BCDF6E01CE0}</s_GUID>
+<s_Lineage>kNOq8QMAAAAAAAAAAAAAAA==
+</s_Lineage>
+</unit_info_card_abilities_strings>
+<unit_info_card_abilities_strings>
+<key>wooden_stakes</key>
+<bullet_text>Can place stakes</bullet_text>
+<tooltip_text>Sharpened stakes can be used to deter enemy cavalry charges</tooltip_text>
+<s_ColLineage>kNOq8QQAAACQ06rxAQAAAJDTqvEBAAAA
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{F70BAD7C-8886-4208-B3F7-9842DC64F0C5}</s_GUID>
+<s_Lineage>kNOq8QQAAAAAAAAAAAAAAA==
+</s_Lineage>
+</unit_info_card_abilities_strings>
+</dataroot>

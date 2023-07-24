@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="groupings_continents_junct.xsd" generated="2009-09-23T15:37:24">
+<groupings_continents_junct>
+<group>factions_in_america</group>
+<continent>cont_america_north</continent>
+<s_ColLineage>kNOq8QMAAACQ06rxAgAAAA==
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{1CCE857A-B30B-4157-B466-111B147D7007}</s_GUID>
+<s_Lineage>kNOq8QMAAAAAAAAAAAAAAA==
+</s_Lineage>
+</groupings_continents_junct>
+<groupings_continents_junct>
+<group>factions_in_caribbean</group>
+<continent>cont_america_latin</continent>
+<s_ColLineage>kNOq8QIAAACQ06rxAgAAAA==
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{CFCB00B3-78C9-4EB9-B8EF-8F7CF0933FC1}</s_GUID>
+<s_Lineage>kNOq8QIAAAAAAAAAAAAAAA==
+</s_Lineage>
+</groupings_continents_junct>
+</dataroot>

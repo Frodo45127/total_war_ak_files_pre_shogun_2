@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="battle_types.xsd" generated="2010-01-18T14:58:54">
+<battle_types>
+<type>campaign_battle</type>
+<onscreen>Campaign Battle</onscreen>
+<s_ColLineage>W4e7tQIAAABbh7u1AgAAAFuHu7UBAAAA
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{CAB3239A-0ABD-43B6-8F13-71EF1A082FB4}</s_GUID>
+<s_Lineage>W4e7tQIAAAAAAAAAAAAAAA==
+</s_Lineage>
+</battle_types>
+<battle_types>
+<type>capture_point</type>
+<onscreen>Capture Point Battle</onscreen>
+<s_ColLineage>kNOq8QMAAACQ06rxBQAAAAAAAAAAAAAA
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{EC65709D-66C8-4A92-9B1E-6B55CB85DB92}</s_GUID>
+<s_Lineage>kNOq8QUAAAAAAAAAAAAAAA==
+</s_Lineage>
+</battle_types>
+<battle_types>
+<type>classic</type>
+<onscreen>Classic Land Battle</onscreen>
+<s_ColLineage>kNOq8QEAAACQ06rxAwAAAAAAAAAAAAAA
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{2068A6A6-086B-490B-8B9A-49C921A248FA}</s_GUID>
+<s_Lineage>kNOq8QMAAAAAAAAAAAAAAA==
+</s_Lineage>
+</battle_types>
+<battle_types>
+<type>historic</type>
+<onscreen>Scenario Battle</onscreen>
+<s_ColLineage>kNOq8QIAAACQ06rxBgAAAAAAAAAAAAAA
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{3AD47862-0AFE-4D2D-B4DF-B8740AF80645}</s_GUID>
+<s_Lineage>kNOq8QYAAAAAAAAAAAAAAA==
+</s_Lineage>
+</battle_types>
+<battle_types>
+<type>napoleon_historic</type>
+<onscreen>Historical Napoleon Battle</onscreen>
+<s_ColLineage>W4e7tQMAAABbh7u1AgAAAFuHu7UBAAAA
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{D4872596-1245-4AE3-BA1D-86B3EA9E903F}</s_GUID>
+<s_Lineage>W4e7tQMAAAAAAAAAAAAAAA==
+</s_Lineage>
+</battle_types>
+<battle_types>
+<type>naval</type>
+<onscreen>Naval Battle</onscreen>
+<s_ColLineage>kNOq8QEAAACQ06rxAwAAAAAAAAAAAAAA
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{5286BC53-B3B8-496F-875C-D897AAD09CE0}</s_GUID>
+<s_Lineage>kNOq8QMAAAAAAAAAAAAAAA==
+</s_Lineage>
+</battle_types>
+<battle_types>
+<type>siege</type>
+<onscreen>Siege Battle</onscreen>
+<s_ColLineage>kNOq8QEAAACQ06rxAwAAAAAAAAAAAAAA
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{486CD046-CB85-49DC-85AE-D50AF0BCF6C5}</s_GUID>
+<s_Lineage>kNOq8QMAAAAAAAAAAAAAAA==
+</s_Lineage>
+</battle_types>
+<battle_types>
+<type>Tutorial</type>
+<onscreen>Tutorial</onscreen>
+<s_ColLineage>arltagIAAABquW1qAgAAAGq5bWoBAAAA
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{A5D5B606-8BE5-44EC-AD65-9124850686CD}</s_GUID>
+<s_Lineage>arltagIAAAAAAAAAAAAAAA==
+</s_Lineage>
+</battle_types>
+</dataroot>

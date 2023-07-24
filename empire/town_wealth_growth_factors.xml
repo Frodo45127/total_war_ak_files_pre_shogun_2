@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="town_wealth_growth_factors.xsd" generated="2009-01-29T09:45:42">
+<town_wealth_growth_factors>
+<factor>bankruptcy</factor>
+<positive_pip_path>data/ui/campaign ui/pips/bankruptcy-unhappy.tga</positive_pip_path>
+<positive_tooltip></positive_tooltip>
+<negative_pip_path>data/ui/campaign ui/pips/bankruptcy-unhappy.tga</negative_pip_path>
+<negative_tooltip>Bankruptcy: %S ||To replenish your wealth you could disband units or try conquering new regions.||Alternatively you could make valuable trade agreements with economically powerful nations.</negative_tooltip>
+<Gen_TempField_x002A_0>0</Gen_TempField_x002A_0>
+<Gen_TempField_x002A_1>0</Gen_TempField_x002A_1>
+<s_ColLineage>kNOq8REAAACQ06rxCQAAAJDTqvEPAAAAkNOq8QcAAACQ06rxBAAAAJDTqvENAAAA
+kNOq8QoAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{D2350014-6C99-4846-B691-174831BB591A}</s_GUID>
+<s_Lineage>kNOq8REAAAAAAAAAAAAAAA==
+</s_Lineage>
+</town_wealth_growth_factors>
+<town_wealth_growth_factors>
+<factor>education</factor>
+<positive_pip_path>data/ui/campaign ui/pips/town_education.tga</positive_pip_path>
+<positive_tooltip>Education: %S ||Increase this by developing your educational buildings such as universities and schools.</positive_tooltip>
+<negative_pip_path>(placeholder)</negative_pip_path>
+<Gen_TempField_x002A_0>0</Gen_TempField_x002A_0>
+<Gen_TempField_x002A_1>0</Gen_TempField_x002A_1>
+<s_ColLineage>kNOq8QIAAACQ06rxBwAAAJDTqvEMAAAAkNOq8QIAAACQ06rxBAAAAJDTqvEPAAAA
+kNOq8Q0AAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{D17C1CD3-C08B-40B8-9EF6-7EFD78B3D5B3}</s_GUID>
+<s_Lineage>kNOq8Q8AAAAAAAAAAAAAAA==
+</s_Lineage>
+</town_wealth_growth_factors>
+<town_wealth_growth_factors>
+<factor>government</factor>
+<positive_pip_path>data/ui/campaign ui/pips/government-happy.tga</positive_pip_path>
+<positive_tooltip>Government: %S||Your government type encourages economic growth.</positive_tooltip>
+<negative_pip_path>data/ui/campaign ui/pips/government-unhappy.tga</negative_pip_path>
+<negative_tooltip>Government: %S ||Your government type can harm economic growth.</negative_tooltip>
+<Gen_TempField_x002A_0>0</Gen_TempField_x002A_0>
+<Gen_TempField_x002A_1>0</Gen_TempField_x002A_1>
+<s_ColLineage>kNOq8QIAAACQ06rxBgAAAJDTqvETAAAANAnHjhQAAACQ06rxBAAAAJDTqvETAAAA
+kNOq8QgAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{36E070AC-FE80-4B9F-99C1-5E98FA1969CE}</s_GUID>
+<s_Lineage>NAnHjhQAAACQ06rxEwAAAAAAAAAAAAAA
+</s_Lineage>
+</town_wealth_growth_factors>
+<town_wealth_growth_factors>
+<factor>industry</factor>
+<positive_pip_path>data/ui/campaign ui/pips/industry.tga</positive_pip_path>
+<positive_tooltip>Industry: %S ||Increase this by developing your industrial buildings such as workshops and factories.</positive_tooltip>
+<negative_pip_path>(placeholder)</negative_pip_path>
+<Gen_TempField_x002A_0>0</Gen_TempField_x002A_0>
+<Gen_TempField_x002A_1>0</Gen_TempField_x002A_1>
+<s_ColLineage>kNOq8QIAAACQ06rxCQAAAJDTqvEDAAAAkNOq8QgAAACQ06rxBAAAAJDTqvEOAAAA
+kNOq8QoAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{2B0BC680-09C1-4EE9-B611-40955D870F92}</s_GUID>
+<s_Lineage>kNOq8Q4AAAAAAAAAAAAAAA==
+</s_Lineage>
+</town_wealth_growth_factors>
+<town_wealth_growth_factors>
+<factor>port</factor>
+<positive_pip_path>data/ui/campaign ui/pips/eco-trade_harbour.tga</positive_pip_path>
+<positive_tooltip>Ports: %S ||Increase this by developing your trading ports and fisheries.</positive_tooltip>
+<negative_pip_path>(placeholder)</negative_pip_path>
+<Gen_TempField_x002A_0>0</Gen_TempField_x002A_0>
+<Gen_TempField_x002A_1>0</Gen_TempField_x002A_1>
+<s_ColLineage>kNOq8QIAAACQ06rxBQAAAJDTqvEDAAAAkNOq8QcAAACQ06rxBAAAAJDTqvELAAAA
+kNOq8QgAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{E7F76318-A2C9-48DB-B831-0357BAFAAE1F}</s_GUID>
+<s_Lineage>kNOq8QsAAAAAAAAAAAAAAA==
+</s_Lineage>
+</town_wealth_growth_factors>
+<town_wealth_growth_factors>
+<factor>roads</factor>
+<positive_pip_path>data/ui/campaign ui/pips/eco-trade_route.tga</positive_pip_path>
+<positive_tooltip>Roads: %S ||Increase this by developing your roads, which will improve trading.||Upgrade roads on the infrastructure tab at your region capital.</positive_tooltip>
+<negative_pip_path>(placeholder)</negative_pip_path>
+<Gen_TempField_x002A_0>0</Gen_TempField_x002A_0>
+<Gen_TempField_x002A_1>0</Gen_TempField_x002A_1>
+<s_ColLineage>kNOq8QIAAACQ06rxBQAAAJDTqvEDAAAAkNOq8QIAAACQ06rxBAAAAJDTqvEJAAAA
+kNOq8QYAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{592F8F76-2479-4182-9688-1E8BB405B267}</s_GUID>
+<s_Lineage>kNOq8QkAAAAAAAAAAAAAAA==
+</s_Lineage>
+</town_wealth_growth_factors>
+<town_wealth_growth_factors>
+<factor>tax</factor>
+<positive_pip_path>data/ui/campaign ui/pips/taxes-unhappy.tga</positive_pip_path>
+<positive_tooltip></positive_tooltip>
+<negative_pip_path>data/ui/campaign ui/pips/taxes-unhappy.tga</negative_pip_path>
+<negative_tooltip>Tax: %S ||Tax rates are slowing economic growth.||Reduce this by lowering tax rates.</negative_tooltip>
+<Gen_TempField_x002A_0>0</Gen_TempField_x002A_0>
+<Gen_TempField_x002A_1>0</Gen_TempField_x002A_1>
+<s_ColLineage>kNOq8QIAAACQ06rxBgAAAJDTqvELAAAAkNOq8QUAAACQ06rxBAAAAJDTqvEJAAAA
+kNOq8QcAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{47E46695-680A-4CAA-B23B-1B9C3C1A7B6A}</s_GUID>
+<s_Lineage>kNOq8QsAAAAAAAAAAAAAAA==
+</s_Lineage>
+</town_wealth_growth_factors>
+<town_wealth_growth_factors>
+<factor>technologies</factor>
+<positive_pip_path>data/ui/campaign ui/pips/town_research.tga</positive_pip_path>
+<positive_tooltip>Enlightenment: %S ||Researching certain technologies increases economic growth.</positive_tooltip>
+<negative_pip_path>(placeholder)</negative_pip_path>
+<negative_tooltip>(placeholder)</negative_tooltip>
+<Gen_TempField_x002A_0>0</Gen_TempField_x002A_0>
+<Gen_TempField_x002A_1>0</Gen_TempField_x002A_1>
+<s_ColLineage>kNOq8QIAAACQ06rxBQAAAJDTqvEDAAAAkNOq8QIAAACQ06rxAgAAAJDTqvELAAAA
+kNOq8QYAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{9EF7B199-F3F4-4F1F-B753-AADE98CBB86F}</s_GUID>
+<s_Lineage>kNOq8QsAAAAAAAAAAAAAAA==
+</s_Lineage>
+</town_wealth_growth_factors>
+<town_wealth_growth_factors>
+<factor>ministers</factor>
+<positive_pip_path>data/ui/campaign ui/pips/minister_traits-happy.tga</positive_pip_path>
+<positive_tooltip>Ministers: %S||Your ministers encourage economic growth.</positive_tooltip>
+<negative_pip_path>data/ui/campaign ui/pips/minister_traits-unhappy.tga</negative_pip_path>
+<negative_tooltip>Government: %S ||Your corrupt ministers harm economic growth.</negative_tooltip>
+<Gen_TempField_x002A_0>0</Gen_TempField_x002A_0>
+<Gen_TempField_x002A_1>0</Gen_TempField_x002A_1>
+<s_ColLineage>AAAAAAQAAAA0CceOCgAAADQJx44IAAAANAnHjgoAAAAAAAAAAQAAADQJx44HAAAA
+AAAAAAEAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{4E12269E-7385-42CC-860C-4D57BE627797}</s_GUID>
+<s_Lineage>NAnHjgoAAAAAAAAAAAAAAA==
+</s_Lineage>
+</town_wealth_growth_factors>
+</dataroot>

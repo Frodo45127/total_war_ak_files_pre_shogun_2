@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="advisors.xsd" generated="2010-04-07T14:11:05">
+<advisors>
+<advisor_name>battle_advisor</advisor_name>
+<advisor_icon_path>data\UI\Common UI\Skins\advisor_battle_eu.tga</advisor_icon_path>
+<s_ColLineage>W4e7tQIAAABbh7u1AQAAAFuHu7UEAAAA
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{ACAEDAED-130F-4D06-9D7A-E6D859E68BC1}</s_GUID>
+<s_Lineage>W4e7tQQAAAAAAAAAAAAAAA==
+</s_Lineage>
+</advisors>
+<advisors>
+<advisor_name>Berthier</advisor_name>
+<advisor_icon_path>data\UI\Common UI\Skins\advisor_berthier.tga</advisor_icon_path>
+<s_ColLineage>W4e7tQIAAABbh7u1AQAAAGq5bWoFAAAA
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{9FD924DA-D9CF-4D66-921A-7E40A1A88176}</s_GUID>
+<s_Lineage>arltagUAAABbh7u1BAAAAAAAAAAAAAAA
+</s_Lineage>
+</advisors>
+<advisors>
+<advisor_name>campaign_advisor</advisor_name>
+<advisor_icon_path>data\UI\Common UI\Skins\advisor_strat_eu.tga</advisor_icon_path>
+<s_ColLineage>W4e7tQIAAABbh7u1AgAAAFuHu7UEAAAA
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{95D418EE-ADD2-48C3-8AAF-927477729361}</s_GUID>
+<s_Lineage>W4e7tQQAAAAAAAAAAAAAAA==
+</s_Lineage>
+</advisors>
+<advisors>
+<advisor_name>Napoleon</advisor_name>
+<advisor_icon_path>data\UI\Common UI\Skins\advisor_napoleon_grownup.tga</advisor_icon_path>
+<s_ColLineage>W4e7tQUAAABbh7u1AQAAAGq5bWoIAAAA
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{BD043E20-601B-47E3-9153-A3DBCE7A204F}</s_GUID>
+<s_Lineage>arltaggAAABbh7u1BwAAAAAAAAAAAAAA
+</s_Lineage>
+</advisors>
+<advisors>
+<advisor_name>Napoleon Old</advisor_name>
+<advisor_icon_path>data\UI\Common UI\Skins\advisor_napoleon_old.tga</advisor_icon_path>
+<s_ColLineage>W4e7tQMAAABbh7u1AQAAAGq5bWoGAAAA
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{95183879-8862-49E9-AD73-4294A32C09BA}</s_GUID>
+<s_Lineage>arltagYAAABbh7u1BQAAAAAAAAAAAAAA
+</s_Lineage>
+</advisors>
+<advisors>
+<advisor_name>Napoleon Young</advisor_name>
+<advisor_icon_path>data\UI\Common UI\Skins\advisor_napoleon_young.tga</advisor_icon_path>
+<s_ColLineage>W4e7tQIAAABbh7u1AQAAAGq5bWoFAAAA
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{F175BB92-29F3-4BC7-B57A-9BA9035A4C1D}</s_GUID>
+<s_Lineage>arltagUAAABbh7u1BAAAAAAAAAAAAAAA
+</s_Lineage>
+</advisors>
+<advisors>
+<advisor_name>naval_advisor</advisor_name>
+<advisor_icon_path>data\UI\Common UI\Skins\advisor_sea.tga</advisor_icon_path>
+<s_ColLineage>W4e7tQIAAABbh7u1AQAAAGq5bWoFAAAA
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{CDCC09FE-5A35-46EE-AE04-BBA5C5F7D5AC}</s_GUID>
+<s_Lineage>arltagUAAABbh7u1BAAAAAAAAAAAAAAA
+</s_Lineage>
+</advisors>
+<advisors>
+<advisor_name>not applicable</advisor_name>
+<advisor_icon_path>PLACEHOLDER</advisor_icon_path>
+<s_ColLineage>W4e7tQIAAABbh7u1AQAAAFuHu7UEAAAA
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{7F950180-3156-4F57-BE33-C230CB2CD3DB}</s_GUID>
+<s_Lineage>W4e7tQQAAAAAAAAAAAAAAA==
+</s_Lineage>
+</advisors>
+<advisors>
+<advisor_name>Wellington</advisor_name>
+<advisor_icon_path>data\UI\Common UI\Skins\advisor_wellington.tga</advisor_icon_path>
+<s_ColLineage>arltagUAAABquW1qAQAAAGq5bWoGAAAA
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{3C3E6CEA-ACE0-4BEE-929E-A011FD9FFA62}</s_GUID>
+<s_Lineage>arltagYAAAAAAAAAAAAAAA==
+</s_Lineage>
+</advisors>
+</dataroot>

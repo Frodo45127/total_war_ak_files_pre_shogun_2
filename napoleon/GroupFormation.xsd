@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- edited with XMLSpy v2006 rel. 3 sp2 (http://www.altova.com) by Guy Davidson (The Creative Assembly) -->
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified" attributeFormDefault="unqualified">
+  <xs:element name="GroupFormationTable">
+    <xs:annotation>
+      <xs:documentation>Comment describing your root element</xs:documentation>
+    </xs:annotation>
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element name="GroupFormation" maxOccurs="unbounded">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="AiPriority" type="xs:double" minOccurs="0" />
+              <xs:element name="AiPurpose" type="xs:string" minOccurs="0" maxOccurs="unbounded" />
+              <xs:element name="AiSupportedFaction" type="xs:string" minOccurs="0" maxOccurs="unbounded" />
+              <xs:element name="GroupFormationBlock" maxOccurs="unbounded">
+                <xs:complexType>
+                  <xs:choice>
+                    <xs:element name="ContainerRelative">
+                      <xs:complexType>
+                        <xs:sequence maxOccurs="unbounded">
+                          <xs:element name="EntityPreference" type="EntityPreferenceType" />
+                        </xs:sequence>
+                        <xs:attribute name="BlockPriority" type="xs:float" use="required" />
+                        <xs:attribute name="RelativeBlockId" type="xs:nonNegativeInteger" use="required" />
+                        <xs:attribute use="required" name="EntityArrangement">
+                          <xs:simpleType>
+                            <xs:restriction base="xs:string">
+                              <xs:enumeration value="Line" />
+                              <xs:enumeration value="Column" />
+                              <xs:enumeration value="CresentFront" />
+                              <xs:enumeration value="CrescentBack" />
+                            </xs:restriction>
+                          </xs:simpleType>
+                        </xs:attribute>
+                        <xs:attribute name="InterEntitySpacing" type="xs:float" use="required" />
+                        <xs:attribute name="PositionX" type="xs:float" use="required" />
+                        <xs:attribute name="PositionY" type="xs:float" use="required" />
+                        <xs:attribute name="MinimumEntityThreshold" type="xs:positiveInteger" use="optional" />
+                        <xs:attribute name="MaximumEntityThreshold" type="xs:positiveInteger" use="optional" />
+                        <xs:attribute name="CrescentYOffset" type="xs:float" />
+                      </xs:complexType>
+                    </xs:element>
+                    <xs:element name="ContainerAbsolute">
+                      <xs:complexType>
+                        <xs:sequence maxOccurs="unbounded">
+                          <xs:element name="EntityPreference" type="EntityPreferenceType" />
+                        </xs:sequence>
+                        <xs:attribute name="BlockPriority" type="xs:float" use="required" />
+                        <xs:attribute name="EntityArrangement" use="required">
+                          <xs:simpleType>
+                            <xs:restriction base="xs:string">
+                              <xs:enumeration value="Line" />
+                              <xs:enumeration value="Column" />
+                              <xs:enumeration value="CrescentFront" />
+                              <xs:enumeration value="CrescentBack" />
+                            </xs:restriction>
+                          </xs:simpleType>
+                        </xs:attribute>
+                        <xs:attribute name="InterEntitySpacing" type="xs:float" use="required" />
+                        <xs:attribute name="PositionX" type="xs:float" use="required" />
+                        <xs:attribute name="PositionY" type="xs:float" use="required" />
+                        <xs:attribute name="MinimumEntityThreshold" type="xs:positiveInteger" use="optional" />
+                        <xs:attribute name="MaximumEntityThreshold" type="xs:positiveInteger" use="optional" />
+                        <xs:attribute name="CrescentYOffset" type="xs:float" />
+                      </xs:complexType>
+                    </xs:element>
+                    <xs:element name="Spacer">
+                      <xs:complexType>
+                        <xs:attribute name="PositionX" type="xs:float" use="required" />
+                        <xs:attribute name="PositionY" type="xs:float" use="required" />
+                        <xs:attribute name="Width" type="xs:float" use="required" />
+                        <xs:attribute name="Height" type="xs:float" use="required" />
+                      </xs:complexType>
+                    </xs:element>
+                    <xs:element name="Spanning">
+                      <xs:complexType>
+                        <xs:sequence maxOccurs="unbounded">
+                          <xs:element name="SpannedBlockId" type="xs:nonNegativeInteger" />
+                        </xs:sequence>
+                      </xs:complexType>
+                    </xs:element>
+                  </xs:choice>
+                  <xs:attribute name="BlockId" type="xs:nonNegativeInteger" use="required" />
+                </xs:complexType>
+              </xs:element>
+            </xs:sequence>
+            <xs:attribute name="FormationName" type="xs:string" use="required" />
+          </xs:complexType>
+        </xs:element>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:complexType name="EntityPreferenceType">
+    <xs:sequence />
+    <xs:attribute name="Priority" type="xs:float" use="required" />
+    <xs:attribute name="EntityDescription" use="required">
+      <xs:simpleType>
+        <xs:restriction base="xs:string" />
+      </xs:simpleType>
+    </xs:attribute>
+  </xs:complexType>
+</xs:schema>

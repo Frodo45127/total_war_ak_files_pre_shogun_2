@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="religions.xsd" generated="2010-05-26T10:20:00">
+<religions>
+<religion_key>rel_animist</religion_key>
+<onscreen>Animism</onscreen>
+<convertibility>9</convertibility>
+<ui_icon_path>data/ui/campaign ui/pips/animism.tga</ui_icon_path>
+<s_ColLineage>kNOq8QEAAACQ06rxAQAAAJDTqvEBAAAAkNOq8QEAAAA=
+</s_ColLineage>
+<s_Generation>1</s_Generation>
+<s_GUID>{9F299031-B9BB-4BEC-890C-7ECB486C7784}</s_GUID>
+<s_Lineage>kNOq8QEAAAAAAAAAAAAAAA==
+</s_Lineage>
+</religions>
+<religions>
+<religion_key>rel_buddhist</religion_key>
+<onscreen>Buddhism</onscreen>
+<convertibility>4</convertibility>
+<ui_icon_path>data/ui/campaign ui/pips/buddhist.tga</ui_icon_path>
+<s_ColLineage>kNOq8QEAAACQ06rxAQAAAJDTqvEBAAAAkNOq8QIAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{5272F7D5-F17D-4BA5-A554-583C199B5F9B}</s_GUID>
+<s_Lineage>kNOq8QIAAAAAAAAAAAAAAA==
+</s_Lineage>
+</religions>
+<religions>
+<religion_key>rel_catholic</religion_key>
+<onscreen>Catholicism</onscreen>
+<convertibility>4</convertibility>
+<ui_icon_path>data/ui/campaign ui/pips/roman_catholic.tga</ui_icon_path>
+<s_ColLineage>kNOq8QEAAACQ06rxAQAAAJDTqvEBAAAAkNOq8QEAAAA=
+</s_ColLineage>
+<s_Generation>1</s_Generation>
+<s_GUID>{29EBA232-19D5-4B50-8BE7-E75AE79FCD87}</s_GUID>
+<s_Lineage>kNOq8QEAAAAAAAAAAAAAAA==
+</s_Lineage>
+</religions>
+<religions>
+<religion_key>rel_hindu</religion_key>
+<onscreen>Hinduism</onscreen>
+<convertibility>3</convertibility>
+<ui_icon_path>data/ui/campaign ui/pips/hindu.tga</ui_icon_path>
+<s_ColLineage>kNOq8QEAAACQ06rxAQAAAJDTqvEBAAAAkNOq8QIAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{037F3B27-9443-405A-8328-7BA54C881070}</s_GUID>
+<s_Lineage>kNOq8QIAAAAAAAAAAAAAAA==
+</s_Lineage>
+</religions>
+<religions>
+<religion_key>rel_islamic</religion_key>
+<onscreen>Islam</onscreen>
+<convertibility>2</convertibility>
+<ui_icon_path>data/ui/campaign ui/pips/islamic.tga</ui_icon_path>
+<s_ColLineage>kNOq8QEAAACQ06rxAQAAAJDTqvEBAAAAkNOq8QIAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{4635FF86-86F9-4047-ABA4-B935D5C39F04}</s_GUID>
+<s_Lineage>kNOq8QIAAAAAAAAAAAAAAA==
+</s_Lineage>
+</religions>
+<religions>
+<religion_key>rel_nonconformist</religion_key>
+<onscreen>Nonconformism</onscreen>
+<convertibility>2</convertibility>
+<ui_icon_path>data/ui/campaign ui/pips/nonconformism.tga</ui_icon_path>
+<s_ColLineage>kNOq8QEAAACQ06rxAQAAAJDTqvEBAAAAkNOq8QIAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{3A4AEB4A-F093-48F2-B2CF-AB73D1DA2EA8}</s_GUID>
+<s_Lineage>kNOq8QIAAAAAAAAAAAAAAA==
+</s_Lineage>
+</religions>
+<religions>
+<religion_key>rel_orthodox</religion_key>
+<onscreen>Orthodox</onscreen>
+<convertibility>4</convertibility>
+<ui_icon_path>data/ui/campaign ui/pips/orthodox.tga</ui_icon_path>
+<s_ColLineage>kNOq8QEAAACQ06rxAQAAAJDTqvEBAAAAkNOq8QEAAAA=
+</s_ColLineage>
+<s_Generation>1</s_Generation>
+<s_GUID>{AD91E0A6-BCB4-4970-903D-7868A9AFC7BE}</s_GUID>
+<s_Lineage>kNOq8QEAAAAAAAAAAAAAAA==
+</s_Lineage>
+</religions>
+<religions>
+<religion_key>rel_protestant</religion_key>
+<onscreen>Protestantism</onscreen>
+<convertibility>3</convertibility>
+<ui_icon_path>data/ui/campaign ui/pips/protestant.tga</ui_icon_path>
+<s_ColLineage>kNOq8QEAAACQ06rxAQAAAJDTqvEBAAAAkNOq8QIAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{46954812-7B50-4562-B58B-BA43E4769E2E}</s_GUID>
+<s_Lineage>kNOq8QIAAAAAAAAAAAAAAA==
+</s_Lineage>
+</religions>
+<religions>
+<religion_key>rel_sikh</religion_key>
+<onscreen>Sikh</onscreen>
+<convertibility>3</convertibility>
+<ui_icon_path>data/ui/campaign ui/pips/sikh.tga</ui_icon_path>
+<s_ColLineage>kNOq8QEAAACQ06rxAQAAAJDTqvEBAAAAkNOq8QIAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{3197B5A4-EA5E-4E6B-A9F2-2AC0F6CBE682}</s_GUID>
+<s_Lineage>kNOq8QIAAAAAAAAAAAAAAA==
+</s_Lineage>
+</religions>
+<religions>
+<religion_key>align_pro_french</religion_key>
+<onscreen>Pro-French</onscreen>
+<convertibility>5</convertibility>
+<ui_icon_path>data/ui/campaign ui/pips/pip_pro_france.tga</ui_icon_path>
+<s_ColLineage>arltagIAAABquW1qBAAAAGq5bWoNAAAAarltagUAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{D0E8479D-C750-4189-B5B2-6BCF01082505}</s_GUID>
+<s_Lineage>arltag0AAAAAAAAAAAAAAA==
+</s_Lineage>
+</religions>
+<religions>
+<religion_key>align_anti_french</religion_key>
+<onscreen>Anti-French</onscreen>
+<convertibility>5</convertibility>
+<ui_icon_path>data/ui/campaign ui/pips/pip_anti_france.tga</ui_icon_path>
+<s_ColLineage>arltagIAAABquW1qBAAAAGq5bWoMAAAAarltagUAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{A70C227D-6433-4549-811C-4575939ED54A}</s_GUID>
+<s_Lineage>arltagwAAAAAAAAAAAAAAA==
+</s_Lineage>
+</religions>
+</dataroot>

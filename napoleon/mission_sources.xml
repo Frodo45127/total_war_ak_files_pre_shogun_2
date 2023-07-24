@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="mission_sources.xsd" generated="2009-09-22T16:43:00">
+<mission_sources>
+<mission_source>absolute_monarchy</mission_source>
+<description>The Royal Council</description>
+<s_ColLineage>kNOq8QMAAACQ06rxBAAAAA==
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{39617040-0A74-4CAF-BABE-71E41FE09844}</s_GUID>
+<s_Lineage>kNOq8QQAAAAAAAAAAAAAAA==
+</s_Lineage>
+</mission_sources>
+<mission_sources>
+<mission_source>constitutional_monarchy</mission_source>
+<description>Parliament</description>
+<s_ColLineage>kNOq8QIAAACQ06rxBAAAAA==
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{11373BBF-063A-4E6C-85E7-F652DFD0966D}</s_GUID>
+<s_Lineage>kNOq8QQAAAAAAAAAAAAAAA==
+</s_Lineage>
+</mission_sources>
+<mission_sources>
+<mission_source>republic</mission_source>
+<description>The Government</description>
+<s_ColLineage>kNOq8QIAAACQ06rxAgAAAA==
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{18F47A7B-F4CD-4494-855D-7540A32C202A}</s_GUID>
+<s_Lineage>kNOq8QIAAAAAAAAAAAAAAA==
+</s_Lineage>
+</mission_sources>
+</dataroot>

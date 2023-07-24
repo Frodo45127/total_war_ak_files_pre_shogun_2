@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="names_groups.xsd" generated="2008-10-09T16:57:45">
+<names_groups>
+<ID>names_danish</ID>
+<Description>Danish names</Description>
+<s_ColLineage>kNOq8QEAAACQ06rxAQAAAA==
+</s_ColLineage>
+<s_Generation>1</s_Generation>
+<s_GUID>{135655D5-103F-46D0-953B-CAFD522E85B4}</s_GUID>
+<s_Lineage>kNOq8QEAAAAAAAAAAAAAAA==
+</s_Lineage>
+</names_groups>
+<names_groups>
+<ID>names_dutch</ID>
+<Description>Dutch names</Description>
+<s_ColLineage>kNOq8QEAAACQ06rxAgAAAA==
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{B55C215A-61AF-4FF8-8655-36D7A6177053}</s_GUID>
+<s_Lineage>kNOq8QIAAAAAAAAAAAAAAA==
+</s_Lineage>
+</names_groups>
+<names_groups>
+<ID>names_english</ID>
+<Description>English names</Description>
+<s_ColLineage>kNOq8QEAAACQ06rxAQAAAA==
+</s_ColLineage>
+<s_Generation>1</s_Generation>
+<s_GUID>{383B8EFB-4901-4B13-999F-5887688C836B}</s_GUID>
+<s_Lineage>kNOq8QEAAAAAAAAAAAAAAA==
+</s_Lineage>
+</names_groups>
+<names_groups>
+<ID>names_french</ID>
+<Description>French names</Description>
+<s_ColLineage>kNOq8QEAAACQ06rxAQAAAA==
+</s_ColLineage>
+<s_Generation>1</s_Generation>
+<s_GUID>{6A38B231-BE82-4569-A0A0-397450F23814}</s_GUID>
+<s_Lineage>kNOq8QEAAAAAAAAAAAAAAA==
+</s_Lineage>
+</names_groups>
+<names_groups>
+<ID>names_german_catholic</ID>
+<Description>HRE names</Description>
+<s_ColLineage>kNOq8QEAAACQ06rxAQAAAA==
+</s_ColLineage>
+<s_Generation>1</s_Generation>
+<s_GUID>{15226565-E42C-4057-B791-10F3F6B08696}</s_GUID>
+<s_Lineage>kNOq8QEAAAAAAAAAAAAAAA==
+</s_Lineage>
+</names_groups>
+<names_groups>
+<ID>names_greek</ID>
+<Description>Greek names</Description>
+<s_ColLineage>kNOq8QEAAACQ06rxAQAAAA==
+</s_ColLineage>
+<s_Generation>1</s_Generation>
+<s_GUID>{2395F41A-C00B-4A54-BF9F-FB5D58A254B7}</s_GUID>
+<s_Lineage>kNOq8QEAAAAAAAAAAAAAAA==
+</s_Lineage>
+</names_groups>
+<names_groups>
+<ID>names_hungarian</ID>
+<Description>Hungarian names</Description>
+<s_ColLineage>kNOq8QEAAACQ06rxAQAAAA==
+</s_ColLineage>
+<s_Generation>1</s_Generation>
+<s_GUID>{DFFBA7B0-96B1-4A82-BDB3-6C868FDC31E7}</s_GUID>
+<s_Lineage>kNOq8QEAAAAAAAAAAAAAAA==
+</s_Lineage>
+</names_groups>
+<names_groups>
+<ID>names_indian_hindu</ID>
+<Description>Hindu names</Description>
+<s_ColLineage>kNOq8QEAAACQ06rxAgAAAA==
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{07BD66ED-C7FE-493F-B5C1-BEEE633D2D39}</s_GUID>
+<s_Lineage>kNOq8QIAAAAAAAAAAAAAAA==
+</s_Lineage>
+</names_groups>
+<names_groups>
+<ID>names_irish</ID>
+<Description>Irish names</Description>
+<s_ColLineage>kNOq8QIAAACQ06rxAgAAAA==
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{4B30EDC9-6B4F-4A7A-94DE-83E7F5B68A30}</s_GUID>
+<s_Lineage>kNOq8QIAAAAAAAAAAAAAAA==
+</s_Lineage>
+</names_groups>
+<names_groups>
+<ID>names_italian</ID>
+<Description>Italian names</Description>
+<s_ColLineage>kNOq8QEAAACQ06rxAgAAAA==
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{4EA2E1F9-BEA7-4D82-9581-4F0BA1DAFD5C}</s_GUID>
+<s_Lineage>kNOq8QIAAAAAAAAAAAAAAA==
+</s_Lineage>
+</names_groups>
+<names_groups>
+<ID>names_mughal</ID>
+<Description>Mughal names</Description>
+<s_ColLineage>kNOq8QEAAACQ06rxAQAAAA==
+</s_ColLineage>
+<s_Generation>1</s_Generation>
+<s_GUID>{1CF05603-F812-4069-9C1B-6E1E449B42BF}</s_GUID>
+<s_Lineage>kNOq8QEAAAAAAAAAAAAAAA==
+</s_Lineage>
+</names_groups>
+<names_groups>
+<ID>names_muslim_general</ID>
+<Description>All Muslims except Ottomans &amp; Persians</Description>
+<s_ColLineage>kNOq8QEAAACQ06rxAgAAAA==
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{DC1CB277-9430-4317-AB90-981BAFE6208F}</s_GUID>
+<s_Lineage>kNOq8QIAAAAAAAAAAAAAAA==
+</s_Lineage>
+</names_groups>
+<names_groups>
+<ID>names_native_american</ID>
+<Description>Native American names</Description>
+<s_ColLineage>kNOq8QEAAACQ06rxAgAAAA==
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{939131D1-9142-4AE5-902A-C08D1A020F84}</s_GUID>
+<s_Lineage>kNOq8QIAAAAAAAAAAAAAAA==
+</s_Lineage>
+</names_groups>
+<names_groups>
+<ID>names_ottoman</ID>
+<Description>Turkish names</Description>
+<s_ColLineage>kNOq8QEAAACQ06rxAgAAAA==
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{40B6EAFF-2C04-423C-8256-FA81A9DBA5F3}</s_GUID>
+<s_Lineage>kNOq8QIAAAAAAAAAAAAAAA==
+</s_Lineage>
+</names_groups>
+<names_groups>
+<ID>names_persian</ID>
+<Description>Persian names</Description>
+<s_ColLineage>kNOq8QEAAACQ06rxAgAAAA==
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{7B772388-690C-4198-80EA-97462D622158}</s_GUID>
+<s_Lineage>kNOq8QIAAAAAAAAAAAAAAA==
+</s_Lineage>
+</names_groups>
+<names_groups>
+<ID>names_pirates</ID>
+<Description>Pirate names</Description>
+<s_ColLineage>kNOq8QEAAACQ06rxAgAAAA==
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{B9FE0E16-18E9-4338-9D86-E40932A29C31}</s_GUID>
+<s_Lineage>kNOq8QIAAAAAAAAAAAAAAA==
+</s_Lineage>
+</names_groups>
+<names_groups>
+<ID>names_polish</ID>
+<Description>Polish names</Description>
+<s_ColLineage>kNOq8QEAAACQ06rxAgAAAA==
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{D8AE4A1F-4A4B-4C22-9055-5C6DEE70BF4E}</s_GUID>
+<s_Lineage>kNOq8QIAAAAAAAAAAAAAAA==
+</s_Lineage>
+</names_groups>
+<names_groups>
+<ID>names_portuguese</ID>
+<Description>Portugese names</Description>
+<s_ColLineage>kNOq8QEAAACQ06rxAgAAAA==
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{86CE265D-624F-4750-B74E-C472876C72AD}</s_GUID>
+<s_Lineage>kNOq8QIAAAAAAAAAAAAAAA==
+</s_Lineage>
+</names_groups>
+<names_groups>
+<ID>names_prussian</ID>
+<Description>Prussian names</Description>
+<s_ColLineage>kNOq8QEAAACQ06rxAQAAAA==
+</s_ColLineage>
+<s_Generation>1</s_Generation>
+<s_GUID>{807FAD05-24BC-4A9E-8F2D-4ADFE8F89F78}</s_GUID>
+<s_Lineage>kNOq8QEAAAAAAAAAAAAAAA==
+</s_Lineage>
+</names_groups>
+<names_groups>
+<ID>names_scottish</ID>
+<Description>Scottish names</Description>
+<s_ColLineage>kNOq8QEAAACQ06rxAgAAAA==
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{3C21B6F3-9954-45F7-AA09-10332128CD3C}</s_GUID>
+<s_Lineage>kNOq8QIAAAAAAAAAAAAAAA==
+</s_Lineage>
+</names_groups>
+<names_groups>
+<ID>names_slavonic_general</ID>
+<Description>All Slavs except Poland-Lithuania</Description>
+<s_ColLineage>kNOq8QEAAACQ06rxAgAAAA==
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{9940C340-AF6C-45B5-B3A8-A2A4629BD7C1}</s_GUID>
+<s_Lineage>kNOq8QIAAAAAAAAAAAAAAA==
+</s_Lineage>
+</names_groups>
+<names_groups>
+<ID>names_spanish</ID>
+<Description>Spanish names</Description>
+<s_ColLineage>kNOq8QEAAACQ06rxAQAAAA==
+</s_ColLineage>
+<s_Generation>1</s_Generation>
+<s_GUID>{2AD8796B-C8C8-428E-B681-AB29D86EAE2F}</s_GUID>
+<s_Lineage>kNOq8QEAAAAAAAAAAAAAAA==
+</s_Lineage>
+</names_groups>
+<names_groups>
+<ID>names_swedish</ID>
+<Description>Scandinavian names</Description>
+<s_ColLineage>kNOq8QEAAACQ06rxAgAAAA==
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{356697B8-D260-4485-B882-797B7FCAAAB8}</s_GUID>
+<s_Lineage>kNOq8QIAAAAAAAAAAAAAAA==
+</s_Lineage>
+</names_groups>
+<names_groups>
+<ID>names_usa</ID>
+<Description>USA English names</Description>
+<s_ColLineage>kNOq8QEAAACQ06rxAgAAAA==
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{09403D57-F92C-4F58-96DC-426A13DF6AA5}</s_GUID>
+<s_Lineage>kNOq8QIAAAAAAAAAAAAAAA==
+</s_Lineage>
+</names_groups>
+</dataroot>

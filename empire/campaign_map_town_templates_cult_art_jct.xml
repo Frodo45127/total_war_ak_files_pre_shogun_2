@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="campaign_map_town_templates_cult_art_jct.xsd" generated="2007-05-18T15:07:40">
+<campaign_map_town_templates_cult_art_jct>
+<culture>european</culture>
+<artpiece>EU_Town_slot</artpiece>
+</campaign_map_town_templates_cult_art_jct>
+<campaign_map_town_templates_cult_art_jct>
+<culture>indian</culture>
+<artpiece>EU_Town_slot</artpiece>
+</campaign_map_town_templates_cult_art_jct>
+<campaign_map_town_templates_cult_art_jct>
+<culture>middle_east</culture>
+<artpiece>EU_Town_slot</artpiece>
+</campaign_map_town_templates_cult_art_jct>
+<campaign_map_town_templates_cult_art_jct>
+<culture>tribal</culture>
+<artpiece>EU_Town_slot</artpiece>
+</campaign_map_town_templates_cult_art_jct>
+</dataroot>

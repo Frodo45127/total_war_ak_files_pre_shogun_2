@@ -1,0 +1,5310 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="effects.xsd" generated="2010-03-31T15:56:18">
+<effects>
+<effect>admin_cost_mod</effect>
+<icon>data/ui/campaign ui/pips/effect_economy.tga</icon>
+<description>Reduces administration costs</description>
+<priority>8005</priority>
+<Gen_description>0</Gen_description>
+<s_ColLineage>W4e7tQIAAABbh7u1AwAAAFuHu7UEAAAAW4e7tQMAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{4A4C9A44-E470-4038-A3D4-F23CCF86C000}</s_GUID>
+<s_Lineage>W4e7tQQAAAAAAAAAAAAAAA==
+</s_Lineage>
+</effects>
+<effects>
+<effect>agent_admiral_refil_rate_1</effect>
+<icon>data/ui/campaign ui/pips/effect_admiral.tga</icon>
+<description>Admirals become available for recruitment at a moderate rate</description>
+<priority>114</priority>
+<Gen_description>0</Gen_description>
+<s_ColLineage>W4e7tQIAAABquW1qCAAAAFuHu7UHAAAAW4e7tQIAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{893AD636-4D6B-45B5-842E-854516FA37E4}</s_GUID>
+<s_Lineage>arltaggAAABbh7u1BwAAAAAAAAAAAAAA
+</s_Lineage>
+</effects>
+<effects>
+<effect>agent_admiral_refil_rate_2</effect>
+<icon>data/ui/campaign ui/pips/effect_admiral.tga</icon>
+<description>Admirals become available for recruitment at a fast rate</description>
+<priority>114</priority>
+<Gen_description>0</Gen_description>
+<s_ColLineage>W4e7tQIAAABquW1qCwAAAFuHu7UJAAAAW4e7tQoAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{E5F40D3B-A326-4109-BA70-37EFA80321F4}</s_GUID>
+<s_Lineage>arltagsAAABbh7u1CgAAAAAAAAAAAAAA
+</s_Lineage>
+</effects>
+<effects>
+<effect>agent_cap_admiral</effect>
+<icon>data/ui/campaign ui/pips/effect_admiral.tga</icon>
+<description>Maximum number of admirals: %+n</description>
+<priority>115</priority>
+<Gen_description>0</Gen_description>
+<s_ColLineage>W4e7tQIAAABquW1qBQAAAFuHu7UCAAAAW4e7tQQAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{650A2F80-90ED-44DA-9ADE-1B0D293B1265}</s_GUID>
+<s_Lineage>arltagUAAABbh7u1BAAAAAAAAAAAAAAA
+</s_Lineage>
+</effects>
+<effects>
+<effect>agent_cap_assassin</effect>
+<icon>data/ui/campaign ui/pips/effect_characters.tga</icon>
+<description>Spawns assassins. Maximum number: %+n</description>
+<priority>114</priority>
+<Gen_description>0</Gen_description>
+<s_ColLineage>kNOq8QEAAACQ06rxDQAAAJDTqvEUAAAAkNOq8RYAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{5CA4E168-9BC1-4173-B83B-29C2548782AE}</s_GUID>
+<s_Lineage>kNOq8RYAAAAAAAAAAAAAAA==
+</s_Lineage>
+</effects>
+<effects>
+<effect>agent_cap_basic_hidden</effect>
+<priority>0</priority>
+<s_ColLineage>kNOq8QIAAACQ06rxAQAAAJDTqvEBAAAAkNOq8QIAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{E3809134-25F2-47F1-A53B-4CB90EA071F2}</s_GUID>
+<s_Lineage>kNOq8QIAAAAAAAAAAAAAAA==
+</s_Lineage>
+</effects>
+<effects>
+<effect>agent_cap_eastern_scholar</effect>
+<icon>data/ui/campaign ui/pips/effect_characters.tga</icon>
+<description>Spawns scholars. Maximum number: %+n</description>
+<priority>113</priority>
+<Gen_description>0</Gen_description>
+<s_ColLineage>kNOq8QIAAACQ06rxBgAAAJDTqvEQAAAAkNOq8RIAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{465033D2-8729-4166-9A14-8EE555672426}</s_GUID>
+<s_Lineage>kNOq8RIAAAAAAAAAAAAAAA==
+</s_Lineage>
+</effects>
+<effects>
+<effect>agent_cap_general</effect>
+<icon>data/ui/campaign ui/pips/effect_characters.tga</icon>
+<description>Maximum number of generals: %+n</description>
+<priority>120</priority>
+<Gen_description>0</Gen_description>
+<s_ColLineage>W4e7tQIAAABbh7u1AgAAAFuHu7UDAAAAW4e7tQQAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{D42B8120-5306-48C2-B032-175736FE2E32}</s_GUID>
+<s_Lineage>W4e7tQQAAAAAAAAAAAAAAA==
+</s_Lineage>
+</effects>
+<effects>
+<effect>agent_cap_gentleman</effect>
+<icon>data/ui/campaign ui/pips/effect_characters.tga</icon>
+<description>Spawns gentlemen. Maximum number: %+n</description>
+<priority>112</priority>
+<Gen_description>0</Gen_description>
+<s_ColLineage>kNOq8QYAAACQ06rxCQAAAJDTqvETAAAAkNOq8RgAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{26F0A954-FFAA-4AB5-99C8-507C75C2B898}</s_GUID>
+<s_Lineage>kNOq8RgAAAAAAAAAAAAAAA==
+</s_Lineage>
+</effects>
+<effects>
+<effect>agent_cap_missionary</effect>
+<icon>data/ui/campaign ui/pips/effect_characters.tga</icon>
+<description>Spawns religious agents. Maximum number: %+n</description>
+<priority>111</priority>
+<Gen_description>0</Gen_description>
+<s_ColLineage>kNOq8QEAAACQ06rxCAAAAJDTqvETAAAAkNOq8RUAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{1A54A30D-F12F-482B-9FFD-D9D15F7897DB}</s_GUID>
+<s_Lineage>kNOq8RUAAAAAAAAAAAAAAA==
+</s_Lineage>
+</effects>
+<effects>
+<effect>agent_cap_rake</effect>
+<icon>data/ui/campaign ui/pips/effect_characters.tga</icon>
+<description>Spawns spies. Maximum number: %+n</description>
+<priority>110</priority>
+<Gen_description>0</Gen_description>
+<s_ColLineage>kNOq8QYAAACQ06rxCQAAAFuHu7UWAAAAkNOq8RUAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{1CD17C16-EE9D-452F-8B68-482BD49B8359}</s_GUID>
+<s_Lineage>W4e7tRYAAACQ06rxFQAAAAAAAAAAAAAA
+</s_Lineage>
+</effects>
+<effects>
+<effect>agent_general_refil_rate_1</effect>
+<icon>data/ui/campaign ui/pips/effect_general.tga</icon>
+<description>Generals become available for recruitment at a moderate rate</description>
+<priority>119</priority>
+<Gen_description>0</Gen_description>
+<s_ColLineage>W4e7tQIAAABquW1qCQAAAFuHu7UIAAAAW4e7tQMAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{80ACCD10-14F9-49E6-80F5-7FB4FE861BAA}</s_GUID>
+<s_Lineage>arltagkAAABbh7u1CAAAAAAAAAAAAAAA
+</s_Lineage>
+</effects>
+<effects>
+<effect>agent_general_refil_rate_2</effect>
+<icon>data/ui/campaign ui/pips/effect_general.tga</icon>
+<description>Generals become available for recruitment at a fast rate</description>
+<priority>119</priority>
+<Gen_description>0</Gen_description>
+<s_ColLineage>W4e7tQIAAABquW1qDAAAAFuHu7UKAAAAW4e7tQsAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{3CEB5F48-6502-4BDB-8B14-28D1FD6A32D0}</s_GUID>
+<s_Lineage>arltagwAAABbh7u1CwAAAAAAAAAAAAAA
+</s_Lineage>
+</effects>
+<effects>
+<effect>agent_research_slots</effect>
+<icon>data/ui/campaign ui/pips/effect_characters.tga</icon>
+<description>%n research posts for resident gentlemen</description>
+<priority>0</priority>
+<Gen_description>0</Gen_description>
+<s_ColLineage>kNOq8QIAAACQ06rxCAAAAJDTqvENAAAAkNOq8REAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{A51BD5EF-B8A4-43C8-B810-8A72F38114DD}</s_GUID>
+<s_Lineage>kNOq8REAAAAAAAAAAAAAAA==
+</s_Lineage>
+</effects>
+<effects>
+<effect>agent_spawn_rate_assassin</effect>
+<icon>data/ui/campaign ui/pips/effect_characters.tga</icon>
+<description>%n%% chance per turn to spawn an assassin</description>
+<priority>5</priority>
+<Gen_description>0</Gen_description>
+<s_ColLineage>kNOq8QEAAACQ06rxCgAAAJDTqvEOAAAAarltahMAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{9A9DB471-2045-4EE5-8436-93B53F2ADC1B}</s_GUID>
+<s_Lineage>arltahMAAACQ06rxEgAAAAAAAAAAAAAA
+</s_Lineage>
+</effects>
+<effects>
+<effect>agent_spawn_rate_basic_hidden</effect>
+<priority>0</priority>
+<s_ColLineage>kNOq8QIAAACQ06rxAQAAAJDTqvEBAAAAkNOq8QIAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{E8F73067-E1E2-4FFA-85B0-84DD774D1E94}</s_GUID>
+<s_Lineage>kNOq8QIAAAAAAAAAAAAAAA==
+</s_Lineage>
+</effects>
+<effects>
+<effect>agent_spawn_rate_eastern_scholar</effect>
+<icon>data/ui/campaign ui/pips/effect_characters.tga</icon>
+<description>%n%% chance per turn to spawn a scholar</description>
+<priority>6</priority>
+<Gen_description>0</Gen_description>
+<s_ColLineage>kNOq8QIAAACQ06rxBwAAAJDTqvEMAAAAarltahEAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{D3D15051-62A9-4489-9745-B931CE1D4DD3}</s_GUID>
+<s_Lineage>arltahEAAACQ06rxEAAAAAAAAAAAAAAA
+</s_Lineage>
+</effects>
+<effects>
+<effect>agent_spawn_rate_gentleman</effect>
+<icon>data/ui/campaign ui/pips/effect_characters.tga</icon>
+<description>%n%% chance per turn to spawn a gentleman</description>
+<priority>6</priority>
+<Gen_description>0</Gen_description>
+<s_ColLineage>kNOq8QgAAACQ06rxDAAAAJDTqvEQAAAAarltahUAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{F8D40320-484B-4013-AE48-4FB9AA21509A}</s_GUID>
+<s_Lineage>arltahUAAACQ06rxFAAAAAAAAAAAAAAA
+</s_Lineage>
+</effects>
+<effects>
+<effect>agent_spawn_rate_missionary</effect>
+<icon>data/ui/campaign ui/pips/effect_characters.tga</icon>
+<description>%n%% chance per turn to spawn a missionary</description>
+<priority>0</priority>
+<Gen_description>0</Gen_description>
+<s_ColLineage>kNOq8QEAAACQ06rxCwAAAJDTqvEPAAAAkNOq8RMAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{4B7F52B1-C221-4E73-B511-09ADD39D2090}</s_GUID>
+<s_Lineage>kNOq8RMAAAAAAAAAAAAAAA==
+</s_Lineage>
+</effects>
+<effects>
+<effect>agent_spawn_rate_missionary_catholic</effect>
+<description>%n%% chance per turn to spawn a missionary</description>
+<priority>0</priority>
+<Gen_description>0</Gen_description>
+<s_ColLineage>kNOq8QIAAACQ06rxAQAAAJDTqvEFAAAAkNOq8QIAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{82CC2201-6D0F-4500-BA6A-F1B41EAF8102}</s_GUID>
+<s_Lineage>kNOq8QUAAAAAAAAAAAAAAA==
+</s_Lineage>
+</effects>
+<effects>
+<effect>agent_spawn_rate_missionary_hindu</effect>
+<description>%n%% chance per turn to spawn a Brahmin</description>
+<priority>0</priority>
+<Gen_description>0</Gen_description>
+<s_ColLineage>kNOq8QIAAACQ06rxAQAAAJDTqvEFAAAAkNOq8QIAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{F868CA01-93EF-4A91-A8E8-C9DDD89601E5}</s_GUID>
+<s_Lineage>kNOq8QUAAAAAAAAAAAAAAA==
+</s_Lineage>
+</effects>
+<effects>
+<effect>agent_spawn_rate_missionary_islam</effect>
+<description>%n%% chance per turn to spawn an Imam</description>
+<priority>0</priority>
+<Gen_description>0</Gen_description>
+<s_ColLineage>kNOq8QIAAACQ06rxAQAAAJDTqvEFAAAAkNOq8QIAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{A0715A67-9896-43A3-B03D-934F0BC39740}</s_GUID>
+<s_Lineage>kNOq8QUAAAAAAAAAAAAAAA==
+</s_Lineage>
+</effects>
+<effects>
+<effect>agent_spawn_rate_missionary_orthodox</effect>
+<description>%n%% chance per turn to spawn a missionary</description>
+<priority>0</priority>
+<Gen_description>0</Gen_description>
+<s_ColLineage>kNOq8QIAAACQ06rxAQAAAJDTqvEFAAAAkNOq8QIAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{196135CE-2228-41A1-92F7-AEE7544B8E9B}</s_GUID>
+<s_Lineage>kNOq8QUAAAAAAAAAAAAAAA==
+</s_Lineage>
+</effects>
+<effects>
+<effect>agent_spawn_rate_missionary_protestant</effect>
+<description>%n%% chance per turn to spawn a missionary</description>
+<priority>0</priority>
+<Gen_description>0</Gen_description>
+<s_ColLineage>kNOq8QIAAACQ06rxAQAAAJDTqvEFAAAAkNOq8QIAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{017B0271-B9B8-44AA-8524-96B24DB1CE27}</s_GUID>
+<s_Lineage>kNOq8QUAAAAAAAAAAAAAAA==
+</s_Lineage>
+</effects>
+<effects>
+<effect>agent_spawn_rate_mod_assassin</effect>
+<icon>data/ui/campaign ui/pips/effect_characters.tga</icon>
+<description>%+n%% to chance of spawning assassins</description>
+<priority>108</priority>
+<Gen_description>0</Gen_description>
+<s_ColLineage>kNOq8QMAAACQ06rxCQAAAJDTqvEMAAAAkNOq8RAAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{37D3AAFB-DB42-407B-9AC2-D581F1067983}</s_GUID>
+<s_Lineage>kNOq8RAAAAAAAAAAAAAAAA==
+</s_Lineage>
+</effects>
+<effects>
+<effect>agent_spawn_rate_mod_eastern_scholar</effect>
+<icon>data/ui/campaign ui/pips/effect_characters.tga</icon>
+<description>%+n%% to chance of spawning scholars</description>
+<priority>107</priority>
+<Gen_description>0</Gen_description>
+<s_ColLineage>kNOq8QIAAACQ06rxCQAAAJDTqvEOAAAAkNOq8RIAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{CC9A3A09-7BAB-4A60-8420-A900955C46CA}</s_GUID>
+<s_Lineage>kNOq8RIAAAAAAAAAAAAAAA==
+</s_Lineage>
+</effects>
+<effects>
+<effect>agent_spawn_rate_mod_gentleman</effect>
+<icon>data/ui/campaign ui/pips/effect_characters.tga</icon>
+<description>%+n%% to chance of spawning gentlemen</description>
+<priority>106</priority>
+<Gen_description>0</Gen_description>
+<s_ColLineage>kNOq8QIAAACQ06rxCQAAAJDTqvENAAAAkNOq8REAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{CBD6DA42-7D22-4531-9D09-DB053286C6A2}</s_GUID>
+<s_Lineage>kNOq8REAAAAAAAAAAAAAAA==
+</s_Lineage>
+</effects>
+<effects>
+<effect>agent_spawn_rate_mod_missionary</effect>
+<icon>data/ui/campaign ui/pips/effect_characters.tga</icon>
+<description>%+n%% to chance of spawning missionaries</description>
+<priority>100</priority>
+<Gen_description>0</Gen_description>
+<s_ColLineage>kNOq8QIAAACQ06rxCQAAAJDTqvEMAAAAkNOq8Q8AAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{5B3C3B40-4D38-4AFA-9ADE-FA6A6DB8028B}</s_GUID>
+<s_Lineage>kNOq8Q8AAAAAAAAAAAAAAA==
+</s_Lineage>
+</effects>
+<effects>
+<effect>agent_spawn_rate_mod_rake</effect>
+<icon>data/ui/campaign ui/pips/effect_characters.tga</icon>
+<description>%+n%% to chance of spawning spies</description>
+<priority>105</priority>
+<Gen_description>0</Gen_description>
+<s_ColLineage>kNOq8QIAAACQ06rxCQAAAFuHu7URAAAAkNOq8RAAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{7DB4A37A-7214-4C8F-B8C4-8C193975F06C}</s_GUID>
+<s_Lineage>W4e7tREAAACQ06rxEAAAAAAAAAAAAAAA
+</s_Lineage>
+</effects>
+<effects>
+<effect>agent_spawn_rate_rake</effect>
+<icon>data/ui/campaign ui/pips/effect_characters.tga</icon>
+<description>%n%% chance per turn to spawn a spy</description>
+<priority>5</priority>
+<Gen_description>0</Gen_description>
+<s_ColLineage>kNOq8QgAAACQ06rxDAAAAFuHu7UUAAAAarltahUAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{0FB316E1-4148-4ADB-91A0-7385C621173D}</s_GUID>
+<s_Lineage>arltahUAAABbh7u1FAAAADQJx44TAAAAkNOq8RIAAAAAAAAAAAAAAA==
+</s_Lineage>
+</effects>
+<effects>
+<effect>ai_region_resistance_modifier</effect>
+<priority>0</priority>
+<s_ColLineage>W4e7tQIAAABbh7u1AQAAAFuHu7UBAAAAW4e7tQIAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{6E2FB655-ECB2-4599-B291-5DD459F193CD}</s_GUID>
+<s_Lineage>W4e7tQIAAAAAAAAAAAAAAA==
+</s_Lineage>
+</effects>
+<effects>
+<effect>ancillary_test</effect>
+<icon>data/ui/campaign ui/pips/effect_characters.tga</icon>
+<priority>0</priority>
+<Gen_description>0</Gen_description>
+<s_ColLineage>kNOq8QEAAACQ06rxCQAAAJDTqvEMAAAAkNOq8Q0AAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{3FE13291-9E11-4256-97D9-01F45D0F6FB5}</s_GUID>
+<s_Lineage>kNOq8Q0AAAAAAAAAAAAAAA==
+</s_Lineage>
+</effects>
+<effects>
+<effect>attrition_mod</effect>
+<icon>data/ui/campaign ui/pips/effect_army.tga</icon>
+<description>%+n%% to losses in an area of attrition</description>
+<priority>5</priority>
+<Gen_description>0</Gen_description>
+<s_ColLineage>W4e7tQIAAABquW1qBQAAAGq5bWoGAAAAarltagQAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{70F63B48-3218-43DA-9F92-6C5D22B92347}</s_GUID>
+<s_Lineage>arltagYAAABbh7u1AwAAAAAAAAAAAAAA
+</s_Lineage>
+</effects>
+<effects>
+<effect>building_cost_mod_all</effect>
+<icon>data/ui/campaign ui/pips/effect_building.tga</icon>
+<description>%+n%% to cost of constructing buildings in this region</description>
+<priority>207</priority>
+<Gen_description>0</Gen_description>
+<s_ColLineage>NAnHjgIAAABbh7u1BAAAAFuHu7UHAAAAW4e7tQYAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{9B6F99C1-3AAC-47EF-B517-DEA547CE6221}</s_GUID>
+<s_Lineage>W4e7tQcAAAA0CceOAgAAAAAAAAAAAAAA
+</s_Lineage>
+</effects>
+<effects>
+<effect>building_cost_mod_all_global</effect>
+<icon>data/ui/campaign ui/pips/effect_building.tga</icon>
+<description>%+n%% to cost of constructing buildings in all your regions</description>
+<priority>206</priority>
+<Gen_description>0</Gen_description>
+<s_ColLineage>W4e7tQIAAABbh7u1AgAAAFuHu7UCAAAAW4e7tQQAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{2C7183D0-4A0A-410F-99F4-B1244ED1837D}</s_GUID>
+<s_Lineage>W4e7tQQAAAAAAAAAAAAAAA==
+</s_Lineage>
+</effects>
+<effects>
+<effect>building_cost_mod_farms</effect>
+<icon>data/ui/campaign ui/pips/effect_building.tga</icon>
+<description>%+n%% to cost of constructing farm buildings</description>
+<priority>205</priority>
+<Gen_description>0</Gen_description>
+<s_ColLineage>kNOq8QkAAACQ06rxDQAAAJDTqvEQAAAAkNOq8RIAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{E92CF2FD-2820-4543-8110-756135184AE8}</s_GUID>
+<s_Lineage>kNOq8RIAAAAAAAAAAAAAAA==
+</s_Lineage>
+</effects>
+<effects>
+<effect>building_cost_mod_happiness</effect>
+<icon>data/ui/campaign ui/pips/effect_building.tga</icon>
+<description>%+n%% to cost of constructing cultural buildings</description>
+<priority>204</priority>
+<Gen_description>0</Gen_description>
+<s_ColLineage>kNOq8QIAAACQ06rxBQAAAJDTqvEIAAAAkNOq8QoAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{0052979F-63DF-4B2E-8069-104C640DFA9C}</s_GUID>
+<s_Lineage>kNOq8QoAAAAAAAAAAAAAAA==
+</s_Lineage>
+</effects>
+<effects>
+<effect>building_cost_mod_industry</effect>
+<icon>data/ui/campaign ui/pips/effect_building.tga</icon>
+<description>%+n%% to cost of constructing industrial buildings</description>
+<priority>203</priority>
+<Gen_description>0</Gen_description>
+<s_ColLineage>kNOq8QIAAACQ06rxBwAAAJDTqvEKAAAAkNOq8QwAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{D53EA18D-E3CC-4DF1-AEB0-39CDCB187388}</s_GUID>
+<s_Lineage>kNOq8QwAAAAAAAAAAAAAAA==
+</s_Lineage>
+</effects>
+<effects>
+<effect>building_cost_mod_industry_metal</effect>
+<icon>data/ui/campaign ui/pips/effect_building.tga</icon>
+<description>%+n%% to cost of constructing metalworking buildings</description>
+<priority>202</priority>
+<Gen_description>0</Gen_description>
+<s_ColLineage>kNOq8QIAAACQ06rxBgAAAJDTqvEJAAAAkNOq8QsAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{87873D15-BBEE-4917-AD46-6B7C20C9E717}</s_GUID>
+<s_Lineage>kNOq8QsAAAAAAAAAAAAAAA==
+</s_Lineage>
+</effects>
+<effects>
+<effect>building_cost_mod_mines</effect>
+<icon>data/ui/campaign ui/pips/effect_building.tga</icon>
+<description>%+n%% to cost of constructing mines</description>
+<priority>201</priority>
+<Gen_description>0</Gen_description>
+<s_ColLineage>kNOq8QcAAACQ06rxCgAAAJDTqvENAAAAkNOq8Q8AAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{9D595ABD-5953-4982-B133-350CDAB90182}</s_GUID>
+<s_Lineage>kNOq8Q8AAAAAAAAAAAAAAA==
+</s_Lineage>
+</effects>
+<effects>
+<effect>building_cost_mod_plantations</effect>
+<icon>data/ui/campaign ui/pips/effect_building.tga</icon>
+<description>%+n%% to cost of constructing plantations</description>
+<priority>200</priority>
+<Gen_description>0</Gen_description>
+<s_ColLineage>kNOq8QcAAACQ06rxCgAAAJDTqvENAAAAkNOq8Q4AAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{D80C0693-2B92-4677-91E8-63C0382CD37E}</s_GUID>
+<s_Lineage>kNOq8Q4AAAAAAAAAAAAAAA==
+</s_Lineage>
+</effects>
+<effects>
+<effect>campaign_map_stealth</effect>
+<description>Enables the army to lay ambush in any terrain</description>
+<priority>1</priority>
+<Gen_description>0</Gen_description>
+<s_ColLineage>kNOq8QIAAACQ06rxAQAAAFuHu7UEAAAAkNOq8QIAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{ED9D4507-EF02-4F5C-99CA-98B68C1B481B}</s_GUID>
+<s_Lineage>W4e7tQQAAACQ06rxAwAAAAAAAAAAAAAA
+</s_Lineage>
+</effects>
+<effects>
+<effect>character_death_chance_turn_end</effect>
+<description>%n%% chance of death at the end of the turn</description>
+<priority>1</priority>
+<Gen_description>0</Gen_description>
+<s_ColLineage>kNOq8QIAAACQ06rxAQAAAJDTqvEDAAAAkNOq8QQAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{5CAF739C-B45A-4679-965D-3DE15AE6FE6E}</s_GUID>
+<s_Lineage>kNOq8QQAAAAAAAAAAAAAAA==
+</s_Lineage>
+</effects>
+<effects>
+<effect>charge_bonus_for_bayonet_units</effect>
+<icon>data/ui/campaign ui/pips/effect_army.tga</icon>
+<description>%+n to charge bonus for bayonet-equipped units</description>
+<priority>1</priority>
+<Gen_description>0</Gen_description>
+<s_ColLineage>kNOq8QIAAACQ06rxBAAAAJDTqvEFAAAAkNOq8QMAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{C5AC21D3-C9B4-4179-A715-3DB4245579F7}</s_GUID>
+<s_Lineage>kNOq8QUAAAAAAAAAAAAAAA==
+</s_Lineage>
+</effects>
+<effects>
+<effect>Command_Land_Ambushes</effect>
+<icon>data/ui/campaign ui/pips/effect_general.tga</icon>
+<description>%+n to Command during ambushes</description>
+<priority>3012</priority>
+<Gen_description>0</Gen_description>
+<s_ColLineage>kNOq8QIAAABquW1qCgAAAJDTqvEHAAAAkNOq8QkAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{A963D64E-918F-48C6-8F49-2EAD321DE537}</s_GUID>
+<s_Lineage>arltagoAAACQ06rxCQAAAAAAAAAAAAAA
+</s_Lineage>
+</effects>
+<effects>
+<effect>Command_Land_Artillery_Troops</effect>
+<icon>data/ui/campaign ui/pips/effect_artillery.tga</icon>
+<description>%+n to Command when leading artillery units</description>
+<priority>311</priority>
+<Gen_description>0</Gen_description>
+<s_ColLineage>kNOq8QIAAABquW1qCgAAAJDTqvEHAAAAkNOq8QkAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{8279D84C-E205-4C3C-B99F-E16C50AA1D2F}</s_GUID>
+<s_Lineage>arltagoAAACQ06rxCQAAAAAAAAAAAAAA
+</s_Lineage>
+</effects>
+<effects>
+<effect>Command_Land_Attack</effect>
+<icon>data/ui/campaign ui/pips/effect_general.tga</icon>
+<description>%+n to Command when attacking on land</description>
+<priority>310</priority>
+<Gen_description>0</Gen_description>
+<s_ColLineage>kNOq8QIAAABquW1qCgAAAJDTqvEHAAAAkNOq8QkAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{671B48AD-3D1C-4E36-BF21-19456AED8616}</s_GUID>
+<s_Lineage>arltagoAAACQ06rxCQAAAAAAAAAAAAAA
+</s_Lineage>
+</effects>
+<effects>
+<effect>Command_Land_Cavalry_Troops</effect>
+<icon>data/ui/campaign ui/pips/effect_cavalry.tga</icon>
+<description>%+n to Command when leading cavalry units</description>
+<priority>309</priority>
+<Gen_description>0</Gen_description>
+<s_ColLineage>kNOq8QIAAABquW1qCgAAAJDTqvEHAAAAkNOq8QkAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{4D250304-23E6-4DAD-BDE9-F20386019529}</s_GUID>
+<s_Lineage>arltagoAAACQ06rxCQAAAAAAAAAAAAAA
+</s_Lineage>
+</effects>
+<effects>
+<effect>Command_Land_Command_Amphibious_Attack</effect>
+<icon>data/ui/campaign ui/pips/effect_general.tga</icon>
+<description>%+n to Command when conducting coastal attacks from the sea.</description>
+<priority>308</priority>
+<Gen_description>0</Gen_description>
+<s_ColLineage>kNOq8QIAAABquW1qCQAAAJDTqvEGAAAAkNOq8QgAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{80C9AFF6-08CB-4071-9718-1DE0294D54BF}</s_GUID>
+<s_Lineage>arltagkAAACQ06rxCAAAAAAAAAAAAAAA
+</s_Lineage>
+</effects>
+<effects>
+<effect>Command_Land_Defence</effect>
+<icon>data/ui/campaign ui/pips/effect_general.tga</icon>
+<description>%+n to Command when defending on land</description>
+<priority>307</priority>
+<Gen_description>0</Gen_description>
+<s_ColLineage>kNOq8QIAAABquW1qCgAAAJDTqvEHAAAAkNOq8QkAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{AEF563C3-21CC-432E-A80A-CCDC2A81041C}</s_GUID>
+<s_Lineage>arltagoAAACQ06rxCQAAAAAAAAAAAAAA
+</s_Lineage>
+</effects>
+<effects>
+<effect>Command_Land_In_Americas</effect>
+<icon>data/ui/campaign ui/pips/effect_general.tga</icon>
+<description>%+n to Command when fighting in the Americas</description>
+<priority>306</priority>
+<Gen_description>0</Gen_description>
+<s_ColLineage>kNOq8QIAAABquW1qCgAAAJDTqvEHAAAAkNOq8QkAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{3E50A30D-7B0D-4CD5-8438-238796EF9E60}</s_GUID>
+<s_Lineage>arltagoAAACQ06rxCQAAAAAAAAAAAAAA
+</s_Lineage>
+</effects>
+<effects>
+<effect>Command_Land_In_Europe</effect>
+<icon>data/ui/campaign ui/pips/effect_general.tga</icon>
+<description>%+n to Command when fighting in Europe</description>
+<priority>308</priority>
+<Gen_description>0</Gen_description>
+<s_ColLineage>kNOq8QQAAABquW1qCQAAAJDTqvEHAAAAkNOq8QgAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{08BEBA01-3A7C-47B1-BB40-4FDC75BBABFB}</s_GUID>
+<s_Lineage>arltagkAAACQ06rxCAAAAAAAAAAAAAAA
+</s_Lineage>
+</effects>
+<effects>
+<effect>Command_Land_In_India</effect>
+<icon>data/ui/campaign ui/pips/effect_general.tga</icon>
+<description>%+n to Command when fighting in India</description>
+<priority>305</priority>
+<Gen_description>0</Gen_description>
+<s_ColLineage>kNOq8QIAAABquW1qCgAAAJDTqvEHAAAAkNOq8QkAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{2844ED40-16E5-489D-9528-C3DB4B510B0D}</s_GUID>
+<s_Lineage>arltagoAAACQ06rxCQAAAAAAAAAAAAAA
+</s_Lineage>
+</effects>
+<effects>
+<effect>Command_Land_Infantry_Troops</effect>
+<icon>data/ui/campaign ui/pips/effect_infantry.tga</icon>
+<description>%+n to Command when leading infantry units</description>
+<priority>304</priority>
+<Gen_description>0</Gen_description>
+<s_ColLineage>kNOq8QIAAABquW1qCgAAAJDTqvEHAAAAkNOq8QkAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{B6EAEA26-FB6F-46EE-9889-843C8D7C2604}</s_GUID>
+<s_Lineage>arltagoAAACQ06rxCQAAAAAAAAAAAAAA
+</s_Lineage>
+</effects>
+<effects>
+<effect>Command_Land_Siege_Attack</effect>
+<icon>data/ui/campaign ui/pips/effect_general.tga</icon>
+<description>%+n to Command when besieging</description>
+<priority>303</priority>
+<Gen_description>0</Gen_description>
+<s_ColLineage>kNOq8QIAAABquW1qCgAAAJDTqvEHAAAAkNOq8QkAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{567F1255-9B4B-441D-A693-E8BD43D67FD3}</s_GUID>
+<s_Lineage>arltagoAAACQ06rxCQAAAAAAAAAAAAAA
+</s_Lineage>
+</effects>
+<effects>
+<effect>Command_Land_Siege_Defence</effect>
+<icon>data/ui/campaign ui/pips/effect_general.tga</icon>
+<description>%+n to Command when besieged</description>
+<priority>302</priority>
+<Gen_description>0</Gen_description>
+<s_ColLineage>kNOq8QIAAABquW1qCgAAAJDTqvEHAAAAkNOq8QkAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{50A19680-E00B-4860-A5F7-37684B87B422}</s_GUID>
+<s_Lineage>arltagoAAACQ06rxCQAAAAAAAAAAAAAA
+</s_Lineage>
+</effects>
+<effects>
+<effect>Command_Sea_Attack</effect>
+<icon>data/ui/campaign ui/pips/effect_admiral.tga</icon>
+<description>%+n to Command at sea when attacking</description>
+<priority>301</priority>
+<Gen_description>0</Gen_description>
+<s_ColLineage>kNOq8QIAAABquW1qCgAAAJDTqvEHAAAAkNOq8QkAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{D65F87F7-ADEE-4635-867A-854C9E00BD3D}</s_GUID>
+<s_Lineage>arltagoAAACQ06rxCQAAAAAAAAAAAAAA
+</s_Lineage>
+</effects>
+<effects>
+<effect>Command_Sea_Defence</effect>
+<icon>data/ui/campaign ui/pips/effect_admiral.tga</icon>
+<description>%+n to Command at sea when defending</description>
+<priority>300</priority>
+<Gen_description>0</Gen_description>
+<s_ColLineage>kNOq8QIAAABquW1qCgAAAJDTqvEHAAAAkNOq8QkAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{A3E010E0-CC72-4780-9544-8424A9CD4263}</s_GUID>
+<s_Lineage>arltagoAAACQ06rxCQAAAAAAAAAAAAAA
+</s_Lineage>
+</effects>
+<effects>
+<effect>Command_Sea_Frigates</effect>
+<icon>data/ui/campaign ui/pips/effect_admiral.tga</icon>
+<description>%+n to Command when commanding frigates</description>
+<priority>1</priority>
+<Gen_description>0</Gen_description>
+<s_ColLineage>kNOq8QIAAABquW1qBgAAAJDTqvEEAAAAkNOq8QUAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{D002EBC7-0A34-44E1-8DDC-1E4ACDBB5FC8}</s_GUID>
+<s_Lineage>arltagYAAACQ06rxBQAAAAAAAAAAAAAA
+</s_Lineage>
+</effects>
+<effects>
+<effect>Command_Sea_Line_ships</effect>
+<icon>data/ui/campaign ui/pips/effect_admiral.tga</icon>
+<description>%+n to Command when commanding Ships of the Line</description>
+<priority>1</priority>
+<Gen_description>0</Gen_description>
+<s_ColLineage>kNOq8QIAAABquW1qBAAAAJDTqvEDAAAAkNOq8QIAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{7691F4E2-E2EF-4EFE-973C-34BF4A9F2487}</s_GUID>
+<s_Lineage>arltagQAAACQ06rxAwAAAAAAAAAAAAAA
+</s_Lineage>
+</effects>
+<effects>
+<effect>commodity_prod_coffee</effect>
+<icon>data/ui/campaign ui/pips/effect_economy.tga</icon>
+<description>%n sacks of coffee produced each turn</description>
+<priority>407</priority>
+<Gen_description>0</Gen_description>
+<s_ColLineage>kNOq8QQAAACQ06rxBwAAAJDTqvELAAAAkNOq8Q0AAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{5829701B-3759-4525-B305-BFA6D1667DDA}</s_GUID>
+<s_Lineage>kNOq8Q0AAAAAAAAAAAAAAA==
+</s_Lineage>
+</effects>
+<effects>
+<effect>commodity_prod_cotton</effect>
+<icon>data/ui/campaign ui/pips/effect_economy.tga</icon>
+<description>%n bales of cotton produced each turn</description>
+<priority>406</priority>
+<Gen_description>0</Gen_description>
+<s_ColLineage>kNOq8QcAAACQ06rxCgAAAJDTqvEOAAAAkNOq8RAAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{60C8D446-7860-4542-B53C-591FE41B5166}</s_GUID>
+<s_Lineage>kNOq8RAAAAAAAAAAAAAAAA==
+</s_Lineage>
+</effects>
+<effects>
+<effect>commodity_prod_furs</effect>
+<icon>data/ui/campaign ui/pips/effect_economy.tga</icon>
+<description>%n fur pelts produced each turn</description>
+<priority>405</priority>
+<Gen_description>0</Gen_description>
+<s_ColLineage>kNOq8QUAAACQ06rxCAAAAJDTqvEMAAAAkNOq8Q4AAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{7C8A6282-38CA-4E35-82A1-4F6AC8657908}</s_GUID>
+<s_Lineage>kNOq8Q4AAAAAAAAAAAAAAA==
+</s_Lineage>
+</effects>
+<effects>
+<effect>commodity_prod_spices</effect>
+<icon>data/ui/campaign ui/pips/effect_economy.tga</icon>
+<description>%n pounds of spices produced each turn</description>
+<priority>404</priority>
+<Gen_description>0</Gen_description>
+<s_ColLineage>kNOq8QUAAACQ06rxCQAAAJDTqvEMAAAAkNOq8Q4AAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{47C27205-2F0B-4BA5-9D7B-FDE49D3F6E01}</s_GUID>
+<s_Lineage>kNOq8Q4AAAAAAAAAAAAAAA==
+</s_Lineage>
+</effects>
+<effects>
+<effect>commodity_prod_sugar</effect>
+<icon>data/ui/campaign ui/pips/effect_economy.tga</icon>
+<description>%n loaves of sugar produced each turn</description>
+<priority>403</priority>
+<Gen_description>0</Gen_description>
+<s_ColLineage>kNOq8QUAAACQ06rxCAAAAJDTqvELAAAAkNOq8Q0AAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{9F2717DC-758D-4E81-AC80-87CCEFE71FEF}</s_GUID>
+<s_Lineage>kNOq8Q0AAAAAAAAAAAAAAA==
+</s_Lineage>
+</effects>
+<effects>
+<effect>commodity_prod_tea</effect>
+<icon>data/ui/campaign ui/pips/effect_economy.tga</icon>
+<description>%n chests of tea produced each turn</description>
+<priority>402</priority>
+<Gen_description>0</Gen_description>
+<s_ColLineage>kNOq8QUAAACQ06rxCAAAAJDTqvELAAAAkNOq8Q4AAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{554F84E4-05DC-4433-A1C3-BE34D2EF44BC}</s_GUID>
+<s_Lineage>kNOq8Q4AAAAAAAAAAAAAAA==
+</s_Lineage>
+</effects>
+<effects>
+<effect>commodity_prod_tobacco</effect>
+<icon>data/ui/campaign ui/pips/effect_economy.tga</icon>
+<description>%n barrels of tobacco produced each turn</description>
+<priority>401</priority>
+<Gen_description>0</Gen_description>
+<s_ColLineage>kNOq8QUAAACQ06rxCAAAAJDTqvELAAAAkNOq8Q0AAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{ED6232C4-F0DC-430C-AED4-8D620A48B2CF}</s_GUID>
+<s_Lineage>kNOq8Q0AAAAAAAAAAAAAAA==
+</s_Lineage>
+</effects>
+<effects>
+<effect>conversion_animist</effect>
+<icon>data/ui/campaign ui/pips/animism.tga</icon>
+<description>Converts the populace to Animism</description>
+<priority>609</priority>
+<Gen_description>0</Gen_description>
+<s_ColLineage>kNOq8QEAAACQ06rxCQAAAJDTqvEOAAAAkNOq8RAAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{E6D422A5-C817-47C8-830C-A834A83A67AD}</s_GUID>
+<s_Lineage>kNOq8RAAAAAAAAAAAAAAAA==
+</s_Lineage>
+</effects>
+<effects>
+<effect>conversion_buddhist</effect>
+<icon>data/ui/campaign ui/pips/buddhist.tga</icon>
+<description>Converts the populace to Buddhism</description>
+<priority>608</priority>
+<Gen_description>0</Gen_description>
+<s_ColLineage>kNOq8QEAAACQ06rxCAAAAJDTqvENAAAAkNOq8RAAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{B06A297B-D526-434D-B38C-1429207EC0FE}</s_GUID>
+<s_Lineage>kNOq8RAAAAAAAAAAAAAAAA==
+</s_Lineage>
+</effects>
+<effects>
+<effect>conversion_catholic</effect>
+<icon>data/ui/campaign ui/pips/roman_catholic.tga</icon>
+<description>Converts the populace to Catholicism</description>
+<priority>607</priority>
+<Gen_description>0</Gen_description>
+<s_ColLineage>kNOq8QEAAACQ06rxCAAAAJDTqvENAAAAkNOq8RAAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{C2D65994-147E-40C1-A084-A91E90FB0700}</s_GUID>
+<s_Lineage>kNOq8RAAAAAAAAAAAAAAAA==
+</s_Lineage>
+</effects>
+<effects>
+<effect>conversion_hindu</effect>
+<icon>data/ui/campaign ui/pips/hindu.tga</icon>
+<description>Converts the populace to Hinduism</description>
+<priority>606</priority>
+<Gen_description>0</Gen_description>
+<s_ColLineage>kNOq8QEAAACQ06rxBwAAAJDTqvELAAAAkNOq8Q4AAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{115BD868-CCF7-4C21-8658-25D29875FD8A}</s_GUID>
+<s_Lineage>kNOq8Q4AAAAAAAAAAAAAAA==
+</s_Lineage>
+</effects>
+<effects>
+<effect>conversion_islamic</effect>
+<icon>data/ui/campaign ui/pips/islamic.tga</icon>
+<description>Converts the populace to Islam</description>
+<priority>605</priority>
+<Gen_description>0</Gen_description>
+<s_ColLineage>kNOq8QEAAACQ06rxBwAAAJDTqvELAAAAkNOq8Q4AAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{7B9EE0F9-BD74-43E0-8E62-DAC380D104E8}</s_GUID>
+<s_Lineage>kNOq8Q4AAAAAAAAAAAAAAA==
+</s_Lineage>
+</effects>
+<effects>
+<effect>conversion_nonconformist</effect>
+<icon>data/ui/campaign ui/pips/nonconformism.tga</icon>
+<description>Converts the populace to Nonconformism</description>
+<priority>604</priority>
+<Gen_description>0</Gen_description>
+<s_ColLineage>kNOq8QEAAACQ06rxBwAAAJDTqvELAAAAkNOq8Q4AAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{6CA6F663-C128-4046-B0C8-919C14EC4B38}</s_GUID>
+<s_Lineage>kNOq8Q4AAAAAAAAAAAAAAA==
+</s_Lineage>
+</effects>
+<effects>
+<effect>conversion_orthodox</effect>
+<icon>data/ui/campaign ui/pips/orthodox.tga</icon>
+<description>Converts the populace to the Orthodox church</description>
+<priority>603</priority>
+<Gen_description>0</Gen_description>
+<s_ColLineage>kNOq8QEAAACQ06rxBwAAAJDTqvELAAAAkNOq8Q4AAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{36D6E965-608D-413F-8C01-DBB126473277}</s_GUID>
+<s_Lineage>kNOq8Q4AAAAAAAAAAAAAAA==
+</s_Lineage>
+</effects>
+<effects>
+<effect>conversion_protestant</effect>
+<icon>data/ui/campaign ui/pips/protestant.tga</icon>
+<description>Converts the populace to Protestantism</description>
+<priority>602</priority>
+<Gen_description>0</Gen_description>
+<s_ColLineage>kNOq8QEAAACQ06rxBwAAAJDTqvELAAAAkNOq8Q4AAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{30B3A225-0D61-4468-9F4E-7FA7EF015F46}</s_GUID>
+<s_Lineage>kNOq8Q4AAAAAAAAAAAAAAA==
+</s_Lineage>
+</effects>
+<effects>
+<effect>conversion_sikh</effect>
+<icon>data/ui/campaign ui/pips/sikh.tga</icon>
+<description>Converts the populace to Sikhism</description>
+<priority>601</priority>
+<Gen_description>0</Gen_description>
+<s_ColLineage>kNOq8QIAAACQ06rxBgAAAJDTqvEKAAAAkNOq8Q0AAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{61F9BD7F-F73E-4743-8708-35F6777AB847}</s_GUID>
+<s_Lineage>kNOq8Q0AAAAAAAAAAAAAAA==
+</s_Lineage>
+</effects>
+<effects>
+<effect>diplomacy_bonus_enlightenment</effect>
+<icon>data/ui/campaign ui/pips/effect_tech.tga</icon>
+<description>%+n to diplomatic relations</description>
+<priority>2</priority>
+<Gen_description>0</Gen_description>
+<s_ColLineage>W4e7tQIAAABbh7u1BAAAAFuHu7UDAAAAW4e7tQMAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{08CA0268-3924-4FB7-A331-2A378A51C9FE}</s_GUID>
+<s_Lineage>W4e7tQQAAAAAAAAAAAAAAA==
+</s_Lineage>
+</effects>
+<effects>
+<effect>diplomacy_bonus_faction_leader</effect>
+<description>%+n to diplomatic relations</description>
+<priority>2</priority>
+<Gen_description>0</Gen_description>
+<s_ColLineage>kNOq8QIAAACQ06rxAQAAADQJx44GAAAAkNOq8QQAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{8C969BDB-A66D-4A4F-A805-8920ECC67335}</s_GUID>
+<s_Lineage>NAnHjgYAAACQ06rxBAAAAAAAAAAAAAAA
+</s_Lineage>
+</effects>
+<effects>
+<effect>disband_cashback</effect>
+<icon>data/ui/campaign ui/pips/effect_economy.tga</icon>
+<priority>0</priority>
+<Gen_description>0</Gen_description>
+<s_ColLineage>kNOq8QEAAACQ06rxBgAAAJDTqvEIAAAAkNOq8QcAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{71AB6981-216D-4FC7-985C-E27C078B8E6E}</s_GUID>
+<s_Lineage>kNOq8QgAAAAAAAAAAAAAAA==
+</s_Lineage>
+</effects>
+<effects>
+<effect>education_happy_mod</effect>
+<icon>data/ui/campaign ui/pips/effect_public_order.tga</icon>
+<description>%+n%% to clamour for reform</description>
+<priority>1</priority>
+<Gen_description>0</Gen_description>
+<s_ColLineage>kNOq8QEAAACQ06rxCwAAAJDTqvEKAAAAkNOq8QkAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{AEFCD8FA-4D14-4E97-96AB-A5F533E8A128}</s_GUID>
+<s_Lineage>kNOq8QsAAAAAAAAAAAAAAA==
+</s_Lineage>
+</effects>
+<effects>
+<effect>enable_airguns</effect>
+<icon>data/ui/campaign ui/pips/effect_tech.tga</icon>
+<priority>0</priority>
+<Gen_description>0</Gen_description>
+<s_ColLineage>kNOq8QEAAACQ06rxBwAAAJDTqvEFAAAANAnHjgsAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{4AD76936-238C-4A7B-91B9-0E36DFED23A2}</s_GUID>
+<s_Lineage>NAnHjgsAAACQ06rxCgAAAAAAAAAAAAAA
+</s_Lineage>
+</effects>
+<effects>
+<effect>enable_artillery_accuracy_boost</effect>
+<icon>data/ui/campaign ui/pips/effect_tech.tga</icon>
+<description>Enables targeted fire ability for artillery</description>
+<priority>715</priority>
+<Gen_description>0</Gen_description>
+<s_ColLineage>W4e7tQIAAABbh7u1AwAAAFuHu7UCAAAAW4e7tQIAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{247D12C7-8BBE-45F8-BA04-CC0341FBC329}</s_GUID>
+<s_Lineage>W4e7tQMAAAAAAAAAAAAAAA==
+</s_Lineage>
+</effects>
+<effects>
+<effect>enable_artillery_barrage</effect>
+<icon>data/ui/campaign ui/pips/effect_tech.tga</icon>
+<description>Enables artillery barrage</description>
+<priority>715</priority>
+<Gen_description>0</Gen_description>
+<s_ColLineage>W4e7tQIAAABbh7u1AwAAAFuHu7UCAAAAW4e7tQIAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{F66900AC-76CC-43DB-8F46-5ACE79A34D81}</s_GUID>
+<s_Lineage>W4e7tQMAAAAAAAAAAAAAAA==
+</s_Lineage>
+</effects>
+<effects>
+<effect>enable_cadenced_marching</effect>
+<icon>data/ui/campaign ui/pips/effect_tech.tga</icon>
+<description>Improves campaign map movement speed</description>
+<priority>722</priority>
+<Gen_description>0</Gen_description>
+<s_ColLineage>kNOq8QEAAACQ06rxCwAAAJDTqvESAAAAkNOq8REAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{0056796D-6F43-4172-924F-D83800C178A2}</s_GUID>
+<s_Lineage>kNOq8RIAAAAAAAAAAAAAAA==
+</s_Lineage>
+</effects>
+<effects>
+<effect>enable_canister_shot</effect>
+<icon>data/ui/campaign ui/pips/effect_tech.tga</icon>
+<description>Enables canister shot</description>
+<priority>721</priority>
+<Gen_description>0</Gen_description>
+<s_ColLineage>kNOq8QEAAACQ06rxCQAAAJDTqvEPAAAAkNOq8Q4AAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{4A539903-50E2-4925-9A7C-F98F48232790}</s_GUID>
+<s_Lineage>kNOq8Q8AAAAAAAAAAAAAAA==
+</s_Lineage>
+</effects>
+<effects>
+<effect>enable_carbines</effect>
+<icon>data/ui/campaign ui/pips/effect_tech.tga</icon>
+<description>Enables carbines. This allows the recruitment of carbine-wielding cavalry units</description>
+<priority>720</priority>
+<Gen_description>0</Gen_description>
+<s_ColLineage>kNOq8QEAAACQ06rxCgAAAJDTqvEOAAAAkNOq8RAAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{4F084F0B-5147-454E-9645-40F227A10459}</s_GUID>
+<s_Lineage>kNOq8RAAAAAAAAAAAAAAAA==
+</s_Lineage>
+</effects>
+<effects>
+<effect>enable_carcass_shot</effect>
+<icon>data/ui/campaign ui/pips/effect_tech.tga</icon>
+<description>Enables carcass shot (for experimental howitzers)</description>
+<priority>719</priority>
+<Gen_description>0</Gen_description>
+<s_ColLineage>kNOq8QEAAACQ06rxCAAAAGq5bWoPAAAAkNOq8Q4AAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{94F387F0-5997-43C5-90FB-750C85603B67}</s_GUID>
+<s_Lineage>arltag8AAACQ06rxDgAAAAAAAAAAAAAA
+</s_Lineage>
+</effects>
+<effects>
+<effect>enable_carronades</effect>
+<icon>data/ui/campaign ui/pips/effect_tech.tga</icon>
+<description>Enables carronades. This allows the construction of carronade frigates</description>
+<priority>718</priority>
+<Gen_description>0</Gen_description>
+<s_ColLineage>kNOq8QEAAACQ06rxCAAAAJDTqvEOAAAAkNOq8Q0AAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{C64016B7-9551-44AC-8668-7F7AF645C65D}</s_GUID>
+<s_Lineage>kNOq8Q4AAAAAAAAAAAAAAA==
+</s_Lineage>
+</effects>
+<effects>
+<effect>enable_copper_bottoms</effect>
+<icon>data/ui/campaign ui/pips/effect_tech.tga</icon>
+<priority>0</priority>
+<Gen_description>0</Gen_description>
+<s_ColLineage>kNOq8QEAAACQ06rxCAAAAJDTqvEGAAAAkNOq8QkAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{9191F5AE-0736-47C7-A447-C4FC7BDE1038}</s_GUID>
+<s_Lineage>kNOq8QkAAAAAAAAAAAAAAA==
+</s_Lineage>
+</effects>
+<effects>
+<effect>enable_diamond_formation</effect>
+<icon>data/ui/campaign ui/pips/effect_tech.tga</icon>
+<description>Enables cavalry diamond formation. This replaces the wedge formation</description>
+<priority>717</priority>
+<Gen_description>0</Gen_description>
+<s_ColLineage>kNOq8QEAAACQ06rxCwAAAJDTqvEMAAAAkNOq8RAAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{3116E5D2-8EA3-45B8-A1AA-5D53CC42CA1A}</s_GUID>
+<s_Lineage>kNOq8RAAAAAAAAAAAAAAAA==
+</s_Lineage>
+</effects>
+<effects>
+<effect>enable_european_doctrine</effect>
+<icon>data/ui/campaign ui/pips/effect_tech.tga</icon>
+<priority>0</priority>
+<Gen_description>0</Gen_description>
+<s_ColLineage>kNOq8QEAAACQ06rxCQAAAJDTqvEHAAAAkNOq8QsAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{19770E77-537C-4432-95E1-E2043C8AF12C}</s_GUID>
+<s_Lineage>kNOq8QsAAAAAAAAAAAAAAA==
+</s_Lineage>
+</effects>
+<effects>
+<effect>enable_explosive_rockets</effect>
+<icon>data/ui/campaign ui/pips/effect_tech.tga</icon>
+<priority>0</priority>
+<Gen_description>0</Gen_description>
+<s_ColLineage>kNOq8QIAAACQ06rxCAAAAJDTqvEGAAAAkNOq8QkAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{EF7FC9C9-4779-4662-A1C7-E4EACC4C9D22}</s_GUID>
+<s_Lineage>kNOq8QkAAAAAAAAAAAAAAA==
+</s_Lineage>
+</effects>
+<effects>
+<effect>enable_explosive_shells</effect>
+<icon>data/ui/campaign ui/pips/effect_tech.tga</icon>
+<description>Enables explosive shells for howitzers and mortars</description>
+<priority>716</priority>
+<Gen_description>0</Gen_description>
+<s_ColLineage>kNOq8QEAAACQ06rxCQAAADQJx44SAAAAkNOq8Q8AAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{362667BA-0CDD-4A98-8E4B-325CC272FE12}</s_GUID>
+<s_Lineage>NAnHjhIAAACQ06rxEAAAAAAAAAAAAAAA
+</s_Lineage>
+</effects>
+<effects>
+<effect>enable_fire_and_advance</effect>
+<icon>data/ui/campaign ui/pips/effect_tech.tga</icon>
+<description>Enables line infantry fire and advance drill</description>
+<priority>715</priority>
+<Gen_description>0</Gen_description>
+<s_ColLineage>kNOq8QEAAACQ06rxCwAAAJDTqvEPAAAAkNOq8REAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{28F65EFD-85D0-4DBF-8738-DA94163532BE}</s_GUID>
+<s_Lineage>kNOq8REAAAAAAAAAAAAAAA==
+</s_Lineage>
+</effects>
+<effects>
+<effect>enable_fire_by_rank</effect>
+<icon>data/ui/campaign ui/pips/effect_tech.tga</icon>
+<description>Enables line infantry fire by rank firing drill</description>
+<priority>714</priority>
+<Gen_description>0</Gen_description>
+<s_ColLineage>kNOq8QEAAACQ06rxCAAAAJDTqvEJAAAAkNOq8Q0AAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{4DD87A8A-9135-4050-ABC4-2292F611EA20}</s_GUID>
+<s_Lineage>kNOq8Q0AAAAAAAAAAAAAAA==
+</s_Lineage>
+</effects>
+<effects>
+<effect>enable_improved_coppering</effect>
+<icon>data/ui/campaign ui/pips/effect_tech.tga</icon>
+<priority>0</priority>
+<Gen_description>0</Gen_description>
+<s_ColLineage>kNOq8QEAAACQ06rxCAAAAJDTqvEGAAAAkNOq8QkAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{69E34CEB-A3B9-413E-8162-F4E69D16B284}</s_GUID>
+<s_Lineage>kNOq8QkAAAAAAAAAAAAAAA==
+</s_Lineage>
+</effects>
+<effects>
+<effect>enable_improved_fougasse</effect>
+<priority>0</priority>
+<s_ColLineage>AAAAAAIAAAAAAAAAAQAAAAAAAAABAAAAAAAAAAIAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{A1A740ED-5AEC-4435-BE00-D3F3046E638D}</s_GUID>
+<s_Lineage>AAAAAAIAAAAAAAAAAAAAAA==
+</s_Lineage>
+</effects>
+<effects>
+<effect>enable_improved_grape_shot</effect>
+<icon>data/ui/campaign ui/pips/effect_tech.tga</icon>
+<description>Improves the effectiveness of grape shot</description>
+<priority>713</priority>
+<Gen_description>0</Gen_description>
+<s_ColLineage>kNOq8QEAAACQ06rxCQAAAJDTqvEOAAAAkNOq8RAAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{FD5FE62C-BA78-4534-9178-E4524E5C782D}</s_GUID>
+<s_Lineage>kNOq8RAAAAAAAAAAAAAAAA==
+</s_Lineage>
+</effects>
+<effects>
+<effect>enable_improved_grenades</effect>
+<icon>data/ui/campaign ui/pips/effect_tech.tga</icon>
+<description>Improves the effectiveness of grenades</description>
+<priority>712</priority>
+<Gen_description>0</Gen_description>
+<s_ColLineage>kNOq8QEAAACQ06rxCQAAAJDTqvEMAAAAkNOq8Q4AAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{DF384084-BC4A-49C9-B756-CF8EFE318B77}</s_GUID>
+<s_Lineage>kNOq8Q4AAAAAAAAAAAAAAA==
+</s_Lineage>
+</effects>
+<effects>
+<effect>enable_improved_platoon_firing</effect>
+<icon>data/ui/campaign ui/pips/effect_tech.tga</icon>
+<description>Enables improved platoon firing drill</description>
+<priority>711</priority>
+<Gen_description>0</Gen_description>
+<s_ColLineage>kNOq8QEAAACQ06rxCQAAAJDTqvEMAAAAkNOq8Q4AAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{517C143D-2687-43EE-B6FF-B96EAABEA2B2}</s_GUID>
+<s_Lineage>kNOq8Q4AAAAAAAAAAAAAAA==
+</s_Lineage>
+</effects>
+<effects>
+<effect>enable_inspire_unit</effect>
+<icon>data/ui/campaign ui/pips/effect_tech.tga</icon>
+<description>Enables inspire unit ability</description>
+<priority>715</priority>
+<Gen_description>0</Gen_description>
+<s_ColLineage>W4e7tQIAAABbh7u1BAAAAFuHu7UDAAAAW4e7tQMAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{92E84EDC-AD8A-4E13-BB24-9177AA3A9FB4}</s_GUID>
+<s_Lineage>W4e7tQQAAAAAAAAAAAAAAA==
+</s_Lineage>
+</effects>
+<effects>
+<effect>enable_light_infantry_doctrine</effect>
+<icon>data/ui/campaign ui/pips/effect_tech.tga</icon>
+<priority>0</priority>
+<Gen_description>0</Gen_description>
+<s_ColLineage>kNOq8QEAAACQ06rxCgAAAJDTqvEIAAAAkNOq8QsAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{3C3EC2EF-193B-4FCE-8269-61ABB8EF20C1}</s_GUID>
+<s_Lineage>kNOq8QsAAAAAAAAAAAAAAA==
+</s_Lineage>
+</effects>
+<effects>
+<effect>enable_light_infantry_drill</effect>
+<icon>data/ui/campaign ui/pips/effect_tech.tga</icon>
+<description>Enables advanced light infantry drill</description>
+<priority>710</priority>
+<Gen_description>0</Gen_description>
+<s_ColLineage>kNOq8QQAAACQ06rxCQAAAJDTqvEMAAAAkNOq8Q4AAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{C362A964-63BA-4C68-8BCB-AA711B8E5571}</s_GUID>
+<s_Lineage>kNOq8Q4AAAAAAAAAAAAAAA==
+</s_Lineage>
+</effects>
+<effects>
+<effect>enable_machined_rifling</effect>
+<icon>data/ui/campaign ui/pips/effect_tech.tga</icon>
+<priority>0</priority>
+<Gen_description>0</Gen_description>
+<s_ColLineage>kNOq8QEAAACQ06rxCAAAAJDTqvEGAAAAkNOq8QkAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{42F6D37B-F22A-43FB-BF7B-222EB187EA9E}</s_GUID>
+<s_Lineage>kNOq8QkAAAAAAAAAAAAAAA==
+</s_Lineage>
+</effects>
+<effects>
+<effect>enable_percussion_shells</effect>
+<icon>data/ui/campaign ui/pips/effect_tech.tga</icon>
+<description>Enables percussive shells. These replace explosive shells for howitzers and mortars</description>
+<priority>709</priority>
+<Gen_description>0</Gen_description>
+<s_ColLineage>kNOq8QEAAACQ06rxCAAAAJDTqvEMAAAAkNOq8Q4AAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{770A9FBA-9848-4448-A1F3-DDF81853A760}</s_GUID>
+<s_Lineage>kNOq8Q4AAAAAAAAAAAAAAA==
+</s_Lineage>
+</effects>
+<effects>
+<effect>enable_platoon_firing</effect>
+<icon>data/ui/campaign ui/pips/effect_tech.tga</icon>
+<description>Enables platoon firing drill</description>
+<priority>708</priority>
+<Gen_description>0</Gen_description>
+<s_ColLineage>kNOq8QEAAACQ06rxCAAAAJDTqvEJAAAAkNOq8Q0AAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{E607D32C-1DA6-429A-AB15-CCFC122DAA79}</s_GUID>
+<s_Lineage>kNOq8Q0AAAAAAAAAAAAAAA==
+</s_Lineage>
+</effects>
+<effects>
+<effect>enable_plug_bayonet</effect>
+<icon>data/ui/campaign ui/pips/effect_tech.tga</icon>
+<description>Enables infantry to fix bayonets in battle</description>
+<priority>707</priority>
+<Gen_description>0</Gen_description>
+<s_ColLineage>kNOq8QEAAACQ06rxCQAAAJDTqvEOAAAAkNOq8RAAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{CA7418CE-1B41-4727-B923-106FAA7157D8}</s_GUID>
+<s_Lineage>kNOq8RAAAAAAAAAAAAAAAA==
+</s_Lineage>
+</effects>
+<effects>
+<effect>enable_quicklime_shells</effect>
+<icon>data/ui/campaign ui/pips/effect_tech.tga</icon>
+<description>Enables quicklime shells (for experimental howitzers)</description>
+<priority>706</priority>
+<Gen_description>0</Gen_description>
+<s_ColLineage>kNOq8QEAAACQ06rxCAAAAGq5bWoPAAAAkNOq8Q4AAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{D5EE18D5-9D5B-4A83-B875-AC706321E51A}</s_GUID>
+<s_Lineage>arltag8AAACQ06rxDgAAAAAAAAAAAAAA
+</s_Lineage>
+</effects>
+<effects>
+<effect>enable_rifled_cannons</effect>
+<icon>data/ui/campaign ui/pips/effect_tech.tga</icon>
+<description>Enables rifled naval cannons</description>
+<priority>705</priority>
+<Gen_description>0</Gen_description>
+<s_ColLineage>kNOq8QEAAACQ06rxBwAAAJDTqvEOAAAAkNOq8Q0AAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{ED361EA2-DD74-4DAF-A315-10C0D1E54324}</s_GUID>
+<s_Lineage>kNOq8Q4AAAAAAAAAAAAAAA==
+</s_Lineage>
+</effects>
+<effects>
+<effect>enable_ring_bayonet</effect>
+<icon>data/ui/campaign ui/pips/effect_tech.tga</icon>
+<description>Enables ring bayonets. These replace plug bayonets</description>
+<priority>704</priority>
+<Gen_description>0</Gen_description>
+<s_ColLineage>kNOq8QEAAACQ06rxCQAAAJDTqvEMAAAAkNOq8Q4AAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{CAF111F9-56DC-4F98-8BB7-F632FAB8D127}</s_GUID>
+<s_Lineage>kNOq8Q4AAAAAAAAAAAAAAA==
+</s_Lineage>
+</effects>
+<effects>
+<effect>enable_screw_breech</effect>
+<icon>data/ui/campaign ui/pips/effect_tech.tga</icon>
+<priority>0</priority>
+<Gen_description>0</Gen_description>
+<s_ColLineage>kNOq8QIAAACQ06rxBwAAAJDTqvEFAAAAkNOq8QgAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{D25A6546-EA53-4CE3-9B72-99C51237CAB4}</s_GUID>
+<s_Lineage>kNOq8QgAAAAAAAAAAAAAAA==
+</s_Lineage>
+</effects>
+<effects>
+<effect>enable_shortened_carbines</effect>
+<icon>data/ui/campaign ui/pips/effect_tech.tga</icon>
+<priority>0</priority>
+<Gen_description>0</Gen_description>
+<s_ColLineage>kNOq8QEAAACQ06rxCAAAAJDTqvEMAAAAkNOq8QwAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{455C295F-BFDB-4F75-99AC-138E6CAB425C}</s_GUID>
+<s_Lineage>kNOq8QwAAAAAAAAAAAAAAA==
+</s_Lineage>
+</effects>
+<effects>
+<effect>enable_shrapnel_shot</effect>
+<icon>data/ui/campaign ui/pips/effect_tech.tga</icon>
+<description>Enables shrapnel shot for cannons</description>
+<priority>703</priority>
+<Gen_description>0</Gen_description>
+<s_ColLineage>kNOq8QEAAACQ06rxCAAAADQJx44PAAAAkNOq8Q0AAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{CF6CB050-E063-44DC-AC67-5C5A3379F467}</s_GUID>
+<s_Lineage>NAnHjg8AAACQ06rxDgAAAAAAAAAAAAAA
+</s_Lineage>
+</effects>
+<effects>
+<effect>enable_socket_bayonet</effect>
+<icon>data/ui/campaign ui/pips/effect_tech.tga</icon>
+<description>Enables socket bayonets. These replace ring bayonets</description>
+<priority>702</priority>
+<Gen_description>0</Gen_description>
+<s_ColLineage>kNOq8QEAAACQ06rxCAAAAJDTqvELAAAAkNOq8Q0AAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{D32F81DE-4207-474B-8B0E-18175F8279A4}</s_GUID>
+<s_Lineage>kNOq8Q0AAAAAAAAAAAAAAA==
+</s_Lineage>
+</effects>
+<effects>
+<effect>enable_square_formation</effect>
+<icon>data/ui/campaign ui/pips/effect_tech.tga</icon>
+<description>Enables infantry square formation</description>
+<priority>701</priority>
+<Gen_description>0</Gen_description>
+<s_ColLineage>kNOq8QEAAACQ06rxCAAAAJDTqvEMAAAAkNOq8Q4AAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{374A1F47-1BF6-4CB4-B3C7-C54052A4024B}</s_GUID>
+<s_Lineage>kNOq8Q4AAAAAAAAAAAAAAA==
+</s_Lineage>
+</effects>
+<effects>
+<effect>enable_top_gallants</effect>
+<icon>data/ui/campaign ui/pips/effect_tech.tga</icon>
+<priority>0</priority>
+<Gen_description>0</Gen_description>
+<s_ColLineage>kNOq8QIAAACQ06rxBQAAAJDTqvEEAAAAkNOq8QQAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{340CEFF1-F616-4CE0-8706-6D4926BD5A7D}</s_GUID>
+<s_Lineage>kNOq8QUAAAAAAAAAAAAAAA==
+</s_Lineage>
+</effects>
+<effects>
+<effect>enable_uniform_armarment</effect>
+<icon>data/ui/campaign ui/pips/effect_tech.tga</icon>
+<description>Enables uniform armament on ships</description>
+<priority>723</priority>
+<Gen_description>0</Gen_description>
+<s_ColLineage>W4e7tQIAAABbh7u1AwAAAFuHu7UFAAAAW4e7tQYAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{23B46AF5-6DFF-4CC1-8737-6D101CC818DB}</s_GUID>
+<s_Lineage>W4e7tQYAAAAAAAAAAAAAAA==
+</s_Lineage>
+</effects>
+<effects>
+<effect>enable_volley_fire</effect>
+<icon>data/ui/campaign ui/pips/effect_tech.tga</icon>
+<description>Enables volley firing drill</description>
+<priority>0</priority>
+<Gen_description>0</Gen_description>
+<s_ColLineage>kNOq8QIAAACQ06rxBAAAAJDTqvEDAAAAkNOq8QIAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{CB5FF40C-EF03-4E6C-9434-0B6C8C703DE9}</s_GUID>
+<s_Lineage>kNOq8QQAAAAAAAAAAAAAAA==
+</s_Lineage>
+</effects>
+<effects>
+<effect>enable_wedge_formation</effect>
+<icon>data/ui/campaign ui/pips/effect_tech.tga</icon>
+<description>Enables cavalry wedge formation</description>
+<priority>700</priority>
+<Gen_description>0</Gen_description>
+<s_ColLineage>kNOq8QEAAACQ06rxCAAAAJDTqvEJAAAAkNOq8QwAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{B240C630-B303-4A99-AB53-257716CF0D39}</s_GUID>
+<s_Lineage>kNOq8QwAAAAAAAAAAAAAAA==
+</s_Lineage>
+</effects>
+<effects>
+<effect>export_capacity_port</effect>
+<icon>data/ui/campaign ui/pips/effect_trade.tga</icon>
+<description>Improves export capacity (increases trade values)</description>
+<priority>6003</priority>
+<Gen_description>0</Gen_description>
+<s_ColLineage>kNOq8QcAAABquW1qEQAAAJDTqvEOAAAAkNOq8RAAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{6AF186CA-66FF-4D20-A820-358412CA0ED5}</s_GUID>
+<s_Lineage>arltahEAAACQ06rxEAAAAAAAAAAAAAAA
+</s_Lineage>
+</effects>
+<effects>
+<effect>export_capacity_road</effect>
+<icon>data/ui/campaign ui/pips/effect_trade.tga</icon>
+<description>Improves export capacity (increases trade values)</description>
+<priority>6004</priority>
+<Gen_description>0</Gen_description>
+<s_ColLineage>kNOq8QQAAABquW1qDgAAAJDTqvELAAAAkNOq8Q0AAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{6B8A5459-1EBC-4D8F-BE36-48F836250ECF}</s_GUID>
+<s_Lineage>arltag4AAACQ06rxDQAAAAAAAAAAAAAA
+</s_Lineage>
+</effects>
+<effects>
+<effect>fortification</effect>
+<icon>data/ui/campaign ui/pips/effect_army.tga</icon>
+<description>Attacks on the garrison, or any encroachment by an enemy will result in a fort battle</description>
+<priority>1</priority>
+<Gen_description>0</Gen_description>
+<s_ColLineage>kNOq8QIAAACQ06rxAwAAAJDTqvEFAAAAkNOq8QMAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{F2E43A2F-D96D-4696-B124-222712062BBC}</s_GUID>
+<s_Lineage>kNOq8QUAAAAAAAAAAAAAAA==
+</s_Lineage>
+</effects>
+<effects>
+<effect>gdp_farm</effect>
+<icon>data/ui/campaign ui/pips/effect_economy.tga</icon>
+<description>%+n to region wealth</description>
+<priority>921</priority>
+<Gen_description>0</Gen_description>
+<s_ColLineage>kNOq8QUAAACQ06rxCAAAAJDTqvEGAAAAkNOq8QwAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{26FC62CC-63F6-4DFF-BADB-69A408056AC0}</s_GUID>
+<s_Lineage>kNOq8QwAAAAAAAAAAAAAAA==
+</s_Lineage>
+</effects>
+<effects>
+<effect>gdp_industry</effect>
+<icon>data/ui/campaign ui/pips/effect_economy.tga</icon>
+<description>%+n to region wealth</description>
+<priority>922</priority>
+<Gen_description>0</Gen_description>
+<s_ColLineage>kNOq8QUAAACQ06rxCAAAAJDTqvEGAAAAkNOq8Q0AAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{2A4E0ED8-EFAD-468C-BE3C-FE39B61F307B}</s_GUID>
+<s_Lineage>kNOq8Q0AAAAAAAAAAAAAAA==
+</s_Lineage>
+</effects>
+<effects>
+<effect>gdp_mine</effect>
+<icon>data/ui/campaign ui/pips/effect_economy.tga</icon>
+<description>%+n to region wealth</description>
+<priority>919</priority>
+<Gen_description>0</Gen_description>
+<s_ColLineage>kNOq8QUAAACQ06rxCAAAAJDTqvEGAAAAkNOq8QwAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{D2661997-AF7C-4FD3-8B5F-E0A90043D8B0}</s_GUID>
+<s_Lineage>kNOq8QwAAAAAAAAAAAAAAA==
+</s_Lineage>
+</effects>
+<effects>
+<effect>gdp_mod_all</effect>
+<icon>data/ui/campaign ui/pips/effect_economy.tga</icon>
+<description>%+n%% wealth generated by all buildings</description>
+<priority>923</priority>
+<Gen_description>0</Gen_description>
+<s_ColLineage>kNOq8QIAAACQ06rxCAAAAJDTqvELAAAAkNOq8Q8AAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{6D8485F4-6C3B-4D0A-B3A4-684FFE8E92E2}</s_GUID>
+<s_Lineage>kNOq8Q8AAAAAAAAAAAAAAA==
+</s_Lineage>
+</effects>
+<effects>
+<effect>gdp_mod_farms</effect>
+<icon>data/ui/campaign ui/pips/effect_economy.tga</icon>
+<description>%+n%% wealth generated by farms</description>
+<priority>912</priority>
+<Gen_description>0</Gen_description>
+<s_ColLineage>kNOq8QIAAACQ06rxCwAAAJDTqvEOAAAAkNOq8REAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{D16035DC-3156-427D-8094-7BDAAA0BE671}</s_GUID>
+<s_Lineage>kNOq8REAAAAAAAAAAAAAAA==
+</s_Lineage>
+</effects>
+<effects>
+<effect>gdp_mod_farms_livestock</effect>
+<icon>data/ui/campaign ui/pips/effect_economy.tga</icon>
+<description>%+n%% wealth generated by livestock farms</description>
+<priority>911</priority>
+<Gen_description>0</Gen_description>
+<s_ColLineage>kNOq8QIAAACQ06rxCgAAAJDTqvENAAAAkNOq8REAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{6D9F945F-6E16-44A7-AF6D-9CD8820614D9}</s_GUID>
+<s_Lineage>kNOq8REAAAAAAAAAAAAAAA==
+</s_Lineage>
+</effects>
+<effects>
+<effect>gdp_mod_farms_wheat</effect>
+<icon>data/ui/campaign ui/pips/effect_economy.tga</icon>
+<description>%+n%% wealth generated by arable farms</description>
+<priority>910</priority>
+<Gen_description>0</Gen_description>
+<s_ColLineage>kNOq8QUAAACQ06rxCgAAAJDTqvENAAAAkNOq8Q8AAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{25480392-B083-4DDB-BA89-2C0E7805B840}</s_GUID>
+<s_Lineage>kNOq8Q8AAAAAAAAAAAAAAA==
+</s_Lineage>
+</effects>
+<effects>
+<effect>gdp_mod_industry_all</effect>
+<icon>data/ui/campaign ui/pips/effect_economy.tga</icon>
+<description>%+n%% wealth generated by industrial buildings</description>
+<priority>915</priority>
+<Gen_description>0</Gen_description>
+<s_ColLineage>kNOq8QIAAACQ06rxCAAAAJDTqvELAAAAkNOq8RAAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{D7A5C25A-5F3D-4396-B33A-6EBC9D5955CF}</s_GUID>
+<s_Lineage>kNOq8RAAAAAAAAAAAAAAAA==
+</s_Lineage>
+</effects>
+<effects>
+<effect>gdp_mod_industry_metals</effect>
+<icon>data/ui/campaign ui/pips/effect_economy.tga</icon>
+<description>%+n%% wealth generated by metalworking buildings</description>
+<priority>914</priority>
+<Gen_description>0</Gen_description>
+<s_ColLineage>kNOq8QIAAACQ06rxCQAAAJDTqvEMAAAAkNOq8Q4AAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{1D1E09E1-3CD7-412D-A79F-3CE1C03B943E}</s_GUID>
+<s_Lineage>kNOq8Q4AAAAAAAAAAAAAAA==
+</s_Lineage>
+</effects>
+<effects>
+<effect>gdp_mod_industry_textiles</effect>
+<icon>data/ui/campaign ui/pips/effect_economy.tga</icon>
+<description>%+n%% wealth generated by textile workshops and factories</description>
+<priority>913</priority>
+<Gen_description>0</Gen_description>
+<s_ColLineage>kNOq8QIAAACQ06rxCQAAAJDTqvEMAAAAkNOq8Q4AAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{5579EE0B-30CC-4B08-A9E0-51DF3C4836C9}</s_GUID>
+<s_Lineage>kNOq8Q4AAAAAAAAAAAAAAA==
+</s_Lineage>
+</effects>
+<effects>
+<effect>gdp_mod_mines</effect>
+<icon>data/ui/campaign ui/pips/effect_economy.tga</icon>
+<description>%+n%% wealth generated by mines</description>
+<priority>916</priority>
+<Gen_description>0</Gen_description>
+<s_ColLineage>kNOq8QIAAACQ06rxCAAAAJDTqvELAAAAkNOq8Q0AAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{BB78C1A8-B1EC-49A9-AE91-56DD4A3C7B42}</s_GUID>
+<s_Lineage>kNOq8Q0AAAAAAAAAAAAAAA==
+</s_Lineage>
+</effects>
+<effects>
+<effect>gdp_mod_plantations</effect>
+<icon>data/ui/campaign ui/pips/effect_economy.tga</icon>
+<description>%+n%% wealth generated by plantations</description>
+<priority>917</priority>
+<Gen_description>0</Gen_description>
+<s_ColLineage>kNOq8QIAAACQ06rxCQAAAJDTqvEMAAAAkNOq8Q4AAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{BF8A494D-F2CC-4027-B896-064040D9D4DC}</s_GUID>
+<s_Lineage>kNOq8Q4AAAAAAAAAAAAAAA==
+</s_Lineage>
+</effects>
+<effects>
+<effect>gdp_mod_ports</effect>
+<icon>data/ui/campaign ui/pips/effect_economy.tga</icon>
+<description>%+n%% wealth generated by ports</description>
+<priority>918</priority>
+<Gen_description>0</Gen_description>
+<s_ColLineage>kNOq8QIAAACQ06rxBwAAAJDTqvEKAAAAkNOq8QwAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{9FEDBF79-D194-4C8C-8960-937609548B24}</s_GUID>
+<s_Lineage>kNOq8QwAAAAAAAAAAAAAAA==
+</s_Lineage>
+</effects>
+<effects>
+<effect>gdp_port</effect>
+<icon>data/ui/campaign ui/pips/effect_economy.tga</icon>
+<description>%+n to region wealth</description>
+<priority>920</priority>
+<Gen_description>0</Gen_description>
+<s_ColLineage>kNOq8QgAAACQ06rxCwAAAJDTqvEJAAAAkNOq8Q8AAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{878F6257-43AE-4E12-B81A-94AF69C27B32}</s_GUID>
+<s_Lineage>kNOq8Q8AAAAAAAAAAAAAAA==
+</s_Lineage>
+</effects>
+<effects>
+<effect>gentlemen_happiness_bonus</effect>
+<icon>data/ui/campaign ui/pips/effect_characters.tga</icon>
+<description>%+n happiness</description>
+<priority>900</priority>
+<Gen_description>0</Gen_description>
+<s_ColLineage>W4e7tQIAAABbh7u1BAAAAFuHu7UDAAAAW4e7tQUAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{10B1FDA0-8F9C-47F8-8D3C-7B4BCAE41F36}</s_GUID>
+<s_Lineage>W4e7tQUAAAAAAAAAAAAAAA==
+</s_Lineage>
+</effects>
+<effects>
+<effect>global_home_region_only</effect>
+<icon>data/ui/campaign ui/pips/government-happy.tga</icon>
+<description>Nation-wide effects only apply when this building is in your home region</description>
+<priority>2</priority>
+<Gen_description>0</Gen_description>
+<s_ColLineage>arltagMAAABquW1qBQAAAGq5bWoHAAAAarltagUAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{352CCB11-B38D-4D40-9FBD-8C070CE79CC1}</s_GUID>
+<s_Lineage>arltagcAAAAAAAAAAAAAAA==
+</s_Lineage>
+</effects>
+<effects>
+<effect>happy_active_lower_gov_type</effect>
+<icon>data/ui/campaign ui/pips/effect_public_order.tga</icon>
+<description>%+n happiness (lower classes)</description>
+<priority>9023</priority>
+<Gen_description>0</Gen_description>
+<s_ColLineage>kNOq8QIAAACQ06rxEwAAAJDTqvEMAAAAkNOq8RYAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{978AA1B6-15D1-4EBF-BA12-9513B975C1C5}</s_GUID>
+<s_Lineage>kNOq8RYAAAAAAAAAAAAAAA==
+</s_Lineage>
+</effects>
+<effects>
+<effect>happy_active_lower_tax</effect>
+<icon>data/ui/campaign ui/pips/effect_public_order.tga</icon>
+<description>%+n happiness for all your regions</description>
+<priority>9025</priority>
+<Gen_description>0</Gen_description>
+<s_ColLineage>kNOq8QEAAACQ06rxFAAAAGq5bWoYAAAAkNOq8RcAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{10AB2235-C586-498E-8D64-D057938890B1}</s_GUID>
+<s_Lineage>arltahgAAACQ06rxFwAAAAAAAAAAAAAA
+</s_Lineage>
+</effects>
+<effects>
+<effect>happy_active_upper_gov_type</effect>
+<icon>data/ui/campaign ui/pips/effect_public_order.tga</icon>
+<description>%+n happiness (ruling classes)</description>
+<priority>9022</priority>
+<Gen_description>0</Gen_description>
+<s_ColLineage>kNOq8QMAAACQ06rxEwAAAJDTqvEOAAAAkNOq8RYAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{E78D7F6D-0854-4893-A657-B65717415566}</s_GUID>
+<s_Lineage>kNOq8RYAAAAAAAAAAAAAAA==
+</s_Lineage>
+</effects>
+<effects>
+<effect>happy_active_upper_tax</effect>
+<icon>data/ui/campaign ui/pips/effect_public_order.tga</icon>
+<description>%+n happiness for all your regions</description>
+<priority>9024</priority>
+<Gen_description>0</Gen_description>
+<s_ColLineage>kNOq8QEAAACQ06rxEgAAAGq5bWoWAAAAkNOq8RUAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{36FC3221-8DBF-48FB-8FEC-4E072D3635AA}</s_GUID>
+<s_Lineage>arltahYAAACQ06rxFQAAAAAAAAAAAAAA
+</s_Lineage>
+</effects>
+<effects>
+<effect>happy_character_lower</effect>
+<icon>data/ui/campaign ui/pips/effect_public_order.tga</icon>
+<description>%+n happiness (lower classes)</description>
+<priority>9019</priority>
+<Gen_description>0</Gen_description>
+<s_ColLineage>kNOq8QIAAACQ06rxCwAAAJDTqvEEAAAAkNOq8Q8AAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{BCB96DE9-4F24-4ACB-911A-436FE61BC5B3}</s_GUID>
+<s_Lineage>kNOq8Q8AAAAAAAAAAAAAAA==
+</s_Lineage>
+</effects>
+<effects>
+<effect>happy_character_middle</effect>
+<icon>data/ui/campaign ui/pips/effect_public_order.tga</icon>
+<description>%+n happiness (middle classes)</description>
+<priority>9018</priority>
+<Gen_description>0</Gen_description>
+<s_ColLineage>kNOq8QIAAACQ06rxCgAAAJDTqvEFAAAAkNOq8Q0AAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{9D5079A9-A101-461E-988D-EF1BF948DA3B}</s_GUID>
+<s_Lineage>kNOq8Q0AAAAAAAAAAAAAAA==
+</s_Lineage>
+</effects>
+<effects>
+<effect>happy_character_upper</effect>
+<icon>data/ui/campaign ui/pips/effect_public_order.tga</icon>
+<description>%+n happiness (nobility)</description>
+<priority>9017</priority>
+<Gen_description>0</Gen_description>
+<s_ColLineage>kNOq8QIAAACQ06rxCgAAAJDTqvEFAAAAkNOq8Q0AAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{448C2FDD-FE1A-478E-8A7D-78F50F0D9A7B}</s_GUID>
+<s_Lineage>kNOq8Q0AAAAAAAAAAAAAAA==
+</s_Lineage>
+</effects>
+<effects>
+<effect>happy_clamour_for_reform_all_classes</effect>
+<icon>data/ui/campaign ui/pips/effect_public_order.tga</icon>
+<description>%+n happiness. Clamour for reform</description>
+<priority>9017</priority>
+<Gen_description>0</Gen_description>
+<s_ColLineage>kNOq8QIAAACQ06rxAgAAAJDTqvEDAAAAkNOq8QMAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{C317865E-1E9B-47E1-808E-91C80733BFC7}</s_GUID>
+<s_Lineage>kNOq8QMAAAAAAAAAAAAAAA==
+</s_Lineage>
+</effects>
+<effects>
+<effect>happy_clamour_for_reform_lower</effect>
+<icon>data/ui/campaign ui/pips/effect_public_order.tga</icon>
+<description>%+n happiness (lower classes). Clamour for reform</description>
+<priority>9016</priority>
+<Gen_description>0</Gen_description>
+<s_ColLineage>kNOq8QkAAACQ06rxEgAAAJDTqvELAAAAkNOq8RUAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{9A9EF228-8A49-4E36-AEE7-2DDF4F3C64FA}</s_GUID>
+<s_Lineage>kNOq8RUAAAAAAAAAAAAAAA==
+</s_Lineage>
+</effects>
+<effects>
+<effect>happy_clamour_for_reform_middle</effect>
+<icon>data/ui/campaign ui/pips/effect_public_order.tga</icon>
+<description>%+n happiness (middle classes). Clamour for reform</description>
+<priority>9015</priority>
+<Gen_description>0</Gen_description>
+<s_ColLineage>kNOq8QoAAACQ06rxEgAAAJDTqvENAAAAkNOq8RUAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{72251C0F-890A-44CD-AD33-03F489809EB3}</s_GUID>
+<s_Lineage>kNOq8RUAAAAAAAAAAAAAAA==
+</s_Lineage>
+</effects>
+<effects>
+<effect>happy_clamour_for_reform_upper</effect>
+<icon>data/ui/campaign ui/pips/effect_public_order.tga</icon>
+<description>%+n happiness (nobility). Clamour for reform</description>
+<priority>9014</priority>
+<Gen_description>0</Gen_description>
+<s_ColLineage>kNOq8QoAAACQ06rxEwAAAJDTqvEOAAAAkNOq8RYAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{62AB1388-2096-43DC-B5F7-F91EF3095B36}</s_GUID>
+<s_Lineage>kNOq8RYAAAAAAAAAAAAAAA==
+</s_Lineage>
+</effects>
+<effects>
+<effect>happy_culture_all</effect>
+<icon>data/ui/campaign ui/pips/effect_public_order.tga</icon>
+<description>%+n happiness (all classes)</description>
+<priority>9043</priority>
+<Gen_description>0</Gen_description>
+<s_ColLineage>W4e7tQIAAABbh7u1AwAAAFuHu7UEAAAAW4e7tQQAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{1267ACC0-ECF4-4757-BE17-9A893BDBBE57}</s_GUID>
+<s_Lineage>W4e7tQQAAAAAAAAAAAAAAA==
+</s_Lineage>
+</effects>
+<effects>
+<effect>happy_culture_all_global</effect>
+<icon>data/ui/campaign ui/pips/effect_public_order.tga</icon>
+<description>%+n happiness in all your regions (all classes)</description>
+<priority>9043</priority>
+<Gen_description>0</Gen_description>
+<s_ColLineage>W4e7tQIAAABbh7u1AgAAAFuHu7UCAAAAW4e7tQIAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{82C8E546-8119-4D91-AC0E-2EE43A0CE4D1}</s_GUID>
+<s_Lineage>W4e7tQIAAAAAAAAAAAAAAA==
+</s_Lineage>
+</effects>
+<effects>
+<effect>happy_culture_lower</effect>
+<icon>data/ui/campaign ui/pips/effect_public_order.tga</icon>
+<description>%+n happiness (lower classes)</description>
+<priority>9013</priority>
+<Gen_description>0</Gen_description>
+<s_ColLineage>kNOq8QsAAACQ06rxEQAAAJDTqvEMAAAAkNOq8RQAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{BBE34838-5C8E-46E7-8071-FF706B8AB84B}</s_GUID>
+<s_Lineage>kNOq8RQAAAAAAAAAAAAAAA==
+</s_Lineage>
+</effects>
+<effects>
+<effect>happy_culture_lower_global</effect>
+<icon>data/ui/campaign ui/pips/effect_public_order.tga</icon>
+<description>%+n happiness (lower classes)</description>
+<priority>9039</priority>
+<Gen_description>0</Gen_description>
+<s_ColLineage>W4e7tQIAAABbh7u1AgAAAFuHu7UCAAAAW4e7tQMAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{A30D9E3C-BCCA-4BB7-8E71-0CF051FDFAA2}</s_GUID>
+<s_Lineage>W4e7tQMAAAAAAAAAAAAAAA==
+</s_Lineage>
+</effects>
+<effects>
+<effect>happy_culture_middle</effect>
+<icon>data/ui/campaign ui/pips/effect_public_order.tga</icon>
+<description>%+n happiness (middle classes)</description>
+<priority>9012</priority>
+<Gen_description>0</Gen_description>
+<s_ColLineage>kNOq8QkAAACQ06rxEAAAAJDTqvELAAAAkNOq8RMAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{503D1794-B36E-4B07-9379-5FEEF7B7335D}</s_GUID>
+<s_Lineage>kNOq8RMAAAAAAAAAAAAAAA==
+</s_Lineage>
+</effects>
+<effects>
+<effect>happy_culture_middle_global</effect>
+<icon>data/ui/campaign ui/pips/effect_public_order.tga</icon>
+<description>%+n happiness (middle classes)</description>
+<priority>9040</priority>
+<Gen_description>0</Gen_description>
+<s_ColLineage>W4e7tQIAAABbh7u1AgAAAFuHu7UCAAAAW4e7tQQAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{A69D4D7A-5C5E-470B-A990-5C7844E0177A}</s_GUID>
+<s_Lineage>W4e7tQQAAAAAAAAAAAAAAA==
+</s_Lineage>
+</effects>
+<effects>
+<effect>happy_culture_upper</effect>
+<icon>data/ui/campaign ui/pips/effect_public_order.tga</icon>
+<description>%+n happiness (nobility)</description>
+<priority>9011</priority>
+<Gen_description>0</Gen_description>
+<s_ColLineage>kNOq8QkAAACQ06rxEAAAAJDTqvELAAAAkNOq8RMAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{48C0E686-8731-4C5B-988E-FD13AAA426A2}</s_GUID>
+<s_Lineage>kNOq8RMAAAAAAAAAAAAAAA==
+</s_Lineage>
+</effects>
+<effects>
+<effect>happy_culture_upper_global</effect>
+<icon>data/ui/campaign ui/pips/effect_public_order.tga</icon>
+<description>%+n happiness (upper classes)</description>
+<priority>9041</priority>
+<Gen_description>0</Gen_description>
+<s_ColLineage>W4e7tQIAAABbh7u1AgAAAFuHu7UCAAAAW4e7tQQAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{B824E611-D0C5-421D-B0E8-F8F6A824968F}</s_GUID>
+<s_Lineage>W4e7tQQAAAAAAAAAAAAAAA==
+</s_Lineage>
+</effects>
+<effects>
+<effect>happy_events_factional</effect>
+<icon>data/ui/campaign ui/pips/effect_public_order.tga</icon>
+<description>%+n happiness across the nation</description>
+<priority>9010</priority>
+<Gen_description>0</Gen_description>
+<s_ColLineage>kNOq8QMAAACQ06rxDgAAAJDTqvELAAAAkNOq8REAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{C0E06A3B-63BC-492C-90CC-DB907A0241E6}</s_GUID>
+<s_Lineage>kNOq8REAAAAAAAAAAAAAAA==
+</s_Lineage>
+</effects>
+<effects>
+<effect>happy_events_regional</effect>
+<icon>data/ui/campaign ui/pips/effect_public_order.tga</icon>
+<description>%+n region happiness</description>
+<priority>9009</priority>
+<Gen_description>0</Gen_description>
+<s_ColLineage>kNOq8QIAAACQ06rxDQAAAJDTqvEKAAAAkNOq8RAAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{D610B81D-05B5-418C-868E-8F49525F7037}</s_GUID>
+<s_Lineage>kNOq8RAAAAAAAAAAAAAAAA==
+</s_Lineage>
+</effects>
+<effects>
+<effect>happy_government_lower</effect>
+<icon>data/ui/campaign ui/pips/effect_lower_classes.tga</icon>
+<description>%+n happiness (lower classes)</description>
+<priority>9008</priority>
+<Gen_description>0</Gen_description>
+<s_ColLineage>kNOq8QIAAACQ06rxBgAAAJDTqvEEAAAAkNOq8QsAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{D0B9DD15-3B6F-4F2A-A076-8F204E11A8A1}</s_GUID>
+<s_Lineage>kNOq8QsAAAAAAAAAAAAAAA==
+</s_Lineage>
+</effects>
+<effects>
+<effect>happy_government_middle</effect>
+<icon>data/ui/campaign ui/pips/effect_upper_classes.tga</icon>
+<description>%+n happiness (middle classes)</description>
+<priority>9007</priority>
+<Gen_description>0</Gen_description>
+<s_ColLineage>kNOq8QIAAACQ06rxBwAAAJDTqvEFAAAAkNOq8QsAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{21E99EE0-57DB-4FC9-8981-2C7B1F39FF3F}</s_GUID>
+<s_Lineage>kNOq8QsAAAAAAAAAAAAAAA==
+</s_Lineage>
+</effects>
+<effects>
+<effect>happy_government_upper</effect>
+<icon>data/ui/campaign ui/pips/effect_upper_classes.tga</icon>
+<description>%+n happiness (nobility)</description>
+<priority>9006</priority>
+<Gen_description>0</Gen_description>
+<s_ColLineage>kNOq8QIAAACQ06rxCAAAAJDTqvEGAAAAkNOq8QwAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{AB59AF1E-4089-4174-BDDE-18B5EA09BD78}</s_GUID>
+<s_Lineage>kNOq8QwAAAAAAAAAAAAAAA==
+</s_Lineage>
+</effects>
+<effects>
+<effect>happy_industrialisation_lower</effect>
+<icon>data/ui/campaign ui/pips/effect_lower_classes.tga</icon>
+<description>%+n happiness from industrialisation (lower classes)</description>
+<priority>9005</priority>
+<Gen_description>0</Gen_description>
+<s_ColLineage>kNOq8QsAAACQ06rxDgAAAJDTqvEPAAAAkNOq8RMAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{C81EC0EC-EC0A-4AF6-B137-D7BACAB92F08}</s_GUID>
+<s_Lineage>kNOq8RMAAAAAAAAAAAAAAA==
+</s_Lineage>
+</effects>
+<effects>
+<effect>happy_industrialisation_middle</effect>
+<icon>data/ui/campaign ui/pips/effect_upper_classes.tga</icon>
+<description>%+n happiness from industrialisation (middle classes)</description>
+<priority>9004</priority>
+<Gen_description>0</Gen_description>
+<s_ColLineage>kNOq8QoAAACQ06rxEwAAAJDTqvEPAAAAkNOq8RUAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{1D425388-9CF9-4302-BCED-46DD25F138DF}</s_GUID>
+<s_Lineage>kNOq8RUAAAAAAAAAAAAAAA==
+</s_Lineage>
+</effects>
+<effects>
+<effect>happy_industrialisation_upper</effect>
+<icon>data/ui/campaign ui/pips/effect_upper_classes.tga</icon>
+<description>%+n happiness from industrialisation (nobility)</description>
+<priority>9003</priority>
+<Gen_description>0</Gen_description>
+<s_ColLineage>kNOq8QoAAACQ06rxEgAAAJDTqvEOAAAAkNOq8RQAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{A1C00772-EB3E-4141-A8AF-F0BF54267407}</s_GUID>
+<s_Lineage>kNOq8RQAAAAAAAAAAAAAAA==
+</s_Lineage>
+</effects>
+<effects>
+<effect>happy_ministerial_position</effect>
+<icon>data/ui/campaign ui/pips/effect_public_order.tga</icon>
+<description>%+n happiness</description>
+<priority>9020</priority>
+<Gen_description>0</Gen_description>
+<s_ColLineage>kNOq8QUAAACQ06rxEAAAAJDTqvEMAAAAkNOq8RIAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{9820D268-0C93-40CB-9863-C1370FA8DF68}</s_GUID>
+<s_Lineage>kNOq8RIAAAAAAAAAAAAAAA==
+</s_Lineage>
+</effects>
+<effects>
+<effect>happy_mod_religious_unrest</effect>
+<icon>data/ui/campaign ui/pips/effect_public_order.tga</icon>
+<description>%+n%% to religious unrest</description>
+<priority>9021</priority>
+<Gen_description>0</Gen_description>
+<s_ColLineage>kNOq8QIAAACQ06rxCQAAAJDTqvEHAAAAkNOq8QsAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{CD13A665-C4D2-400C-8D0E-3F99E29A5F6E}</s_GUID>
+<s_Lineage>kNOq8QsAAAAAAAAAAAAAAA==
+</s_Lineage>
+</effects>
+<effects>
+<effect>happy_religion_animist</effect>
+<icon>data/ui/campaign ui/pips/effect_public_order.tga</icon>
+<description>%+n happiness for the animist population (lower classes)</description>
+<priority>9028</priority>
+<Gen_description>0</Gen_description>
+<s_ColLineage>kNOq8REAAAA0CceOEwAAAJDTqvEQAAAANAnHjhIAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{50F3F335-B527-48F9-92D0-22E84F11D8FD}</s_GUID>
+<s_Lineage>NAnHjhMAAACQ06rxEQAAAAAAAAAAAAAA
+</s_Lineage>
+</effects>
+<effects>
+<effect>happy_religion_buddhist</effect>
+<icon>data/ui/campaign ui/pips/effect_public_order.tga</icon>
+<description>%+n happiness for the Buddhist population (lower classes)</description>
+<priority>9029</priority>
+<Gen_description>0</Gen_description>
+<s_ColLineage>kNOq8Q8AAAA0CceOEQAAAJDTqvENAAAANAnHjhAAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{04A66F5B-DB70-4731-B3B7-5322DDA45346}</s_GUID>
+<s_Lineage>NAnHjhEAAACQ06rxDwAAAAAAAAAAAAAA
+</s_Lineage>
+</effects>
+<effects>
+<effect>happy_religion_catholic</effect>
+<icon>data/ui/campaign ui/pips/effect_public_order.tga</icon>
+<description>%+n happiness for the Catholic population (lower classes)</description>
+<priority>9030</priority>
+<Gen_description>0</Gen_description>
+<s_ColLineage>kNOq8Q8AAAA0CceOEQAAAJDTqvENAAAANAnHjhAAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{8670DBF2-77B7-4B79-8C56-BD87A695DCC3}</s_GUID>
+<s_Lineage>NAnHjhEAAACQ06rxDwAAAAAAAAAAAAAA
+</s_Lineage>
+</effects>
+<effects>
+<effect>happy_religion_hindu</effect>
+<icon>data/ui/campaign ui/pips/effect_public_order.tga</icon>
+<description>%+n happiness for the Hindu population (lower classes)</description>
+<priority>9031</priority>
+<Gen_description>0</Gen_description>
+<s_ColLineage>kNOq8Q8AAAA0CceOEQAAAJDTqvENAAAANAnHjhAAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{81C01358-6932-48D1-97F1-654B79DF6EE0}</s_GUID>
+<s_Lineage>NAnHjhEAAACQ06rxDwAAAAAAAAAAAAAA
+</s_Lineage>
+</effects>
+<effects>
+<effect>happy_religion_islam</effect>
+<icon>data/ui/campaign ui/pips/effect_public_order.tga</icon>
+<description>%+n happiness for the Muslim population (lower classes)</description>
+<priority>9032</priority>
+<Gen_description>0</Gen_description>
+<s_ColLineage>kNOq8Q8AAAA0CceOEQAAAJDTqvENAAAANAnHjhAAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{3EEA097A-5E82-4B96-8D65-188556559538}</s_GUID>
+<s_Lineage>NAnHjhEAAACQ06rxDwAAAAAAAAAAAAAA
+</s_Lineage>
+</effects>
+<effects>
+<effect>happy_religion_lower</effect>
+<icon>data/ui/campaign ui/pips/effect_lower_classes.tga</icon>
+<description>%+n to religious happiness (lower classes)</description>
+<priority>9033</priority>
+<Gen_description>0</Gen_description>
+<s_ColLineage>kNOq8QkAAAA0CceOFQAAAJDTqvESAAAANAnHjhQAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{F1F3975F-4089-43B8-9B56-F95EF9605136}</s_GUID>
+<s_Lineage>NAnHjhUAAACQ06rxEwAAAAAAAAAAAAAA
+</s_Lineage>
+</effects>
+<effects>
+<effect>happy_religion_middle</effect>
+<icon>data/ui/campaign ui/pips/effect_upper_classes.tga</icon>
+<description>%+n to religious happiness (middle classes)</description>
+<priority>9034</priority>
+<Gen_description>0</Gen_description>
+<s_ColLineage>kNOq8QoAAACQ06rxDQAAAJDTqvEUAAAANAnHjhYAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{610D1389-6290-47C4-B8CC-B396F7F9F219}</s_GUID>
+<s_Lineage>NAnHjhYAAACQ06rxFQAAAAAAAAAAAAAA
+</s_Lineage>
+</effects>
+<effects>
+<effect>happy_religion_orthodox</effect>
+<icon>data/ui/campaign ui/pips/effect_public_order.tga</icon>
+<description>%+n happiness for the Orthodox population (lower classes)</description>
+<priority>9035</priority>
+<Gen_description>0</Gen_description>
+<s_ColLineage>kNOq8RIAAAA0CceOFAAAAJDTqvEQAAAANAnHjhMAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{E3EC0D63-78C4-404A-A8F9-26C5294F8598}</s_GUID>
+<s_Lineage>NAnHjhQAAACQ06rxEgAAAAAAAAAAAAAA
+</s_Lineage>
+</effects>
+<effects>
+<effect>happy_religion_protestant</effect>
+<icon>data/ui/campaign ui/pips/effect_public_order.tga</icon>
+<description>%+n happiness for the Protestant population (lower classes)</description>
+<priority>9036</priority>
+<Gen_description>0</Gen_description>
+<s_ColLineage>kNOq8REAAAA0CceOEwAAAJDTqvEPAAAANAnHjhIAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{04582B4B-CDE7-4900-9AFF-D58B61DA5EF1}</s_GUID>
+<s_Lineage>NAnHjhMAAACQ06rxEQAAAAAAAAAAAAAA
+</s_Lineage>
+</effects>
+<effects>
+<effect>happy_religion_sikh</effect>
+<icon>data/ui/campaign ui/pips/effect_public_order.tga</icon>
+<description>%+n happiness for the Sikh population (lower classes)</description>
+<priority>9037</priority>
+<Gen_description>0</Gen_description>
+<s_ColLineage>kNOq8Q8AAAA0CceOEQAAAJDTqvENAAAANAnHjhAAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{F5E20B12-1E4C-4A28-B6EB-7D54EBCD0474}</s_GUID>
+<s_Lineage>NAnHjhEAAACQ06rxDwAAAAAAAAAAAAAA
+</s_Lineage>
+</effects>
+<effects>
+<effect>happy_religion_upper</effect>
+<icon>data/ui/campaign ui/pips/effect_upper_classes.tga</icon>
+<description>%+n to religious happiness (nobility)</description>
+<priority>9038</priority>
+<Gen_description>0</Gen_description>
+<s_ColLineage>kNOq8QsAAACQ06rxDgAAAJDTqvETAAAANAnHjhUAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{06BA204A-2B96-4341-863D-5F2CF10950DF}</s_GUID>
+<s_Lineage>NAnHjhUAAACQ06rxFAAAAAAAAAAAAAAA
+</s_Lineage>
+</effects>
+<effects>
+<effect>happy_tax_active_lower</effect>
+<icon>data/ui/campaign ui/pips/effect_lower_classes.tga</icon>
+<description>%+n happiness</description>
+<priority>9027</priority>
+<Gen_description>0</Gen_description>
+<s_ColLineage>kNOq8QQAAACQ06rxBgAAAJDTqvEIAAAAkNOq8QwAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{AB79DCC7-E055-42B9-9AB6-468E6171D00E}</s_GUID>
+<s_Lineage>kNOq8QwAAAAAAAAAAAAAAA==
+</s_Lineage>
+</effects>
+<effects>
+<effect>happy_tax_active_upper</effect>
+<icon>data/ui/campaign ui/pips/effect_upper_classes.tga</icon>
+<description>%+n happiness</description>
+<priority>9026</priority>
+<Gen_description>0</Gen_description>
+<s_ColLineage>kNOq8QQAAACQ06rxBgAAAJDTqvEIAAAAkNOq8QwAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{44571035-4BDC-4321-B8BE-D3DEBBD2927F}</s_GUID>
+<s_Lineage>kNOq8QwAAAAAAAAAAAAAAA==
+</s_Lineage>
+</effects>
+<effects>
+<effect>happy_tax_lower</effect>
+<icon>data/ui/campaign ui/pips/effect_lower_classes.tga</icon>
+<description>%+n happiness</description>
+<priority>9002</priority>
+<Gen_description>0</Gen_description>
+<s_ColLineage>kNOq8QkAAACQ06rxDQAAAJDTqvEOAAAAkNOq8RIAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{A6D473B1-4AB6-47EB-928E-3614B6CE7337}</s_GUID>
+<s_Lineage>kNOq8RIAAAAAAAAAAAAAAA==
+</s_Lineage>
+</effects>
+<effects>
+<effect>happy_tax_middle</effect>
+<icon>data/ui/campaign ui/pips/effect_upper_classes.tga</icon>
+<description>%+n happiness</description>
+<priority>9001</priority>
+<Gen_description>0</Gen_description>
+<s_ColLineage>kNOq8QoAAACQ06rxDwAAAJDTqvEQAAAAkNOq8RQAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{1301801B-17AF-4CB1-BD69-A23007DABF7F}</s_GUID>
+<s_Lineage>kNOq8RQAAAAAAAAAAAAAAA==
+</s_Lineage>
+</effects>
+<effects>
+<effect>happy_tax_upper</effect>
+<icon>data/ui/campaign ui/pips/effect_upper_classes.tga</icon>
+<description>%+n happiness</description>
+<priority>9000</priority>
+<Gen_description>0</Gen_description>
+<s_ColLineage>kNOq8QkAAACQ06rxDgAAAJDTqvEPAAAAkNOq8RIAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{41905BFF-0169-40A5-9D89-5E4F200B8624}</s_GUID>
+<s_Lineage>kNOq8RIAAAAAAAAAAAAAAA==
+</s_Lineage>
+</effects>
+<effects>
+<effect>happy_war_results_home_region</effect>
+<icon>data/ui/campaign ui/pips/effect_army.tga</icon>
+<description>%+n patriotic fervour in the home region</description>
+<priority>1</priority>
+<Gen_description>0</Gen_description>
+<s_ColLineage>kNOq8QkAAACQ06rxDAAAAJDTqvERAAAAkNOq8RIAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{B7DC1B5B-29E3-4F05-B9DC-3C2EF7C68D6E}</s_GUID>
+<s_Lineage>kNOq8RIAAAAAAAAAAAAAAA==
+</s_Lineage>
+</effects>
+<effects>
+<effect>hates_europeans</effect>
+<icon>data/ui/campaign ui/pips/effect_general.tga</icon>
+<description>%+n to Command when in battle against European nations</description>
+<priority>1</priority>
+<Gen_description>0</Gen_description>
+<s_ColLineage>kNOq8QIAAABquW1qBQAAAJDTqvEDAAAAkNOq8QIAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{4190A696-7C2B-4FE7-863E-32A20FCC8E11}</s_GUID>
+<s_Lineage>arltagUAAACQ06rxBAAAAAAAAAAAAAAA
+</s_Lineage>
+</effects>
+<effects>
+<effect>hates_ottomans</effect>
+<icon>data/ui/campaign ui/pips/effect_general.tga</icon>
+<description>%+n to Command when in battle against the Ottomans</description>
+<priority>1</priority>
+<Gen_description>0</Gen_description>
+<s_ColLineage>kNOq8QIAAABquW1qBgAAAJDTqvEDAAAAkNOq8QQAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{EB7453A0-3562-4C2B-8F55-F07A3EA75185}</s_GUID>
+<s_Lineage>arltagYAAACQ06rxBQAAAAAAAAAAAAAA
+</s_Lineage>
+</effects>
+<effects>
+<effect>hide_enable_long_grass</effect>
+<icon>data/ui/campaign ui/pips/effect_army.tga</icon>
+<description>Allows the unit to hide in long grass or similar</description>
+<priority>1</priority>
+<Gen_description>0</Gen_description>
+<s_ColLineage>kNOq8QIAAACQ06rxAwAAAJDTqvEGAAAAkNOq8QQAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{6BA6A19F-B04A-44AE-9450-70A851D283BA}</s_GUID>
+<s_Lineage>kNOq8QYAAAAAAAAAAAAAAA==
+</s_Lineage>
+</effects>
+<effects>
+<effect>hide_enable_scrub</effect>
+<icon>data/ui/campaign ui/pips/effect_army.tga</icon>
+<description>Allows the unit to hide in scrub or similar</description>
+<priority>1</priority>
+<Gen_description>0</Gen_description>
+<s_ColLineage>kNOq8QIAAACQ06rxAwAAAJDTqvEHAAAAkNOq8QUAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{A7F3A84F-91FE-4532-B511-7BF6E353D296}</s_GUID>
+<s_Lineage>kNOq8QcAAAAAAAAAAAAAAA==
+</s_Lineage>
+</effects>
+<effects>
+<effect>hide_enable_snipe</effect>
+<icon>data/ui/campaign ui/pips/effect_army.tga</icon>
+<description>Allows the unit to snipe, remaining hidden while firing</description>
+<priority>1</priority>
+<Gen_description>0</Gen_description>
+<s_ColLineage>kNOq8QIAAACQ06rxAwAAAJDTqvEFAAAAkNOq8QQAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{BC4933F2-DF3E-4E0F-AA9F-B5731F0E4C20}</s_GUID>
+<s_Lineage>kNOq8QUAAAAAAAAAAAAAAA==
+</s_Lineage>
+</effects>
+<effects>
+<effect>hide_enable_stalk</effect>
+<icon>data/ui/campaign ui/pips/effect_army.tga</icon>
+<description>Allows the unit to stalk, remaining hidden while walking</description>
+<priority>1</priority>
+<Gen_description>0</Gen_description>
+<s_ColLineage>kNOq8QIAAACQ06rxAwAAAJDTqvEFAAAAkNOq8QQAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{98E1B8E1-FEDB-4245-BC11-48C29E42395F}</s_GUID>
+<s_Lineage>kNOq8QUAAAAAAAAAAAAAAA==
+</s_Lineage>
+</effects>
+<effects>
+<effect>large_city_fortifications</effect>
+<icon>data/ui/campaign ui/pips/effect_army.tga</icon>
+<description>Surrounds city approaches with a ring of star forts, protecting it from assault</description>
+<priority>1</priority>
+<Gen_description>0</Gen_description>
+<s_ColLineage>kNOq8QIAAACQ06rxAwAAAJDTqvEHAAAAkNOq8QYAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{2C394A72-AF0E-452D-B004-F1DFB877CED3}</s_GUID>
+<s_Lineage>kNOq8QcAAAAAAAAAAAAAAA==
+</s_Lineage>
+</effects>
+<effects>
+<effect>line_of_sight_mod</effect>
+<icon>data/ui/campaign ui/pips/effect_army.tga</icon>
+<description>%+n%% to line of sight range</description>
+<priority>1</priority>
+<Gen_description>0</Gen_description>
+<s_ColLineage>W4e7tQIAAABbh7u1BQAAAFuHu7UDAAAAW4e7tQQAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{E8453A7B-579D-4380-BE9C-BF505261BE50}</s_GUID>
+<s_Lineage>W4e7tQUAAAAAAAAAAAAAAA==
+</s_Lineage>
+</effects>
+<effects>
+<effect>looting_mod</effect>
+<icon>data/ui/campaign ui/pips/effect_army.tga</icon>
+<description>%+n%% to amount gained when looting</description>
+<priority>1</priority>
+<Gen_description>0</Gen_description>
+<s_ColLineage>W4e7tQIAAABquW1qBAAAAFuHu7UDAAAAarltagUAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{DB40D323-2AC0-4DC4-A76A-08287505DABC}</s_GUID>
+<s_Lineage>arltagUAAABbh7u1AwAAAAAAAAAAAAAA
+</s_Lineage>
+</effects>
+<effects>
+<effect>management_army</effect>
+<icon>data/ui/campaign ui/pips/effect_army.tga</icon>
+<description>%+n to Management for army administration</description>
+<priority>2</priority>
+<Gen_description>0</Gen_description>
+<s_ColLineage>kNOq8QIAAACQ06rxBgAAAJDTqvEEAAAAkNOq8QUAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{760D3663-2E9F-4DC7-A07A-D4E64157BCB9}</s_GUID>
+<s_Lineage>kNOq8QYAAAAAAAAAAAAAAA==
+</s_Lineage>
+</effects>
+<effects>
+<effect>management_finance</effect>
+<icon>data/ui/campaign ui/pips/effect_economy.tga</icon>
+<description>%+n to Management for treasury administration</description>
+<priority>4</priority>
+<Gen_description>0</Gen_description>
+<s_ColLineage>kNOq8QIAAACQ06rxBgAAAJDTqvEDAAAAkNOq8QUAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{F05AE519-D258-48E6-8892-8632180F373E}</s_GUID>
+<s_Lineage>kNOq8QYAAAAAAAAAAAAAAA==
+</s_Lineage>
+</effects>
+<effects>
+<effect>management_justice</effect>
+<icon>data/ui/campaign ui/pips/government-repression.tga</icon>
+<description>%+n to Management for justice administration</description>
+<priority>5</priority>
+<Gen_description>0</Gen_description>
+<s_ColLineage>kNOq8QIAAACQ06rxBgAAAJDTqvEDAAAAkNOq8QUAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{49BF2C9F-3BDF-40E3-859F-9CDDE59B835C}</s_GUID>
+<s_Lineage>kNOq8QYAAAAAAAAAAAAAAA==
+</s_Lineage>
+</effects>
+<effects>
+<effect>management_navy</effect>
+<icon>data/ui/campaign ui/pips/effect_navy.tga</icon>
+<description>%+n to Management for navy administration</description>
+<priority>3</priority>
+<Gen_description>0</Gen_description>
+<s_ColLineage>kNOq8QIAAACQ06rxCAAAAJDTqvEFAAAAkNOq8QcAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{C986929D-133E-411B-A69E-3FF07A5451DF}</s_GUID>
+<s_Lineage>kNOq8QgAAAAAAAAAAAAAAA==
+</s_Lineage>
+</effects>
+<effects>
+<effect>mod_accuracy_artillery</effect>
+<icon>data/ui/campaign ui/pips/effect_artillery.tga</icon>
+<description>%+n to artillery accuracy</description>
+<priority>1</priority>
+<Gen_description>0</Gen_description>
+<s_ColLineage>W4e7tQIAAABquW1qBAAAAFuHu7UCAAAAW4e7tQIAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{28122CB3-A374-40ED-ADFD-D9042458C6EB}</s_GUID>
+<s_Lineage>arltagQAAABbh7u1AwAAAAAAAAAAAAAA
+</s_Lineage>
+</effects>
+<effects>
+<effect>mod_accuracy_artillery_all</effect>
+<icon>data/ui/campaign ui/pips/effect_artillery.tga</icon>
+<description>%+n%% bonus to artillery accuracy</description>
+<priority>2014</priority>
+<Gen_description>0</Gen_description>
+<s_ColLineage>W4e7tQIAAABquW1qBQAAAGq5bWoGAAAAW4e7tQQAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{9A2ACB67-2461-4FFD-8E51-0C56F6B8BB6C}</s_GUID>
+<s_Lineage>arltagYAAABbh7u1BAAAAAAAAAAAAAAA
+</s_Lineage>
+</effects>
+<effects>
+<effect>mod_battle_death_rate</effect>
+<icon>data/ui/campaign ui/pips/effect_army.tga</icon>
+<description>%+n%% to recovery chance of battle casualties</description>
+<priority>1</priority>
+<Gen_description>0</Gen_description>
+<s_ColLineage>kNOq8QEAAACQ06rxCQAAAJDTqvEMAAAAkNOq8Q4AAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{B4959B0C-E799-470A-968D-CC76BE7CACA9}</s_GUID>
+<s_Lineage>kNOq8Q4AAAAAAAAAAAAAAA==
+</s_Lineage>
+</effects>
+<effects>
+<effect>mod_boarders_melee_attack</effect>
+<description>%+n to melee attack for boarding marines</description>
+<priority>0</priority>
+<Gen_description>0</Gen_description>
+<s_ColLineage>kNOq8QIAAACQ06rxAQAAAJDTqvEDAAAAkNOq8QIAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{69109B51-8B19-4C8C-B058-FA9589E1AEAB}</s_GUID>
+<s_Lineage>kNOq8QMAAAAAAAAAAAAAAA==
+</s_Lineage>
+</effects>
+<effects>
+<effect>mod_faction_claim</effect>
+<priority>0</priority>
+<Gen_description>0</Gen_description>
+<s_ColLineage>kNOq8QEAAAAAAAAAAAAAAJDTqvEHAAAAkNOq8QcAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{934238B2-893D-49B5-A2D3-FAFC51B6EC11}</s_GUID>
+<s_Lineage>kNOq8QcAAAAAAAAAAAAAAA==
+</s_Lineage>
+</effects>
+<effects>
+<effect>mod_factory_build_time</effect>
+<icon>data/ui/campaign ui/pips/effect_building.tga</icon>
+<description>%+n%% to construction time for industrial buildings</description>
+<priority>1</priority>
+<Gen_description>0</Gen_description>
+<s_ColLineage>kNOq8QIAAACQ06rxBgAAAJDTqvEKAAAAkNOq8QgAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{D78EA541-88D5-41E4-8F5B-8252F4787875}</s_GUID>
+<s_Lineage>kNOq8QoAAAAAAAAAAAAAAA==
+</s_Lineage>
+</effects>
+<effects>
+<effect>mod_infantry_movement_campaign</effect>
+<icon>data/ui/campaign ui/pips/effect_army.tga</icon>
+<description>%+n%% to infantry movement on campaign map</description>
+<priority>0</priority>
+<Gen_description>0</Gen_description>
+<s_ColLineage>kNOq8QIAAACQ06rxBgAAAJDTqvEFAAAAkNOq8QcAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{08ACCB2D-26C9-49BD-9272-21DF24C4570A}</s_GUID>
+<s_Lineage>kNOq8QcAAAAAAAAAAAAAAA==
+</s_Lineage>
+</effects>
+<effects>
+<effect>mod_infantry_training_battle</effect>
+<icon>data/ui/campaign ui/pips/effect_infantry.tga</icon>
+<description>%+n to training level for infantry units</description>
+<priority>1</priority>
+<Gen_description>0</Gen_description>
+<s_ColLineage>kNOq8QIAAABquW1qBQAAAJDTqvEDAAAAkNOq8QIAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{98B1AB42-44F7-4ECB-AE9B-5359F092AAB7}</s_GUID>
+<s_Lineage>arltagUAAACQ06rxBAAAAAAAAAAAAAAA
+</s_Lineage>
+</effects>
+<effects>
+<effect>mod_max_pop</effect>
+<icon>data/ui/campaign ui/pips/effect_pop_growth.tga</icon>
+<description>Reduces the chance of food shortages</description>
+<priority>1003</priority>
+<Gen_description>0</Gen_description>
+<s_ColLineage>kNOq8QEAAAA0CceODAAAAJDTqvEFAAAAkNOq8QoAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{08FDFAC0-F9E0-4563-9828-7478F4205306}</s_GUID>
+<s_Lineage>NAnHjgwAAACQ06rxCgAAAAAAAAAAAAAA
+</s_Lineage>
+</effects>
+<effects>
+<effect>mod_morale_militia</effect>
+<icon>data/ui/campaign ui/pips/effect_army.tga</icon>
+<description>%+n to militia morale</description>
+<priority>1</priority>
+<Gen_description>0</Gen_description>
+<s_ColLineage>W4e7tQIAAABbh7u1AwAAAFuHu7UCAAAAW4e7tQIAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{F2AD4F1D-D4D3-4976-B1F9-FF271D0A8434}</s_GUID>
+<s_Lineage>W4e7tQMAAAAAAAAAAAAAAA==
+</s_Lineage>
+</effects>
+<effects>
+<effect>mod_pop_growth</effect>
+<icon>data/ui/campaign ui/pips/effect_pop_growth.tga</icon>
+<description>%+n%% to the population growth impact of farms</description>
+<priority>1004</priority>
+<Gen_description>0</Gen_description>
+<s_ColLineage>kNOq8QEAAAA0CceODQAAAJDTqvEJAAAAkNOq8QwAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{DD39CDCA-D415-46E1-80A7-40D023DBC8A0}</s_GUID>
+<s_Lineage>NAnHjg0AAACQ06rxDAAAAAAAAAAAAAAA
+</s_Lineage>
+</effects>
+<effects>
+<effect>mod_pop_growth_wheat</effect>
+<icon>data/ui/campaign ui/pips/effect_pop_growth.tga</icon>
+<description>%+n%% to the population growth impact of arable farms</description>
+<priority>1005</priority>
+<Gen_description>0</Gen_description>
+<s_ColLineage>kNOq8QEAAAA0CceODAAAAJDTqvEIAAAAkNOq8QsAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{0C909599-2D00-44F1-B9BB-F85FC99E673C}</s_GUID>
+<s_Lineage>NAnHjgwAAACQ06rxCwAAAAAAAAAAAAAA
+</s_Lineage>
+</effects>
+<effects>
+<effect>mod_religion_conversion_rate</effect>
+<icon>data/ui/campaign ui/pips/effect_pop_growth.tga</icon>
+<description>%+n%% to religious conversion</description>
+<priority>1</priority>
+<Gen_description>0</Gen_description>
+<s_ColLineage>kNOq8QEAAAA0CceOCwAAAJDTqvEJAAAAkNOq8QgAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{6B15B03E-16B6-425F-A5BC-96224544D59D}</s_GUID>
+<s_Lineage>NAnHjgsAAACQ06rxCgAAAAAAAAAAAAAA
+</s_Lineage>
+</effects>
+<effects>
+<effect>mod_reload_rate_carbine</effect>
+<icon>data/ui/campaign ui/pips/effect_army.tga</icon>
+<description>%+n%% to carbine reloading time</description>
+<priority>1</priority>
+<Gen_description>0</Gen_description>
+<s_ColLineage>kNOq8QIAAACQ06rxBgAAAJDTqvEKAAAAkNOq8QgAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{494C6DB4-90C6-4490-8FF4-1D9FF6E6836D}</s_GUID>
+<s_Lineage>kNOq8QoAAAAAAAAAAAAAAA==
+</s_Lineage>
+</effects>
+<effects>
+<effect>mod_repair_cost_artillery</effect>
+<icon>data/ui/campaign ui/pips/effect_army.tga</icon>
+<description>%+n%% to artillery repair costs</description>
+<priority>1</priority>
+<Gen_description>0</Gen_description>
+<s_ColLineage>kNOq8QEAAACQ06rxCAAAAJDTqvELAAAAkNOq8QoAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{5C779AD6-9854-427B-8ADC-0F0D07B133AC}</s_GUID>
+<s_Lineage>kNOq8QsAAAAAAAAAAAAAAA==
+</s_Lineage>
+</effects>
+<effects>
+<effect>mod_repair_cost_bldg</effect>
+<icon>data/ui/campaign ui/pips/effect_building.tga</icon>
+<description>%+n%% to building repair costs</description>
+<priority>1</priority>
+<Gen_description>0</Gen_description>
+<s_ColLineage>kNOq8QEAAACQ06rxCgAAAJDTqvENAAAAkNOq8QwAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{7B8AEF2B-3029-49BF-92AF-EAB71F2907B0}</s_GUID>
+<s_Lineage>kNOq8Q0AAAAAAAAAAAAAAA==
+</s_Lineage>
+</effects>
+<effects>
+<effect>mod_rifle_reload_rate</effect>
+<icon>data/ui/campaign ui/pips/effect_artillery.tga</icon>
+<description>%n%% reduction to artillery reloading time</description>
+<priority>1</priority>
+<Gen_description>0</Gen_description>
+<s_ColLineage>kNOq8QEAAABquW1qCwAAAJDTqvEKAAAAkNOq8QkAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{86C35F88-C39F-477D-AAFA-8296FA909181}</s_GUID>
+<s_Lineage>arltagsAAACQ06rxCgAAAAAAAAAAAAAA
+</s_Lineage>
+</effects>
+<effects>
+<effect>mod_ship_attrition</effect>
+<icon>data/ui/campaign ui/pips/effect_navy.tga</icon>
+<description>Reduces chance of storm damage to fleets at sea</description>
+<priority>1</priority>
+<Gen_description>0</Gen_description>
+<s_ColLineage>kNOq8QEAAACQ06rxCQAAAJDTqvEEAAAAkNOq8QgAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{909D8633-3FD6-4FE8-942D-05EAB5B1B11F}</s_GUID>
+<s_Lineage>kNOq8QkAAAAAAAAAAAAAAA==
+</s_Lineage>
+</effects>
+<effects>
+<effect>mod_ship_cannon_fire_rate</effect>
+<icon>data/ui/campaign ui/pips/effect_navy.tga</icon>
+<description>%n%% reduction to naval cannons&apos; reloading time</description>
+<priority>1</priority>
+<Gen_description>0</Gen_description>
+<s_ColLineage>kNOq8QEAAACQ06rxBwAAAJDTqvEKAAAAkNOq8QkAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{3D921306-A54F-4448-8326-478DE1AA88A6}</s_GUID>
+<s_Lineage>kNOq8QoAAAAAAAAAAAAAAA==
+</s_Lineage>
+</effects>
+<effects>
+<effect>mod_ship_cannon_reliability</effect>
+<icon>data/ui/campaign ui/pips/effect_navy.tga</icon>
+<description>%n%% reduction to misfires for naval cannons</description>
+<priority>1</priority>
+<Gen_description>0</Gen_description>
+<s_ColLineage>kNOq8QEAAACQ06rxCQAAAJDTqvEMAAAAkNOq8QsAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{DCE8FD6C-81D7-4996-AF17-BEFB2FC1C1E1}</s_GUID>
+<s_Lineage>kNOq8QwAAAAAAAAAAAAAAA==
+</s_Lineage>
+</effects>
+<effects>
+<effect>mod_ship_disease_chance</effect>
+<icon>data/ui/campaign ui/pips/effect_navy.tga</icon>
+<description>Reduces chance of disease for fleets at sea</description>
+<priority>1</priority>
+<Gen_description>0</Gen_description>
+<s_ColLineage>kNOq8QEAAACQ06rxBwAAAJDTqvEEAAAAkNOq8QkAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{4C2835DB-6E8C-40E3-8329-796055FFB907}</s_GUID>
+<s_Lineage>kNOq8QkAAAAAAAAAAAAAAA==
+</s_Lineage>
+</effects>
+<effects>
+<effect>mod_ship_movement_battle</effect>
+<icon>data/ui/campaign ui/pips/effect_navy.tga</icon>
+<description>%+n%% top speed of ships in battle</description>
+<priority>1</priority>
+<Gen_description>0</Gen_description>
+<s_ColLineage>kNOq8QEAAACQ06rxCAAAAGq5bWoPAAAAkNOq8QoAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{39E47C70-4D0A-44DE-8B3B-BEE317B3FE22}</s_GUID>
+<s_Lineage>arltag8AAACQ06rxDgAAAAAAAAAAAAAA
+</s_Lineage>
+</effects>
+<effects>
+<effect>mod_ship_movement_battle_top_gallants</effect>
+<icon>data/ui/campaign ui/pips/effect_navy.tga</icon>
+<description>%+n%% increase of speed in battle for ships with top gallants</description>
+<priority>1</priority>
+<Gen_description>0</Gen_description>
+<s_ColLineage>kNOq8QIAAACQ06rxBgAAAJDTqvEFAAAAkNOq8QMAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{6029C87F-D895-4945-A4D7-CD03950F7AD7}</s_GUID>
+<s_Lineage>kNOq8QYAAAAAAAAAAAAAAA==
+</s_Lineage>
+</effects>
+<effects>
+<effect>mod_ship_movement_campaign</effect>
+<icon>data/ui/campaign ui/pips/effect_navy.tga</icon>
+<description>%+n%% movement range for ships on the campaign map</description>
+<priority>1</priority>
+<Gen_description>0</Gen_description>
+<s_ColLineage>kNOq8QEAAACQ06rxBQAAAJDTqvEMAAAAkNOq8QgAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{DBAAE3AE-5796-4D24-A1E8-6BD93383CFCA}</s_GUID>
+<s_Lineage>kNOq8QwAAAAAAAAAAAAAAA==
+</s_Lineage>
+</effects>
+<effects>
+<effect>mod_ship_movement_campaign_top_gallants</effect>
+<icon>data/ui/campaign ui/pips/effect_navy.tga</icon>
+<description>%+n%% increase to movement range on campaign map for ships with top gallants</description>
+<priority>1</priority>
+<Gen_description>0</Gen_description>
+<s_ColLineage>kNOq8QIAAACQ06rxBgAAAJDTqvEHAAAAkNOq8QMAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{14D5E573-5287-4645-9D9A-007C35FE0E5E}</s_GUID>
+<s_Lineage>kNOq8QcAAAAAAAAAAAAAAA==
+</s_Lineage>
+</effects>
+<effects>
+<effect>mod_ship_theatre_travel_time</effect>
+<icon>data/ui/campaign ui/pips/effect_navy.tga</icon>
+<description>Reduces the time taken to sail between campaign map theatres</description>
+<priority>0</priority>
+<Gen_description>0</Gen_description>
+<s_ColLineage>kNOq8QEAAACQ06rxBQAAAJDTqvEKAAAAkNOq8QgAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{9120EC6F-4F9A-43ED-9224-AA6EEE399A6C}</s_GUID>
+<s_Lineage>kNOq8QoAAAAAAAAAAAAAAA==
+</s_Lineage>
+</effects>
+<effects>
+<effect>mod_storm_damage</effect>
+<icon>data/ui/campaign ui/pips/effect_navy.tga</icon>
+<description>Reduces chance of storm damage to fleets at sea</description>
+<priority>1</priority>
+<Gen_description>0</Gen_description>
+<s_ColLineage>kNOq8QEAAACQ06rxBQAAAJDTqvEIAAAAkNOq8QcAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{93DC37CE-3D51-43B4-BFBC-005DB1D4956C}</s_GUID>
+<s_Lineage>kNOq8QgAAAAAAAAAAAAAAA==
+</s_Lineage>
+</effects>
+<effects>
+<effect>mod_tech_cost_agriculture</effect>
+<icon>data/ui/campaign ui/pips/effect_tech.tga</icon>
+<description>%+n%% research time for agricultural technologies</description>
+<priority>1</priority>
+<Gen_description>0</Gen_description>
+<s_ColLineage>kNOq8QEAAABquW1qCwAAAGq5bWoMAAAAkNOq8QcAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{8B4575FA-03A8-42FA-AB2F-BA30CA8484FA}</s_GUID>
+<s_Lineage>arltagwAAACQ06rxCgAAAAAAAAAAAAAA
+</s_Lineage>
+</effects>
+<effects>
+<effect>mod_tech_cost_all</effect>
+<icon>data/ui/campaign ui/pips/effect_tech.tga</icon>
+<description>%+n%% research time for all technologies</description>
+<priority>1</priority>
+<Gen_description>0</Gen_description>
+<s_ColLineage>kNOq8QEAAABquW1qCgAAAJDTqvEJAAAAkNOq8QgAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{84D7CDCB-695A-40F9-9279-3F03804210F3}</s_GUID>
+<s_Lineage>arltagoAAACQ06rxCQAAAAAAAAAAAAAA
+</s_Lineage>
+</effects>
+<effects>
+<effect>mod_unit_armour</effect>
+<description>%+n to unit armour value</description>
+<priority>0</priority>
+<Gen_description>0</Gen_description>
+<s_ColLineage>kNOq8QMAAACQ06rxAQAAAJDTqvECAAAAkNOq8QIAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{475386C3-31FA-4EDC-8B68-49C48327FF33}</s_GUID>
+<s_Lineage>kNOq8QMAAAAAAAAAAAAAAA==
+</s_Lineage>
+</effects>
+<effects>
+<effect>mod_unit_marksmanship</effect>
+<icon>data/ui/campaign ui/pips/effect_army.tga</icon>
+<description>%+n to unit marksmanship skill</description>
+<priority>6</priority>
+<Gen_description>0</Gen_description>
+<s_ColLineage>kNOq8QIAAABquW1qBAAAAJDTqvEDAAAAarltagQAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{C5EDE6E0-55EA-41C7-8CDD-9B14CE7B2A7D}</s_GUID>
+<s_Lineage>arltagQAAACQ06rxAwAAAAAAAAAAAAAA
+</s_Lineage>
+</effects>
+<effects>
+<effect>mod_unit_melee_attack</effect>
+<icon>data/ui/campaign ui/pips/effect_army.tga</icon>
+<description>%+n to unit melee attack</description>
+<priority>7</priority>
+<Gen_description>0</Gen_description>
+<s_ColLineage>kNOq8QMAAABquW1qBQAAAJDTqvEEAAAAarltagYAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{13AF80B4-487F-4951-8296-D433DFFD8B59}</s_GUID>
+<s_Lineage>arltagYAAACQ06rxBAAAAAAAAAAAAAAA
+</s_Lineage>
+</effects>
+<effects>
+<effect>mod_unit_melee_defence</effect>
+<icon>data/ui/campaign ui/pips/effect_army.tga</icon>
+<description>%+n to unit melee defence</description>
+<priority>8</priority>
+<Gen_description>0</Gen_description>
+<s_ColLineage>kNOq8QMAAABquW1qBAAAAJDTqvECAAAAarltagUAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{D83C1747-0F43-47F4-8A56-58644B2B2096}</s_GUID>
+<s_Lineage>arltagUAAACQ06rxAwAAAAAAAAAAAAAA
+</s_Lineage>
+</effects>
+<effects>
+<effect>mod_unit_reload_rate</effect>
+<icon>data/ui/campaign ui/pips/effect_army.tga</icon>
+<description>%n%% reduction to unit reloading time</description>
+<priority>9</priority>
+<Gen_description>0</Gen_description>
+<s_ColLineage>kNOq8QIAAABquW1qBQAAAJDTqvEEAAAAarltagYAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{4CF2DDA4-6AA0-4B96-8FFA-FA0794BBA122}</s_GUID>
+<s_Lineage>arltagYAAACQ06rxBAAAAAAAAAAAAAAA
+</s_Lineage>
+</effects>
+<effects>
+<effect>mod_weapon_misfire</effect>
+<icon>data/ui/campaign ui/pips/effect_army.tga</icon>
+<description>%+n%% misfire chance for all gunpowder weapons</description>
+<priority>1</priority>
+<Gen_description>0</Gen_description>
+<s_ColLineage>kNOq8QIAAACQ06rxBQAAAJDTqvEIAAAAkNOq8QcAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{74422A0F-391D-4843-8F3F-83A6290FF1B0}</s_GUID>
+<s_Lineage>kNOq8QgAAAAAAAAAAAAAAA==
+</s_Lineage>
+</effects>
+<effects>
+<effect>mod_weapon_misfire_rain</effect>
+<icon>data/ui/campaign ui/pips/effect_army.tga</icon>
+<description>Reduces the impact of rain on misfires</description>
+<priority>1</priority>
+<Gen_description>0</Gen_description>
+<s_ColLineage>kNOq8QIAAACQ06rxBgAAAJDTqvEEAAAAkNOq8QgAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{25694293-7266-4798-989D-B3F4651CBAE3}</s_GUID>
+<s_Lineage>kNOq8QgAAAAAAAAAAAAAAA==
+</s_Lineage>
+</effects>
+<effects>
+<effect>morale_bonus</effect>
+<icon>data/ui/campaign ui/pips/effect_army.tga</icon>
+<description>%+n to morale in battles</description>
+<priority>1</priority>
+<Gen_description>0</Gen_description>
+<s_ColLineage>kNOq8QIAAACQ06rxAwAAAJDTqvEEAAAAkNOq8QQAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{9E61EBD4-88D5-4C2E-9788-A1AC8F349C2F}</s_GUID>
+<s_Lineage>kNOq8QQAAAAAAAAAAAAAAA==
+</s_Lineage>
+</effects>
+<effects>
+<effect>morale_bonus_land</effect>
+<icon>data/ui/campaign ui/pips/effect_army.tga</icon>
+<priority>0</priority>
+<Gen_description>0</Gen_description>
+<s_ColLineage>kNOq8QIAAACQ06rxAgAAAJDTqvEDAAAAkNOq8QQAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{081BD7A4-9AC0-4504-9603-E2B6AE96AE90}</s_GUID>
+<s_Lineage>kNOq8QQAAAAAAAAAAAAAAA==
+</s_Lineage>
+</effects>
+<effects>
+<effect>morale_bonus_naval</effect>
+<icon>data/ui/campaign ui/pips/effect_naval.tga</icon>
+<priority>0</priority>
+<Gen_description>0</Gen_description>
+<s_ColLineage>kNOq8QQAAACQ06rxBAAAAJDTqvEGAAAAkNOq8QcAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{23649192-97F6-4415-A919-C6ADEF35D70F}</s_GUID>
+<s_Lineage>kNOq8QcAAAAAAAAAAAAAAA==
+</s_Lineage>
+</effects>
+<effects>
+<effect>Movement_Points_All</effect>
+<icon>data/ui/campaign ui/pips/effect_army.tga</icon>
+<description>%+n %% to campaign movement range</description>
+<priority>1</priority>
+<Gen_description>0</Gen_description>
+<s_ColLineage>kNOq8QIAAAA0CceOBgAAAGq5bWoHAAAAkNOq8QIAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{E8ED85D3-EDE7-43D3-9DF8-1B0D9CCE39FD}</s_GUID>
+<s_Lineage>arltagcAAAA0CceOBgAAAJDTqvEFAAAAAAAAAAAAAAA=
+</s_Lineage>
+</effects>
+<effects>
+<effect>Movement_Points_All_Land</effect>
+<icon>data/ui/campaign ui/pips/effect_army.tga</icon>
+<description>%+n %% to army campaign movement range</description>
+<priority>1</priority>
+<Gen_description>0</Gen_description>
+<s_ColLineage>kNOq8QIAAACQ06rxAgAAAGq5bWoFAAAAkNOq8QIAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{5B1AD9E7-F1E6-49F4-818B-FF80E946B2DA}</s_GUID>
+<s_Lineage>arltagUAAACQ06rxBAAAAAAAAAAAAAAA
+</s_Lineage>
+</effects>
+<effects>
+<effect>Movement_Points_Land_Artillery</effect>
+<icon>data/ui/campaign ui/pips/effect_artillery.tga</icon>
+<description>%+n %% to artillery units&apos; campaign movement range</description>
+<priority>1</priority>
+<Gen_description>0</Gen_description>
+<s_ColLineage>kNOq8QIAAABquW1qCQAAAGq5bWoIAAAAkNOq8QQAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{371619CF-ED58-47BD-8039-61A61C7A5835}</s_GUID>
+<s_Lineage>arltagkAAACQ06rxBwAAAAAAAAAAAAAA
+</s_Lineage>
+</effects>
+<effects>
+<effect>Movement_Points_Land_Cavalry</effect>
+<icon>data/ui/campaign ui/pips/effect_cavalry.tga</icon>
+<description>%+n %% to cavalry units&apos; campaign movement range</description>
+<priority>1</priority>
+<Gen_description>0</Gen_description>
+<s_ColLineage>kNOq8QIAAABquW1qCQAAAGq5bWoIAAAAkNOq8QQAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{5EF21329-6F7B-421B-90F0-5126C0C080EE}</s_GUID>
+<s_Lineage>arltagkAAACQ06rxBwAAAAAAAAAAAAAA
+</s_Lineage>
+</effects>
+<effects>
+<effect>Movement_Points_Land_Infantry</effect>
+<icon>data/ui/campaign ui/pips/effect_infantry.tga</icon>
+<description>%+n %% to infantry units&apos; campaign movement range</description>
+<priority>1</priority>
+<Gen_description>0</Gen_description>
+<s_ColLineage>kNOq8QIAAABquW1qCQAAAGq5bWoIAAAAkNOq8QQAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{D7EA6406-53D5-42AD-BF65-444F0B963F41}</s_GUID>
+<s_Lineage>arltagkAAACQ06rxBwAAAAAAAAAAAAAA
+</s_Lineage>
+</effects>
+<effects>
+<effect>naval_attrition</effect>
+<description>%+n%% to attrition at sea</description>
+<priority>0</priority>
+<Gen_description>0</Gen_description>
+<s_ColLineage>kNOq8QIAAACQ06rxAQAAAJDTqvEDAAAAkNOq8QIAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{14D7E6D8-7236-4E09-9CD0-757BDD12318B}</s_GUID>
+<s_Lineage>kNOq8QMAAAAAAAAAAAAAAA==
+</s_Lineage>
+</effects>
+<effects>
+<effect>naval_recruitment_points</effect>
+<icon>data/ui/campaign ui/pips/effect_navy.tga</icon>
+<description>Recruitment capacity (ship under construction): %n</description>
+<priority>10</priority>
+<Gen_description>0</Gen_description>
+<s_ColLineage>kNOq8QIAAACQ06rxBgAAAJDTqvELAAAAarltahIAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{27CE7E23-117A-4266-9ADB-CE643A315591}</s_GUID>
+<s_Lineage>arltahIAAACQ06rxCwAAAAAAAAAAAAAA
+</s_Lineage>
+</effects>
+<effects>
+<effect>observation_balloon</effect>
+<icon>data/ui/campaign ui/pips/effect_army.tga</icon>
+<description>Observation balloon provides a full view of enemy units and their deployment</description>
+<priority>0</priority>
+<Gen_description>0</Gen_description>
+<s_ColLineage>W4e7tQIAAABbh7u1AwAAAFuHu7UFAAAAW4e7tQIAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{89832171-B2CD-4FE8-AED5-217B1A4DDE92}</s_GUID>
+<s_Lineage>W4e7tQUAAAAAAAAAAAAAAA==
+</s_Lineage>
+</effects>
+<effects>
+<effect>personal_security</effect>
+<description>%+n%% to chance of assassination</description>
+<priority>4</priority>
+<Gen_description>0</Gen_description>
+<s_ColLineage>kNOq8QIAAACQ06rxAQAAAJDTqvEDAAAAkNOq8QMAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{6CA3E2E2-E722-4315-8AD2-730298CB599F}</s_GUID>
+<s_Lineage>kNOq8QMAAAAAAAAAAAAAAA==
+</s_Lineage>
+</effects>
+<effects>
+<effect>policing_cost_mod</effect>
+<icon>data/ui/campaign ui/pips/effect_economy.tga</icon>
+<description>%+n%% to the cost of town watch</description>
+<priority>1</priority>
+<Gen_description>0</Gen_description>
+<s_ColLineage>kNOq8QIAAACQ06rxBQAAAJDTqvEKAAAAkNOq8QkAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{06575BDF-470A-48F1-A0A0-765FC5130E69}</s_GUID>
+<s_Lineage>kNOq8QoAAAAAAAAAAAAAAA==
+</s_Lineage>
+</effects>
+<effects>
+<effect>pop_growth_farm</effect>
+<icon>data/ui/campaign ui/pips/eco_agriculture.tga</icon>
+<description>%+n%% to population growth</description>
+<priority>1008</priority>
+<Gen_description>0</Gen_description>
+<s_ColLineage>kNOq8QMAAACQ06rxDQAAAJDTqvELAAAAkNOq8REAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{621D8950-EB87-47CC-974F-65CA87F069F2}</s_GUID>
+<s_Lineage>kNOq8REAAAAAAAAAAAAAAA==
+</s_Lineage>
+</effects>
+<effects>
+<effect>pop_growth_government</effect>
+<icon>data/ui/campaign ui/pips/government-happy.tga</icon>
+<description>%+n%% to population growth</description>
+<priority>1006</priority>
+<Gen_description>0</Gen_description>
+<s_ColLineage>kNOq8QEAAACQ06rxDAAAAJDTqvEKAAAAkNOq8Q8AAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{8010E1C2-4C12-4E19-A9CF-A17B97D6B75A}</s_GUID>
+<s_Lineage>kNOq8Q8AAAAAAAAAAAAAAA==
+</s_Lineage>
+</effects>
+<effects>
+<effect>pop_growth_port_fishing</effect>
+<icon>data/ui/campaign ui/pips/eco-fishing.tga</icon>
+<description>%+n%% to population growth</description>
+<priority>1007</priority>
+<Gen_description>0</Gen_description>
+<s_ColLineage>kNOq8QIAAACQ06rxCgAAAJDTqvEIAAAAkNOq8QwAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{B45B1B30-4455-4336-BCB1-F93AF12F6F50}</s_GUID>
+<s_Lineage>kNOq8QwAAAAAAAAAAAAAAA==
+</s_Lineage>
+</effects>
+<effects>
+<effect>pop_growth_tax_modifier</effect>
+<icon>data/ui/campaign ui/pips/effect_pop_growth.tga</icon>
+<priority>0</priority>
+<Gen_description>0</Gen_description>
+<s_ColLineage>kNOq8QgAAAA0CceOFgAAAJDTqvESAAAAkNOq8RMAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{7D74C2AB-5C65-4C53-9670-B590E23616A4}</s_GUID>
+<s_Lineage>NAnHjhYAAACQ06rxFQAAAAAAAAAAAAAA
+</s_Lineage>
+</effects>
+<effects>
+<effect>pop_growth_tax_modifier_multiplier</effect>
+<icon>data/ui/campaign ui/pips/effect_pop_growth.tga</icon>
+<priority>0</priority>
+<Gen_description>0</Gen_description>
+<s_ColLineage>kNOq8QIAAAA0CceODAAAAJDTqvEJAAAAkNOq8QoAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{2B7B1D82-53C4-47D6-A21B-5721D4715523}</s_GUID>
+<s_Lineage>NAnHjgwAAACQ06rxCwAAAAAAAAAAAAAA
+</s_Lineage>
+</effects>
+<effects>
+<effect>pop_growth_technology_modifier</effect>
+<icon>data/ui/campaign ui/pips/effect_pop_growth.tga</icon>
+<description>%+n%% to the population growth impact of farms</description>
+<priority>1001</priority>
+<Gen_description>0</Gen_description>
+<s_ColLineage>kNOq8QkAAAA0CceOEwAAAJDTqvEPAAAAkNOq8RIAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{2A7F86B4-F4A9-4C03-880C-159AE34F5B64}</s_GUID>
+<s_Lineage>NAnHjhMAAACQ06rxEgAAAAAAAAAAAAAA
+</s_Lineage>
+</effects>
+<effects>
+<effect>pop_growth_visible_tax_effect_extortionate</effect>
+<icon>data/ui/campaign ui/pips/effect_pop_growth.tga</icon>
+<description>Drastically reduces population growth for your regions</description>
+<priority>8014</priority>
+<Gen_description>0</Gen_description>
+<s_ColLineage>kNOq8QIAAAA0CceODQAAAGq5bWoOAAAAkNOq8QwAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{450CD536-D111-4ED6-9806-7E77F76508D2}</s_GUID>
+<s_Lineage>arltag4AAAA0CceODQAAAJDTqvEMAAAAAAAAAAAAAAA=
+</s_Lineage>
+</effects>
+<effects>
+<effect>pop_growth_visible_tax_effect_high</effect>
+<icon>data/ui/campaign ui/pips/effect_pop_growth.tga</icon>
+<description>Significantly reduces population growth for your regions</description>
+<priority>8013</priority>
+<Gen_description>0</Gen_description>
+<s_ColLineage>kNOq8QIAAAA0CceODQAAAGq5bWoOAAAAkNOq8QwAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{3EA20876-57F0-4AFD-AD4C-94C6EABFC9AD}</s_GUID>
+<s_Lineage>arltag4AAAA0CceODQAAAJDTqvEMAAAAAAAAAAAAAAA=
+</s_Lineage>
+</effects>
+<effects>
+<effect>pop_growth_visible_tax_effect_low</effect>
+<icon>data/ui/campaign ui/pips/effect_pop_growth.tga</icon>
+<description>Slightly reduces population growth for your regions</description>
+<priority>8012</priority>
+<Gen_description>0</Gen_description>
+<s_ColLineage>kNOq8QIAAAA0CceODAAAAGq5bWoNAAAAkNOq8QsAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{8E5A5428-9837-43B6-A842-32F424DA40E8}</s_GUID>
+<s_Lineage>arltag0AAAA0CceODAAAAJDTqvELAAAAAAAAAAAAAAA=
+</s_Lineage>
+</effects>
+<effects>
+<effect>pop_growth_visible_tax_effect_minimal</effect>
+<icon>data/ui/campaign ui/pips/effect_pop_growth.tga</icon>
+<description>Minimal reduction in population growth for your regions</description>
+<priority>8015</priority>
+<Gen_description>0</Gen_description>
+<s_ColLineage>kNOq8QIAAAA0CceOCAAAAGq5bWoJAAAAarltagoAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{07DFFE3B-27A1-48EA-B12A-8C34E960AA8A}</s_GUID>
+<s_Lineage>arltagoAAAA0CceOCAAAAJDTqvEHAAAAAAAAAAAAAAA=
+</s_Lineage>
+</effects>
+<effects>
+<effect>pop_growth_visible_tax_effect_normal</effect>
+<icon>data/ui/campaign ui/pips/effect_pop_growth.tga</icon>
+<description>Moderately reduces population growth for your regions</description>
+<priority>8011</priority>
+<Gen_description>0</Gen_description>
+<s_ColLineage>kNOq8QIAAAA0CceODQAAAGq5bWoPAAAAkNOq8QwAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{4D46F5CA-8A62-42EE-954B-DE9744CBAF05}</s_GUID>
+<s_Lineage>arltag8AAAA0CceODQAAAJDTqvEMAAAAAAAAAAAAAAA=
+</s_Lineage>
+</effects>
+<effects>
+<effect>pop_maxpop_modifier</effect>
+<icon>data/ui/campaign ui/pips/effect_pop_growth.tga</icon>
+<description>Reduces the chance of food shortages</description>
+<priority>1002</priority>
+<Gen_description>0</Gen_description>
+<s_ColLineage>kNOq8QgAAAA0CceOEQAAAJDTqvEOAAAAkNOq8RAAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{5C6BC375-EF85-479A-B4E0-ED17EA5E7E8B}</s_GUID>
+<s_Lineage>NAnHjhEAAACQ06rxEAAAAAAAAAAAAAAA
+</s_Lineage>
+</effects>
+<effects>
+<effect>pop_maxpop_modifier_tech_mod</effect>
+<icon>data/ui/campaign ui/pips/effect_pop_growth.tga</icon>
+<description>Reduces the chance of food shortages</description>
+<priority>1000</priority>
+<Gen_description>0</Gen_description>
+<s_ColLineage>kNOq8QYAAAA0CceODgAAAJDTqvEMAAAAkNOq8Q0AAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{D2F73BD0-4011-4A2D-8951-20E0F374FE61}</s_GUID>
+<s_Lineage>NAnHjg4AAACQ06rxDQAAAAAAAAAAAAAA
+</s_Lineage>
+</effects>
+<effects>
+<effect>prestige_enlightenment</effect>
+<icon>data/ui/campaign ui/pips/effect_prestige.tga</icon>
+<description>%+n to Prestige (enlightenment)</description>
+<priority>0</priority>
+<Gen_description>0</Gen_description>
+<s_ColLineage>kNOq8QIAAAA0CceOBAAAAGq5bWoFAAAAkNOq8QIAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{B1170A23-1664-45E5-B17F-2478FB1EF985}</s_GUID>
+<s_Lineage>arltagUAAAA0CceOBAAAAJDTqvEDAAAAAAAAAAAAAAA=
+</s_Lineage>
+</effects>
+<effects>
+<effect>prestige_enlightenment_generic</effect>
+<icon>data/ui/campaign ui/pips/effect_prestige.tga</icon>
+<description>%+n to Prestige</description>
+<priority>0</priority>
+<Gen_description>0</Gen_description>
+<s_ColLineage>kNOq8QIAAAA0CceOBAAAAJDTqvEDAAAAkNOq8QIAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{2AB7CCEC-7B59-4041-9C3F-D836E5AA3B16}</s_GUID>
+<s_Lineage>NAnHjgQAAACQ06rxAwAAAAAAAAAAAAAA
+</s_Lineage>
+</effects>
+<effects>
+<effect>prestige_faction_leader</effect>
+<icon>data/ui/campaign ui/pips/effect_prestige.tga</icon>
+<description>%+n Prestige per turn</description>
+<priority>1</priority>
+<Gen_description>0</Gen_description>
+<s_ColLineage>kNOq8QIAAAA0CceOBQAAAJDTqvEEAAAAkNOq8QMAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{726280CC-EDF3-41B9-92D0-0CE745EEE187}</s_GUID>
+<s_Lineage>NAnHjgUAAACQ06rxBAAAAAAAAAAAAAAA
+</s_Lineage>
+</effects>
+<effects>
+<effect>prestige_message</effect>
+<icon>data/ui/campaign ui/pips/effect_prestige.tga</icon>
+<description>Enhances national prestige</description>
+<priority>1</priority>
+<Gen_description>0</Gen_description>
+<s_ColLineage>NAnHjgIAAAA0CceOBQAAADQJx44EAAAANAnHjgMAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{6031D1F0-DBCD-44B9-94B9-7182A2B51DDC}</s_GUID>
+<s_Lineage>NAnHjgUAAAAAAAAAAAAAAA==
+</s_Lineage>
+</effects>
+<effects>
+<effect>prestige_military</effect>
+<icon>data/ui/campaign ui/pips/effect_prestige.tga</icon>
+<description>%+n to Prestige (military)</description>
+<priority>0</priority>
+<Gen_description>0</Gen_description>
+<s_ColLineage>kNOq8QIAAAA0CceOBAAAAJDTqvEDAAAAkNOq8QIAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{6568470D-1134-43B9-96AB-D25E2309C32F}</s_GUID>
+<s_Lineage>NAnHjgQAAACQ06rxAwAAAAAAAAAAAAAA
+</s_Lineage>
+</effects>
+<effects>
+<effect>prestige_military_generic</effect>
+<icon>data/ui/campaign ui/pips/effect_prestige.tga</icon>
+<description>%+n to Prestige</description>
+<priority>0</priority>
+<Gen_description>0</Gen_description>
+<s_ColLineage>kNOq8QMAAAA0CceOBAAAAJDTqvECAAAAkNOq8QIAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{8E539A4E-27E4-4FC6-BE20-A1AC9554C13A}</s_GUID>
+<s_Lineage>NAnHjgQAAACQ06rxAwAAAAAAAAAAAAAA
+</s_Lineage>
+</effects>
+<effects>
+<effect>prestige_wealth</effect>
+<icon>data/ui/campaign ui/pips/effect_prestige.tga</icon>
+<description>%+n to Prestige (economy)</description>
+<priority>0</priority>
+<Gen_description>0</Gen_description>
+<s_ColLineage>kNOq8QIAAAA0CceOBAAAAJDTqvEDAAAAkNOq8QIAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{5E5FA24E-7AEA-487E-9563-F69FEEE55EDA}</s_GUID>
+<s_Lineage>NAnHjgQAAACQ06rxAwAAAAAAAAAAAAAA
+</s_Lineage>
+</effects>
+<effects>
+<effect>prestige_wealth_generic</effect>
+<icon>data/ui/campaign ui/pips/effect_prestige.tga</icon>
+<description>%+n to Prestige</description>
+<priority>0</priority>
+<Gen_description>0</Gen_description>
+<s_ColLineage>kNOq8QIAAAA0CceOBAAAAJDTqvEDAAAAkNOq8QIAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{13896B3F-B864-4F43-AFE8-95AE93BB4FED}</s_GUID>
+<s_Lineage>NAnHjgQAAACQ06rxAwAAAAAAAAAAAAAA
+</s_Lineage>
+</effects>
+<effects>
+<effect>recruitment_cost_mod_category_artillery</effect>
+<icon>data/ui/campaign ui/pips/effect_artillery.tga</icon>
+<description>%+n%% recruitment cost for artillery in this region</description>
+<priority>2019</priority>
+<Gen_description>0</Gen_description>
+<s_ColLineage>kNOq8QIAAABquW1qDgAAAFuHu7UNAAAAW4e7tQwAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{6C737DF4-447E-4253-A002-8C46D41D261E}</s_GUID>
+<s_Lineage>arltag4AAABbh7u1DQAAAJDTqvEKAAAAAAAAAAAAAAA=
+</s_Lineage>
+</effects>
+<effects>
+<effect>recruitment_cost_mod_category_artillery_global</effect>
+<icon>data/ui/campaign ui/pips/effect_artillery.tga</icon>
+<description>%+n%% recruitment cost for artillery in all your regions</description>
+<priority>2018</priority>
+<Gen_description>0</Gen_description>
+<s_ColLineage>W4e7tQIAAABquW1qBgAAAFuHu7UCAAAAW4e7tQUAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{5D38344D-E7C5-4A8F-B6AF-F0B0F1F4B724}</s_GUID>
+<s_Lineage>arltagYAAABbh7u1BQAAAAAAAAAAAAAA
+</s_Lineage>
+</effects>
+<effects>
+<effect>recruitment_cost_mod_category_cavalry</effect>
+<icon>data/ui/campaign ui/pips/effect_cavalry.tga</icon>
+<description>%+n%% recruitment cost for cavalry in this region</description>
+<priority>2010</priority>
+<Gen_description>0</Gen_description>
+<s_ColLineage>kNOq8QIAAABquW1qDwAAAFuHu7UOAAAAW4e7tQ0AAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{FA0E7CCE-D704-4651-9CBD-4AF4702F729F}</s_GUID>
+<s_Lineage>arltag8AAABbh7u1DgAAAJDTqvELAAAAAAAAAAAAAAA=
+</s_Lineage>
+</effects>
+<effects>
+<effect>recruitment_cost_mod_category_cavalry_global</effect>
+<icon>data/ui/campaign ui/pips/effect_cavalry.tga</icon>
+<description>%+n%% recruitment cost for cavalry in all your regions</description>
+<priority>2000</priority>
+<Gen_description>0</Gen_description>
+<s_ColLineage>W4e7tQIAAABquW1qBgAAAFuHu7UDAAAAW4e7tQUAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{3D9AA9A6-7571-4BC3-B2CD-13D1CD907EFD}</s_GUID>
+<s_Lineage>arltagYAAABbh7u1BQAAAAAAAAAAAAAA
+</s_Lineage>
+</effects>
+<effects>
+<effect>recruitment_cost_mod_category_dragoons</effect>
+<icon>data/ui/campaign ui/pips/effect_cavalry.tga</icon>
+<description>%+n%% recruitment cost for dragoons in this region</description>
+<priority>2008</priority>
+<Gen_description>0</Gen_description>
+<s_ColLineage>kNOq8QIAAABquW1qDQAAAFuHu7UMAAAAkNOq8QsAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{91E2D02D-683D-42F6-B0FA-8359591C448D}</s_GUID>
+<s_Lineage>arltag0AAABbh7u1DAAAAJDTqvELAAAAAAAAAAAAAAA=
+</s_Lineage>
+</effects>
+<effects>
+<effect>recruitment_cost_mod_category_elephants</effect>
+<icon>data/ui/campaign ui/pips/effect_army.tga</icon>
+<description>%+n%% recruitment cost for elephant units</description>
+<priority>2005</priority>
+<Gen_description>0</Gen_description>
+<s_ColLineage>kNOq8QIAAACQ06rxBAAAAJDTqvEJAAAAkNOq8QwAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{AB855DF2-F4F2-47C9-97A2-5B7C4F78BEB8}</s_GUID>
+<s_Lineage>kNOq8QwAAAAAAAAAAAAAAA==
+</s_Lineage>
+</effects>
+<effects>
+<effect>recruitment_cost_mod_category_infantry</effect>
+<icon>data/ui/campaign ui/pips/effect_infantry.tga</icon>
+<description>%+n%% recruitment cost for infantry in this region</description>
+<priority>2012</priority>
+<Gen_description>0</Gen_description>
+<s_ColLineage>kNOq8QIAAABquW1qDgAAAFuHu7UNAAAAW4e7tQwAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{7B1BBC93-4EEA-45D3-ACEF-C9D9C710D39B}</s_GUID>
+<s_Lineage>arltag4AAABbh7u1DQAAAJDTqvELAAAAAAAAAAAAAAA=
+</s_Lineage>
+</effects>
+<effects>
+<effect>recruitment_cost_mod_category_infantry_global</effect>
+<icon>data/ui/campaign ui/pips/effect_infantry.tga</icon>
+<description>%+n%% recruitment cost for infantry in all your regions</description>
+<priority>2011</priority>
+<Gen_description>0</Gen_description>
+<s_ColLineage>W4e7tQIAAABquW1qBQAAAFuHu7UCAAAAW4e7tQQAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{9AE18184-B31E-4F20-B36D-505C4775EF52}</s_GUID>
+<s_Lineage>arltagUAAABbh7u1BAAAAAAAAAAAAAAA
+</s_Lineage>
+</effects>
+<effects>
+<effect>recruitment_cost_mod_category_naval_auxiliary</effect>
+<icon>data/ui/campaign ui/pips/effect_navy.tga</icon>
+<description>%+n%% recruitment cost for auxiliary naval units</description>
+<priority>2004</priority>
+<Gen_description>0</Gen_description>
+<s_ColLineage>kNOq8QIAAACQ06rxBQAAAJDTqvEMAAAAkNOq8Q8AAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{1885030C-722B-4E2F-AE7A-11F70189B928}</s_GUID>
+<s_Lineage>kNOq8Q8AAAAAAAAAAAAAAA==
+</s_Lineage>
+</effects>
+<effects>
+<effect>recruitment_cost_mod_category_naval_frigate</effect>
+<icon>data/ui/campaign ui/pips/effect_navy.tga</icon>
+<description>%+n%% recruitment cost for frigates in this region</description>
+<priority>2007</priority>
+<Gen_description>0</Gen_description>
+<s_ColLineage>kNOq8QIAAACQ06rxBQAAAFuHu7UNAAAAkNOq8QwAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{3F060AAF-C213-441E-A30C-D0BFBC343FBA}</s_GUID>
+<s_Lineage>W4e7tQ0AAACQ06rxDAAAAAAAAAAAAAAA
+</s_Lineage>
+</effects>
+<effects>
+<effect>recruitment_cost_mod_category_naval_galley</effect>
+<icon>data/ui/campaign ui/pips/effect_navy.tga</icon>
+<description>%+n%% recruitment cost for galleys in this region</description>
+<priority>2003</priority>
+<Gen_description>0</Gen_description>
+<s_ColLineage>kNOq8QIAAACQ06rxBQAAAFuHu7UOAAAAkNOq8Q0AAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{51C4EC91-D4F7-4BDF-AAFC-9544E9097A3A}</s_GUID>
+<s_Lineage>W4e7tQ4AAACQ06rxDQAAAAAAAAAAAAAA
+</s_Lineage>
+</effects>
+<effects>
+<effect>recruitment_cost_mod_category_naval_line_of_battle</effect>
+<icon>data/ui/campaign ui/pips/effect_navy.tga</icon>
+<description>%+n%% recruitment cost for line of battle ships in this region</description>
+<priority>2002</priority>
+<Gen_description>0</Gen_description>
+<s_ColLineage>kNOq8QIAAACQ06rxBQAAAFuHu7UPAAAAkNOq8Q4AAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{1A21C992-7D09-4C74-A374-4DB7AEE392FB}</s_GUID>
+<s_Lineage>W4e7tQ8AAACQ06rxDgAAAAAAAAAAAAAA
+</s_Lineage>
+</effects>
+<effects>
+<effect>recruitment_cost_mod_category_naval_merchant</effect>
+<icon>data/ui/campaign ui/pips/effect_navy.tga</icon>
+<description>%+n%% recruitment cost for merchant ships in this region</description>
+<priority>2001</priority>
+<Gen_description>0</Gen_description>
+<s_ColLineage>kNOq8QIAAACQ06rxBQAAAFuHu7UOAAAAkNOq8Q0AAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{893A738D-4F66-456B-B858-598F908D3F58}</s_GUID>
+<s_Lineage>W4e7tQ4AAACQ06rxDQAAAAAAAAAAAAAA
+</s_Lineage>
+</effects>
+<effects>
+<effect>recruitment_cost_mod_category_naval_specialist</effect>
+<icon>data/ui/campaign ui/pips/effect_navy.tga</icon>
+<description>%+n%% recruitment cost for specialist naval ships in this region</description>
+<priority>2006</priority>
+<Gen_description>0</Gen_description>
+<s_ColLineage>kNOq8QIAAACQ06rxBQAAAFuHu7UPAAAAkNOq8Q4AAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{7CB79F5E-FCF8-446C-839C-D376B792C093}</s_GUID>
+<s_Lineage>W4e7tQ8AAACQ06rxDgAAAAAAAAAAAAAA
+</s_Lineage>
+</effects>
+<effects>
+<effect>recruitment_cost_mod_class_line_infantry</effect>
+<icon>data/ui/campaign ui/pips/effect_infantry.tga</icon>
+<description>%+n%% recruitment cost for line infantry units in this region</description>
+<priority>2014</priority>
+<Gen_description>0</Gen_description>
+<s_ColLineage>W4e7tQIAAABquW1qCAAAAFuHu7UHAAAAW4e7tQUAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{293CA368-41F7-4E41-B5D9-A931F3F602AA}</s_GUID>
+<s_Lineage>arltaggAAABbh7u1BwAAAAAAAAAAAAAA
+</s_Lineage>
+</effects>
+<effects>
+<effect>recruitment_cost_mod_class_line_infantry_all</effect>
+<icon>data/ui/campaign ui/pips/effect_infantry.tga</icon>
+<description>%+n%% recruitment cost for line infantry across all regions</description>
+<priority>2015</priority>
+<Gen_description>0</Gen_description>
+<s_ColLineage>W4e7tQIAAABquW1qAwAAAFuHu7UCAAAAW4e7tQIAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{496B6E95-5036-4CD7-978C-074742924A53}</s_GUID>
+<s_Lineage>arltagMAAABbh7u1AgAAAAAAAAAAAAAA
+</s_Lineage>
+</effects>
+<effects>
+<effect>recruitment_cost_mod_class_militia</effect>
+<icon>data/ui/campaign ui/pips/effect_infantry.tga</icon>
+<description>%+n%% recruitment cost for militia units in this region</description>
+<priority>2013</priority>
+<Gen_description>0</Gen_description>
+<s_ColLineage>W4e7tQcAAABquW1qDAAAAFuHu7ULAAAAW4e7tQkAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{99950AF5-A581-4533-BD47-9C42DDAA50B3}</s_GUID>
+<s_Lineage>arltagwAAABbh7u1CwAAAAAAAAAAAAAA
+</s_Lineage>
+</effects>
+<effects>
+<effect>recruitment_cost_mod_class_militia_all</effect>
+<icon>data/ui/campaign ui/pips/effect_infantry.tga</icon>
+<description>%+n%% recruitment cost for militia across all regions</description>
+<priority>2013</priority>
+<Gen_description>0</Gen_description>
+<s_ColLineage>W4e7tQIAAABquW1qAwAAAFuHu7UCAAAAW4e7tQIAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{26E0CA5B-7722-496C-8DB6-020C4F6B354F}</s_GUID>
+<s_Lineage>arltagMAAABbh7u1AgAAAAAAAAAAAAAA
+</s_Lineage>
+</effects>
+<effects>
+<effect>recruitment_cost_mod_land_all</effect>
+<icon>data/ui/campaign ui/pips/effect_recruitment.tga</icon>
+<description>%+n%% recruitment cost for all land units in this region</description>
+<priority>2031</priority>
+<Gen_description>0</Gen_description>
+<s_ColLineage>kNOq8QIAAABquW1qEAAAAFuHu7UPAAAAW4e7tQ4AAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{9CEE0E58-A699-46A8-962A-4764CDA89E95}</s_GUID>
+<s_Lineage>arltahAAAABbh7u1DwAAAJDTqvEMAAAAAAAAAAAAAAA=
+</s_Lineage>
+</effects>
+<effects>
+<effect>recruitment_cost_mod_land_all_global</effect>
+<icon>data/ui/campaign ui/pips/effect_recruitment.tga</icon>
+<description>%+n%% recruitment cost for all land units in all your regions</description>
+<priority>2030</priority>
+<Gen_description>0</Gen_description>
+<s_ColLineage>W4e7tQIAAABquW1qBQAAAFuHu7UCAAAAW4e7tQQAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{40A374EB-642A-4617-8238-94C7418FA7F7}</s_GUID>
+<s_Lineage>arltagUAAABbh7u1BAAAAAAAAAAAAAAA
+</s_Lineage>
+</effects>
+<effects>
+<effect>recruitment_cost_mod_naval_all</effect>
+<icon>data/ui/campaign ui/pips/effect_navy.tga</icon>
+<description>%+n%% recruitment cost for all naval units in this region</description>
+<priority>2021</priority>
+<Gen_description>0</Gen_description>
+<s_ColLineage>kNOq8QIAAACQ06rxBgAAAFuHu7UQAAAAW4e7tQ8AAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{B82618C0-3660-4580-8202-741BB8A5B85F}</s_GUID>
+<s_Lineage>W4e7tRAAAACQ06rxDQAAAAAAAAAAAAAA
+</s_Lineage>
+</effects>
+<effects>
+<effect>recruitment_cost_mod_naval_all_global</effect>
+<icon>data/ui/campaign ui/pips/effect_navy.tga</icon>
+<description>%+n%% recruitment cost for all naval units in all your regions</description>
+<priority>2020</priority>
+<Gen_description>0</Gen_description>
+<s_ColLineage>W4e7tQIAAABbh7u1AgAAAFuHu7UCAAAAW4e7tQQAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{C9F43C1C-AF0B-4F31-BDCB-0196B1595007}</s_GUID>
+<s_Lineage>W4e7tQQAAAAAAAAAAAAAAA==
+</s_Lineage>
+</effects>
+<effects>
+<effect>recruitment_points</effect>
+<icon>data/ui/campaign ui/pips/effect_recruitment.tga</icon>
+<description>Recruitment capacity (units in training): %n</description>
+<priority>10</priority>
+<Gen_description>0</Gen_description>
+<s_ColLineage>kNOq8QIAAABquW1qDgAAAJDTqvEMAAAAarltag0AAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{FB8EDD14-8D85-4E6F-A112-810001974317}</s_GUID>
+<s_Lineage>arltag4AAACQ06rxDAAAAAAAAAAAAAAA
+</s_Lineage>
+</effects>
+<effects>
+<effect>recruitment_points_home_region</effect>
+<icon>data/ui/campaign ui/pips/effect_recruitment.tga</icon>
+<description>Increases recruitment slots in your home region by %+n</description>
+<priority>3</priority>
+<Gen_description>0</Gen_description>
+<s_ColLineage>NAnHjgMAAABquW1qDQAAAFuHu7UMAAAAW4e7tQwAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{C65291CC-FC26-4615-9C76-83CA641987A7}</s_GUID>
+<s_Lineage>arltag0AAABbh7u1DAAAADQJx44KAAAAAAAAAAAAAAA=
+</s_Lineage>
+</effects>
+<effects>
+<effect>region_turns_to_surrender</effect>
+<icon>data/ui/campaign ui/pips/effect_army.tga</icon>
+<description>%+n to the minimum number of turns a region&apos;s settlement can hold out in a siege</description>
+<priority>0</priority>
+<Gen_description>0</Gen_description>
+<s_ColLineage>kNOq8QIAAACQ06rxBQAAAJDTqvEGAAAANAnHjgkAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{85161B98-01F6-4DBF-B6AD-C06912B61D30}</s_GUID>
+<s_Lineage>NAnHjgkAAACQ06rxCAAAAAAAAAAAAAAA
+</s_Lineage>
+</effects>
+<effects>
+<effect>reinforcement_range_mod</effect>
+<icon>data/ui/campaign ui/pips/effect_army.tga</icon>
+<description>Reinforcements can be drawn in from further afield</description>
+<priority>0</priority>
+<Gen_description>0</Gen_description>
+<s_ColLineage>W4e7tQIAAABbh7u1AwAAAFuHu7UCAAAAW4e7tQIAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{AD7C1406-A51E-48E7-820E-A0020725FBB3}</s_GUID>
+<s_Lineage>W4e7tQMAAAAAAAAAAAAAAA==
+</s_Lineage>
+</effects>
+<effects>
+<effect>repair_cost_modifier</effect>
+<icon>data/ui/campaign ui/pips/effect_building.tga</icon>
+<description>%+n%% to building repair costs</description>
+<priority>1</priority>
+<Gen_description>0</Gen_description>
+<s_ColLineage>kNOq8QEAAACQ06rxBwAAAJDTqvELAAAAkNOq8QoAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{5C2166DF-B1CF-4236-A355-355DF9A01EBC}</s_GUID>
+<s_Lineage>kNOq8QsAAAAAAAAAAAAAAA==
+</s_Lineage>
+</effects>
+<effects>
+<effect>replenishment_percentage_bonus</effect>
+<icon>data/ui/campaign ui/pips/effect_army.tga</icon>
+<description>%+n%% to the replenishment rate in this region</description>
+<priority>1</priority>
+<Gen_description>0</Gen_description>
+<s_ColLineage>W4e7tQIAAABbh7u1BAAAAFuHu7UFAAAAW4e7tQcAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{F3160B79-B1F0-4901-8EB1-DE77AB465983}</s_GUID>
+<s_Lineage>W4e7tQcAAAAAAAAAAAAAAA==
+</s_Lineage>
+</effects>
+<effects>
+<effect>replenishment_percentage_bonus_global</effect>
+<icon>data/ui/campaign ui/pips/effect_army.tga</icon>
+<description>%+n%% to replenishment rates in all your regions</description>
+<priority>2</priority>
+<Gen_description>0</Gen_description>
+<s_ColLineage>W4e7tQIAAABbh7u1AgAAAFuHu7UDAAAAW4e7tQUAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{1840FDE7-AB6C-426F-BDAA-F6587E8B351E}</s_GUID>
+<s_Lineage>W4e7tQUAAAAAAAAAAAAAAA==
+</s_Lineage>
+</effects>
+<effects>
+<effect>repression_building</effect>
+<icon>data/ui/campaign ui/pips/buildings-repression.tga</icon>
+<description>%+n to repression in the region</description>
+<priority>8010</priority>
+<Gen_description>0</Gen_description>
+<s_ColLineage>kNOq8QgAAACQ06rxCgAAAJDTqvELAAAAkNOq8Q8AAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{C050CA79-B4A4-44B5-B3EA-13F8DF790C29}</s_GUID>
+<s_Lineage>kNOq8Q8AAAAAAAAAAAAAAA==
+</s_Lineage>
+</effects>
+<effects>
+<effect>repression_building_global</effect>
+<icon>data/ui/campaign ui/pips/buildings-repression.tga</icon>
+<description>%+n to repression in all regions</description>
+<priority>8009</priority>
+<Gen_description>0</Gen_description>
+<s_ColLineage>W4e7tQIAAABbh7u1AgAAAFuHu7UCAAAAW4e7tQIAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{C8FE1D63-30F7-4C16-A96C-D97F00FC9A23}</s_GUID>
+<s_Lineage>W4e7tQIAAAAAAAAAAAAAAA==
+</s_Lineage>
+</effects>
+<effects>
+<effect>repression_character</effect>
+<icon>character_traits-repression.tga</icon>
+<description>%+n to repression in all regions</description>
+<priority>8009</priority>
+<Gen_description>0</Gen_description>
+<s_ColLineage>kNOq8QgAAACQ06rxFAAAAGq5bWoaAAAAkNOq8RkAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{61DFD847-DB4A-4A85-9D79-560A3101011D}</s_GUID>
+<s_Lineage>arltahoAAACQ06rxGQAAAAAAAAAAAAAA
+</s_Lineage>
+</effects>
+<effects>
+<effect>repression_garrison</effect>
+<icon>data/ui/campaign ui/pips/garrison-repression.tga</icon>
+<description>%+n to repression in the region</description>
+<priority>8008</priority>
+<Gen_description>0</Gen_description>
+<s_ColLineage>kNOq8QEAAACQ06rxBwAAAJDTqvEIAAAAkNOq8QwAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{3DB9AB4C-6810-45CF-A4BA-0AA773EAB556}</s_GUID>
+<s_Lineage>kNOq8QwAAAAAAAAAAAAAAA==
+</s_Lineage>
+</effects>
+<effects>
+<effect>repression_gov_type</effect>
+<icon>data/ui/campaign ui/pips/government-repression.tga</icon>
+<description>%+n to repression in all regions</description>
+<priority>8007</priority>
+<Gen_description>0</Gen_description>
+<s_ColLineage>kNOq8QIAAACQ06rxCQAAAJDTqvEKAAAAkNOq8Q4AAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{1757CE45-E6D4-41B5-9696-B1EAD60553C8}</s_GUID>
+<s_Lineage>kNOq8Q4AAAAAAAAAAAAAAA==
+</s_Lineage>
+</effects>
+<effects>
+<effect>repression_policing_cap</effect>
+<icon>data/ui/campaign ui/pips/policing-repression.tga</icon>
+<description>%+n to maximum repression bonus from town watch</description>
+<priority>8006</priority>
+<Gen_description>0</Gen_description>
+<s_ColLineage>kNOq8QIAAACQ06rxCQAAAJDTqvEMAAAAkNOq8RAAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{61D43A29-E922-480E-A0E0-2D2019BDEAFC}</s_GUID>
+<s_Lineage>kNOq8RAAAAAAAAAAAAAAAA==
+</s_Lineage>
+</effects>
+<effects>
+<effect>repression_tech_faction</effect>
+<icon>data/ui/campaign ui/pips/buildings-repression.tga</icon>
+<description>%+n to repression in all regions</description>
+<priority>8005</priority>
+<Gen_description>0</Gen_description>
+<s_ColLineage>kNOq8QEAAABquW1qDwAAAJDTqvEKAAAAkNOq8Q4AAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{E1F6F9A3-E981-4D87-BD66-FFBA400315E2}</s_GUID>
+<s_Lineage>arltag8AAACQ06rxDgAAAAAAAAAAAAAA
+</s_Lineage>
+</effects>
+<effects>
+<effect>repression_tech_homeregion</effect>
+<icon>data/ui/campaign ui/pips/buildings-repression.tga</icon>
+<description>%+n to repression in the home region</description>
+<priority>8004</priority>
+<Gen_description>0</Gen_description>
+<s_ColLineage>kNOq8QEAAABquW1qDgAAAJDTqvEJAAAAkNOq8Q0AAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{74899D7C-02FC-4762-91BE-68EEF023DE26}</s_GUID>
+<s_Lineage>arltag4AAACQ06rxDQAAAAAAAAAAAAAA
+</s_Lineage>
+</effects>
+<effects>
+<effect>research_points</effect>
+<icon>data/ui/campaign ui/pips/effect_tech.tga</icon>
+<description>Conducts technology research. Points per turn: %n</description>
+<priority>7005</priority>
+<Gen_description>0</Gen_description>
+<s_ColLineage>kNOq8QMAAACQ06rxAgAAAJDTqvEDAAAAW4e7tQYAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{91F75167-9309-4063-9378-0CD63A7FB195}</s_GUID>
+<s_Lineage>W4e7tQYAAACQ06rxBQAAAAAAAAAAAAAA
+</s_Lineage>
+</effects>
+<effects>
+<effect>research_points_enlightenment</effect>
+<icon>data/ui/campaign ui/pips/effect_tech.tga</icon>
+<description>Research points per turn for civil technologies: %n</description>
+<priority>7003</priority>
+<Gen_description>0</Gen_description>
+<s_ColLineage>kNOq8QIAAACQ06rxAwAAAFuHu7UIAAAAkNOq8QcAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{E0CFB2DD-1AD4-4AA6-93E4-3C5B97F82FAA}</s_GUID>
+<s_Lineage>W4e7tQgAAACQ06rxBwAAAAAAAAAAAAAA
+</s_Lineage>
+</effects>
+<effects>
+<effect>research_points_global</effect>
+<icon>data/ui/campaign ui/pips/effect_tech.tga</icon>
+<description>Improves faction-wide research. Points per turn: %n</description>
+<priority>7004</priority>
+<Gen_description>0</Gen_description>
+<s_ColLineage>W4e7tQIAAABbh7u1AgAAAFuHu7UCAAAAW4e7tQQAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{74833A5C-9C97-4F03-AF15-AB8B7AE34862}</s_GUID>
+<s_Lineage>W4e7tQQAAAAAAAAAAAAAAA==
+</s_Lineage>
+</effects>
+<effects>
+<effect>research_points_industry</effect>
+<icon>data/ui/campaign ui/pips/effect_tech.tga</icon>
+<description>Research points per turn for industrial technologies: %n</description>
+<priority>7002</priority>
+<Gen_description>0</Gen_description>
+<s_ColLineage>kNOq8QIAAACQ06rxAwAAAJDTqvEEAAAAkNOq8QcAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{F69E7EE6-EF44-41C2-828C-D3E86428D321}</s_GUID>
+<s_Lineage>kNOq8QcAAAAAAAAAAAAAAA==
+</s_Lineage>
+</effects>
+<effects>
+<effect>research_points_military</effect>
+<icon>data/ui/campaign ui/pips/effect_tech.tga</icon>
+<description>Research points per turn for military technologies: %n</description>
+<priority>7001</priority>
+<Gen_description>0</Gen_description>
+<s_ColLineage>kNOq8QIAAACQ06rxAwAAAJDTqvEEAAAAkNOq8QcAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{3E839271-404D-4929-B08F-2C647A6F72EB}</s_GUID>
+<s_Lineage>kNOq8QcAAAAAAAAAAAAAAA==
+</s_Lineage>
+</effects>
+<effects>
+<effect>research_rate_mod</effect>
+<icon>data/ui/campaign ui/pips/effect_tech.tga</icon>
+<description>%+n%% to technology research rate</description>
+<priority>7000</priority>
+<Gen_description>0</Gen_description>
+<s_ColLineage>kNOq8QUAAACQ06rxBwAAAJDTqvEMAAAAkNOq8Q0AAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{6EA617CB-A0C3-4D3D-8FCD-13DEC51F5947}</s_GUID>
+<s_Lineage>kNOq8Q0AAAAAAAAAAAAAAA==
+</s_Lineage>
+</effects>
+<effects>
+<effect>research_rate_mod_army_tech</effect>
+<icon>data/ui/campaign ui/pips/effect_tech.tga</icon>
+<description>%+n%% to land military technology research rate</description>
+<priority>7000</priority>
+<Gen_description>0</Gen_description>
+<s_ColLineage>kNOq8QIAAACQ06rxAgAAAJDTqvECAAAAkNOq8QIAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{6B859BF0-BBD6-4804-A334-0181D693BBE4}</s_GUID>
+<s_Lineage>kNOq8QIAAAAAAAAAAAAAAA==
+</s_Lineage>
+</effects>
+<effects>
+<effect>research_rate_mod_navy_tech</effect>
+<icon>data/ui/campaign ui/pips/effect_tech.tga</icon>
+<description>%+n%% to naval military technology research rate</description>
+<priority>7000</priority>
+<Gen_description>0</Gen_description>
+<s_ColLineage>kNOq8QIAAACQ06rxAgAAAJDTqvECAAAAkNOq8QIAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{DD79C3C5-7110-4845-BA57-6156A7832E3F}</s_GUID>
+<s_Lineage>kNOq8QIAAAAAAAAAAAAAAA==
+</s_Lineage>
+</effects>
+<effects>
+<effect>resource_prod_cattle</effect>
+<icon>data/ui/campaign ui/pips/cattle.tga</icon>
+<description>Produces cattle</description>
+<priority>0</priority>
+<Gen_description>0</Gen_description>
+<s_ColLineage>kNOq8QEAAACQ06rxBQAAAJDTqvEHAAAANAnHjg4AAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{472ADABC-2B5A-4063-99D7-B8FC4EDCB91C}</s_GUID>
+<s_Lineage>NAnHjg4AAACQ06rxDQAAAAAAAAAAAAAA
+</s_Lineage>
+</effects>
+<effects>
+<effect>resource_prod_corn</effect>
+<icon>data/ui/campaign ui/pips/corn.tga</icon>
+<description>Produces corn</description>
+<priority>0</priority>
+<Gen_description>0</Gen_description>
+<s_ColLineage>kNOq8QEAAACQ06rxBgAAAJDTqvEIAAAANAnHjg4AAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{C96D6A06-C340-4BA3-AEB5-528F34C32C44}</s_GUID>
+<s_Lineage>NAnHjg4AAACQ06rxDQAAAAAAAAAAAAAA
+</s_Lineage>
+</effects>
+<effects>
+<effect>resource_prod_fish</effect>
+<icon>data/ui/campaign ui/pips/fish.tga</icon>
+<description>Produces fish</description>
+<priority>0</priority>
+<Gen_description>0</Gen_description>
+<s_ColLineage>kNOq8QEAAACQ06rxBgAAAJDTqvEIAAAANAnHjg4AAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{A20913BF-2501-4432-A819-D9353E7CC596}</s_GUID>
+<s_Lineage>NAnHjg4AAACQ06rxDQAAAAAAAAAAAAAA
+</s_Lineage>
+</effects>
+<effects>
+<effect>resource_prod_gems</effect>
+<icon>data/ui/campaign ui/pips/gems.tga</icon>
+<description>Produces gems</description>
+<priority>0</priority>
+<Gen_description>0</Gen_description>
+<s_ColLineage>kNOq8QEAAACQ06rxBgAAAJDTqvEIAAAANAnHjg4AAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{773A5ED3-9A90-4D8D-ADC1-CA9FE7376109}</s_GUID>
+<s_Lineage>NAnHjg4AAACQ06rxDQAAAAAAAAAAAAAA
+</s_Lineage>
+</effects>
+<effects>
+<effect>resource_prod_gold</effect>
+<icon>data/ui/campaign ui/pips/gold.tga</icon>
+<description>Produces gold</description>
+<priority>0</priority>
+<Gen_description>0</Gen_description>
+<s_ColLineage>kNOq8QEAAACQ06rxBgAAAJDTqvEIAAAANAnHjg4AAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{38940CF6-C583-4828-9191-242D642BDAC5}</s_GUID>
+<s_Lineage>NAnHjg4AAACQ06rxDQAAAAAAAAAAAAAA
+</s_Lineage>
+</effects>
+<effects>
+<effect>resource_prod_iron</effect>
+<icon>data/ui/campaign ui/pips/iron.tga</icon>
+<description>Produces iron</description>
+<priority>0</priority>
+<Gen_description>0</Gen_description>
+<s_ColLineage>kNOq8QEAAACQ06rxBgAAAJDTqvEIAAAANAnHjg4AAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{C2D6B09C-2B69-4B56-BEBC-343C39930C57}</s_GUID>
+<s_Lineage>NAnHjg4AAACQ06rxDQAAAAAAAAAAAAAA
+</s_Lineage>
+</effects>
+<effects>
+<effect>resource_prod_rice</effect>
+<icon>data/ui/campaign ui/pips/rice.tga</icon>
+<description>Produces rice</description>
+<priority>0</priority>
+<Gen_description>0</Gen_description>
+<s_ColLineage>kNOq8QEAAACQ06rxBgAAAJDTqvEIAAAANAnHjg4AAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{6B9C68D8-0F51-4A5B-AE58-95C29B851D52}</s_GUID>
+<s_Lineage>NAnHjg4AAACQ06rxDQAAAAAAAAAAAAAA
+</s_Lineage>
+</effects>
+<effects>
+<effect>resource_prod_sheep</effect>
+<icon>data/ui/campaign ui/pips/sheep.tga</icon>
+<description>Produces wool</description>
+<priority>0</priority>
+<Gen_description>0</Gen_description>
+<s_ColLineage>kNOq8QEAAACQ06rxBgAAAJDTqvEOAAAANAnHjg8AAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{912A05BB-C7A1-46E2-A86E-56F0F3448360}</s_GUID>
+<s_Lineage>NAnHjg8AAACQ06rxDgAAAAAAAAAAAAAA
+</s_Lineage>
+</effects>
+<effects>
+<effect>resource_prod_silver</effect>
+<icon>data/ui/campaign ui/pips/silver.tga</icon>
+<description>Produces silver</description>
+<priority>0</priority>
+<Gen_description>0</Gen_description>
+<s_ColLineage>kNOq8QEAAACQ06rxBgAAAJDTqvEIAAAANAnHjg4AAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{80AD5A7A-661A-4452-B494-3CA3B8C1AA03}</s_GUID>
+<s_Lineage>NAnHjg4AAACQ06rxDQAAAAAAAAAAAAAA
+</s_Lineage>
+</effects>
+<effects>
+<effect>resource_prod_timber</effect>
+<icon>data/ui/campaign ui/pips/timber.tga</icon>
+<description>Produces timber</description>
+<priority>0</priority>
+<Gen_description>0</Gen_description>
+<s_ColLineage>kNOq8QYAAACQ06rxCAAAAJDTqvEKAAAANAnHjhAAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{58B4B3B0-87FA-4CEE-9463-D63B9FEA29A4}</s_GUID>
+<s_Lineage>NAnHjhAAAACQ06rxDwAAAAAAAAAAAAAA
+</s_Lineage>
+</effects>
+<effects>
+<effect>resource_prod_wheat</effect>
+<icon>data/ui/campaign ui/pips/wheat.tga</icon>
+<description>Produces wheat</description>
+<priority>0</priority>
+<Gen_description>0</Gen_description>
+<s_ColLineage>kNOq8QEAAACQ06rxBgAAAJDTqvEIAAAANAnHjg4AAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{9331E693-1F6D-4CB1-8B0C-3367A8D0C661}</s_GUID>
+<s_Lineage>NAnHjg4AAACQ06rxDQAAAAAAAAAAAAAA
+</s_Lineage>
+</effects>
+<effects>
+<effect>resource_prod_wine</effect>
+<icon>data/ui/campaign ui/pips/wine.tga</icon>
+<description>Produces wine</description>
+<priority>0</priority>
+<Gen_description>0</Gen_description>
+<s_ColLineage>kNOq8QEAAACQ06rxBgAAAJDTqvEIAAAANAnHjg0AAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{3B3E44A8-4C6C-4F10-A362-9DCEFA78BAE8}</s_GUID>
+<s_Lineage>NAnHjg0AAACQ06rxDAAAAAAAAAAAAAAA
+</s_Lineage>
+</effects>
+<effects>
+<effect>ship_repair_increase</effect>
+<icon>data/ui/campaign ui/pips/effect_navy.tga</icon>
+<description>%+n%% to ship repair rate during naval battles</description>
+<priority>1</priority>
+<Gen_description>0</Gen_description>
+<s_ColLineage>arltagIAAABquW1qAwAAAGq5bWoEAAAAarltagQAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{F58856DF-A2B0-45F5-91B9-B33B8781986F}</s_GUID>
+<s_Lineage>arltagQAAAAAAAAAAAAAAA==
+</s_Lineage>
+</effects>
+<effects>
+<effect>small_city_fortifications</effect>
+<icon>data/ui/campaign ui/pips/effect_army.tga</icon>
+<description>Surrounds city approaches with a ring of artillery forts, protecting it from assault</description>
+<priority>1</priority>
+<Gen_description>0</Gen_description>
+<s_ColLineage>kNOq8QIAAACQ06rxAwAAAJDTqvEKAAAAkNOq8QgAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{87AED742-EB08-4E5D-B28C-DA5B202DCCB5}</s_GUID>
+<s_Lineage>kNOq8QoAAAAAAAAAAAAAAA==
+</s_Lineage>
+</effects>
+<effects>
+<effect>subterfuge_assassination</effect>
+<icon>data/ui/campaign ui/pips/skill_spying.tga</icon>
+<description>%+n to subterfuge for assassination missions</description>
+<priority>1</priority>
+<Gen_description>0</Gen_description>
+<s_ColLineage>kNOq8QIAAABquW1qBwAAAJDTqvEDAAAAkNOq8QUAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{D9C1302B-6919-41A3-BAED-CA1B599BA383}</s_GUID>
+<s_Lineage>arltagcAAABbh7u1BgAAAJDTqvEFAAAAAAAAAAAAAAA=
+</s_Lineage>
+</effects>
+<effects>
+<effect>subterfuge_counterspying</effect>
+<icon>data/ui/campaign ui/pips/skill_spying.tga</icon>
+<description>%+n to subterfuge when counterspying</description>
+<priority>3</priority>
+<Gen_description>0</Gen_description>
+<s_ColLineage>kNOq8QIAAABquW1qBgAAAJDTqvEDAAAAkNOq8QQAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{5A0F9C70-5433-47BD-A6D6-3BBE1B4A5A87}</s_GUID>
+<s_Lineage>arltagYAAABbh7u1BQAAAJDTqvEEAAAAAAAAAAAAAAA=
+</s_Lineage>
+</effects>
+<effects>
+<effect>subterfuge_sabotage</effect>
+<icon>data/ui/campaign ui/pips/skill_spying.tga</icon>
+<description>%+n to subterfuge for sabotage missions</description>
+<priority>4</priority>
+<Gen_description>0</Gen_description>
+<s_ColLineage>kNOq8QIAAABquW1qBgAAAJDTqvEDAAAAkNOq8QQAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{0E0B4A4B-308E-4A4F-BA21-D6097AF5C0D5}</s_GUID>
+<s_Lineage>arltagYAAABbh7u1BQAAAJDTqvEEAAAAAAAAAAAAAAA=
+</s_Lineage>
+</effects>
+<effects>
+<effect>subterfuge_spying</effect>
+<icon>data/ui/campaign ui/pips/skill_spying.tga</icon>
+<description>%+n to subterfuge for infiltration missions</description>
+<priority>2</priority>
+<Gen_description>0</Gen_description>
+<s_ColLineage>kNOq8QIAAABquW1qCAAAAJDTqvEDAAAAkNOq8QYAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{2496F487-3BAF-44F8-A9DA-11AABD96052B}</s_GUID>
+<s_Lineage>arltaggAAABbh7u1BwAAAJDTqvEGAAAAAAAAAAAAAAA=
+</s_Lineage>
+</effects>
+<effects>
+<effect>tax_bonus_building</effect>
+<icon>data/ui/campaign ui/pips/effect_economy.tga</icon>
+<description>%+n%% bonus to region tax rate</description>
+<priority>8003</priority>
+<Gen_description>0</Gen_description>
+<s_ColLineage>kNOq8QIAAACQ06rxBgAAAGq5bWoNAAAAkNOq8QwAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{5CA73E4A-1BD1-4E13-B2F3-EA415680D5AC}</s_GUID>
+<s_Lineage>arltag0AAACQ06rxDAAAAAAAAAAAAAAA
+</s_Lineage>
+</effects>
+<effects>
+<effect>tax_bonus_building_global</effect>
+<icon>data/ui/campaign ui/pips/effect_economy.tga</icon>
+<description>%+n%% bonus to tax rate in all regions</description>
+<priority>8002</priority>
+<Gen_description>0</Gen_description>
+<s_ColLineage>W4e7tQIAAABbh7u1AgAAAGq5bWoEAAAAW4e7tQMAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{EF0ECCD4-9800-4F2B-9F1F-4F03D161D1D5}</s_GUID>
+<s_Lineage>arltagQAAABbh7u1AwAAAAAAAAAAAAAA
+</s_Lineage>
+</effects>
+<effects>
+<effect>tax_bonus_governor</effect>
+<icon>data/ui/campaign ui/pips/effect_economy.tga</icon>
+<description>%+n%% bonus to tax rate across your regions</description>
+<priority>8002</priority>
+<Gen_description>0</Gen_description>
+<s_ColLineage>NAnHjg8AAACQ06rxBQAAAGq5bWoRAAAAkNOq8Q4AAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{C6BDF57C-4C0E-4759-8C20-52B61BD3F138}</s_GUID>
+<s_Lineage>arltahEAAAA0CceODwAAAJDTqvEOAAAAAAAAAAAAAAA=
+</s_Lineage>
+</effects>
+<effects>
+<effect>tax_bonus_minister</effect>
+<icon>data/ui/campaign ui/pips/effect_economy.tga</icon>
+<description>%+n%% bonus to global tax rate</description>
+<priority>8002</priority>
+<Gen_description>0</Gen_description>
+<s_ColLineage>NAnHjgIAAAA0CceOBAAAAGq5bWoFAAAANAnHjgMAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{B9A0AD14-704A-4037-83D1-F23D5B9C461B}</s_GUID>
+<s_Lineage>arltagUAAAA0CceOBAAAAAAAAAAAAAAA
+</s_Lineage>
+</effects>
+<effects>
+<effect>tax_bonus_technology</effect>
+<icon>data/ui/campaign ui/pips/effect_economy.tga</icon>
+<description>%+n%% bonus to global tax rate</description>
+<priority>8004</priority>
+<Gen_description>0</Gen_description>
+<s_ColLineage>W4e7tQIAAABbh7u1AwAAAGq5bWoFAAAAW4e7tQQAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{A65411E6-6974-40AE-861D-A1B4F32789AD}</s_GUID>
+<s_Lineage>arltagUAAABbh7u1BAAAAAAAAAAAAAAA
+</s_Lineage>
+</effects>
+<effects>
+<effect>trade_route_all_mod_growth_rate</effect>
+<icon>data/ui/campaign ui/pips/effect_economy.tga</icon>
+<description>%+n%% bonus to the growth in trade route income</description>
+<priority>6002</priority>
+<Gen_description>0</Gen_description>
+<s_ColLineage>kNOq8QUAAACQ06rxCAAAAJDTqvENAAAAkNOq8Q8AAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{AE78A120-14A0-41D6-A43D-94C3A9E7C784}</s_GUID>
+<s_Lineage>kNOq8Q8AAAAAAAAAAAAAAA==
+</s_Lineage>
+</effects>
+<effects>
+<effect>trade_routes_mod_max_land</effect>
+<icon>data/ui/campaign ui/pips/effect_trade.tga</icon>
+<description>%+n trade routes possible (land)</description>
+<priority>6001</priority>
+<Gen_description>0</Gen_description>
+<s_ColLineage>kNOq8QYAAABquW1qEwAAAJDTqvEQAAAAkNOq8RIAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{0159FE4F-BBBA-4443-97B5-BBA15DBC17AB}</s_GUID>
+<s_Lineage>arltahMAAACQ06rxEgAAAAAAAAAAAAAA
+</s_Lineage>
+</effects>
+<effects>
+<effect>trade_routes_mod_max_sea</effect>
+<icon>data/ui/campaign ui/pips/effect_trade.tga</icon>
+<description>%+n trade routes possible (sea)</description>
+<priority>6000</priority>
+<Gen_description>0</Gen_description>
+<s_ColLineage>kNOq8QQAAABquW1qEQAAAJDTqvEOAAAAkNOq8RAAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{AEAF982C-DBBD-4DF1-B463-677A2B76F8F1}</s_GUID>
+<s_Lineage>arltahEAAACQ06rxEAAAAAAAAAAAAAAA
+</s_Lineage>
+</effects>
+<effects>
+<effect>tw_growth_education</effect>
+<icon>data/ui/campaign ui/pips/effect_economy.tga</icon>
+<description>%+n per turn to town wealth in the region</description>
+<priority>903</priority>
+<Gen_description>0</Gen_description>
+<s_ColLineage>kNOq8QIAAACQ06rxBgAAAJDTqvEIAAAAkNOq8Q0AAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{3A083637-85C4-4D1C-B57A-7E1305F0DA83}</s_GUID>
+<s_Lineage>kNOq8Q0AAAAAAAAAAAAAAA==
+</s_Lineage>
+</effects>
+<effects>
+<effect>tw_growth_government</effect>
+<icon>data/ui/campaign ui/pips/effect_economy.tga</icon>
+<description>%+n per turn to town wealth in the region</description>
+<priority>901</priority>
+<Gen_description>0</Gen_description>
+<s_ColLineage>kNOq8QEAAACQ06rxBgAAAJDTqvEIAAAAkNOq8QwAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{80C3F670-59A2-4494-98B9-2B06ED505132}</s_GUID>
+<s_Lineage>kNOq8QwAAAAAAAAAAAAAAA==
+</s_Lineage>
+</effects>
+<effects>
+<effect>tw_growth_industry</effect>
+<icon>data/ui/campaign ui/pips/effect_economy.tga</icon>
+<description>%+n per turn to town wealth in the region</description>
+<priority>906</priority>
+<Gen_description>0</Gen_description>
+<s_ColLineage>kNOq8QIAAACQ06rxBwAAAJDTqvEIAAAAW4e7tQ0AAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{5DDC86CD-0FFA-40B0-ACD8-BA789086FD59}</s_GUID>
+<s_Lineage>W4e7tQ0AAACQ06rxDAAAAAAAAAAAAAAA
+</s_Lineage>
+</effects>
+<effects>
+<effect>tw_growth_industry_global</effect>
+<icon>data/ui/campaign ui/pips/effect_economy.tga</icon>
+<description>%+n per turn to town wealth in all your regions</description>
+<priority>900</priority>
+<Gen_description>0</Gen_description>
+<s_ColLineage>W4e7tQIAAABbh7u1AgAAAFuHu7UCAAAAW4e7tQUAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{8D334A3D-1A4A-4352-B432-74B8735783BA}</s_GUID>
+<s_Lineage>W4e7tQUAAAAAAAAAAAAAAA==
+</s_Lineage>
+</effects>
+<effects>
+<effect>tw_growth_ministers_home_theatre</effect>
+<icon>data/ui/campaign ui/pips/effect_economy.tga</icon>
+<description>%+n per turn to town wealth in all regions</description>
+<priority>900</priority>
+<Gen_description>0</Gen_description>
+<s_ColLineage>kNOq8REAAACQ06rxBwAAAGq5bWoSAAAAkNOq8RAAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{FEA9AFB0-1103-4C8E-B880-05AE17E45C64}</s_GUID>
+<s_Lineage>arltahIAAACQ06rxEQAAAAAAAAAAAAAA
+</s_Lineage>
+</effects>
+<effects>
+<effect>tw_growth_mod_all</effect>
+<icon>data/ui/campaign ui/pips/effect_economy.tga</icon>
+<description>%+n%% bonus to town wealth from all buildings</description>
+<priority>925</priority>
+<Gen_description>0</Gen_description>
+<s_ColLineage>kNOq8QUAAACQ06rxCAAAAJDTqvENAAAAkNOq8RAAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{FC04AC80-958A-404C-BCAE-5BD6F3A1A4E3}</s_GUID>
+<s_Lineage>kNOq8RAAAAAAAAAAAAAAAA==
+</s_Lineage>
+</effects>
+<effects>
+<effect>tw_growth_mod_metals</effect>
+<icon>data/ui/campaign ui/pips/effect_economy.tga</icon>
+<description>%+n%% bonus to town wealth from metalworking buildings</description>
+<priority>907</priority>
+<Gen_description>0</Gen_description>
+<s_ColLineage>kNOq8QcAAACQ06rxCwAAAJDTqvEPAAAAkNOq8REAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{F0C515FD-B016-4A73-BDCD-7A13BD9561F2}</s_GUID>
+<s_Lineage>kNOq8REAAAAAAAAAAAAAAA==
+</s_Lineage>
+</effects>
+<effects>
+<effect>tw_growth_mod_port_trade</effect>
+<icon>data/ui/campaign ui/pips/effect_economy.tga</icon>
+<description>%+n%% bonus to town wealth from ports</description>
+<priority>926</priority>
+<Gen_description>0</Gen_description>
+<s_ColLineage>kNOq8QIAAACQ06rxBQAAAJDTqvEJAAAAW4e7tQwAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{7A28F42A-F75C-403A-BD42-286B5E3CF546}</s_GUID>
+<s_Lineage>W4e7tQwAAACQ06rxCwAAAAAAAAAAAAAA
+</s_Lineage>
+</effects>
+<effects>
+<effect>tw_growth_mod_textiles</effect>
+<icon>data/ui/campaign ui/pips/effect_economy.tga</icon>
+<description>%+n%% bonus to town wealth from textile industry buildings</description>
+<priority>908</priority>
+<Gen_description>0</Gen_description>
+<s_ColLineage>kNOq8QcAAACQ06rxCwAAAJDTqvEPAAAAkNOq8REAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{707CEFCC-D955-4495-B5A4-CD57B1F5F710}</s_GUID>
+<s_Lineage>kNOq8REAAAAAAAAAAAAAAA==
+</s_Lineage>
+</effects>
+<effects>
+<effect>tw_growth_port</effect>
+<icon>data/ui/campaign ui/pips/effect_economy.tga</icon>
+<description>%+n per turn to town wealth in the region</description>
+<priority>904</priority>
+<Gen_description>0</Gen_description>
+<s_ColLineage>kNOq8QIAAACQ06rxBQAAAJDTqvEGAAAAkNOq8QoAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{BBD4EA81-40AD-497F-AAC7-DF4505596E3D}</s_GUID>
+<s_Lineage>kNOq8QoAAAAAAAAAAAAAAA==
+</s_Lineage>
+</effects>
+<effects>
+<effect>tw_growth_roads</effect>
+<icon>data/ui/campaign ui/pips/effect_economy.tga</icon>
+<description>%+n per turn to town wealth in the region</description>
+<priority>902</priority>
+<Gen_description>0</Gen_description>
+<s_ColLineage>kNOq8QIAAACQ06rxBgAAAJDTqvEHAAAAkNOq8QsAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{F82735A5-DB49-4108-8AA4-E40BFEAC3C82}</s_GUID>
+<s_Lineage>kNOq8QsAAAAAAAAAAAAAAA==
+</s_Lineage>
+</effects>
+<effects>
+<effect>tw_growth_taxes_fixed</effect>
+<icon>data/ui/campaign ui/pips/effect_economy.tga</icon>
+<description>%+n%% per turn to town wealth in all regions</description>
+<priority>0</priority>
+<Gen_description>0</Gen_description>
+<s_ColLineage>kNOq8QIAAACQ06rxAwAAAGq5bWoKAAAAarltagsAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{5372E87E-F375-471D-8E7E-63652BB56FB6}</s_GUID>
+<s_Lineage>arltagsAAACQ06rxCQAAAAAAAAAAAAAA
+</s_Lineage>
+</effects>
+<effects>
+<effect>tw_growth_taxes_modifier</effect>
+<icon>data/ui/campaign ui/pips/effect_economy.tga</icon>
+<description>%+n%% per turn to town wealth in all regions</description>
+<priority>0</priority>
+<Gen_description>0</Gen_description>
+<s_ColLineage>kNOq8QcAAACQ06rxCQAAAGq5bWoYAAAAarltahkAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{B65C4F53-13B7-46A5-9EB0-1E66A03BF6D0}</s_GUID>
+<s_Lineage>arltahkAAACQ06rxFwAAAAAAAAAAAAAA
+</s_Lineage>
+</effects>
+<effects>
+<effect>tw_growth_technologies_fixed</effect>
+<icon>data/ui/campaign ui/pips/effect_economy.tga</icon>
+<description>%+n per turn to town wealth in all your regions</description>
+<priority>924</priority>
+<Gen_description>0</Gen_description>
+<s_ColLineage>kNOq8Q4AAACQ06rxCgAAAFuHu7URAAAAkNOq8RAAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{F601A734-5ADD-4D12-9721-C72C2FBB3570}</s_GUID>
+<s_Lineage>W4e7tREAAACQ06rxEAAAAAAAAAAAAAAA
+</s_Lineage>
+</effects>
+<effects>
+<effect>tw_growth_visible_tax_effect_extortionate</effect>
+<icon>data/ui/campaign ui/pips/effect_economy.tga</icon>
+<description>Drastically reduces wealth growth for your regions</description>
+<priority>2</priority>
+<Gen_description>0</Gen_description>
+<s_ColLineage>arltagIAAABquW1qAwAAAGq5bWoGAAAAarltagUAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{A2CC63AF-93FA-4636-AC0D-9C07ACCC9402}</s_GUID>
+<s_Lineage>arltagYAAAAAAAAAAAAAAA==
+</s_Lineage>
+</effects>
+<effects>
+<effect>tw_growth_visible_tax_effect_high</effect>
+<icon>data/ui/campaign ui/pips/effect_economy.tga</icon>
+<description>Significantly reduces wealth growth for your regions</description>
+<priority>2</priority>
+<Gen_description>0</Gen_description>
+<s_ColLineage>arltagIAAABquW1qAwAAAGq5bWoHAAAAarltagUAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{6BCF44CA-FEA0-44D7-8C08-5B66A5C451A3}</s_GUID>
+<s_Lineage>arltagcAAAAAAAAAAAAAAA==
+</s_Lineage>
+</effects>
+<effects>
+<effect>tw_growth_visible_tax_effect_low</effect>
+<icon>data/ui/campaign ui/pips/effect_economy.tga</icon>
+<description>Slightly reduces wealth growth for your regions</description>
+<priority>2</priority>
+<Gen_description>0</Gen_description>
+<s_ColLineage>arltagIAAABquW1qAwAAAGq5bWoJAAAAarltagUAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{CE835494-FBBF-407E-8D00-F68C8772F993}</s_GUID>
+<s_Lineage>arltagkAAAAAAAAAAAAAAA==
+</s_Lineage>
+</effects>
+<effects>
+<effect>tw_growth_visible_tax_effect_minimal</effect>
+<icon>data/ui/campaign ui/pips/effect_economy.tga</icon>
+<description>Moderately reduces wealth growth for your regions</description>
+<priority>2</priority>
+<Gen_description>0</Gen_description>
+<s_ColLineage>arltagIAAABquW1qAwAAAGq5bWoGAAAAarltagUAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{0D185FC6-63F4-443A-8524-FC8AC35D69D1}</s_GUID>
+<s_Lineage>arltagYAAAAAAAAAAAAAAA==
+</s_Lineage>
+</effects>
+<effects>
+<effect>tw_growth_visible_tax_effect_normal</effect>
+<icon>data/ui/campaign ui/pips/effect_economy.tga</icon>
+<description>Minimal reduction in wealth growth for your regions</description>
+<priority>2</priority>
+<Gen_description>0</Gen_description>
+<s_ColLineage>arltagIAAABquW1qAwAAAGq5bWoHAAAAarltagUAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{D40653C0-DA33-451E-8C60-D91ABA1D8DFB}</s_GUID>
+<s_Lineage>arltagcAAAAAAAAAAAAAAA==
+</s_Lineage>
+</effects>
+<effects>
+<effect>upkeep_cost_mod_category_artillery</effect>
+<icon>data/ui/campaign ui/pips/effect_artillery.tga</icon>
+<description>%+n%% upkeep costs for artillery units</description>
+<priority>3009</priority>
+<Gen_description>0</Gen_description>
+<s_ColLineage>kNOq8QIAAABquW1qDgAAAJDTqvEJAAAAkNOq8Q0AAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{9B295623-6C5F-41BF-B89B-0350841B94EB}</s_GUID>
+<s_Lineage>arltag4AAACQ06rxDQAAAAAAAAAAAAAA
+</s_Lineage>
+</effects>
+<effects>
+<effect>upkeep_cost_mod_category_cavalry</effect>
+<icon>data/ui/campaign ui/pips/effect_cavalry.tga</icon>
+<description>%+n%% upkeep costs for cavalry units</description>
+<priority>3010</priority>
+<Gen_description>0</Gen_description>
+<s_ColLineage>kNOq8QIAAABquW1qDQAAAJDTqvEJAAAAkNOq8QwAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{DA77E0B1-B30F-437E-8A99-566B747D9C3A}</s_GUID>
+<s_Lineage>arltag0AAACQ06rxDAAAAAAAAAAAAAAA
+</s_Lineage>
+</effects>
+<effects>
+<effect>upkeep_cost_mod_category_dragoons</effect>
+<icon>data/ui/campaign ui/pips/effect_cavalry.tga</icon>
+<description>%+n%% upkeep costs for dragoons</description>
+<priority>3008</priority>
+<Gen_description>0</Gen_description>
+<s_ColLineage>kNOq8QIAAABquW1qDAAAAJDTqvEJAAAAkNOq8QsAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{0199594C-5DB0-49AD-B28F-E4BAD15BB0DF}</s_GUID>
+<s_Lineage>arltagwAAACQ06rxCwAAAAAAAAAAAAAA
+</s_Lineage>
+</effects>
+<effects>
+<effect>upkeep_cost_mod_category_elephants</effect>
+<icon>data/ui/campaign ui/pips/effect_army.tga</icon>
+<description>%+n%% upkeep costs for elephant units</description>
+<priority>3005</priority>
+<Gen_description>0</Gen_description>
+<s_ColLineage>kNOq8QIAAACQ06rxBgAAAJDTqvEJAAAAkNOq8QsAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{578EAD97-EAF0-4684-8741-79E2FD103B70}</s_GUID>
+<s_Lineage>kNOq8QsAAAAAAAAAAAAAAA==
+</s_Lineage>
+</effects>
+<effects>
+<effect>upkeep_cost_mod_category_infantry</effect>
+<icon>data/ui/campaign ui/pips/effect_infantry.tga</icon>
+<description>%+n%% upkeep costs for infantry units</description>
+<priority>3011</priority>
+<Gen_description>0</Gen_description>
+<s_ColLineage>kNOq8QIAAABquW1qDgAAAJDTqvEIAAAAkNOq8Q0AAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{55846B2E-1C7B-4DDF-B514-D1C698963CEE}</s_GUID>
+<s_Lineage>arltag4AAACQ06rxDQAAAAAAAAAAAAAA
+</s_Lineage>
+</effects>
+<effects>
+<effect>upkeep_cost_mod_category_naval_auxiliary</effect>
+<icon>data/ui/campaign ui/pips/effect_navy.tga</icon>
+<description>%+n%% upkeep costs for merchant ships</description>
+<priority>3004</priority>
+<Gen_description>0</Gen_description>
+<s_ColLineage>kNOq8QIAAACQ06rxBQAAAJDTqvEIAAAAkNOq8QoAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{EB052EED-EF97-4F4A-B925-B18F4CD399CD}</s_GUID>
+<s_Lineage>kNOq8QoAAAAAAAAAAAAAAA==
+</s_Lineage>
+</effects>
+<effects>
+<effect>upkeep_cost_mod_category_naval_frigate</effect>
+<icon>data/ui/campaign ui/pips/effect_navy.tga</icon>
+<description>%+n%% upkeep costs for frigates</description>
+<priority>3007</priority>
+<Gen_description>0</Gen_description>
+<s_ColLineage>kNOq8QIAAACQ06rxBgAAAJDTqvEJAAAAkNOq8QsAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{74E9BE39-CD5A-4D1D-945F-4B710D061C0A}</s_GUID>
+<s_Lineage>kNOq8QsAAAAAAAAAAAAAAA==
+</s_Lineage>
+</effects>
+<effects>
+<effect>upkeep_cost_mod_category_naval_galley</effect>
+<icon>data/ui/campaign ui/pips/effect_navy.tga</icon>
+<description>%+n%% upkeep costs for galleys</description>
+<priority>3003</priority>
+<Gen_description>0</Gen_description>
+<s_ColLineage>kNOq8QIAAACQ06rxBgAAAJDTqvEJAAAAkNOq8QsAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{21CDDBAE-E97D-48C3-AE6A-31126011697D}</s_GUID>
+<s_Lineage>kNOq8QsAAAAAAAAAAAAAAA==
+</s_Lineage>
+</effects>
+<effects>
+<effect>upkeep_cost_mod_category_naval_line_of_battle</effect>
+<icon>data/ui/campaign ui/pips/effect_navy.tga</icon>
+<description>%+n%% upkeep costs for line of battle ships</description>
+<priority>3002</priority>
+<Gen_description>0</Gen_description>
+<s_ColLineage>kNOq8QIAAACQ06rxBgAAAJDTqvEJAAAAkNOq8QsAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{9FAD8CD0-8032-426D-89BE-F27566E92A6E}</s_GUID>
+<s_Lineage>kNOq8QsAAAAAAAAAAAAAAA==
+</s_Lineage>
+</effects>
+<effects>
+<effect>upkeep_cost_mod_category_naval_merchant</effect>
+<icon>data/ui/campaign ui/pips/effect_navy.tga</icon>
+<description>%+n%% upkeep costs for merchant ships</description>
+<priority>3001</priority>
+<Gen_description>0</Gen_description>
+<s_ColLineage>kNOq8QIAAACQ06rxBgAAAJDTqvEJAAAAkNOq8QsAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{982A286A-1E29-400B-9DB1-A2CE7CEED9A5}</s_GUID>
+<s_Lineage>kNOq8QsAAAAAAAAAAAAAAA==
+</s_Lineage>
+</effects>
+<effects>
+<effect>upkeep_cost_mod_category_naval_specialist</effect>
+<icon>data/ui/campaign ui/pips/effect_navy.tga</icon>
+<description>%+n%% upkeep costs for rocket ships and bomb ketches</description>
+<priority>3006</priority>
+<Gen_description>0</Gen_description>
+<s_ColLineage>kNOq8QIAAACQ06rxBgAAAJDTqvEJAAAAkNOq8QwAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{4CED99A5-24B9-4C5B-8524-66AF3DA17269}</s_GUID>
+<s_Lineage>kNOq8QwAAAAAAAAAAAAAAA==
+</s_Lineage>
+</effects>
+<effects>
+<effect>upkeep_cost_mod_class_skirmishers</effect>
+<icon>data/ui/campaign ui/pips/effect_infantry.tga</icon>
+<description>%+n%% upkeep costs for skirmisher units</description>
+<priority>3014</priority>
+<Gen_description>0</Gen_description>
+<s_ColLineage>W4e7tQIAAABquW1qBQAAAFuHu7UDAAAAW4e7tQIAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{EA3F87DC-88F4-4C93-A90F-5A65A714A812}</s_GUID>
+<s_Lineage>arltagUAAABbh7u1BAAAAAAAAAAAAAAA
+</s_Lineage>
+</effects>
+<effects>
+<effect>upkeep_cost_mod_land_all</effect>
+<icon>data/ui/campaign ui/pips/effect_recruitment.tga</icon>
+<description>%+n%% upkeep costs for all army units</description>
+<priority>3013</priority>
+<Gen_description>0</Gen_description>
+<s_ColLineage>kNOq8QIAAABquW1qDAAAAJDTqvEJAAAAkNOq8QsAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{973B90A2-F3C4-47E2-A8A5-601C805FC640}</s_GUID>
+<s_Lineage>arltagwAAACQ06rxCwAAAAAAAAAAAAAA
+</s_Lineage>
+</effects>
+<effects>
+<effect>upkeep_cost_mod_naval_all</effect>
+<icon>data/ui/campaign ui/pips/effect_navy.tga</icon>
+<description>%+n%% upkeep costs for all naval units</description>
+<priority>3012</priority>
+<Gen_description>0</Gen_description>
+<s_ColLineage>kNOq8QQAAACQ06rxBwAAAJDTqvEKAAAAkNOq8QwAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{3DC7C667-0B82-49B2-9D33-35455887FF06}</s_GUID>
+<s_Lineage>kNOq8QwAAAAAAAAAAAAAAA==
+</s_Lineage>
+</effects>
+<effects>
+<effect>Xcommodity_price_mod</effect>
+<icon>data/ui/campaign ui/pips/effect_economy.tga</icon>
+<priority>0</priority>
+<Gen_description>0</Gen_description>
+<s_ColLineage>kNOq8QMAAACQ06rxBQAAAJDTqvEJAAAAkNOq8QoAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{2DFF3641-2B9B-4223-ACAF-05C737FEF4EB}</s_GUID>
+<s_Lineage>kNOq8QoAAAAAAAAAAAAAAA==
+</s_Lineage>
+</effects>
+<effects>
+<effect>Xgdp_building</effect>
+<icon>data/ui/campaign ui/pips/effect_pop_growth.tga</icon>
+<description>%+n to region wealth</description>
+<priority>0</priority>
+<Gen_description>0</Gen_description>
+<s_ColLineage>kNOq8QUAAAA0CceODgAAAJDTqvEMAAAAkNOq8Q0AAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{6193AA53-512D-4B8D-BCAC-0681E940B191}</s_GUID>
+<s_Lineage>NAnHjg4AAACQ06rxDQAAAAAAAAAAAAAA
+</s_Lineage>
+</effects>
+<effects>
+<effect>Xpop_growth_buildings</effect>
+<icon>data/ui/campaign ui/pips/effect_pop_growth.tga</icon>
+<description>%+n%% to region population growth</description>
+<priority>0</priority>
+<Gen_description>0</Gen_description>
+<s_ColLineage>kNOq8QYAAAA0CceODwAAAJDTqvENAAAAkNOq8Q4AAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{334A7540-51D4-4084-AF51-863FAE175B48}</s_GUID>
+<s_Lineage>NAnHjg8AAACQ06rxDgAAAAAAAAAAAAAA
+</s_Lineage>
+</effects>
+<effects>
+<effect>Xtax_cap</effect>
+<icon>data/ui/campaign ui/pips/effect_economy.tga</icon>
+<description>Maximum tax rate applied to region: %n%%</description>
+<priority>0</priority>
+<Gen_description>0</Gen_description>
+<s_ColLineage>kNOq8QUAAACQ06rxCwAAAJDTqvEKAAAAkNOq8QwAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{9BCECA0B-216A-4999-A288-BF1C325B2EA7}</s_GUID>
+<s_Lineage>kNOq8QwAAAAAAAAAAAAAAA==
+</s_Lineage>
+</effects>
+<effects>
+<effect>Xtw_growth</effect>
+<icon>data/ui/campaign ui/pips/effect_economy.tga</icon>
+<description>%+n%% to town wealth growth</description>
+<priority>0</priority>
+<Gen_description>0</Gen_description>
+<s_ColLineage>kNOq8QUAAACQ06rxDAAAAJDTqvELAAAAkNOq8Q0AAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{232D1D2F-CF1C-4AE5-A95E-FB9AE012E662}</s_GUID>
+<s_Lineage>kNOq8Q0AAAAAAAAAAAAAAA==
+</s_Lineage>
+</effects>
+<effects>
+<effect>zeal_america</effect>
+<description>%+n to Zeal when seeking converts in the Americas</description>
+<priority>111</priority>
+<Gen_description>0</Gen_description>
+<s_ColLineage>kNOq8QIAAACQ06rxAQAAAJDTqvEDAAAAkNOq8QQAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{60FFD356-026C-49D0-8900-B1EE81F97C55}</s_GUID>
+<s_Lineage>kNOq8QQAAAAAAAAAAAAAAA==
+</s_Lineage>
+</effects>
+<effects>
+<effect>zeal_europe</effect>
+<description>%+n to Zeal when seeking converts in Europe</description>
+<priority>112</priority>
+<Gen_description>0</Gen_description>
+<s_ColLineage>kNOq8QIAAABquW1qBgAAAJDTqvEDAAAAkNOq8QQAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{F298A33F-843C-4746-B055-3B0E71C0312E}</s_GUID>
+<s_Lineage>arltagYAAACQ06rxBAAAAAAAAAAAAAAA
+</s_Lineage>
+</effects>
+<effects>
+<effect>zeal_india</effect>
+<description>%+n to Zeal when seeking converts in India</description>
+<priority>113</priority>
+<Gen_description>0</Gen_description>
+<s_ColLineage>kNOq8QIAAACQ06rxAQAAAJDTqvEDAAAAkNOq8QQAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{31EC630B-0ED6-4719-BE6D-ED0066E34EE6}</s_GUID>
+<s_Lineage>kNOq8QQAAAAAAAAAAAAAAA==
+</s_Lineage>
+</effects>
+<effects>
+<effect>attrition_difficulty_addition</effect>
+<priority>0</priority>
+<s_ColLineage>arltagIAAABquW1qAQAAAGq5bWoBAAAAarltagIAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{0FDB6594-5AD7-4DD7-AD00-F3320BAC5F82}</s_GUID>
+<s_Lineage>arltagIAAAAAAAAAAAAAAA==
+</s_Lineage>
+</effects>
+<effects>
+<effect>conversion_pro_french</effect>
+<icon>data/ui/campaign ui/pips/pip_pro_france.tga</icon>
+<description>Spreads pro-French sentiment throughout the region</description>
+<priority>602</priority>
+<Gen_description>0</Gen_description>
+<s_ColLineage>arltagIAAABquW1qCAAAAGq5bWoHAAAAarltagQAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{8CC273FF-EDFC-472F-91A3-FCBFC1152BE2}</s_GUID>
+<s_Lineage>arltaggAAAAAAAAAAAAAAA==
+</s_Lineage>
+</effects>
+<effects>
+<effect>conversion_anti_french</effect>
+<icon>data/ui/campaign ui/pips/effect_anti_france.tga</icon>
+<description>Spreads anti-French sentiment throughout the region</description>
+<priority>601</priority>
+<Gen_description>0</Gen_description>
+<s_ColLineage>arltagIAAABquW1qBwAAAGq5bWoFAAAAarltagIAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{9BF2E9D6-22EA-4EB1-84B6-B29FF34CFA17}</s_GUID>
+<s_Lineage>arltagcAAAAAAAAAAAAAAA==
+</s_Lineage>
+</effects>
+<effects>
+<effect>happy_alignment_pro_french</effect>
+<icon>data/ui/campaign ui/pips/effect_public_order.tga</icon>
+<description>%+n happiness for those in favour of French occupation</description>
+<priority>9030</priority>
+<Gen_description>0</Gen_description>
+<s_ColLineage>arltagIAAABquW1qAgAAAGq5bWoDAAAAarltagIAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{58A548F5-CF69-468D-94BF-D08BB3E9693E}</s_GUID>
+<s_Lineage>arltagMAAAAAAAAAAAAAAA==
+</s_Lineage>
+</effects>
+<effects>
+<effect>happy_alignment_anti_french</effect>
+<icon>data/ui/campaign ui/pips/effect_public_order.tga</icon>
+<description>%+n happiness for those opposed to French occupation</description>
+<priority>9030</priority>
+<Gen_description>0</Gen_description>
+<s_ColLineage>arltagIAAABquW1qAgAAAGq5bWoCAAAAarltagIAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{047477FA-AD81-4264-9EEF-ACAF24476224}</s_GUID>
+<s_Lineage>arltagIAAAAAAAAAAAAAAA==
+</s_Lineage>
+</effects>
+<effects>
+<effect>agent_spawn_rate_priest</effect>
+<icon>data/ui/campaign ui/pips/effect_characters.tga</icon>
+<description>%n%% chance per turn to spawn a priest</description>
+<priority>6</priority>
+<Gen_description>0</Gen_description>
+<s_ColLineage>arltagIAAABquW1qBAAAAGq5bWoCAAAAarltagMAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{89FA09A2-255F-41D9-9105-AA9F4206775B}</s_GUID>
+<s_Lineage>arltagQAAAAAAAAAAAAAAA==
+</s_Lineage>
+</effects>
+<effects>
+<effect>agent_spawn_rate_propagandist</effect>
+<icon>data/ui/campaign ui/pips/effect_characters.tga</icon>
+<description>%n%% chance per turn to spawn a provocateur</description>
+<priority>6</priority>
+<Gen_description>0</Gen_description>
+<s_ColLineage>arltagMAAABquW1qBQAAAGq5bWoGAAAAarltagQAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{874E087C-CD94-4A95-888D-BE601C18119C}</s_GUID>
+<s_Lineage>arltagYAAAAAAAAAAAAAAA==
+</s_Lineage>
+</effects>
+<effects>
+<effect>agent_cap_priest</effect>
+<icon>data/ui/campaign ui/pips/effect_characters.tga</icon>
+<description>Spawns priests. Maximum number: %+n</description>
+<priority>111</priority>
+<Gen_description>0</Gen_description>
+<s_ColLineage>arltagIAAABquW1qAgAAAGq5bWoCAAAAarltagIAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{07A2E463-5FF2-477E-8AF5-BD633CCA6CE1}</s_GUID>
+<s_Lineage>arltagIAAAAAAAAAAAAAAA==
+</s_Lineage>
+</effects>
+<effects>
+<effect>agent_cap_propagandist</effect>
+<icon>data/ui/campaign ui/pips/effect_characters.tga</icon>
+<description>Spawns provocateurs. Maximum number: %+n</description>
+<priority>111</priority>
+<Gen_description>0</Gen_description>
+<s_ColLineage>arltagIAAABquW1qAgAAAGq5bWoEAAAAarltagMAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{C6FF53C1-BFDD-4D88-95A9-96B3C2BD2EFF}</s_GUID>
+<s_Lineage>arltagQAAAAAAAAAAAAAAA==
+</s_Lineage>
+</effects>
+<effects>
+<effect>agent_spawn_rate_mod_priest</effect>
+<icon>data/ui/campaign ui/pips/effect_characters.tga</icon>
+<description>%+n%% to chance of spawning priests</description>
+<priority>100</priority>
+<Gen_description>0</Gen_description>
+<s_ColLineage>arltagIAAABquW1qAgAAAGq5bWoCAAAAarltagIAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{8EE49D1D-B8FB-4D1C-980F-107ECDF4B020}</s_GUID>
+<s_Lineage>arltagIAAAAAAAAAAAAAAA==
+</s_Lineage>
+</effects>
+<effects>
+<effect>agent_spawn_rate_mod_propagandist</effect>
+<icon>data/ui/campaign ui/pips/effect_characters.tga</icon>
+<description>%+n%% to chance of spawning provocateurs</description>
+<priority>100</priority>
+<Gen_description>0</Gen_description>
+<s_ColLineage>arltagIAAABquW1qAgAAAGq5bWoEAAAAarltagIAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{9D323BA2-99EE-4294-BFDA-11B77FCE7705}</s_GUID>
+<s_Lineage>arltagQAAAAAAAAAAAAAAA==
+</s_Lineage>
+</effects>
+<effects>
+<effect>agent_cap_guerrillero</effect>
+<icon>data/ui/campaign ui/pips/effect_characters.tga</icon>
+<description>Spawns guerrilleros. Maximum number: %+n</description>
+<priority>111</priority>
+<Gen_description>0</Gen_description>
+<s_ColLineage>arltagIAAABquW1qAwAAAGq5bWoEAAAAarltagUAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{BF4FF62D-81F3-4AF0-BF63-7DCCF80DA8BB}</s_GUID>
+<s_Lineage>arltagUAAAAAAAAAAAAAAA==
+</s_Lineage>
+</effects>
+<effects>
+<effect>agent_spawn_rate_mod_guerrillero</effect>
+<icon>data/ui/campaign ui/pips/effect_characters.tga</icon>
+<description>%+n%% to chance of spawning guerrilleros</description>
+<priority>100</priority>
+<Gen_description>0</Gen_description>
+<s_ColLineage>arltagIAAABquW1qAgAAAGq5bWoCAAAAarltagIAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{9C53CFB8-D5CC-4A23-8EF7-963DB30E6E93}</s_GUID>
+<s_Lineage>arltagIAAAAAAAAAAAAAAA==
+</s_Lineage>
+</effects>
+<effects>
+<effect>agent_spawn_rate_guerrillero</effect>
+<icon>data/ui/campaign ui/pips/effect_characters.tga</icon>
+<description>%n%% chance per turn to spawn a guerrillero</description>
+<priority>6</priority>
+<Gen_description>0</Gen_description>
+<s_ColLineage>arltagIAAABquW1qBAAAAGq5bWoCAAAAarltagMAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{B14C51D5-ED5F-41AC-87C0-32D255A0FEA6}</s_GUID>
+<s_Lineage>arltagQAAAAAAAAAAAAAAA==
+</s_Lineage>
+</effects>
+<effects>
+<effect>recruitment_cost_mod_special_auxiliary</effect>
+<icon>data/ui/campaign ui/pips/effect_infantry.tga</icon>
+<description>%+n%% recruitment cost for auxiliaries across all regions</description>
+<priority>2019</priority>
+<Gen_description>0</Gen_description>
+<s_ColLineage>arltagIAAABquW1qAwAAAGq5bWoEAAAAarltagIAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{2C7C4900-5DBE-49A5-BA28-D4F5DAD45D3A}</s_GUID>
+<s_Lineage>arltagQAAAAAAAAAAAAAAA==
+</s_Lineage>
+</effects>
+<effects>
+<effect>upkeep_cost_mod_special_auxiliary</effect>
+<icon>data/ui/campaign ui/pips/effect_infantry.tga</icon>
+<description>%+n%% upkeep costs for auxiliary units</description>
+<priority>2019</priority>
+<Gen_description>0</Gen_description>
+<s_ColLineage>arltagIAAABquW1qAgAAAGq5bWoCAAAAarltagIAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{22C45EB4-2021-4323-9639-C60DC2F11865}</s_GUID>
+<s_Lineage>arltagIAAAAAAAAAAAAAAA==
+</s_Lineage>
+</effects>
+<effects>
+<effect>upkeep_cost_mod_special_guerrilla</effect>
+<icon>data/ui/campaign ui/pips/effect_infantry.tga</icon>
+<description>%+n%% upkeep costs for guerrilla units</description>
+<priority>2019</priority>
+<Gen_description>0</Gen_description>
+<s_ColLineage>arltagIAAABquW1qAgAAAGq5bWoCAAAAarltagIAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{D2737372-F07F-448A-957B-CD8770217DCD}</s_GUID>
+<s_Lineage>arltagIAAAAAAAAAAAAAAA==
+</s_Lineage>
+</effects>
+<effects>
+<effect>recruitment_cost_mod_special_guerrilla</effect>
+<icon>data/ui/campaign ui/pips/effect_infantry.tga</icon>
+<description>%+n%% recruitment cost for guerrillas across all regions</description>
+<priority>2019</priority>
+<Gen_description>0</Gen_description>
+<s_ColLineage>arltagIAAABquW1qAgAAAGq5bWoCAAAAarltagIAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{6330BC2B-4022-4C00-96F4-494A1A4EC321}</s_GUID>
+<s_Lineage>arltagIAAAAAAAAAAAAAAA==
+</s_Lineage>
+</effects>
+<effects>
+<effect>experience_mod_special_guerrilla</effect>
+<icon>data/ui/campaign ui/pips/effect_infantry.tga</icon>
+<description>%+n experience to guerrilla recruits</description>
+<priority>2019</priority>
+<Gen_description>0</Gen_description>
+<s_ColLineage>arltagIAAABquW1qAwAAAGq5bWoDAAAAarltagMAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{36D78F26-A95B-488A-BA83-34D5A9673EB8}</s_GUID>
+<s_Lineage>arltagMAAAAAAAAAAAAAAA==
+</s_Lineage>
+</effects>
+<effects>
+<effect>experience_mod_special_auxiliary</effect>
+<icon>data/ui/campaign ui/pips/effect_infantry.tga</icon>
+<description>%+n experience to auxiliary recruits</description>
+<priority>2019</priority>
+<Gen_description>0</Gen_description>
+<s_ColLineage>arltagIAAABquW1qAgAAAGq5bWoCAAAAarltagIAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{6152FFF7-DF0C-4C47-9419-A8AB56B7E36E}</s_GUID>
+<s_Lineage>arltagIAAAAAAAAAAAAAAA==
+</s_Lineage>
+</effects>
+<effects>
+<effect>replenishment_bonus_special_guerrilla</effect>
+<icon>data/ui/campaign ui/pips/effect_army.tga</icon>
+<description>%+n%% to guerrilla replenishment rates in all your regions</description>
+<priority>2</priority>
+<Gen_description>0</Gen_description>
+<s_ColLineage>arltagIAAABquW1qAgAAAGq5bWoCAAAAarltagIAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{74794162-B4F5-4D9F-8FE2-A25B6DC0D4F3}</s_GUID>
+<s_Lineage>arltagIAAAAAAAAAAAAAAA==
+</s_Lineage>
+</effects>
+<effects>
+<effect>replenishment_bonus_special_auxiliary</effect>
+<icon>data/ui/campaign ui/pips/effect_army.tga</icon>
+<description>%+n%% to auxiliary replenishment rates in all your regions</description>
+<priority>2</priority>
+<Gen_description>0</Gen_description>
+<s_ColLineage>arltagIAAABquW1qAgAAAGq5bWoCAAAAarltagIAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{E6B3D4A6-4C5D-44A4-9BA8-7B126640C6D3}</s_GUID>
+<s_Lineage>arltagIAAAAAAAAAAAAAAA==
+</s_Lineage>
+</effects>
+<effects>
+<effect>guerrilla_reward_unit_bonus</effect>
+<icon>data/ui/campaign ui/pips/effect_army.tga</icon>
+<description>Grants an additional unit of guerrillas when liberating regions to the Spanish</description>
+<priority>2</priority>
+<Gen_description>0</Gen_description>
+<s_ColLineage>arltagIAAABquW1qAwAAAGq5bWoCAAAAarltagIAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{E18A5F12-F40D-4658-91CD-113A4092D653}</s_GUID>
+<s_Lineage>arltagMAAAAAAAAAAAAAAA==
+</s_Lineage>
+</effects>
+<effects>
+<effect>trade_node_supply_mod</effect>
+<icon>data/ui/campaign ui/pips/effect_trade.tga</icon>
+<description>%+n%% military supplies received from trade nodes</description>
+<priority>50</priority>
+<Gen_description>0</Gen_description>
+<s_ColLineage>arltagIAAABquW1qAwAAAGq5bWoGAAAAarltagUAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{E08813B3-D250-4022-96D3-B4B31AD8227D}</s_GUID>
+<s_Lineage>arltagYAAAAAAAAAAAAAAA==
+</s_Lineage>
+</effects>
+<effects>
+<effect>conversion_pro_french_global</effect>
+<icon>data/ui/campaign ui/pips/pip_pro_france.tga</icon>
+<description>Spreads pro-French sentiment across all regions</description>
+<priority>602</priority>
+<Gen_description>0</Gen_description>
+<s_ColLineage>arltagIAAABquW1qBAAAAGq5bWoDAAAAarltagIAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{BEB0B763-6765-45C3-8626-7B539F68BD7F}</s_GUID>
+<s_Lineage>arltagQAAAAAAAAAAAAAAA==
+</s_Lineage>
+</effects>
+<effects>
+<effect>conversion_anti_french_global</effect>
+<icon>data/ui/campaign ui/pips/effect_anti_france.tga</icon>
+<description>Spreads anti-French sentiment across all regions</description>
+<priority>601</priority>
+<Gen_description>0</Gen_description>
+<s_ColLineage>arltagIAAABquW1qBwAAAGq5bWoFAAAAarltagIAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{0AF79D77-561E-4AD9-A56D-ED4CD86CB996}</s_GUID>
+<s_Lineage>arltagcAAAAAAAAAAAAAAA==
+</s_Lineage>
+</effects>
+<effects>
+<effect>zeal_spain</effect>
+<icon>data/ui/campaign ui/pips/effect_persuasion.tga</icon>
+<description>%+n to persuasion for provocateurs or priests converting regions to your political alignment</description>
+<priority>114</priority>
+<Gen_description>0</Gen_description>
+<s_ColLineage>arltagEAAABquW1qBwAAAGq5bWoLAAAAarltagIAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{7599AEC4-13E1-4B4B-87E6-4DD3DA88E5A9}</s_GUID>
+<s_Lineage>arltagsAAAAAAAAAAAAAAA==
+</s_Lineage>
+</effects>
+<effects>
+<effect>hates_french</effect>
+<icon>data/ui/campaign ui/pips/effect_general.tga</icon>
+<description>%+n to Command when in battle against the French</description>
+<priority>1</priority>
+<Gen_description>0</Gen_description>
+<s_ColLineage>arltagIAAABquW1qAgAAAGq5bWoCAAAAarltagIAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{56C89C74-D11C-406A-89A7-AF78FBACB3EF}</s_GUID>
+<s_Lineage>arltagIAAAAAAAAAAAAAAA==
+</s_Lineage>
+</effects>
+<effects>
+<effect>hates_british</effect>
+<icon>data/ui/campaign ui/pips/effect_general.tga</icon>
+<description>%+n to Command when in battle against the British</description>
+<priority>1</priority>
+<Gen_description>0</Gen_description>
+<s_ColLineage>arltagIAAABquW1qAgAAAGq5bWoCAAAAarltagIAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{DD20FB47-F925-4E13-ABB5-D0F74162E63B}</s_GUID>
+<s_Lineage>arltagIAAAAAAAAAAAAAAA==
+</s_Lineage>
+</effects>
+<effects>
+<effect>happy_government_all</effect>
+<icon>data/ui/campaign ui/pips/effect_public_order.tga</icon>
+<description>%+n happiness (all classes)</description>
+<priority>9006</priority>
+<Gen_description>0</Gen_description>
+<s_ColLineage>arltagIAAABquW1qAwAAAGq5bWoCAAAAarltagIAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{5AE84649-92AC-48D2-B0D5-477082189942}</s_GUID>
+<s_Lineage>arltagMAAAAAAAAAAAAAAA==
+</s_Lineage>
+</effects>
+<effects>
+<effect>Command_Land_Attack_Spain</effect>
+<icon>data/ui/campaign ui/pips/effect_general.tga</icon>
+<description>%+n to command for attacking generals</description>
+<priority>310</priority>
+<Gen_description>0</Gen_description>
+<s_ColLineage>arltagIAAABquW1qAgAAAGq5bWoCAAAAarltagIAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{156794CC-0B23-4D16-8685-8C6FBE0BDB1C}</s_GUID>
+<s_Lineage>arltagIAAAAAAAAAAAAAAA==
+</s_Lineage>
+</effects>
+<effects>
+<effect>happy_religion_anti_french</effect>
+<icon>data/ui/campaign ui/pips/effect_public_order.tga</icon>
+<description>%+n happiness for the French-resisting population</description>
+<priority>9028</priority>
+<Gen_description>0</Gen_description>
+<s_ColLineage>arltagIAAABquW1qAgAAAGq5bWoDAAAAarltagIAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{A033B6E9-7EC9-4A31-BF12-899576B4826A}</s_GUID>
+<s_Lineage>arltagMAAAAAAAAAAAAAAA==
+</s_Lineage>
+</effects>
+<effects>
+<effect>happy_religion_pro_french</effect>
+<icon>data/ui/campaign ui/pips/effect_public_order.tga</icon>
+<description>%+n happiness for the French-supporting population</description>
+<priority>9028</priority>
+<Gen_description>0</Gen_description>
+<s_ColLineage>arltagIAAABquW1qAgAAAGq5bWoCAAAAarltagIAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{630D5C94-A3A6-475B-A05C-EC5B79B36189}</s_GUID>
+<s_Lineage>arltagIAAAAAAAAAAAAAAA==
+</s_Lineage>
+</effects>
+</dataroot>

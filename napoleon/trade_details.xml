@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="trade_details.xsd" generated="2010-03-09T09:53:17">
+<trade_details>
+<key>other_goods</key>
+<onscreen_text>Other goods</onscreen_text>
+<icon_filepath>data\UI\Campaign UI\Pips\resource-other.tga</icon_filepath>
+<Gen_TempField_x002A_0>0</Gen_TempField_x002A_0>
+<s_ColLineage>kNOq8QIAAACQ06rxAwAAAJDTqvEGAAAAkNOq8QQAAACQ06rxBQAAAA==
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{C6735DB2-E7BF-4AE4-8BCB-8B6658605824}</s_GUID>
+<s_Lineage>kNOq8QYAAAAAAAAAAAAAAA==
+</s_Lineage>
+</trade_details>
+<trade_details>
+<key>route_age</key>
+<onscreen_text>Long term trading partner.\nTrading with a country for a long time gradually increases the value of your trade route. Each turn, a small stability bonus is added to your income from each route. If the trade agreement is cancelled, this bonus income is lost</onscreen_text>
+<icon_filepath>data\UI\Campaign UI\Pips\eco_basegdp.tga</icon_filepath>
+<Gen_TempField_x002A_0>0</Gen_TempField_x002A_0>
+<s_ColLineage>kNOq8QIAAACQ06rxBgAAAJDTqvEIAAAAkNOq8QMAAACQ06rxBQAAAA==
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{95C856AD-FE90-4A6A-87C9-9EFE291996C8}</s_GUID>
+<s_Lineage>kNOq8QgAAAAAAAAAAAAAAA==
+</s_Lineage>
+</trade_details>
+<trade_details>
+<key>military_supplies</key>
+<onscreen_text>Military supplies</onscreen_text>
+<icon_filepath>data\UI\Campaign UI\Pips\resource-other.tga</icon_filepath>
+<Gen_TempField_x002A_0>0</Gen_TempField_x002A_0>
+<s_ColLineage>arltagIAAABquW1qAgAAAGq5bWoCAAAAarltagEAAABquW1qAQAAAA==
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{E70097DF-7B63-4E48-B743-8B06CC49F445}</s_GUID>
+<s_Lineage>arltagIAAAAAAAAAAAAAAA==
+</s_Lineage>
+</trade_details>
+</dataroot>

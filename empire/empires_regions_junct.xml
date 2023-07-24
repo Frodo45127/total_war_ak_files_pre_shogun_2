@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="empires_regions_junct.xsd" generated="2007-01-19T12:45:20">
+<empires_regions_junct>
+<region>bijapur</region>
+<empire>indian_empire</empire>
+</empires_regions_junct>
+<empires_regions_junct>
+<region>bengal</region>
+<empire>indian_empire</empire>
+</empires_regions_junct>
+</dataroot>

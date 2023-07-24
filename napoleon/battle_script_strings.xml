@@ -1,0 +1,1791 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="battle_script_strings.xsd" generated="2010-03-15T10:08:26">
+<battle_script_strings>
+<key>CreativeAssembly.BT_Rich_advance</key>
+<string>This is a good opportunity to advance your army. Select a line infantry unit.</string>
+<game_area>Battle</game_area>
+<advisor_name>Berthier</advisor_name>
+</battle_script_strings>
+<battle_script_strings>
+<key>CreativeAssembly.BT_Rich_British_Forces</key>
+<string>In this tutorial you will take control of Napoléon&apos;s French forces.</string>
+<game_area>Battle</game_area>
+<advisor_name>Berthier</advisor_name>
+</battle_script_strings>
+<battle_script_strings>
+<key>CreativeAssembly.BT_Rich_Broken_Shattered_Morale</key>
+<string>While enemy troops with broken morale can return to fight once they recover their resolve, these British troops have been shattered. Let them flee for their lives.</string>
+<game_area>Battle</game_area>
+<advisor_name>Berthier</advisor_name>
+</battle_script_strings>
+<battle_script_strings>
+<key>CreativeAssembly.BT_Rich_camera_raising</key>
+<string>Whilst you are shelling the enemy, practice raising and lowering the camera by rolling the middle mouse button. Alternatively, you can use the Z or X keys.</string>
+<game_area>Battle</game_area>
+<advisor_name>Berthier</advisor_name>
+</battle_script_strings>
+<battle_script_strings>
+<key>CreativeAssembly.BT_Rich_enemy_unit_routing</key>
+<string>You have successfully routed an enemy unit. If you rout all enemy units from the battlefield you will be victorious.</string>
+<game_area>Battle</game_area>
+<advisor_name>Berthier</advisor_name>
+</battle_script_strings>
+<battle_script_strings>
+<key>CreativeAssembly.BT_Rich_Farmhouse_Attack</key>
+<string>The British have taken cover in the fort. Select your cannons and right-click on the building to shell the enemy.</string>
+<game_area>Battle</game_area>
+<advisor_name>Berthier</advisor_name>
+</battle_script_strings>
+<battle_script_strings>
+<key>CreativeAssembly.BT_Rich_Farmhouse_Attack_2</key>
+<string>Select an infantry unit and right-click on the building to instruct your men to assault and flush out the garrisoned enemy.</string>
+<game_area>Battle</game_area>
+<advisor_name>Berthier</advisor_name>
+</battle_script_strings>
+<battle_script_strings>
+<key>CreativeAssembly.BT_Rich_fire_at_will</key>
+<string>Now left-click on the fire at will button on the review panel at the bottom of the screen.</string>
+<game_area>Battle</game_area>
+<advisor_name>Berthier</advisor_name>
+</battle_script_strings>
+<battle_script_strings>
+<key>CreativeAssembly.BT_Rich_fire_at_will2</key>
+<string>This unit will now automatically fire at enemy units within range of their muskets. Left-clicking this button again will cancel the order. Units are set to fire at will by default.</string>
+<game_area>Battle</game_area>
+<advisor_name>Berthier</advisor_name>
+</battle_script_strings>
+<battle_script_strings>
+<key>CreativeAssembly.BT_Rich_first_wave_routed</key>
+<string>Well done. You have successfully routed the first wave of enemy units.</string>
+<game_area>Battle</game_area>
+<advisor_name>Berthier</advisor_name>
+</battle_script_strings>
+<battle_script_strings>
+<key>CreativeAssembly.BT_Rich_Fort</key>
+<string>Fort walls can be scaled by your infantry units. Mousing over a fort wall with your infantry selected will change your cursor to a ladder, and right-clicking with your mouse will then begin your assault. Once on top of the walls, try holding the gate house. This will allow you to move in and out of the fort freely through the gate. Alternatively, try using your cannon to create a breach by targeting a section of the wall and concentrating all your fire at that single point.</string>
+<game_area>Battle</game_area>
+<advisor_name>Berthier</advisor_name>
+</battle_script_strings>
+<battle_script_strings>
+<key>CreativeAssembly.BT_Rich_general_abilities</key>
+<string>Your general also has a set of special abilities, which includes rally (the ability to boost the morale of your units within the generals radius for a short period of time) and inspire (the ability to increase a specific units morale, melee and accuracy abilities for a brief period of time), both of these abilities are clearly indicated on the troops currently being affected by them.</string>
+<game_area>Battle</game_area>
+<advisor_name>Berthier</advisor_name>
+</battle_script_strings>
+<battle_script_strings>
+<key>CreativeAssembly.BT_Rich_General_Final_Push</key>
+<string>Napoléon has joined your ranks for the final push.</string>
+<game_area>Battle</game_area>
+<advisor_name>Berthier</advisor_name>
+</battle_script_strings>
+<battle_script_strings>
+<key>CreativeAssembly.BT_Rich_General_Help</key>
+<string>Use Napoléon to help see off what remains of the British forces.</string>
+<game_area>Battle</game_area>
+<advisor_name>Berthier</advisor_name>
+</battle_script_strings>
+<battle_script_strings>
+<key>CreativeAssembly.BT_Rich_General_In_Waiting</key>
+<string>Napoléon will join the battle in due course, for now he will watch your progress.</string>
+<game_area>Battle</game_area>
+<advisor_name>Berthier</advisor_name>
+</battle_script_strings>
+<battle_script_strings>
+<key>CreativeAssembly.BT_Rich_General_Protect</key>
+<string>Use Napoléon wisely and keep him protected. His presence in battle will strengthen the morale of nearby friendly units.</string>
+<game_area>Battle</game_area>
+<advisor_name>Berthier</advisor_name>
+</battle_script_strings>
+<battle_script_strings>
+<key>CreativeAssembly.BT_Rich_intro</key>
+<string>Welcome to the Siege of Toulon. Here you will learn the basics of commanding an army on the battlefield. You have been given control of Napoléon&apos;s French army. Camped in and around this fort are your British enemies. Your task is to rout the British army from Toulon.</string>
+<game_area>Battle</game_area>
+<advisor_name>Berthier</advisor_name>
+</battle_script_strings>
+<battle_script_strings>
+<key>CreativeAssembly.BT_Rich_keep_charge</key>
+<string>Your infantry will now charge into melee. This is a very effective way of routing enemy troops that are already low on morale.</string>
+<game_area>Battle</game_area>
+<advisor_name>Berthier</advisor_name>
+</battle_script_strings>
+<battle_script_strings>
+<key>CreativeAssembly.BT_Rich_keep_cover</key>
+<string>A second wave of enemies are approaching. Keep your units behind this cover to give them an advantage over the enemy.</string>
+<game_area>Battle</game_area>
+<advisor_name>Berthier</advisor_name>
+</battle_script_strings>
+<battle_script_strings>
+<key>CreativeAssembly.BT_Rich_keep_melee</key>
+<string>You have seriously reduced British numbers. Select one of your infantry units and click on the melee attack button.</string>
+<game_area>Battle</game_area>
+<advisor_name>Berthier</advisor_name>
+</battle_script_strings>
+<battle_script_strings>
+<key>CreativeAssembly.BT_Rich_kill_other_unit</key>
+<string>Mouse over the remaining enemy unit and right-click to attack.</string>
+<game_area>Battle</game_area>
+<advisor_name>Berthier</advisor_name>
+</battle_script_strings>
+<battle_script_strings>
+<key>CreativeAssembly.BT_Rich_line_infantry</key>
+<string>Please select a line infantry unit</string>
+<game_area>Battle</game_area>
+<advisor_name>Berthier</advisor_name>
+</battle_script_strings>
+<battle_script_strings>
+<key>CreativeAssembly.BT_Rich_melee_attack</key>
+<string>Now mouse over an enemy unit and right-click to engeage it in melee. You can double-click to charge into melee.</string>
+<game_area>Battle</game_area>
+<advisor_name>Berthier</advisor_name>
+</battle_script_strings>
+<battle_script_strings>
+<key>CreativeAssembly.BT_Rich_morale</key>
+<string>Keep up the pressure by firing your cannons at the enemy. As they take damage their morale will be reduced and this will 
+eventually make them run away.</string>
+<game_area>Battle</game_area>
+<advisor_name>Berthier</advisor_name>
+</battle_script_strings>
+<battle_script_strings>
+<key>CreativeAssembly.BT_Rich_moving_units</key>
+<string>Now right-click on the locations indicated to order your units to 
+advance forward. Alternatively you can use the forward and backwards buttons at the bottom of the screen to move your troops.</string>
+<game_area>Battle</game_area>
+<advisor_name>Berthier</advisor_name>
+</battle_script_strings>
+<battle_script_strings>
+<key>CreativeAssembly.BT_Rich_next_cover</key>
+<string>Another British attack is imminent! Move your other infantry unit to cover.</string>
+<game_area>Battle</game_area>
+<advisor_name>Berthier</advisor_name>
+</battle_script_strings>
+<battle_script_strings>
+<key>CreativeAssembly.BT_Rich_next_melee_attack</key>
+<string>You have seriously reduced British numbers. Click on the melee attack button in the unit panel.</string>
+<game_area>Battle</game_area>
+<advisor_name>Berthier</advisor_name>
+</battle_script_strings>
+<battle_script_strings>
+<key>CreativeAssembly.BT_Rich_next_melee_attack2</key>
+<string>Now mouse over an enemy unit and right-click to engage in melee. You can double-click to charge.</string>
+<game_area>Battle</game_area>
+<advisor_name>Berthier</advisor_name>
+</battle_script_strings>
+<battle_script_strings>
+<key>CreativeAssembly.BT_Rich_Outgunned</key>
+<string>The British are outgunned and have suffered heavy losses. They are routing from the field.</string>
+<game_area>Battle</game_area>
+<advisor_name>Berthier</advisor_name>
+</battle_script_strings>
+<battle_script_strings>
+<key>CreativeAssembly.BT_Rich_pan_on_select</key>
+<string>Select a Line Infantry unit by left-clicking on the unit or left-clicking the unit card on the review panel at the bottom of the screen. You can double-click here to automatically pan the camera to the unit.</string>
+<game_area>Battle</game_area>
+<advisor_name>Berthier</advisor_name>
+</battle_script_strings>
+<battle_script_strings>
+<key>CreativeAssembly.BT_Rich_Remain_In_Melee</key>
+<string>These men will remain in melee mode whilst the button is selected. Click it again to disable melee mode and have your men fire on the enemy when next ordered to attack.</string>
+<game_area>Battle</game_area>
+<advisor_name>Berthier</advisor_name>
+</battle_script_strings>
+<battle_script_strings>
+<key>CreativeAssembly.BT_Rich_rest_of_army</key>
+<string>This is the rest of your army.</string>
+<game_area>Battle</game_area>
+<advisor_name>Berthier</advisor_name>
+</battle_script_strings>
+<battle_script_strings>
+<key>CreativeAssembly.BT_Rich_right_click_attack</key>
+<string>Now move your cursor over an enemy unit, and right-click your mouse to order your Cannons to attack.</string>
+<game_area>Battle</game_area>
+<advisor_name>Berthier</advisor_name>
+</battle_script_strings>
+<battle_script_strings>
+<key>CreativeAssembly.BT_Rich_right_click_drag</key>
+<string>If you right-click and drag at your chosen destination, you can determine the width, depth and orientation that your troops will form up in. You can also use the rotation and increase file and rank buttons at the bottom of the screen to adjust your units shape and orientation.</string>
+<game_area>Battle</game_area>
+<advisor_name>Berthier</advisor_name>
+</battle_script_strings>
+<battle_script_strings>
+<key>CreativeAssembly.BT_Rich_rotating_camera</key>
+<string>You can rotate the camera by clicking and holding the middle mouse button. Alternatively you can use the Q and E keys. Try this now.</string>
+<game_area>Battle</game_area>
+<advisor_name>Berthier</advisor_name>
+</battle_script_strings>
+<battle_script_strings>
+<key>CreativeAssembly.BT_Rich_rout_enemy_army</key>
+<string>Use the commands you have just learned to rout the rest of the British army!</string>
+<game_area>Battle</game_area>
+<advisor_name>Berthier</advisor_name>
+</battle_script_strings>
+<battle_script_strings>
+<key>CreativeAssembly.BT_Rich_Routine_Patrol</key>
+<string>A routine patrol have stumbled upon a pocket of Spanish troops camped out in an abandoned farm.</string>
+<game_area>Battle</game_area>
+<advisor_name>Berthier</advisor_name>
+</battle_script_strings>
+<battle_script_strings>
+<key>CreativeAssembly.BT_Rich_select_unit</key>
+<string>Let&apos;s start by selecting your Cannons. Left click on the Cannons with your mouse.</string>
+<game_area>Battle</game_area>
+<advisor_name>Berthier</advisor_name>
+</battle_script_strings>
+<battle_script_strings>
+<key>CreativeAssembly.BT_Rich_select_unit2</key>
+<string>Alternatively, you can select a unit by clicking on its unit card on the review panel.</string>
+<game_area>Battle</game_area>
+<advisor_name>Berthier</advisor_name>
+</battle_script_strings>
+<battle_script_strings>
+<key>CreativeAssembly.BT_Rich_strafing_camera</key>
+<string>You can use the W and S keys to move the camera backwards and forwards, and the A and D keys to strafe left and right.</string>
+<game_area>Battle</game_area>
+<advisor_name>Berthier</advisor_name>
+</battle_script_strings>
+<battle_script_strings>
+<key>CreativeAssembly.BT_Rich_Take_Control_Of_Cannon</key>
+<string>First, let’s take control of the French cannons.</string>
+<game_area>Battle</game_area>
+<advisor_name>Berthier</advisor_name>
+</battle_script_strings>
+<battle_script_strings>
+<key>CreativeAssembly.BT_Rich_Troops_Being_Used</key>
+<string>You’ve been given two units of infantry and a powerful cannon to see off this threat.</string>
+<game_area>Battle</game_area>
+<advisor_name>Berthier</advisor_name>
+</battle_script_strings>
+<battle_script_strings>
+<key>CreativeAssembly.BT_Rich_unit_abilities</key>
+<string>Each unit has a set of special abilities which can be used during a battle. These abilities can be selected from the bottom of the screen and range from tactical formations to explosive shot types.</string>
+<game_area>Battle</game_area>
+<advisor_name>Berthier</advisor_name>
+</battle_script_strings>
+<battle_script_strings>
+<key>CreativeAssembly.BT_Rich_units_run</key>
+<string>To increase the speed of your unit&apos;s movement click the run button on the review panel or double right-click when issuing a movement command.</string>
+<game_area>Battle</game_area>
+<advisor_name>Berthier</advisor_name>
+</battle_script_strings>
+<battle_script_strings>
+<key>CreativeAssembly.BT_Rich_well_done</key>
+<string>Well done.</string>
+<game_area>Battle</game_area>
+<advisor_name>Berthier</advisor_name>
+</battle_script_strings>
+<battle_script_strings>
+<key>CreativeAssembly.HB_Arcole_Battle_Lost</key>
+<string>Defeat! Disaster! My men have failed me. The Austrians have secured their supply lines and will now surely press forward against my scattered forces. Fate has been cruel, and what awaits, I cannot say. What fate awaits us now, I cannot say.</string>
+<game_area>Battle</game_area>
+<advisor_name>Napoleon Young</advisor_name>
+</battle_script_strings>
+<battle_script_strings>
+<key>CreativeAssembly.HB_Arcole_Battle_Won</key>
+<string>A glorious victory! The Austrians are fleeing! More than that: I have their supply line. They must withdraw from Italy! Victory is mine!</string>
+<game_area>Battle</game_area>
+<advisor_name>Napoleon Young</advisor_name>
+</battle_script_strings>
+<battle_script_strings>
+<key>CreativeAssembly.HB_Arcole_Intro_1</key>
+<string>Today is November 15th, 1796. I have chosen the site of battle to prevent the Austrians from concentrating their superior numbers against my forces.</string>
+<game_area>Battle</game_area>
+<advisor_name>Napoleon Young</advisor_name>
+</battle_script_strings>
+<battle_script_strings>
+<key>CreativeAssembly.HB_Arcole_Intro_2</key>
+<string>My plan is to capture the town of Arcole in order to threaten their lines of supply.</string>
+<game_area>Battle</game_area>
+<advisor_name>Napoleon Young</advisor_name>
+</battle_script_strings>
+<battle_script_strings>
+<key>CreativeAssembly.HB_Arcole_Intro_3</key>
+<string>The main body of the Austrian army under Alvinczi, to the North-West at Belfiore, will attempt to relieve Arcole.</string>
+<game_area>Battle</game_area>
+<advisor_name>Napoleon Young</advisor_name>
+</battle_script_strings>
+<battle_script_strings>
+<key>CreativeAssembly.HB_Arcole_Intro_4</key>
+<string>I know that the marshy ground between the French and Austrian positions will limit the size of force Alvinczi can bring against me.</string>
+<game_area>Battle</game_area>
+<advisor_name>Napoleon Young</advisor_name>
+</battle_script_strings>
+<battle_script_strings>
+<key>CreativeAssembly.HB_Arcole_Intro_5</key>
+<string>We must capture Arcole in the East to carry the day. At the same time, I must resist pressure from the Austrians to the West</string>
+<game_area>Battle</game_area>
+<advisor_name>Napoleon Young</advisor_name>
+</battle_script_strings>
+<battle_script_strings>
+<key>CreativeAssembly.HB_Arcole_Narration</key>
+<string>Austrians annoy me. Their constant attempts to break the siege of Mantua had to be stopped. I had to intercept the Austrians in open battle. Now, even after I have beaten them, more is needed. Here, at Arcole, I will lead the army across the Alpone River and through the Austrian lines.</string>
+<game_area>Battle</game_area>
+<advisor_name>Napoleon Young</advisor_name>
+</battle_script_strings>
+<battle_script_strings>
+<key>CreativeAssembly.HB_Arcole_sfx_1</key>
+<string>General! The Austrians are advancing across the marsh! We must intercept them!</string>
+<game_area>Battle</game_area>
+<advisor_name>Berthier</advisor_name>
+</battle_script_strings>
+<battle_script_strings>
+<key>CreativeAssembly.HB_Arcole_sfx_2</key>
+<string>This is a sensational victory. The Austrians are driven from the field! With the capture of Arcole, they will be forced to stop their campaign in Italy! Formidable!</string>
+<game_area>Battle</game_area>
+<advisor_name>Berthier</advisor_name>
+</battle_script_strings>
+<battle_script_strings>
+<key>CreativeAssembly.HB_Arcole_sfx_3</key>
+<string>Excellent work, General! This Austrian army is rudderless without it&apos;s commander, and will threaten our control in Northern Italy no more!</string>
+<game_area>Battle</game_area>
+<advisor_name>Berthier</advisor_name>
+</battle_script_strings>
+<battle_script_strings>
+<key>CreativeAssembly.HB_Arcole_sfx_4</key>
+<string>The Austrians are advancing through the marshes!</string>
+<game_area>Battle</game_area>
+<advisor_name>Berthier</advisor_name>
+</battle_script_strings>
+<battle_script_strings>
+<key>CreativeAssembly.HB_Austerlitz_Battle_Lost</key>
+<string>My enemy may have won, but it means nothing! I will regroup and retake Austerlitz! I will prevail!</string>
+<game_area>Battle</game_area>
+<advisor_name>Napoleon</advisor_name>
+</battle_script_strings>
+<battle_script_strings>
+<key>CreativeAssembly.HB_Austerlitz_Battle_Won</key>
+<string>The enemy is in retreat across the frozen Satschan ponds. I am proud to call this my victory, my triumph. Here today my renown adds glory to France! My enemies have something to fear!</string>
+<game_area>Battle</game_area>
+<advisor_name>Napoleon</advisor_name>
+</battle_script_strings>
+<battle_script_strings>
+<key>CreativeAssembly.HB_Austerlitz_Intro_1</key>
+<string>December 2nd, 1805. Today I have given orders to relinquish control of Pratzen Heights.</string>
+<game_area>Battle</game_area>
+<advisor_name>Napoleon</advisor_name>
+</battle_script_strings>
+<battle_script_strings>
+<key>CreativeAssembly.HB_Austerlitz_Intro_2</key>
+<string>Troops now line the towns of Puntowitz and Tellnitz.</string>
+<game_area>Battle</game_area>
+<advisor_name>Napoleon</advisor_name>
+</battle_script_strings>
+<battle_script_strings>
+<key>CreativeAssembly.HB_Austerlitz_Intro_3</key>
+<string>I intend to encourage an attack on the troops at Tellnitz with forces that are looking deceptively weak.</string>
+<game_area>Battle</game_area>
+<advisor_name>Napoleon</advisor_name>
+</battle_script_strings>
+<battle_script_strings>
+<key>CreativeAssembly.HB_Austerlitz_Intro_4</key>
+<string>With the Russians pressing Tellnitz my left flank is free to move onto Pratzen Heights. This will break the Allied line.</string>
+<game_area>Battle</game_area>
+<advisor_name>Napoleon</advisor_name>
+</battle_script_strings>
+<battle_script_strings>
+<key>CreativeAssembly.HB_Austerlitz_Intro_5</key>
+<string>One sharp blow and the war is over.</string>
+<game_area>Battle</game_area>
+<advisor_name>Napoleon</advisor_name>
+</battle_script_strings>
+<battle_script_strings>
+<key>CreativeAssembly.HB_Austerlitz_Narration</key>
+<string>I was forced to abandon my campaign in Egypt to deal with traitors in Paris. But the bayonet is an eloquent argument! I became First Consul. I took the crown because it was there. And who else could? But I scared Austria, Russia – old Europe – and they marched. Here, at Austerlitz, I will stop them!</string>
+<game_area>Battle</game_area>
+<advisor_name>Napoleon</advisor_name>
+</battle_script_strings>
+<battle_script_strings>
+<key>CreativeAssembly.HB_Austerlitz_sfx_1</key>
+<string>Puntowitz is under threat from the enemy.</string>
+<game_area>Battle</game_area>
+<advisor_name>Berthier</advisor_name>
+</battle_script_strings>
+<battle_script_strings>
+<key>CreativeAssembly.HB_Austerlitz_sfx_2</key>
+<string>The Russians are mounting an attack on the town of Tellnitz.</string>
+<game_area>Battle</game_area>
+<advisor_name>Berthier</advisor_name>
+</battle_script_strings>
+<battle_script_strings>
+<key>CreativeAssembly.HB_Austerlitz_sfx_3</key>
+<string>General! The Austrians look to be digging themselves in on the Pratzen Heights!</string>
+<game_area>Battle</game_area>
+<advisor_name>Berthier</advisor_name>
+</battle_script_strings>
+<battle_script_strings>
+<key>CreativeAssembly.HB_Austerlitz_sfx_4</key>
+<string>The enemy have taken the town of Bosenitz from us!</string>
+<game_area>Battle</game_area>
+<advisor_name>Berthier</advisor_name>
+</battle_script_strings>
+<battle_script_strings>
+<key>CreativeAssembly.HB_Borodino_Battle_Lost</key>
+<string>Russian soldiers! Amazing! Even when they are lead by fools, they have the heart to win! But my Grand Armée will fight again!</string>
+<game_area>Battle</game_area>
+<advisor_name>Napoleon</advisor_name>
+</battle_script_strings>
+<battle_script_strings>
+<key>CreativeAssembly.HB_Borodino_Battle_Won</key>
+<string>Russian soldiers - I pity them. They are brave men, but they fight for fools. On to Moscow!</string>
+<game_area>Battle</game_area>
+<advisor_name>Napoleon</advisor_name>
+</battle_script_strings>
+<battle_script_strings>
+<key>CreativeAssembly.HB_Borodino_Intro_1</key>
+<string>September 7th, 1812. Mikhail Kutuzov finally made his stand on the east bank of the Kolocha River between the new and old Moscow to Smolensk roads just south of Borodino.</string>
+<game_area>Battle</game_area>
+<advisor_name>Napoleon</advisor_name>
+</battle_script_strings>
+<battle_script_strings>
+<key>CreativeAssembly.HB_Borodino_Intro_2</key>
+<string>To fortify the northern section of his right flank, Kutuzov&apos;s troops have constructed the Raevski redoubt. This stretches down to Semenovskaia village.</string>
+<game_area>Battle</game_area>
+<advisor_name>Napoleon</advisor_name>
+</battle_script_strings>
+<battle_script_strings>
+<key>CreativeAssembly.HB_Borodino_Intro_3</key>
+<string>To the south he has constructed the three Vee-shaped Bagration Fleches.</string>
+<game_area>Battle</game_area>
+<advisor_name>Napoleon</advisor_name>
+</battle_script_strings>
+<battle_script_strings>
+<key>CreativeAssembly.HB_Borodino_Intro_4</key>
+<string>Taking the Redoubt and Bagration Fleches will be the stiffest of challenges!</string>
+<game_area>Battle</game_area>
+<advisor_name>Napoleon</advisor_name>
+</battle_script_strings>
+<battle_script_strings>
+<key>CreativeAssembly.HB_Borodino_Narration</key>
+<string>If you want an Englishman to see sense, take his money! The Russian continued trading. Do they think I wanted to invade? To march on Moscow? And now Kutuzov makes a stand, at Borodino, some speck on the map! No matter, I will dine in Moscow yet!</string>
+<game_area>Battle</game_area>
+<advisor_name>Napoleon</advisor_name>
+</battle_script_strings>
+<battle_script_strings>
+<key>CreativeAssembly.HB_Borodino_sfx_1</key>
+<string>Kutuzov has strengthened his left flank; his right flank looks weak; the town Borodino should be taken!</string>
+<game_area>Battle</game_area>
+<advisor_name>Berthier</advisor_name>
+</battle_script_strings>
+<battle_script_strings>
+<key>CreativeAssembly.HB_Borodino_sfx_2</key>
+<string>To fortify the northern section of his right flank, Kutuzov&apos;s troops have constructed the Raevski redoubt. This stretches down to Semenovskaia village.</string>
+<game_area>Battle</game_area>
+<advisor_name>Berthier</advisor_name>
+</battle_script_strings>
+<battle_script_strings>
+<key>CreativeAssembly.HB_Borodino_sfx_3</key>
+<string>To the south he has constructed the three Vee-shaped Bagration Fleches.</string>
+<game_area>Battle</game_area>
+<advisor_name>Berthier</advisor_name>
+</battle_script_strings>
+<battle_script_strings>
+<key>CreativeAssembly.HB_Borodino_sfx_4</key>
+<string>Taking the Redoubt and Bagration Fleches will be a challenge, even for me.</string>
+<game_area>Battle</game_area>
+<advisor_name>Berthier</advisor_name>
+</battle_script_strings>
+<battle_script_strings>
+<key>CreativeAssembly.HB_Dresden_Battle_Lost</key>
+<string>I swear, upon my honour, that my Grande Armée will not know defeat ever again!</string>
+<game_area>Battle</game_area>
+<advisor_name>Napoleon</advisor_name>
+</battle_script_strings>
+<battle_script_strings>
+<key>CreativeAssembly.HB_Dresden_Battle_Won</key>
+<string>Outnumbered, outgunned, and I still triumph! This coalition is a band of fools to oppose my will!</string>
+<game_area>Battle</game_area>
+<advisor_name>Napoleon</advisor_name>
+</battle_script_strings>
+<battle_script_strings>
+<key>CreativeAssembly.HB_Dresden_Intro_1</key>
+<string>August 26th, 1813. Dresden, on the banks of the River Elbe, has been surrounded by the vast forces of the Allied Coalition.</string>
+<game_area>Battle</game_area>
+<advisor_name>Napoleon</advisor_name>
+</battle_script_strings>
+<battle_script_strings>
+<key>CreativeAssembly.HB_Dresden_Intro_2</key>
+<string>The vast Austrian, Prussian and Russian forces, under General Schwarzenberg, believe they have cornered one of my commanders. They expect the city to fall without much resistance.</string>
+<game_area>Battle</game_area>
+<advisor_name>Napoleon</advisor_name>
+</battle_script_strings>
+<battle_script_strings>
+<key>CreativeAssembly.HB_Dresden_Intro_3</key>
+<string>Within the city, French infantry man the various redoubts and defensive positions, in the hope of lasting long enough for reinforcements to arrive.</string>
+<game_area>Battle</game_area>
+<advisor_name>Napoleon</advisor_name>
+</battle_script_strings>
+<battle_script_strings>
+<key>CreativeAssembly.HB_Dresden_Intro_4</key>
+<string>To the north of the river, my reserves are ready to cross the river and either strike at the enemy or move towards Dresden and reinforce the city&apos;s defences.</string>
+<game_area>Battle</game_area>
+<advisor_name>Napoleon</advisor_name>
+</battle_script_strings>
+<battle_script_strings>
+<key>CreativeAssembly.HB_Dresden_Narration</key>
+<string>Moscow did not agree with my digestion. The Russians burned it rather than leave it to me. And then treachery in Paris. I ordered a withdrawal. And my enemies, the Sixth Coalition, suddenly found courage. I must show them real soldiering again, at Dresden, to save Marshal Saint-Cyr.</string>
+<game_area>Battle</game_area>
+<advisor_name>Napoleon</advisor_name>
+</battle_script_strings>
+<battle_script_strings>
+<key>CreativeAssembly.HB_Dresden_sfx_1</key>
+<string>The Prussians continue to shell Dresden!</string>
+<game_area>Battle</game_area>
+<advisor_name>Berthier</advisor_name>
+</battle_script_strings>
+<battle_script_strings>
+<key>CreativeAssembly.HB_Dresden_sfx_10</key>
+<string>We&apos;re surrounded!</string>
+<game_area>Battle</game_area>
+<advisor_name>Berthier</advisor_name>
+</battle_script_strings>
+<battle_script_strings>
+<key>CreativeAssembly.HB_Dresden_sfx_11</key>
+<string>Fall back across the river and re-group!</string>
+<game_area>Battle</game_area>
+<advisor_name>Berthier</advisor_name>
+</battle_script_strings>
+<battle_script_strings>
+<key>CreativeAssembly.HB_Dresden_sfx_2</key>
+<string>We have lost one of the redoubts!</string>
+<game_area>Battle</game_area>
+<advisor_name>Berthier</advisor_name>
+</battle_script_strings>
+<battle_script_strings>
+<key>CreativeAssembly.HB_Dresden_sfx_3</key>
+<string>The enemy has captured one of our redoubts!</string>
+<game_area>Battle</game_area>
+<advisor_name>Berthier</advisor_name>
+</battle_script_strings>
+<battle_script_strings>
+<key>CreativeAssembly.HB_Dresden_sfx_4</key>
+<string>Dresden will fall if we cannot rout the enemy!</string>
+<game_area>Battle</game_area>
+<advisor_name>Berthier</advisor_name>
+</battle_script_strings>
+<battle_script_strings>
+<key>CreativeAssembly.HB_Dresden_sfx_5</key>
+<string>The Coalition forces have entered the Grand Gardens!</string>
+<game_area>Battle</game_area>
+<advisor_name>Berthier</advisor_name>
+</battle_script_strings>
+<battle_script_strings>
+<key>CreativeAssembly.HB_Dresden_sfx_6</key>
+<string>Victory will certainly be ours!</string>
+<game_area>Battle</game_area>
+<advisor_name>Berthier</advisor_name>
+</battle_script_strings>
+<battle_script_strings>
+<key>CreativeAssembly.HB_Dresden_sfx_7</key>
+<string>The Austrian cavalry is charging!</string>
+<game_area>Battle</game_area>
+<advisor_name>Berthier</advisor_name>
+</battle_script_strings>
+<battle_script_strings>
+<key>CreativeAssembly.HB_Dresden_sfx_8</key>
+<string>Hold the redoubts!</string>
+<game_area>Battle</game_area>
+<advisor_name>Berthier</advisor_name>
+</battle_script_strings>
+<battle_script_strings>
+<key>CreativeAssembly.HB_Dresden_sfx_9</key>
+<string>Watch the river crossings outside the city! The enemy may move on our flank!</string>
+<game_area>Battle</game_area>
+<advisor_name>Berthier</advisor_name>
+</battle_script_strings>
+<battle_script_strings>
+<key>CreativeAssembly.HB_Friedland_Battle_Lost</key>
+<string>I am Emperor of France. I will not kneel to any man, even if he has the armies of the world at his back! I refuse to be defeated!</string>
+<game_area>Battle</game_area>
+<advisor_name>Napoleon</advisor_name>
+</battle_script_strings>
+<battle_script_strings>
+<key>CreativeAssembly.HB_Friedland_Battle_Won</key>
+<string>Prussia, Russia, Austria, Britain, even Sweden! Let them come! My Grande Armée will prevail!</string>
+<game_area>Battle</game_area>
+<advisor_name>Napoleon</advisor_name>
+</battle_script_strings>
+<battle_script_strings>
+<key>CreativeAssembly.HB_Friedland_Intro_1</key>
+<string>June 14th, 1807. General Bennigsen has made a grave error in his judgement. Ordering his entire army across the d&apos;Alle to the west of Friedland, he believes his force vastly outnumbers my deceptively isolated Lannes&apos; V Corps.</string>
+<game_area>Battle</game_area>
+<advisor_name>Napoleon</advisor_name>
+</battle_script_strings>
+<battle_script_strings>
+<key>CreativeAssembly.HB_Friedland_Intro_2</key>
+<string>In addition Gorchakov and Bagration are providing Bennigsen with additional Russian troops on the right and left flanks respectively.</string>
+<game_area>Battle</game_area>
+<advisor_name>Napoleon</advisor_name>
+</battle_script_strings>
+<battle_script_strings>
+<key>CreativeAssembly.HB_Friedland_Intro_3</key>
+<string>To my northern left flank, Grouchy and Nansouty&apos;s cavalry occupy the village of Heinrichsdorf and should provide excellent cover for my main assault.</string>
+<game_area>Battle</game_area>
+<advisor_name>Napoleon</advisor_name>
+</battle_script_strings>
+<battle_script_strings>
+<key>CreativeAssembly.HB_Friedland_Intro_4</key>
+<string>Marshall Lannes occupies the centre and will tempt my Russian enemies in, to what will prove to be their demise.</string>
+<game_area>Battle</game_area>
+<advisor_name>Napoleon</advisor_name>
+</battle_script_strings>
+<battle_script_strings>
+<key>CreativeAssembly.HB_Friedland_Intro_5</key>
+<string>In an effort to further draw the Russian&apos;s in, Lannes has allowed his forces to become separated with his grenadiers taking up position in Sortlack forest to my southern right flank.</string>
+<game_area>Battle</game_area>
+<advisor_name>Berthier</advisor_name>
+</battle_script_strings>
+<battle_script_strings>
+<key>CreativeAssembly.HB_Friedland_Intro_6</key>
+<string>The Russians will want to end this encounter quickly before I can arrive with my reinforcements. I must make haste.</string>
+<game_area>Battle</game_area>
+<advisor_name>Berthier</advisor_name>
+</battle_script_strings>
+<battle_script_strings>
+<key>CreativeAssembly.HB_Friedland_Narration</key>
+<string>Without Berlin, the Prussians came to terms. I turned then on the Russians in Poland. Yet at Eylau, something happened: my army shuddered, for a moment. So they had suffered? No matter. But I had to take personal control to restore French – that is, my – glory.</string>
+<game_area>Battle</game_area>
+<advisor_name>Napoleon</advisor_name>
+</battle_script_strings>
+<battle_script_strings>
+<key>CreativeAssembly.HB_Friedland_sfx_1</key>
+<string>The Russians are crossing the Alle River.</string>
+<game_area>Battle</game_area>
+<advisor_name>Berthier</advisor_name>
+</battle_script_strings>
+<battle_script_strings>
+<key>CreativeAssembly.HB_Friedland_sfx_2</key>
+<string>Hold until reinforcements arrive!</string>
+<game_area>Battle</game_area>
+<advisor_name>Berthier</advisor_name>
+</battle_script_strings>
+<battle_script_strings>
+<key>CreativeAssembly.HB_Friedland_sfx_3</key>
+<string>We are outgunned! Hold on for reinforcements!</string>
+<game_area>Battle</game_area>
+<advisor_name>Berthier</advisor_name>
+</battle_script_strings>
+<battle_script_strings>
+<key>CreativeAssembly.HB_Friedland_sfx_4</key>
+<string>Now, with your reinforcements, take the battle to the Russians!</string>
+<game_area>Battle</game_area>
+<advisor_name>Berthier</advisor_name>
+</battle_script_strings>
+<battle_script_strings>
+<key>CreativeAssembly.HB_Friedland_sfx_5</key>
+<string>We can&apos;t sustain this sort of damage for now.</string>
+<game_area>Battle</game_area>
+<advisor_name>Berthier</advisor_name>
+</battle_script_strings>
+<battle_script_strings>
+<key>CreativeAssembly.HB_Friedland_sfx_6</key>
+<string>Napoléon and our reinforcements have arrived!</string>
+<game_area>Battle</game_area>
+<advisor_name>Berthier</advisor_name>
+</battle_script_strings>
+<battle_script_strings>
+<key>CreativeAssembly.HB_Friedland_sfx_7</key>
+<string>The woods of Sortlack may prove to be good cover!</string>
+<game_area>Battle</game_area>
+<advisor_name>Berthier</advisor_name>
+</battle_script_strings>
+<battle_script_strings>
+<key>CreativeAssembly.HB_Ligny_Battle_Lost</key>
+<string>So, one plan has failed! There are other plans, and other battles yet to fight. I will not yield to these Prussians or these British amateurs.</string>
+<game_area>Battle</game_area>
+<advisor_name>Napoleon Old</advisor_name>
+</battle_script_strings>
+<battle_script_strings>
+<key>CreativeAssembly.HB_Ligny_Battle_Won</key>
+<string>My enemies retreat, then, away from their allies. This war will not last long. Let us hope there will be time for glory!</string>
+<game_area>Battle</game_area>
+<advisor_name>Napoleon Old</advisor_name>
+</battle_script_strings>
+<battle_script_strings>
+<key>CreativeAssembly.HB_Ligny_Intro_1</key>
+<string>June 16th, 1815. Blücher&apos;s forces have entrenched themselves in the towns along the Ligny stream. I have ordered Vandamme to take St. Amand and St. Amand La Haye on the left flank.</string>
+<game_area>Battle</game_area>
+<advisor_name>Napoleon Old</advisor_name>
+</battle_script_strings>
+<battle_script_strings>
+<key>CreativeAssembly.HB_Ligny_Intro_2</key>
+<string>In the centre Gerard has been given the task of taking Ligny.</string>
+<game_area>Battle</game_area>
+<advisor_name>Napoleon Old</advisor_name>
+</battle_script_strings>
+<battle_script_strings>
+<key>CreativeAssembly.HB_Ligny_Intro_3</key>
+<string>My right flank is protected by a strong contingent of cavalry. They are under orders to attack the Prussian left stationed around the town of Tongrinne.</string>
+<game_area>Battle</game_area>
+<advisor_name>Napoleon Old</advisor_name>
+</battle_script_strings>
+<battle_script_strings>
+<key>CreativeAssembly.HB_Ligny_Intro_4</key>
+<string>I must be careful of Blücher&apos;s reserves, a strong mix of cavalry and infantry. He is an old fox.</string>
+<game_area>Battle</game_area>
+<advisor_name>Napoleon Old</advisor_name>
+</battle_script_strings>
+<battle_script_strings>
+<key>CreativeAssembly.HB_Ligny_Narration</key>
+<string>As a military man, I must be realistic about Leipzig. Disloyalty was worse: I was glad to go to Elba away from my self-seeking, mealy-mouthed, turncoat Marshals. But what is France without Napoléon? Now we march again, all France in arms! Ney will hold Wellington, and I will deal a blow to that old windbag Blücher!</string>
+<game_area>Battle</game_area>
+<advisor_name>Napoleon Old</advisor_name>
+</battle_script_strings>
+<battle_script_strings>
+<key>CreativeAssembly.HB_Ligny_sfx_1</key>
+<string>We must take St. Amand if we are to reach the artillery that overlooks the town!</string>
+<game_area>Battle</game_area>
+<advisor_name>Berthier</advisor_name>
+</battle_script_strings>
+<battle_script_strings>
+<key>CreativeAssembly.HB_Ligny_sfx_2</key>
+<string>Capture the artillery on the hill!</string>
+<game_area>Battle</game_area>
+<advisor_name>Berthier</advisor_name>
+</battle_script_strings>
+<battle_script_strings>
+<key>CreativeAssembly.HB_Ligny_sfx_3</key>
+<string>We are likely to be pinned down by cannon fire, unless we get across the river!</string>
+<game_area>Battle</game_area>
+<advisor_name>Berthier</advisor_name>
+</battle_script_strings>
+<battle_script_strings>
+<key>CreativeAssembly.HB_Ligny_sfx_4</key>
+<string>The Prussians are defending Ligny! Beyond is their main army!</string>
+<game_area>Battle</game_area>
+<advisor_name>Berthier</advisor_name>
+</battle_script_strings>
+<battle_script_strings>
+<key>CreativeAssembly.HB_Ligny_sfx_5</key>
+<string>We must push across the river.</string>
+<game_area>Battle</game_area>
+<advisor_name>Berthier</advisor_name>
+</battle_script_strings>
+<battle_script_strings>
+<key>CreativeAssembly.HB_Ligny_sfx_6</key>
+<string>We have captured Tongrinne!</string>
+<game_area>Battle</game_area>
+<advisor_name>Berthier</advisor_name>
+</battle_script_strings>
+<battle_script_strings>
+<key>CreativeAssembly.HB_Ligny_sfx_7</key>
+<string>We have captured St. Amand!</string>
+<game_area>Battle</game_area>
+<advisor_name>Berthier</advisor_name>
+</battle_script_strings>
+<battle_script_strings>
+<key>CreativeAssembly.HB_Ligny_sfx_8</key>
+<string>We have captured St. Amand La Haye!</string>
+<game_area>Battle</game_area>
+<advisor_name>Berthier</advisor_name>
+</battle_script_strings>
+<battle_script_strings>
+<key>CreativeAssembly.HB_Ligny_sfx_9</key>
+<string>We have captured Ligny!</string>
+<game_area>Battle</game_area>
+<advisor_name>Berthier</advisor_name>
+</battle_script_strings>
+<battle_script_strings>
+<key>CreativeAssembly.HB_Lodi_Battle_Lost</key>
+<string>A small setback, to be sure, but I will stop the Austrians from reaching Milan!</string>
+<game_area>Battle</game_area>
+<advisor_name>Napoleon Young</advisor_name>
+</battle_script_strings>
+<battle_script_strings>
+<key>CreativeAssembly.HB_Lodi_Battle_Won</key>
+<string>Beaulieu is the Austrian army! They are nothing without him! Northern Italy is mine!</string>
+<game_area>Battle</game_area>
+<advisor_name>Napoleon Young</advisor_name>
+</battle_script_strings>
+<battle_script_strings>
+<key>CreativeAssembly.HB_Lodi_General_sfx_1</key>
+<string>General Beaulieu has taken up position on the far side of the river! Do not allow him to escape!</string>
+<game_area>Battle</game_area>
+<advisor_name>Berthier</advisor_name>
+</battle_script_strings>
+<battle_script_strings>
+<key>CreativeAssembly.HB_Lodi_General_sfx_2</key>
+<string>General Beaulieu has been killed on the battlefield! Mop up the remainder of his army to secure victory!</string>
+<game_area>Battle</game_area>
+<advisor_name>Berthier</advisor_name>
+</battle_script_strings>
+<battle_script_strings>
+<key>CreativeAssembly.HB_Lodi_General_sfx_3</key>
+<string>General Beaulieu has escaped! Your failure to capture him will ensure the rebirth of Austrian resistance in North-West Italy!</string>
+<game_area>Battle</game_area>
+<advisor_name>Berthier</advisor_name>
+</battle_script_strings>
+<battle_script_strings>
+<key>CreativeAssembly.HB_Lodi_General_sfx_4</key>
+<string>The Austrian General, Beaulieu, is leaving the field! Catch him, capture him, kill him! He must not be allowed to escape!</string>
+<game_area>Battle</game_area>
+<advisor_name>Berthier</advisor_name>
+</battle_script_strings>
+<battle_script_strings>
+<key>CreativeAssembly.HB_Lodi_Intro_1</key>
+<string>May 10th, 1796. After two days of forced marching, my army has caught the retreating Austrian army at Lodi.</string>
+<game_area>Battle</game_area>
+<advisor_name>Napoleon Young</advisor_name>
+</battle_script_strings>
+<battle_script_strings>
+<key>CreativeAssembly.HB_Lodi_Intro_2</key>
+<string>This is the time to strike!</string>
+<game_area>Battle</game_area>
+<advisor_name>Napoleon Young</advisor_name>
+</battle_script_strings>
+<battle_script_strings>
+<key>CreativeAssembly.HB_Lodi_Intro_3</key>
+<string>The Austrian rearguard is seperated from the main army and vulnerable until it can reach the safety of the town.</string>
+<game_area>Battle</game_area>
+<advisor_name>Napoleon Young</advisor_name>
+</battle_script_strings>
+<battle_script_strings>
+<key>CreativeAssembly.HB_Lodi_Intro_4</key>
+<string>General Beaulieu is forced to stay on the battlefield to oversee the Austrian retreat.</string>
+<game_area>Battle</game_area>
+<advisor_name>Napoleon Young</advisor_name>
+</battle_script_strings>
+<battle_script_strings>
+<key>CreativeAssembly.HB_Lodi_Intro_5</key>
+<string>We must capture or kill the Austrian General and much of his force to end Austrian interests in North-West Italy.</string>
+<game_area>Battle</game_area>
+<advisor_name>Napoleon Young</advisor_name>
+</battle_script_strings>
+<battle_script_strings>
+<key>CreativeAssembly.HB_Lodi_Intro_6</key>
+<string>If Beaulieu is removed, the French can pen the Austrians in Lombardy into the fortress at Mantua. I must prevent Beaulieu from escaping the battlefield!</string>
+<game_area>Battle</game_area>
+<advisor_name>Napoleon Young</advisor_name>
+</battle_script_strings>
+<battle_script_strings>
+<key>CreativeAssembly.HB_Lodi_Narration</key>
+<string>Turin lay in my sights. The Piedmontese let my army pass. The Austrians under Beaulieu fell back on Milan. I pressed hard, and caught them at Lodi. Sebottendorf can read a battlefield: he can see that I must send men over the only bridge, across the River Po, and take on his men on the east bank. But can he see what is coming next?</string>
+<game_area>Battle</game_area>
+<advisor_name>Napoleon Young</advisor_name>
+</battle_script_strings>
+<battle_script_strings>
+<key>CreativeAssembly.HB_Nile_Battle_Lost</key>
+<string>What use is a fleet in a sea of sand? I have lost when I say I have lost!</string>
+<game_area>Naval Battle</game_area>
+<advisor_name>Napoleon Young</advisor_name>
+</battle_script_strings>
+<battle_script_strings>
+<key>CreativeAssembly.HB_Nile_Battle_Won</key>
+<string>The British, then, are not as cunning as they think. Their seamanship also leaves a little to be desired.</string>
+<game_area>Naval Battle</game_area>
+<advisor_name>Napoleon Young</advisor_name>
+</battle_script_strings>
+<battle_script_strings>
+<key>CreativeAssembly.HB_Nile_Intro_1</key>
+<string>August 1st, 1798. Anchored off the coast of Alexandria, my fleet is under the command of François-Paul Brueys d&apos;Aigalliers. The ships are in the shallow waters of Aboukir Bay to defend the gateway to Egypt.</string>
+<game_area>Naval Battle</game_area>
+<advisor_name>Napoleon Young</advisor_name>
+</battle_script_strings>
+<battle_script_strings>
+<key>CreativeAssembly.HB_Nile_Intro_2</key>
+<string>To the northeast, in the open sea, a superior British fleet lies in wait under the command of Horatio Nelson.</string>
+<game_area>Naval Battle</game_area>
+<advisor_name>Napoleon Young</advisor_name>
+</battle_script_strings>
+<battle_script_strings>
+<key>CreativeAssembly.HB_Nile_Intro_3</key>
+<string>An attack from the British is inevitable, but only a great Admiral would risk his ships in the shallow waters at night.</string>
+<game_area>Naval Battle</game_area>
+<advisor_name>Napoleon Young</advisor_name>
+</battle_script_strings>
+<battle_script_strings>
+<key>CreativeAssembly.HB_Nile_Intro_4</key>
+<string>We must protect Alexandria at all costs and expect an attack in the morning.</string>
+<game_area>Naval Battle</game_area>
+<advisor_name>Napoleon Young</advisor_name>
+</battle_script_strings>
+<battle_script_strings>
+<key>CreativeAssembly.HB_Nile_Narration</key>
+<string>Egypt is not enough. Beyond: the road to India and the crushing of British hopes there. I told lies, I schemed, I got my army to Egypt. But “Perfidious Albion” does not like cleverness in others, and they fell upon my fleet in Aboukir Bay.</string>
+<game_area>Naval Battle</game_area>
+<advisor_name>Napoleon Young</advisor_name>
+</battle_script_strings>
+<battle_script_strings>
+<key>CreativeAssembly.HB_Nile_sfx_1</key>
+<string>May the winds be in our favour!</string>
+<game_area>Naval Battle</game_area>
+<advisor_name>Berthier</advisor_name>
+</battle_script_strings>
+<battle_script_strings>
+<key>CreativeAssembly.HB_Nile_sfx_2</key>
+<string>Our ship has run aground!</string>
+<game_area>Naval Battle</game_area>
+<advisor_name>Berthier</advisor_name>
+</battle_script_strings>
+<battle_script_strings>
+<key>CreativeAssembly.HB_Nile_sfx_3</key>
+<string>The British are dead in the water!</string>
+<game_area>Naval Battle</game_area>
+<advisor_name>Berthier</advisor_name>
+</battle_script_strings>
+<battle_script_strings>
+<key>CreativeAssembly.HB_Nile_sfx_4</key>
+<string>Brace for impact!</string>
+<game_area>Naval Battle</game_area>
+<advisor_name>Berthier</advisor_name>
+</battle_script_strings>
+<battle_script_strings>
+<key>CreativeAssembly.HB_Pyramids_Battle_Lost</key>
+<string>The desert is a harsh teacher. I have learned, and next time, I will apply the lesson in full! They will be defeated!</string>
+<game_area>Battle</game_area>
+<advisor_name>Napoleon Young</advisor_name>
+</battle_script_strings>
+<battle_script_strings>
+<key>CreativeAssembly.HB_Pyramids_Battle_Won</key>
+<string>The glories and treasures of Egypt will soon be mine! To walk in the footsteps of Caesar!</string>
+<game_area>Battle</game_area>
+<advisor_name>Napoleon Young</advisor_name>
+</battle_script_strings>
+<battle_script_strings>
+<key>CreativeAssembly.HB_Pyramids_Intro_1</key>
+<string>July 21st, 1798. The Mameluke army is old fashioned, but their cavalry is swift and deadly. Our cavalry reserves are limited. Our only hope of defeating the enemy is to adopt square formations and hope to survive the coming charge.</string>
+<game_area>Battle</game_area>
+<advisor_name>Napoleon Young</advisor_name>
+</battle_script_strings>
+<battle_script_strings>
+<key>CreativeAssembly.HB_Pyramids_Intro_2</key>
+<string>The villages of Embabeh and Biktil will be key to success. Embabeh, to the east, is held by Mameluke artillery, and overlooks our flank. I must take this quickly to prevent serious losses.</string>
+<game_area>Battle</game_area>
+<advisor_name>Napoleon Young</advisor_name>
+</battle_script_strings>
+<battle_script_strings>
+<key>CreativeAssembly.HB_Pyramids_Intro_3</key>
+<string>The Ottoman army consists of a large number of Mamelukes. Square formation will be key to our success on the battlefield.</string>
+<game_area>Battle</game_area>
+<advisor_name>Napoleon Young</advisor_name>
+</battle_script_strings>
+<battle_script_strings>
+<key>CreativeAssembly.HB_Pyramids_Intro_4</key>
+<string>Biktil, in the west, is held by our forces. I should use this as a foothold to push into the Mameluke ranks.</string>
+<game_area>Battle</game_area>
+<advisor_name>Napoleon Young</advisor_name>
+</battle_script_strings>
+<battle_script_strings>
+<key>CreativeAssembly.HB_Pyramids_Intro_5</key>
+<string>Using the French army&apos;s superior weaponry, technology and training to their fullest extent will be the best way to secure my victory.</string>
+<game_area>Battle</game_area>
+<advisor_name>Napoleon Young</advisor_name>
+</battle_script_strings>
+<battle_script_strings>
+<key>CreativeAssembly.HB_Pyramids_Narration</key>
+<string>Victory in Italy! Now Egypt. Alexandria fell as I expected. I knew that Murad Bey would send his Mamelukes to stop me before Cairo. And, almost in the shadows of the Pyramids, the battle has come! My men will conquer for me, just as Alexander’s warriors did in ages past!</string>
+<game_area>Battle</game_area>
+<advisor_name>Napoleon Young</advisor_name>
+</battle_script_strings>
+<battle_script_strings>
+<key>CreativeAssembly.HB_Pyramids_sfx_1</key>
+<string>Biktil has fallen to the Ottomans!</string>
+<game_area>Battle</game_area>
+<advisor_name>Berthier</advisor_name>
+</battle_script_strings>
+<battle_script_strings>
+<key>CreativeAssembly.HB_Pyramids_sfx_2</key>
+<string>Ottoman cavalry is assaulting our right flank, near the village of Biktil.</string>
+<game_area>Battle</game_area>
+<advisor_name>Berthier</advisor_name>
+</battle_script_strings>
+<battle_script_strings>
+<key>CreativeAssembly.HB_Pyramids_sfx_3</key>
+<string>The Ottomans are fleeing from Embabeh! The village is ours!</string>
+<game_area>Battle</game_area>
+<advisor_name>Berthier</advisor_name>
+</battle_script_strings>
+<battle_script_strings>
+<key>CreativeAssembly.HB_Trafalgar_Battle_Lost</key>
+<string>The British are fine sailors, but so what? Frenchmen should not suffer defeat at their hands!</string>
+<game_area>Naval Battle</game_area>
+<advisor_name>Napoleon</advisor_name>
+</battle_script_strings>
+<battle_script_strings>
+<key>CreativeAssembly.HB_Trafalgar_Battle_Won</key>
+<string>This is not a victory for France or Spain! It is a victory for all in Europe who hate the British, which is to say: all of Europe!</string>
+<game_area>Naval Battle</game_area>
+<advisor_name>Napoleon</advisor_name>
+</battle_script_strings>
+<battle_script_strings>
+<key>CreativeAssembly.HB_Trafalgar_Intro_1</key>
+<string>October 21st, 1805. Off the south-west coast of Spain near Cadiz my Franco-Spanish fleet, under Pierre de Villeneuve, has unwisely set sail for Naples.</string>
+<game_area>Naval Battle</game_area>
+<advisor_name>Napoleon</advisor_name>
+</battle_script_strings>
+<battle_script_strings>
+<key>CreativeAssembly.HB_Trafalgar_Intro_2</key>
+<string>The nearby British fleet, under command of Admiral Lord Nelson, has tracked the French fleet for some time. It has formed into two columns and is looking to use the prevailing wind to attack from the west.</string>
+<game_area>Naval Battle</game_area>
+<advisor_name>Napoleon</advisor_name>
+</battle_script_strings>
+<battle_script_strings>
+<key>CreativeAssembly.HB_Trafalgar_Intro_3</key>
+<string>At the heart of the fleet is the 106-gun first-rate, HMS Victory, the British flagship. If my fleet is to defeat the British, this vessel must be stopped by any and all means.</string>
+<game_area>Naval Battle</game_area>
+<advisor_name>Napoleon</advisor_name>
+</battle_script_strings>
+<battle_script_strings>
+<key>CreativeAssembly.HB_Trafalgar_Intro_4</key>
+<string>This will not be easy, but my Franco-Spanish fleet contains some of the largest ships in the world, including the 140-gun Santissima Trinidad, a ship bigger than anything Nelson commands.</string>
+<game_area>Naval Battle</game_area>
+<advisor_name>Napoleon</advisor_name>
+</battle_script_strings>
+<battle_script_strings>
+<key>CreativeAssembly.HB_Trafalgar_Narration</key>
+<string>Villeneuve understands nothing. Villeneuve has achieved nothing! Without control of the seas, how can I invade England? Now, the “Army of England” must move against Austria. Villeneuve can earn his pay, and go into the Mediterranean. That should be simple enough for him…</string>
+<game_area>Naval Battle</game_area>
+<advisor_name>Napoleon</advisor_name>
+</battle_script_strings>
+<battle_script_strings>
+<key>CreativeAssembly.HB_Trafalgar_sfx_1</key>
+<string>The British have formed into two columns and are moving into position</string>
+<game_area>Naval Battle</game_area>
+<advisor_name>Berthier</advisor_name>
+</battle_script_strings>
+<battle_script_strings>
+<key>CreativeAssembly.HB_Trafalgar_sfx_10</key>
+<string>The British fleet has suffered heavy losses!</string>
+<game_area>Naval Battle</game_area>
+<advisor_name>Berthier</advisor_name>
+</battle_script_strings>
+<battle_script_strings>
+<key>CreativeAssembly.HB_Trafalgar_sfx_11</key>
+<string>Victory will surely be ours!</string>
+<game_area>Naval Battle</game_area>
+<advisor_name>Berthier</advisor_name>
+</battle_script_strings>
+<battle_script_strings>
+<key>CreativeAssembly.HB_Trafalgar_sfx_12</key>
+<string>Sacre bleu! Defeat looks inevitable!</string>
+<game_area>Naval Battle</game_area>
+<advisor_name>Berthier</advisor_name>
+</battle_script_strings>
+<battle_script_strings>
+<key>CreativeAssembly.HB_Trafalgar_sfx_2</key>
+<string>Weigh Anchor!</string>
+<game_area>Naval Battle</game_area>
+<advisor_name>Berthier</advisor_name>
+</battle_script_strings>
+<battle_script_strings>
+<key>CreativeAssembly.HB_Trafalgar_sfx_3</key>
+<string>The winds are in our favour! Use them to our advantage!</string>
+<game_area>Naval Battle</game_area>
+<advisor_name>Berthier</advisor_name>
+</battle_script_strings>
+<battle_script_strings>
+<key>CreativeAssembly.HB_Trafalgar_sfx_4</key>
+<string>Prepare for boarding!</string>
+<game_area>Naval Battle</game_area>
+<advisor_name>Berthier</advisor_name>
+</battle_script_strings>
+<battle_script_strings>
+<key>CreativeAssembly.HB_Trafalgar_sfx_5</key>
+<string>The Spanish fleet is faltering!</string>
+<game_area>Naval Battle</game_area>
+<advisor_name>Berthier</advisor_name>
+</battle_script_strings>
+<battle_script_strings>
+<key>CreativeAssembly.HB_Trafalgar_sfx_6</key>
+<string>The Spanish have lost their flagship!</string>
+<game_area>Naval Battle</game_area>
+<advisor_name>Berthier</advisor_name>
+</battle_script_strings>
+<battle_script_strings>
+<key>CreativeAssembly.HB_Trafalgar_sfx_7</key>
+<string>HMS Victory is no more! The British will rue such a loss!</string>
+<game_area>Naval Battle</game_area>
+<advisor_name>Berthier</advisor_name>
+</battle_script_strings>
+<battle_script_strings>
+<key>CreativeAssembly.HB_Trafalgar_sfx_8</key>
+<string>We have lost our flagship!</string>
+<game_area>Naval Battle</game_area>
+<advisor_name>Berthier</advisor_name>
+</battle_script_strings>
+<battle_script_strings>
+<key>CreativeAssembly.HB_Trafalgar_sfx_9</key>
+<string>Our fleet is taking heavy losses!</string>
+<game_area>Naval Battle</game_area>
+<advisor_name>Berthier</advisor_name>
+</battle_script_strings>
+<battle_script_strings>
+<key>CreativeAssembly.HB_Waterloo_Battle_Lost</key>
+<string>Damned rain! Damned Wellington! I deny him the satisfaction of calling this a victory! I will fight on!</string>
+<game_area>Battle</game_area>
+<advisor_name>Napoleon Old</advisor_name>
+</battle_script_strings>
+<battle_script_strings>
+<key>CreativeAssembly.HB_Waterloo_Battle_Won</key>
+<string>A great victory! What man dare deny that this is a triumph of arms unmatched in our people&apos;s history?</string>
+<game_area>Battle</game_area>
+<advisor_name>Napoleon Old</advisor_name>
+</battle_script_strings>
+<battle_script_strings>
+<key>CreativeAssembly.HB_Waterloo_Intro_1</key>
+<string>June 18th, 1815: This will be Wellington&apos;s final encounter, with me. Having chosen his field of battle, the British will need to make use of their farmhouses, but Hougoumont on my far left will be mine by nightfall.</string>
+<game_area>Battle</game_area>
+<advisor_name>Napoleon Old</advisor_name>
+</battle_script_strings>
+<battle_script_strings>
+<key>CreativeAssembly.HB_Waterloo_Intro_2</key>
+<string>In my centre: La Hay Sainte currently lies in the hands of the ill equipped Allied Dutch.</string>
+<game_area>Battle</game_area>
+<advisor_name>Napoleon Old</advisor_name>
+</battle_script_strings>
+<battle_script_strings>
+<key>CreativeAssembly.HB_Waterloo_Intro_3</key>
+<string>And on my extreme right: Papellotte, this is a excellent base to mount an attack on the British from.</string>
+<game_area>Battle</game_area>
+<advisor_name>Napoleon Old</advisor_name>
+</battle_script_strings>
+<battle_script_strings>
+<key>CreativeAssembly.HB_Waterloo_Intro_4</key>
+<string>Wellington&apos;s main army however, occupies the northern part of the plains of Mont-Saint-Jean, laying in wait behind a sunken lane. This gives him a strategic advantage over me and I will need to take some care when ordering an attack here.</string>
+<game_area>Battle</game_area>
+<advisor_name>Napoleon Old</advisor_name>
+</battle_script_strings>
+<battle_script_strings>
+<key>CreativeAssembly.HB_Waterloo_Intro_5</key>
+<string>I have sent Grouchy to pursue the Prussians. He must hound them. But will he send word? Grouchy! Grouchy! He tries my patience.</string>
+<game_area>Battle</game_area>
+<advisor_name>Napoleon Old</advisor_name>
+</battle_script_strings>
+<battle_script_strings>
+<key>CreativeAssembly.HB_Waterloo_Narration</key>
+<string>I must trust Grouchy to keep the Prussians on the run. Ney: he has forced the enemy to go north. We followed at their heels. And now, there is this English general, this Wellington. They tell me he was good, in Spain. Beaten men would say that. Is he as good as me? We shall see.</string>
+<game_area>Battle</game_area>
+<advisor_name>Napoleon Old</advisor_name>
+</battle_script_strings>
+<battle_script_strings>
+<key>CreativeAssembly.HB_Waterloo_sfx_1</key>
+<string>A direct attack on the hill will not work! We need to advance carefully.</string>
+<game_area>Battle</game_area>
+<advisor_name>Berthier</advisor_name>
+</battle_script_strings>
+<battle_script_strings>
+<key>CreativeAssembly.HB_Waterloo_sfx_2</key>
+<string>The farm of Hougoumont on the left is key to victory!</string>
+<game_area>Battle</game_area>
+<advisor_name>Berthier</advisor_name>
+</battle_script_strings>
+<battle_script_strings>
+<key>CreativeAssembly.HB_Waterloo_sfx_3</key>
+<string>We have taken Hougoumont!</string>
+<game_area>Battle</game_area>
+<advisor_name>Berthier</advisor_name>
+</battle_script_strings>
+<battle_script_strings>
+<key>CreativeAssembly.HB_Waterloo_sfx_4</key>
+<string>We have taken La Haye Sainte!</string>
+<game_area>Battle</game_area>
+<advisor_name>Berthier</advisor_name>
+</battle_script_strings>
+<battle_script_strings>
+<key>CreativeAssembly.HB_Waterloo_sfx_5</key>
+<string>The Prussians have entered Plachenoit!</string>
+<game_area>Battle</game_area>
+<advisor_name>Berthier</advisor_name>
+</battle_script_strings>
+<battle_script_strings>
+<key>CreativeAssembly.HB_Waterloo_sfx_6</key>
+<string>Reinforcements have arrived!</string>
+<game_area>Battle</game_area>
+<advisor_name>Berthier</advisor_name>
+</battle_script_strings>
+<battle_script_strings>
+<key>CreativeAssembly.HB_Waterloo_sfx_7</key>
+<string>We are being flanked by the Prussians!</string>
+<game_area>Battle</game_area>
+<advisor_name>Berthier</advisor_name>
+</battle_script_strings>
+<battle_script_strings>
+<key>CreativeAssembly.HB_Waterloo_sfx_8</key>
+<string>Vive L&apos;Empereur!</string>
+<game_area>Battle</game_area>
+<advisor_name>Berthier</advisor_name>
+</battle_script_strings>
+<battle_script_strings>
+<key>CreativeAssembly.Naval_Basic_Controls.Anchor_Advice_1</key>
+<string>You can halt your ship at any time or cancel its current orders by clicking the highlighted anchor button. Try clicking it now.</string>
+<game_area>Naval Battle</game_area>
+<advisor_name>Berthier</advisor_name>
+</battle_script_strings>
+<battle_script_strings>
+<key>CreativeAssembly.Naval_Basic_Controls.Board_Order</key>
+<string>Well done. Your ship will now automatically move into position and begin boarding the enemy.</string>
+<game_area>Naval Battle</game_area>
+<advisor_name>Berthier</advisor_name>
+</battle_script_strings>
+<battle_script_strings>
+<key>CreativeAssembly.Naval_Basic_Controls.Boarding_1</key>
+<string>Now is an excellent time to board the enemy.</string>
+<game_area>Naval Battle</game_area>
+<advisor_name>Berthier</advisor_name>
+</battle_script_strings>
+<battle_script_strings>
+<key>CreativeAssembly.Naval_Basic_Controls.Boarding_2</key>
+<string>You can give your ship an order to board the enemy ship by clicking on the highlighted Board Button, and then right clicking on the enemy Ship. Do this now.</string>
+<game_area>Naval Battle</game_area>
+<advisor_name>Berthier</advisor_name>
+</battle_script_strings>
+<battle_script_strings>
+<key>CreativeAssembly.Naval_Basic_Controls.Boarding_3</key>
+<string>Boarding is a useful way of trying to capture enemy ships by making them surrender. This then adds that ship to your faction 
+once the battle is over.</string>
+<game_area>Naval Battle</game_area>
+<advisor_name>Berthier</advisor_name>
+</battle_script_strings>
+<battle_script_strings>
+<key>CreativeAssembly.Naval_Basic_Controls.Broadside_Clicked</key>
+<string>Notice the orange ring running round the outside of the broadside buttons. This represents the number of guns on that side that are loaded and ready to fire. Hover your mouse over the Broadside Button to see exactly how many cannons are ready. This ring will build up as more cannons reload.</string>
+<game_area>Naval Battle</game_area>
+<advisor_name>Berthier</advisor_name>
+</battle_script_strings>
+<battle_script_strings>
+<key>CreativeAssembly.Naval_Basic_Controls.Broadsides_1</key>
+<string>You can also control how your ship fires by use of the Broadside Buttons highlighted now. These buttons control the main 
+battery of guns on the left and right side of the ship. They can be used to deliver a devastating punch to the enemy.</string>
+<game_area>Naval Battle</game_area>
+<advisor_name>Berthier</advisor_name>
+</battle_script_strings>
+<battle_script_strings>
+<key>CreativeAssembly.Naval_Basic_Controls.Broadsides_2</key>
+<string>Try clicking either of the Broadside Buttons now.</string>
+<game_area>Naval Battle</game_area>
+<advisor_name>Berthier</advisor_name>
+</battle_script_strings>
+<battle_script_strings>
+<key>CreativeAssembly.Naval_Basic_Controls.Broadsides_3</key>
+<string>You can click on the Broadside Button again to fire off all the ready guns on that side. This allows you more control over how your ship fires, and allows you to deal more damage to the enemy.</string>
+<game_area>Naval Battle</game_area>
+<advisor_name>Berthier</advisor_name>
+</battle_script_strings>
+<battle_script_strings>
+<key>CreativeAssembly.Naval_Basic_Controls.Camera_1</key>
+<string>Now you must learn how to control the camera.</string>
+<game_area>Naval Battle</game_area>
+<advisor_name>Berthier</advisor_name>
+</battle_script_strings>
+<battle_script_strings>
+<key>CreativeAssembly.Naval_Basic_Controls.Camera_2</key>
+<string>First try moving the camera forward and back by using the W key to move forward, and the S key to move back.</string>
+<game_area>Naval Battle</game_area>
+<advisor_name>Berthier</advisor_name>
+</battle_script_strings>
+<battle_script_strings>
+<key>CreativeAssembly.Naval_Basic_Controls.Camera_3</key>
+<string>Now try moving the camera left and right by using the A key to move left and the D key to move right.</string>
+<game_area>Naval Battle</game_area>
+<advisor_name>Berthier</advisor_name>
+</battle_script_strings>
+<battle_script_strings>
+<key>CreativeAssembly.Naval_Basic_Controls.Camera_4</key>
+<string>Try rotating the camera left and right by using the Q key to rotate the camera left, and the E key to rotate it right.</string>
+<game_area>Naval Battle</game_area>
+<advisor_name>Berthier</advisor_name>
+</battle_script_strings>
+<battle_script_strings>
+<key>CreativeAssembly.Naval_Basic_Controls.Camera_5</key>
+<string>You can use the V key to pan the camera up, and the C key  to pan the camera down.</string>
+<game_area>Naval Battle</game_area>
+<advisor_name>Berthier</advisor_name>
+</battle_script_strings>
+<battle_script_strings>
+<key>CreativeAssembly.Naval_Basic_Controls.Camera_6</key>
+<string>Finally try moving the camera up and down by using the X key to move it up, and the Z key to move it down.</string>
+<game_area>Naval Battle</game_area>
+<advisor_name>Berthier</advisor_name>
+</battle_script_strings>
+<battle_script_strings>
+<key>CreativeAssembly.Naval_Basic_Controls.Camera_7</key>
+<string>Well done. You can also use the mouse to move the camera around by either moving it to the edges of the screen, or by 
+holding down the middle mouse button whilst moving the mouse to drag the camera around.</string>
+<game_area>Naval Battle</game_area>
+<advisor_name>Berthier</advisor_name>
+</battle_script_strings>
+<battle_script_strings>
+<key>CreativeAssembly.Naval_Basic_Controls.Combat_1</key>
+<string>As the enemy approaches you will learn how to give an attack order to your ship.</string>
+<game_area>Naval Battle</game_area>
+<advisor_name>Berthier</advisor_name>
+</battle_script_strings>
+<battle_script_strings>
+<key>CreativeAssembly.Naval_Basic_Controls.Combat_2</key>
+<string>With your ship selected, right click on the enemy ship to give your ship an attack order.</string>
+<game_area>Naval Battle</game_area>
+<advisor_name>Berthier</advisor_name>
+</battle_script_strings>
+<battle_script_strings>
+<key>CreativeAssembly.Naval_Basic_Controls.Double_Click</key>
+<string>You can double click on the ship card to centre the camera on that ship. Try this now.</string>
+<game_area>Naval Battle</game_area>
+<advisor_name>Berthier</advisor_name>
+</battle_script_strings>
+<battle_script_strings>
+<key>CreativeAssembly.Naval_Basic_Controls.Fire_At_Will_1</key>
+<string>The highlighted button is the Fire at Will button, with Fire at Will turned on your ship will automatically fire on any enemy ships within range without needing an attack order.</string>
+<game_area>Naval Battle</game_area>
+<advisor_name>Berthier</advisor_name>
+</battle_script_strings>
+<battle_script_strings>
+<key>CreativeAssembly.Naval_Basic_Controls.Fire_At_Will_2</key>
+<string>Turn it on now and your ship will fire on the enemy if they are within range and within your ships firing arc. Firing arcs are the faint triangles that project out of the sides of your ship.</string>
+<game_area>Naval Battle</game_area>
+<advisor_name>Berthier</advisor_name>
+</battle_script_strings>
+<battle_script_strings>
+<key>CreativeAssembly.Naval_Basic_Controls.Fire_At_Will_3</key>
+<string>Your ship will now automatically fire on the enemy once they are within range.</string>
+<game_area>Naval Battle</game_area>
+<advisor_name>Berthier</advisor_name>
+</battle_script_strings>
+<battle_script_strings>
+<key>CreativeAssembly.Naval_Basic_Controls.First_Combat</key>
+<string>Your ship will now sail into range and open fire on the enemy. Your experienced crew will soon make short work of them.</string>
+<game_area>Naval Battle</game_area>
+<advisor_name>Berthier</advisor_name>
+</battle_script_strings>
+<battle_script_strings>
+<key>CreativeAssembly.Naval_Basic_Controls.First_Enemy_Approaching</key>
+<string>Look sir, one of the enemy sloops is approaching us.</string>
+<game_area>Naval Battle</game_area>
+<advisor_name>Berthier</advisor_name>
+</battle_script_strings>
+<battle_script_strings>
+<key>CreativeAssembly.Naval_Basic_Controls.First_Enemy_Sunk</key>
+<string>Well done sir, this enemy Sloop has been sunk.</string>
+<game_area>Naval Battle</game_area>
+<advisor_name>Berthier</advisor_name>
+</battle_script_strings>
+<battle_script_strings>
+<key>CreativeAssembly.Naval_Basic_Controls.Health_Bars_1</key>
+<string>The circular flag above your ship is its icon. The green bars at the bottom represent the strength of the hull on each side of 
+your ship, and the white bar at the top represents the amount of damage your sails and masts have taken.</string>
+<game_area>Naval Battle</game_area>
+<advisor_name>Berthier</advisor_name>
+</battle_script_strings>
+<battle_script_strings>
+<key>CreativeAssembly.Naval_Basic_Controls.Health_Bars_2</key>
+<string>As your ship takes hits throughout a battle these bars will go down and change colour to represent the fact your ship is taking damage.</string>
+<game_area>Naval Battle</game_area>
+<advisor_name>Berthier</advisor_name>
+</battle_script_strings>
+<battle_script_strings>
+<key>CreativeAssembly.Naval_Basic_Controls.HUD_1</key>
+<string>The HUD, or heads up display, has now been revealed. You will be taught about the HUD and buttons over the course of this tutorial.</string>
+<game_area>Naval Battle</game_area>
+<advisor_name>Berthier</advisor_name>
+</battle_script_strings>
+<battle_script_strings>
+<key>CreativeAssembly.Naval_Basic_Controls.Movement_1</key>
+<string>Now you will learn how to move your ship.</string>
+<game_area>Naval Battle</game_area>
+<advisor_name>Berthier</advisor_name>
+</battle_script_strings>
+<battle_script_strings>
+<key>CreativeAssembly.Naval_Basic_Controls.Movement_1_Info</key>
+<string>With your ship selected, right click at the base of the marker shown to have your ship move there.</string>
+<game_area>Naval Battle</game_area>
+<advisor_name>Berthier</advisor_name>
+</battle_script_strings>
+<battle_script_strings>
+<key>CreativeAssembly.Naval_Basic_Controls.Movement_1_Move</key>
+<string>Your ship will now move to the first marker.</string>
+<game_area>Naval Battle</game_area>
+<advisor_name>Berthier</advisor_name>
+</battle_script_strings>
+<battle_script_strings>
+<key>CreativeAssembly.Naval_Basic_Controls.Movement_1_Resume</key>
+<string>Now have your ship resume its movement to the first marker.</string>
+<game_area>Naval Battle</game_area>
+<advisor_name>Berthier</advisor_name>
+</battle_script_strings>
+<battle_script_strings>
+<key>CreativeAssembly.Naval_Basic_Controls.Movement_2_Info</key>
+<string>Now try double clicking at the base of the next marker to have your ship move there at its fastest speed.</string>
+<game_area>Naval Battle</game_area>
+<advisor_name>Berthier</advisor_name>
+</battle_script_strings>
+<battle_script_strings>
+<key>CreativeAssembly.Naval_Basic_Controls.Movement_2_Move</key>
+<string>Double clicking to have your ship move will always make it move at its fastest speed.</string>
+<game_area>Naval Battle</game_area>
+<advisor_name>Berthier</advisor_name>
+</battle_script_strings>
+<battle_script_strings>
+<key>CreativeAssembly.Naval_Basic_Controls.Player_Ship</key>
+<string>Your ship is nearby, and ready for you to learn how to control it.</string>
+<game_area>Naval Battle</game_area>
+<advisor_name>Berthier</advisor_name>
+</battle_script_strings>
+<battle_script_strings>
+<key>CreativeAssembly.Naval_Basic_Controls.Player_Ship_Card</key>
+<string>The new flashing icon is the ship card for your ship. Left click the ship card now to select it.</string>
+<game_area>Naval Battle</game_area>
+<advisor_name>Berthier</advisor_name>
+</battle_script_strings>
+<battle_script_strings>
+<key>CreativeAssembly.Naval_Basic_Controls.Review_Panel</key>
+<string>The flashing part of the HUD is the review panel. This is where the ship cards for the ships in your navy will be displayed.</string>
+<game_area>Naval Battle</game_area>
+<advisor_name>Berthier</advisor_name>
+</battle_script_strings>
+<battle_script_strings>
+<key>CreativeAssembly.Naval_Basic_Controls.Rotate</key>
+<string>You can use the highlighted buttons to rotate your ship and help keep the enemy within your broadsides when moving your ship around manually.</string>
+<game_area>Naval Battle</game_area>
+<advisor_name>Berthier</advisor_name>
+</battle_script_strings>
+<battle_script_strings>
+<key>CreativeAssembly.Naval_Basic_Controls.Second_Enemy_Approaching</key>
+<string>The second enemy sloop is now approaching us, and you must be ready to receive it.</string>
+<game_area>Naval Battle</game_area>
+<advisor_name>Berthier</advisor_name>
+</battle_script_strings>
+<battle_script_strings>
+<key>CreativeAssembly.Naval_Basic_Controls.Second_Enemy_Combat</key>
+<string>Use all the ways to control your ship in combat to fight the last enemy ship. Remember, you can give your ship an attack order and control how its broadsides fire at the same time if you want to.</string>
+<game_area>Naval Battle</game_area>
+<advisor_name>Berthier</advisor_name>
+</battle_script_strings>
+<battle_script_strings>
+<key>CreativeAssembly.Naval_Basic_Controls.Second_Enemy_Demasted</key>
+<string>A lucky shot has demasted the enemy Sloop, and its crew are bringing it to a halt.</string>
+<game_area>Naval Battle</game_area>
+<advisor_name>Berthier</advisor_name>
+</battle_script_strings>
+<battle_script_strings>
+<key>CreativeAssembly.Naval_Basic_Controls.Shot_Types_1</key>
+<string>Now whilst your ship moves into range and engages the enemy you will learn about the different shot types your ship can use.</string>
+<game_area>Naval Battle</game_area>
+<advisor_name>Berthier</advisor_name>
+</battle_script_strings>
+<battle_script_strings>
+<key>CreativeAssembly.Naval_Basic_Controls.Shot_Types_2</key>
+<string>The currently selected shot type for your ship and the default is Round Shot. This shot type is effective against the enemy’s hull and taking out their guns.</string>
+<game_area>Naval Battle</game_area>
+<advisor_name>Berthier</advisor_name>
+</battle_script_strings>
+<battle_script_strings>
+<key>CreativeAssembly.Naval_Basic_Controls.Shot_Types_3</key>
+<string>The highlighted type is Chain Shot. This shot type will hit the enemy’s masts and can be used to cripple an enemy’s movement.</string>
+<game_area>Naval Battle</game_area>
+<advisor_name>Berthier</advisor_name>
+</battle_script_strings>
+<battle_script_strings>
+<key>CreativeAssembly.Naval_Basic_Controls.Shot_Types_4</key>
+<string>The final shot type now highlighted is Grape Shot. This is a close range shot type that is devastating against the enemy’s crew.</string>
+<game_area>Naval Battle</game_area>
+<advisor_name>Berthier</advisor_name>
+</battle_script_strings>
+<battle_script_strings>
+<key>CreativeAssembly.Naval_Basic_Controls.Shot_Types_5</key>
+<string>You have now learnt about the various shot types, experiment with them now if you want but your aim is to sink this enemy ship.</string>
+<game_area>Naval Battle</game_area>
+<advisor_name>Berthier</advisor_name>
+</battle_script_strings>
+<battle_script_strings>
+<key>CreativeAssembly.Naval_Basic_Controls.Tutorial_Complete_1</key>
+<string>The enemy sloop has surrendered, well done sir!</string>
+<game_area>Naval Battle</game_area>
+<advisor_name>Berthier</advisor_name>
+</battle_script_strings>
+<battle_script_strings>
+<key>CreativeAssembly.Naval_Basic_Controls.Tutorial_Complete_2</key>
+<string>This brings the Naval tutorial to an end.</string>
+<game_area>Naval Battle</game_area>
+<advisor_name>Berthier</advisor_name>
+</battle_script_strings>
+<battle_script_strings>
+<key>CreativeAssembly.Naval_Basic_Controls.Tutorial_Complete_3</key>
+<string>In this tutorial you learnt how to control the camera, how to move your ship, how to attack, how to board and how to control your ship in combat. You also learned the basics of the HUD.</string>
+<game_area>Naval Battle</game_area>
+<advisor_name>Berthier</advisor_name>
+</battle_script_strings>
+<battle_script_strings>
+<key>CreativeAssembly.Naval_Basic_Controls.Welcome_1</key>
+<string>Welcome to the Naval tutorial.</string>
+<game_area>Naval Battle</game_area>
+<advisor_name>Berthier</advisor_name>
+</battle_script_strings>
+<battle_script_strings>
+<key>CreativeAssembly.Naval_Basic_Controls.Welcome_2</key>
+<string>We have had reports of British ships raiding in the Caribbean and you have been dispatched to deal with them.</string>
+<game_area>Naval Battle</game_area>
+<advisor_name>Berthier</advisor_name>
+</battle_script_strings>
+<battle_script_strings>
+<key>CreativeAssembly.Naval_Basic_Controls.Welcome_3</key>
+<string>In this tutorial you will learn about the HUD, camera controls, ship movement and combat.</string>
+<game_area>Naval Battle</game_area>
+<advisor_name>Berthier</advisor_name>
+</battle_script_strings>
+<battle_script_strings>
+<key>CreativeAssembly.Naval_Basic_Controls.Welcome_4</key>
+<string>For now please click the End Deployment button to begin the tutorial.</string>
+<game_area>Naval Battle</game_area>
+<advisor_name>Berthier</advisor_name>
+</battle_script_strings>
+<battle_script_strings>
+<key>CreativeAssembly.Naval_General_Tutorial_Messages.Good</key>
+<string>Good.</string>
+<game_area>Naval Battle</game_area>
+<advisor_name>Berthier</advisor_name>
+</battle_script_strings>
+<battle_script_strings>
+<key>CreativeAssembly.Naval_Tut_1</key>
+<string>Welcome to the Battle of Algeciras Bay. Here you will learn the basic navigation and command of the French fleet.</string>
+<game_area>Naval Battle</game_area>
+<advisor_name>Berthier</advisor_name>
+</battle_script_strings>
+<battle_script_strings>
+<key>CreativeAssembly.Naval_Tut_10</key>
+<string>Try experimenting with these shot types to sink the approaching enemy ship.</string>
+<game_area>Naval Battle</game_area>
+<advisor_name>Berthier</advisor_name>
+</battle_script_strings>
+<battle_script_strings>
+<key>CreativeAssembly.Naval_Tut_11</key>
+<string>You can give your ship an order to board the British ship by clicking on the highlighted Board Button, and then right-clicking 
+on the enemy ship. Try this now.</string>
+<game_area>Naval Battle</game_area>
+<advisor_name>Berthier</advisor_name>
+</battle_script_strings>
+<battle_script_strings>
+<key>CreativeAssembly.Naval_Tut_12</key>
+<string>One of the British ships is moving to attack.</string>
+<game_area>Naval Battle</game_area>
+<advisor_name>Berthier</advisor_name>
+</battle_script_strings>
+<battle_script_strings>
+<key>CreativeAssembly.Naval_Tut_13</key>
+<string>Well done, you have successfully sunk the British ship.</string>
+<game_area>Naval Battle</game_area>
+<advisor_name>Berthier</advisor_name>
+</battle_script_strings>
+<battle_script_strings>
+<key>CreativeAssembly.Naval_Tut_14</key>
+<string>The British flagship is now approaching us, prepare to engage.</string>
+<game_area>Naval Battle</game_area>
+<advisor_name>Berthier</advisor_name>
+</battle_script_strings>
+<battle_script_strings>
+<key>CreativeAssembly.Naval_Tut_15</key>
+<string>The British ship has been demasted, its crew are bringing it to a halt.</string>
+<game_area>Naval Battle</game_area>
+<advisor_name>Berthier</advisor_name>
+</battle_script_strings>
+<battle_script_strings>
+<key>CreativeAssembly.Naval_Tut_16</key>
+<string>With your ship moving into engage the enemy, let&apos;s look at the different shot types your ship has on board.</string>
+<game_area>Naval Battle</game_area>
+<advisor_name>Berthier</advisor_name>
+</battle_script_strings>
+<battle_script_strings>
+<key>CreativeAssembly.Naval_Tut_17</key>
+<string>The British ship has surrendered.</string>
+<game_area>Naval Battle</game_area>
+<advisor_name>Berthier</advisor_name>
+</battle_script_strings>
+<battle_script_strings>
+<key>CreativeAssembly.Naval_Tut_18</key>
+<string>Congratulations, you have successfully removed the British threat from the Mediterranean.</string>
+<game_area>Naval Battle</game_area>
+<advisor_name>Berthier</advisor_name>
+</battle_script_strings>
+<battle_script_strings>
+<key>CreativeAssembly.Naval_Tut_19</key>
+<string>The default shot type for this ship is Round Shot. This is extremely effective against an enemy’s hull and at destroying their guns. As your ship is automatically set to Fire-At-Will, once in range of the enemy your ship will open fire.</string>
+<game_area>Naval Battle</game_area>
+<advisor_name>Berthier</advisor_name>
+</battle_script_strings>
+<battle_script_strings>
+<key>CreativeAssembly.Naval_Tut_2</key>
+<string>Anchored off the coast of Gibraltar are the Royal Navy, your British enemies. Your task is to remove their fleet from the Mediterranean by any means necessary.</string>
+<game_area>Naval Battle</game_area>
+<advisor_name>Berthier</advisor_name>
+</battle_script_strings>
+<battle_script_strings>
+<key>CreativeAssembly.Naval_Tut_20</key>
+<string>Also on board is Chain Shot. This shot type is designed to hit the enemy’s masts and can therefore be used to cripple their movement.</string>
+<game_area>Naval Battle</game_area>
+<advisor_name>Berthier</advisor_name>
+</battle_script_strings>
+<battle_script_strings>
+<key>CreativeAssembly.Naval_Tut_21</key>
+<string>The final shot type in your arsenal is Grape Shot. This is a close range shot type that is devastating against enemy crew members.</string>
+<game_area>Naval Battle</game_area>
+<advisor_name>Berthier</advisor_name>
+</battle_script_strings>
+<battle_script_strings>
+<key>CreativeAssembly.Naval_Tut_22</key>
+<string>You can also set your ship&apos;s speed by increasing or decreasing the number of sails it uses. This is done by selecting one of 
+the highlighted buttons at the bottom of the screen.</string>
+<game_area>Naval Battle</game_area>
+<advisor_name>Berthier</advisor_name>
+</battle_script_strings>
+<battle_script_strings>
+<key>CreativeAssembly.Naval_Tut_23</key>
+<string>To engage in combat, right-click on the enemy with your ship selected.</string>
+<game_area>Naval Battle</game_area>
+<advisor_name>Berthier</advisor_name>
+</battle_script_strings>
+<battle_script_strings>
+<key>CreativeAssembly.Naval_Tut_24</key>
+<string>With the British now in close quarters try using the Rotation buttons to help keep their ship within the firing arc of your cannons.</string>
+<game_area>Naval Battle</game_area>
+<advisor_name>Berthier</advisor_name>
+</battle_script_strings>
+<battle_script_strings>
+<key>CreativeAssembly.Naval_Tut_25</key>
+<string>Return to your ship quickly by double-clicking on its ship card at the bottom of the screen.</string>
+<game_area>Naval Battle</game_area>
+<advisor_name>Berthier</advisor_name>
+</battle_script_strings>
+<battle_script_strings>
+<key>CreativeAssembly.Naval_Tut_26</key>
+<string>Now engage the remaining British ship.</string>
+<game_area>Naval Battle</game_area>
+<advisor_name>Berthier</advisor_name>
+</battle_script_strings>
+<battle_script_strings>
+<key>CreativeAssembly.Naval_Tut_27</key>
+<string>Additional British ships are coming to join the fray. French reinforcements will be here shortly.</string>
+<game_area>Naval Battle</game_area>
+<advisor_name>Berthier</advisor_name>
+</battle_script_strings>
+<battle_script_strings>
+<key>CreativeAssembly.Naval_Tut_28</key>
+<string>Use the techniques you have just learnt to see off the British fleet once and for all.</string>
+<game_area>Naval Battle</game_area>
+<advisor_name>Berthier</advisor_name>
+</battle_script_strings>
+<battle_script_strings>
+<key>CreativeAssembly.Naval_Tut_29</key>
+<string>With additional ships at your command this would be a good time to group them together, allowing you to control your fleet 
+more easily.</string>
+<game_area>Naval Battle</game_area>
+<advisor_name>Berthier</advisor_name>
+</battle_script_strings>
+<battle_script_strings>
+<key>CreativeAssembly.Naval_Tut_3</key>
+<string>This is your flagship, the most important ship in any Admiral&apos;s fleet.</string>
+<game_area>Naval Battle</game_area>
+<advisor_name>Berthier</advisor_name>
+</battle_script_strings>
+<battle_script_strings>
+<key>CreativeAssembly.Naval_Tut_30</key>
+<string>To do this left-click and drag with your mouse around the ships you wish to group and then select the Group button at 
+the bottom of the screen.</string>
+<game_area>Naval Battle</game_area>
+<advisor_name>Berthier</advisor_name>
+</battle_script_strings>
+<battle_script_strings>
+<key>CreativeAssembly.Naval_Tut_31</key>
+<string>You will now notice that your ship cards have been rearranged into the new groups you have just created. You can still move 
+and select you ships individually, but you can now select the group tab to move your ships as a group.</string>
+<game_area>Naval Battle</game_area>
+<advisor_name>Berthier</advisor_name>
+</battle_script_strings>
+<battle_script_strings>
+<key>CreativeAssembly.Naval_Tut_32</key>
+<string>Whilst in Group mode you will also have access to the Formations button, located at the bottom of the screen. By selecting this, you will 
+be able to choose a specific formation for your ships to use, allowing you to improve your attack prowess or defensive strength.</string>
+<game_area>Naval Battle</game_area>
+<advisor_name>Berthier</advisor_name>
+</battle_script_strings>
+<battle_script_strings>
+<key>CreativeAssembly.Naval_Tut_4</key>
+<string>It appears your ship has taken some damage since last being in port, and is in need of urgent attention.</string>
+<game_area>Naval Battle</game_area>
+<advisor_name>Berthier</advisor_name>
+</battle_script_strings>
+<battle_script_strings>
+<key>CreativeAssembly.Naval_Tut_5</key>
+<string>Left-click on the ship card at the bottom of the screen to select your ship.</string>
+<game_area>Naval Battle</game_area>
+<advisor_name>Berthier</advisor_name>
+</battle_script_strings>
+<battle_script_strings>
+<key>CreativeAssembly.Naval_Tut_6</key>
+<string>Now select the Repair Ship button at the bottom of the screen to get your crew to fix the damage.</string>
+<game_area>Naval Battle</game_area>
+<advisor_name>Berthier</advisor_name>
+</battle_script_strings>
+<battle_script_strings>
+<key>CreativeAssembly.Naval_Tut_7</key>
+<string>During the repair process your ship will not be able to perform another task unless you cancel the repair process first. Once the repair process is completed your ship will be fully functional and ready for combat.</string>
+<game_area>Naval Battle</game_area>
+<advisor_name>Berthier</advisor_name>
+</battle_script_strings>
+<battle_script_strings>
+<key>CreativeAssembly.Naval_Tut_8</key>
+<string>With your ship now being readied for war, you need to learn how to use the camera to help track down and destroy the British fleet.</string>
+<game_area>Naval Battle</game_area>
+<advisor_name>Berthier</advisor_name>
+</battle_script_strings>
+<battle_script_strings>
+<key>CreativeAssembly.Naval_Tut_9</key>
+<string>Let&apos;s now set sail. To do this right-click at the base of the marker shown with your ship selected.</string>
+<game_area>Naval Battle</game_area>
+<advisor_name>Berthier</advisor_name>
+</battle_script_strings>
+<battle_script_strings>
+<key>CreativeAssembly.HB_Waterloo_Well_Intro_1</key>
+<string>I have decided to make our stand here, on the Brussels road, south of Waterloo. Despite yesterday&apos;s rain, that fellow just keeps coming on.</string>
+<game_area>Battle</game_area>
+<advisor_name>Wellington</advisor_name>
+</battle_script_strings>
+<battle_script_strings>
+<key>CreativeAssembly.HB_Waterloo_Well_Intro_2</key>
+<string>The main body of my army is on the reverse slope, to protect them from the Corsican’s artillery.</string>
+<game_area>Battle</game_area>
+<advisor_name>Wellington</advisor_name>
+</battle_script_strings>
+<battle_script_strings>
+<key>CreativeAssembly.HB_Waterloo_Well_Intro_3</key>
+<string>The remainder are positioned at Hougoumont on my right, with a unit of Jägers hidden in the orchard,</string>
+<game_area>Battle</game_area>
+<advisor_name>Wellington</advisor_name>
+</battle_script_strings>
+<battle_script_strings>
+<key>CreativeAssembly.HB_Waterloo_Well_Intro_4</key>
+<string>La Haye Saint in the centre and …</string>
+<game_area>Battle</game_area>
+<advisor_name>Wellington</advisor_name>
+</battle_script_strings>
+<battle_script_strings>
+<key>CreativeAssembly.HB_Waterloo_Well_Intro_5</key>
+<string>Papellotte on my left. These we must hold!</string>
+<game_area>Battle</game_area>
+<advisor_name>Wellington</advisor_name>
+</battle_script_strings>
+<battle_script_strings>
+<key>CreativeAssembly.HB_Waterloo_Well_Intro_6</key>
+<string>As always, that man has his artillery. His guns are strong on the right and …</string>
+<game_area>Battle</game_area>
+<advisor_name>Wellington</advisor_name>
+</battle_script_strings>
+<battle_script_strings>
+<key>CreativeAssembly.HB_Waterloo_Well_Battle_Lost</key>
+<string>This is a dark day for England and Europe. Bonaparte does war honour, but he must be stopped!</string>
+<game_area>Battle</game_area>
+<advisor_name>Wellington</advisor_name>
+</battle_script_strings>
+<battle_script_strings>
+<key>CreativeAssembly.HB_Waterloo_Well_Battle_Won</key>
+<string>I Say! That&apos;ll do men, that&apos;ll do. They came on in the same old way, and we beat them in the same old way.</string>
+<game_area>Battle</game_area>
+<advisor_name>Wellington</advisor_name>
+</battle_script_strings>
+<battle_script_strings>
+<key>CreativeAssembly.HB_Waterloo_Well_Intro_7</key>
+<string>He has placed those dashed Imperial Guard, behind La Belle Alliance. They are tough, fighting men.</string>
+<game_area>Battle</game_area>
+<advisor_name>Wellington</advisor_name>
+</battle_script_strings>
+<battle_script_strings>
+<key>CreativeAssembly.HB_Waterloo_Well_Intro_8</key>
+<string>I know that Blücher will keep his promise. He will be here, but until then my gin-sodden wretches, bless them, will have to hold the high ground.</string>
+<game_area>Battle</game_area>
+<advisor_name>Wellington</advisor_name>
+</battle_script_strings>
+</dataroot>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="cdir_desire_priorities.xsd" generated="2009-12-02T16:21:46">
+<cdir_desire_priorities>
+<campaign_key>all</campaign_key>
+<desire_key>new_shoes</desire_key>
+<priority>1</priority>
+<s_ColLineage>W4e7tQIAAABbh7u1AgAAAFuHu7UCAAAA
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{81D840B0-DC1B-4541-A5DF-840615124188}</s_GUID>
+<s_Lineage>W4e7tQIAAAAAAAAAAAAAAA==
+</s_Lineage>
+</cdir_desire_priorities>
+<cdir_desire_priorities>
+<campaign_key>egy_napoleon</campaign_key>
+<desire_key>new_shoes</desire_key>
+<priority>2</priority>
+<s_ColLineage>W4e7tQIAAABbh7u1AgAAAFuHu7UCAAAA
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{DCFA6132-50FD-4C6C-99D5-BD86AEB68D80}</s_GUID>
+<s_Lineage>W4e7tQIAAAAAAAAAAAAAAA==
+</s_Lineage>
+</cdir_desire_priorities>
+</dataroot>

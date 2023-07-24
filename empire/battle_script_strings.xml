@@ -1,0 +1,623 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="battle_script_strings.xsd" generated="2009-03-19T11:17:18">
+<battle_script_strings>
+<key>CreativeAssembly.BT_Rich_advance</key>
+<string>This is a good opportunity to advance your army. Select a line infantry unit.</string>
+<game_area>Battle</game_area>
+</battle_script_strings>
+<battle_script_strings>
+<key>CreativeAssembly.BT_Rich_British_Forces</key>
+<string>In this tutorial you will take control of the British forces.</string>
+<game_area>Battle</game_area>
+</battle_script_strings>
+<battle_script_strings>
+<key>CreativeAssembly.BT_Rich_Broken_Shattered_Morale</key>
+<string>While enemy troops with broken morale can return to the fray once their resolve recovers, the will of these Spanish troops has been shattered. Leave them to flee for their lives.</string>
+<game_area>Battle</game_area>
+</battle_script_strings>
+<battle_script_strings>
+<key>CreativeAssembly.BT_Rich_camera_raising</key>
+<string>Whilst you are shelling the enemy, practice raising and lowering the camera by rolling the middle mouse button. Alternatively, you can use the Z or X keys.</string>
+<game_area>Battle</game_area>
+</battle_script_strings>
+<battle_script_strings>
+<key>CreativeAssembly.BT_Rich_enemy_unit_routing</key>
+<string>You have successfully routed an enemy unit. If you rout all enemy units from the battlefield you will be victorious.</string>
+<game_area>Battle</game_area>
+</battle_script_strings>
+<battle_script_strings>
+<key>CreativeAssembly.BT_Rich_Farmhouse_Attack</key>
+<string>The Spanish have taken cover in the Farmhouse. Select your cannon and right-click on the building to shell the enemy.</string>
+<game_area>Battle</game_area>
+</battle_script_strings>
+<battle_script_strings>
+<key>CreativeAssembly.BT_Rich_Farmhouse_Attack_2</key>
+<string>Select an infantry unit and right-click on the building to instruct your men to assault and flush out the garrisoned enemy.</string>
+<game_area>Battle</game_area>
+</battle_script_strings>
+<battle_script_strings>
+<key>CreativeAssembly.BT_Rich_fire_at_will</key>
+<string>Now left-click on the fire at will button on the review panel at the bottom right of the screen.</string>
+<game_area>Battle</game_area>
+</battle_script_strings>
+<battle_script_strings>
+<key>CreativeAssembly.BT_Rich_fire_at_will2</key>
+<string>This unit will now automatically fire at enemy units within range of their muskets. Left-clicking this button again will cancel the order. Units are set to fire at will by default.</string>
+<game_area>Battle</game_area>
+</battle_script_strings>
+<battle_script_strings>
+<key>CreativeAssembly.BT_Rich_first_wave_routed</key>
+<string>Well done. You have successfully routed the first wave of enemy units.</string>
+<game_area>Battle</game_area>
+</battle_script_strings>
+<battle_script_strings>
+<key>CreativeAssembly.BT_Rich_General_Final_Push</key>
+<string>Your General has joined your ranks for the final push.</string>
+<game_area>Battle</game_area>
+</battle_script_strings>
+<battle_script_strings>
+<key>CreativeAssembly.BT_Rich_General_Help</key>
+<string>Use your General’s unit to help see off what remains of the Spanish forces.</string>
+<game_area>Battle</game_area>
+</battle_script_strings>
+<battle_script_strings>
+<key>CreativeAssembly.BT_Rich_General_In_Waiting</key>
+<string>Your General will join the battle in due course but for now, we will leave him to survey your progress.</string>
+<game_area>Battle</game_area>
+</battle_script_strings>
+<battle_script_strings>
+<key>CreativeAssembly.BT_Rich_General_Protect</key>
+<string>Use him wisely and keep him protected, his presence in battle will strengthen the morale of nearby units</string>
+<game_area>Battle</game_area>
+</battle_script_strings>
+<battle_script_strings>
+<key>CreativeAssembly.BT_Rich_intro</key>
+<string>Welcome to the Battle Tutorial. Here you will learn the basics of commanding your armies on the battlefield. You are controlling the British army. Camped in and around this farm are your Spanish enemies. Your task is to rout the Spanish army from the battlefield.</string>
+<game_area>Battle</game_area>
+</battle_script_strings>
+<battle_script_strings>
+<key>CreativeAssembly.BT_Rich_keep_charge</key>
+<string>Your infantry will now charge into melee. This is a very effective way of routing enemy troops that are already low on morale.</string>
+<game_area>Battle</game_area>
+</battle_script_strings>
+<battle_script_strings>
+<key>CreativeAssembly.BT_Rich_keep_cover</key>
+<string>A second wave of enemy is approaching. Keep your units behind this cover to give them an advantage over the enemy.</string>
+<game_area>Battle</game_area>
+</battle_script_strings>
+<battle_script_strings>
+<key>CreativeAssembly.BT_Rich_keep_melee</key>
+<string>You have seriously depleted the Spanish numbers. Select one of your infantry units and click on the melee attack button.</string>
+<game_area>Battle</game_area>
+</battle_script_strings>
+<battle_script_strings>
+<key>CreativeAssembly.BT_Rich_kill_other_unit</key>
+<string>Mouse over the remaining enemy unit and right-click to attack.</string>
+<game_area>Battle</game_area>
+</battle_script_strings>
+<battle_script_strings>
+<key>CreativeAssembly.BT_Rich_line_infantry</key>
+<string>Please select a line infantry unit</string>
+<game_area>Battle</game_area>
+</battle_script_strings>
+<battle_script_strings>
+<key>CreativeAssembly.BT_Rich_melee_attack</key>
+<string>Now mouse over an enemy unit and right-click to engeage it in melee. You can double-click to charge into melee.</string>
+<game_area>Battle</game_area>
+</battle_script_strings>
+<battle_script_strings>
+<key>CreativeAssembly.BT_Rich_morale</key>
+<string>Keep up the pressure by firing your cannons at the enemy Militia. As they take damage their morale will be reduced and eventually cause them to rout.</string>
+<game_area>Battle</game_area>
+</battle_script_strings>
+<battle_script_strings>
+<key>CreativeAssembly.BT_Rich_moving_units</key>
+<string>Now right-click on the location indicated to order your unit to march there.</string>
+<game_area>Battle</game_area>
+</battle_script_strings>
+<battle_script_strings>
+<key>CreativeAssembly.BT_Rich_next_cover</key>
+<string>Another Spanish attack is imminent! Move your other other infantry unit to cover.</string>
+<game_area>Battle</game_area>
+</battle_script_strings>
+<battle_script_strings>
+<key>CreativeAssembly.BT_Rich_next_melee_attack</key>
+<string>You have seriously depleted the Spanish numbers. Click on the melee attack button in the unit panel.</string>
+<game_area>Battle</game_area>
+</battle_script_strings>
+<battle_script_strings>
+<key>CreativeAssembly.BT_Rich_next_melee_attack2</key>
+<string>Now mouse over an enemy unit and right-click to engage in melee. You can double-click to charge.</string>
+<game_area>Battle</game_area>
+</battle_script_strings>
+<battle_script_strings>
+<key>CreativeAssembly.BT_Rich_Outgunned</key>
+<string>The Spanish are outgunned and have suffered heavy losses. They are routing from the field.</string>
+<game_area>Battle</game_area>
+</battle_script_strings>
+<battle_script_strings>
+<key>CreativeAssembly.BT_Rich_pan_on_select</key>
+<string>Select a Line Infantry unit by left-clicking on the unit or left-clicking the unit card on the review panel at the bottom of the screen. You can double-click here to automatically pan the camera behind the unit.</string>
+<game_area>Battle</game_area>
+</battle_script_strings>
+<battle_script_strings>
+<key>CreativeAssembly.BT_Rich_Remain_In_Melee</key>
+<string>These men will remain in melee mode whilst the button is selected. Click it again to disable melee mode and have your men fire on the enemy when next ordered to attack.</string>
+<game_area>Battle</game_area>
+</battle_script_strings>
+<battle_script_strings>
+<key>CreativeAssembly.BT_Rich_rest_of_army</key>
+<string>This is the rest of your army.</string>
+<game_area>Battle</game_area>
+</battle_script_strings>
+<battle_script_strings>
+<key>CreativeAssembly.BT_Rich_right_click_attack</key>
+<string>Now move your cursor over an enemy unit, and right-click your mouse to order your Cannons to attack.</string>
+<game_area>Battle</game_area>
+</battle_script_strings>
+<battle_script_strings>
+<key>CreativeAssembly.BT_Rich_right_click_drag</key>
+<string>If you right-click and drag at your chosen destination, you can determine the depth and orientation that the troops in the unit will form up in when they reach the destination.</string>
+<game_area>Battle</game_area>
+</battle_script_strings>
+<battle_script_strings>
+<key>CreativeAssembly.BT_Rich_rotating_camera</key>
+<string>You can rotate the camera by clicking and holding the middle mouse button. Alternatively you can use the Q and E keys. Try this now.</string>
+<game_area>Battle</game_area>
+</battle_script_strings>
+<battle_script_strings>
+<key>CreativeAssembly.BT_Rich_rout_enemy_army</key>
+<string>Use the commands you have just learnt to rout the rest of the Spanish army!</string>
+<game_area>Battle</game_area>
+</battle_script_strings>
+<battle_script_strings>
+<key>CreativeAssembly.BT_Rich_Routine_Patrol</key>
+<string>A routine patrol have stumbled upon a pocket of Spanish troops camped out in an abandoned farm.</string>
+<game_area>Battle</game_area>
+</battle_script_strings>
+<battle_script_strings>
+<key>CreativeAssembly.BT_Rich_select_unit</key>
+<string>Let&apos;s start by selecting your Cannons. Left click on the Cannons with your mouse.</string>
+<game_area>Battle</game_area>
+</battle_script_strings>
+<battle_script_strings>
+<key>CreativeAssembly.BT_Rich_select_unit2</key>
+<string>Alternatively, you can select a unit by clicking on its unit card on the review panel.</string>
+<game_area>Battle</game_area>
+</battle_script_strings>
+<battle_script_strings>
+<key>CreativeAssembly.BT_Rich_strafing_camera</key>
+<string>You can use the W and S keys to move the camera backwards and forwards, and the A and D keys to strafe left and right.</string>
+<game_area>Battle</game_area>
+</battle_script_strings>
+<battle_script_strings>
+<key>CreativeAssembly.BT_Rich_Take_Control_Of_Cannon</key>
+<string>First, let’s take control of the British cannons</string>
+<game_area>Battle</game_area>
+</battle_script_strings>
+<battle_script_strings>
+<key>CreativeAssembly.BT_Rich_Troops_Being_Used</key>
+<string>You’ve been given two units of infantry and a powerful cannon to see off this threat.</string>
+<game_area>Battle</game_area>
+</battle_script_strings>
+<battle_script_strings>
+<key>CreativeAssembly.BT_Rich_units_run</key>
+<string>To increase the speed of your unit&apos;s movement click the run button on the review panel or double right-click when issuing a movement command.</string>
+<game_area>Battle</game_area>
+</battle_script_strings>
+<battle_script_strings>
+<key>CreativeAssembly.BT_Rich_well_done</key>
+<string>Well done.</string>
+<game_area>Battle</game_area>
+</battle_script_strings>
+<battle_script_strings>
+<key>CreativeAssembly.Bunker_Hill_1</key>
+<string>The War for Independence has begun and the fate of the city of Boston lies in the balance. Your men are entrenched on Bunker Hill with the British preparing to mount a determined assault. You must hold the hill and drive off the British at all costs.</string>
+<game_area>Battle</game_area>
+</battle_script_strings>
+<battle_script_strings>
+<key>CreativeAssembly.Bunker_Hill_2</key>
+<string>Your artillery are key to the outcome of the battle and will likely come under severe pressure from the British Army. Use them wisely.</string>
+<game_area>Battle</game_area>
+</battle_script_strings>
+<battle_script_strings>
+<key>CreativeAssembly.Bunker_Hill_3</key>
+<string>Expect the British to mount a full frontal assault for the hill but watch out for a flank attack from cavalry and light infantry. Use the terrain and buildings to your advantage and Boston will surely be ours.</string>
+<game_area>Battle</game_area>
+</battle_script_strings>
+<battle_script_strings>
+<key>CreativeAssembly.Indian_battle_1</key>
+<string>Steady!</string>
+<game_area>Battle</game_area>
+</battle_script_strings>
+<battle_script_strings>
+<key>CreativeAssembly.Indian_battle_10</key>
+<string>On the right!</string>
+<game_area>Battle</game_area>
+</battle_script_strings>
+<battle_script_strings>
+<key>CreativeAssembly.Indian_battle_11</key>
+<string>They&apos;re charging again!</string>
+<game_area>Battle</game_area>
+</battle_script_strings>
+<battle_script_strings>
+<key>CreativeAssembly.Indian_battle_12</key>
+<string>Support the right!</string>
+<game_area>Battle</game_area>
+</battle_script_strings>
+<battle_script_strings>
+<key>CreativeAssembly.Indian_battle_13</key>
+<string>Clear them from the hill!</string>
+<game_area>Battle</game_area>
+</battle_script_strings>
+<battle_script_strings>
+<key>CreativeAssembly.Indian_battle_14</key>
+<string>Stay behind cover, men!</string>
+<game_area>Battle</game_area>
+</battle_script_strings>
+<battle_script_strings>
+<key>CreativeAssembly.Indian_battle_15</key>
+<string>Ready yourselves men!</string>
+<game_area>Battle</game_area>
+</battle_script_strings>
+<battle_script_strings>
+<key>CreativeAssembly.Indian_battle_16</key>
+<string>Prepare for the next wave</string>
+<game_area>Battle</game_area>
+</battle_script_strings>
+<battle_script_strings>
+<key>CreativeAssembly.Indian_battle_17</key>
+<string>We&apos;re being outflanked by cavalry! Guard the rear!</string>
+<game_area>Battle</game_area>
+</battle_script_strings>
+<battle_script_strings>
+<key>CreativeAssembly.Indian_battle_18</key>
+<string>Watch our right flank! Light infantry are approaching from the forest!</string>
+<game_area>Battle</game_area>
+</battle_script_strings>
+<battle_script_strings>
+<key>CreativeAssembly.Indian_battle_19</key>
+<string>Clear the buildings!</string>
+<game_area>Battle</game_area>
+</battle_script_strings>
+<battle_script_strings>
+<key>CreativeAssembly.Indian_battle_2</key>
+<string>Steady men!</string>
+<game_area>Battle</game_area>
+</battle_script_strings>
+<battle_script_strings>
+<key>CreativeAssembly.Indian_battle_20</key>
+<string>Let&apos;s rout the British scum!</string>
+<game_area>Battle</game_area>
+</battle_script_strings>
+<battle_script_strings>
+<key>CreativeAssembly.Indian_battle_21</key>
+<string>Our cannons are under attack! Defend them at all costs!</string>
+<game_area>Battle</game_area>
+</battle_script_strings>
+<battle_script_strings>
+<key>CreativeAssembly.Indian_battle_22</key>
+<string>Shell the buildings to clear the British out!</string>
+<game_area>Battle</game_area>
+</battle_script_strings>
+<battle_script_strings>
+<key>CreativeAssembly.Indian_battle_23</key>
+<string>The day could be ours! Take the fight to the British now and rout them from the field!</string>
+<game_area>Battle</game_area>
+</battle_script_strings>
+<battle_script_strings>
+<key>CreativeAssembly.Indian_battle_24</key>
+<string>The British cavalry is on the move! Keep an eye on them!</string>
+<game_area>Battle</game_area>
+</battle_script_strings>
+<battle_script_strings>
+<key>CreativeAssembly.Indian_battle_25</key>
+<string>The farm building should provide better cover for our troops!</string>
+<game_area>Battle</game_area>
+</battle_script_strings>
+<battle_script_strings>
+<key>CreativeAssembly.Indian_battle_3</key>
+<string>Wait</string>
+<game_area>Battle</game_area>
+</battle_script_strings>
+<battle_script_strings>
+<key>CreativeAssembly.Indian_battle_4</key>
+<string>Hold the line!</string>
+<game_area>Battle</game_area>
+</battle_script_strings>
+<battle_script_strings>
+<key>CreativeAssembly.Indian_battle_5</key>
+<string>Watch the trees men</string>
+<game_area>Battle</game_area>
+</battle_script_strings>
+<battle_script_strings>
+<key>CreativeAssembly.Indian_battle_6</key>
+<string>Ready…aim…fire!</string>
+<game_area>Battle</game_area>
+</battle_script_strings>
+<battle_script_strings>
+<key>CreativeAssembly.Indian_battle_7</key>
+<string>Steady!</string>
+<game_area>Battle</game_area>
+</battle_script_strings>
+<battle_script_strings>
+<key>CreativeAssembly.Indian_battle_8</key>
+<string>Fire!</string>
+<game_area>Battle</game_area>
+</battle_script_strings>
+<battle_script_strings>
+<key>CreativeAssembly.Indian_battle_9</key>
+<string>Look to the right!</string>
+<game_area>Battle</game_area>
+</battle_script_strings>
+<battle_script_strings>
+<key>CreativeAssembly.Naval_Basic_Controls.Anchor_Advice_1</key>
+<string>You can halt your ship at any time or cancel its current orders by clicking the highlighted anchor button. Try clicking it now.</string>
+<game_area>Naval Battle</game_area>
+</battle_script_strings>
+<battle_script_strings>
+<key>CreativeAssembly.Naval_Basic_Controls.Board_Order</key>
+<string>Well done. Your ship will now automatically move into position and begin boarding the enemy.</string>
+<game_area>Naval Battle</game_area>
+</battle_script_strings>
+<battle_script_strings>
+<key>CreativeAssembly.Naval_Basic_Controls.Boarding_1</key>
+<string>Now is an excellent time to board the enemy.</string>
+<game_area>Naval Battle</game_area>
+</battle_script_strings>
+<battle_script_strings>
+<key>CreativeAssembly.Naval_Basic_Controls.Boarding_2</key>
+<string>You can give your ship an order to board the enemy Sloop by clicking on the highlighted Board Button, and then right clicking on the enemy Sloop. Do this now.</string>
+<game_area>Naval Battle</game_area>
+</battle_script_strings>
+<battle_script_strings>
+<key>CreativeAssembly.Naval_Basic_Controls.Boarding_3</key>
+<string>Boarding is a useful way of trying to capture enemy ships by making them surrender. This then adds that ship to your faction once the battle is over.</string>
+<game_area>Naval Battle</game_area>
+</battle_script_strings>
+<battle_script_strings>
+<key>CreativeAssembly.Naval_Basic_Controls.Broadside_Clicked</key>
+<string>Notice the orange ring running round the outside of the broadside buttons. This represents the number of guns on that side that are loaded and ready to fire. Hover your mouse over the Broadside Button to see exactly how many cannons are ready. This ring will build up as more cannons reload.</string>
+<game_area>Naval Battle</game_area>
+</battle_script_strings>
+<battle_script_strings>
+<key>CreativeAssembly.Naval_Basic_Controls.Broadsides_1</key>
+<string>You can also control how your ship fires by use of the Broadside Buttons highlighted now. These buttons control the main battery of guns on the left and right side of the ship. They can be used to deliver a devastating punch to the enemy.</string>
+<game_area>Naval Battle</game_area>
+</battle_script_strings>
+<battle_script_strings>
+<key>CreativeAssembly.Naval_Basic_Controls.Broadsides_2</key>
+<string>Try clicking either of the Broadside Buttons now.</string>
+<game_area>Naval Battle</game_area>
+</battle_script_strings>
+<battle_script_strings>
+<key>CreativeAssembly.Naval_Basic_Controls.Broadsides_3</key>
+<string>You can click on the Broadside Button again to fire off all the ready guns on that side. This allows you more control over how your ship fires, and allows you to deal more damage to the enemy.</string>
+<game_area>Naval Battle</game_area>
+</battle_script_strings>
+<battle_script_strings>
+<key>CreativeAssembly.Naval_Basic_Controls.Camera_1</key>
+<string>Now you must learn how to control the camera.</string>
+<game_area>Naval Battle</game_area>
+</battle_script_strings>
+<battle_script_strings>
+<key>CreativeAssembly.Naval_Basic_Controls.Camera_2</key>
+<string>First try moving the camera forward and back by using the W key to move forward, and the S key to move back.</string>
+<game_area>Naval Battle</game_area>
+</battle_script_strings>
+<battle_script_strings>
+<key>CreativeAssembly.Naval_Basic_Controls.Camera_3</key>
+<string>Now try moving the camera left and right by using the A key to move left and the D key to move right.</string>
+<game_area>Naval Battle</game_area>
+</battle_script_strings>
+<battle_script_strings>
+<key>CreativeAssembly.Naval_Basic_Controls.Camera_4</key>
+<string>Try rotating the camera left and right by using the Q key to rotate the camera left, and the E key to rotate it right.</string>
+<game_area>Naval Battle</game_area>
+</battle_script_strings>
+<battle_script_strings>
+<key>CreativeAssembly.Naval_Basic_Controls.Camera_5</key>
+<string>You can use the V key to pan the camera up, and the C key  to pan the camera down.</string>
+<game_area>Naval Battle</game_area>
+</battle_script_strings>
+<battle_script_strings>
+<key>CreativeAssembly.Naval_Basic_Controls.Camera_6</key>
+<string>Finally try moving the camera up and down by using the X key to move it up, and the Z key to move it down.</string>
+<game_area>Naval Battle</game_area>
+</battle_script_strings>
+<battle_script_strings>
+<key>CreativeAssembly.Naval_Basic_Controls.Camera_7</key>
+<string>Well done. You can also use the mouse to move the camera around by either moving it to the edges of the screen, or by holding down the middle mouse button whilst moving the mouse to drag the camera around.</string>
+<game_area>Naval Battle</game_area>
+</battle_script_strings>
+<battle_script_strings>
+<key>CreativeAssembly.Naval_Basic_Controls.Combat_1</key>
+<string>As the enemy approaches you will learn how to give an attack order to your ship.</string>
+<game_area>Naval Battle</game_area>
+</battle_script_strings>
+<battle_script_strings>
+<key>CreativeAssembly.Naval_Basic_Controls.Combat_2</key>
+<string>With your ship selected, right click on the enemy ship to give your ship an attack order.</string>
+<game_area>Naval Battle</game_area>
+</battle_script_strings>
+<battle_script_strings>
+<key>CreativeAssembly.Naval_Basic_Controls.Double_Click</key>
+<string>You can double click on the ship card to centre the camera on that ship. Try this now.</string>
+<game_area>Naval Battle</game_area>
+</battle_script_strings>
+<battle_script_strings>
+<key>CreativeAssembly.Naval_Basic_Controls.Fire_At_Will_1</key>
+<string>The highlighted button is the Fire at Will button, with Fire at Will turned on your ship will automatically fire on any enemy ships within range without needing an attack order.</string>
+<game_area>Naval Battle</game_area>
+</battle_script_strings>
+<battle_script_strings>
+<key>CreativeAssembly.Naval_Basic_Controls.Fire_At_Will_2</key>
+<string>Turn it on now and your ship will fire on the enemy if they are within range and within your ships firing arc. Firing arcs are the faint triangles that project out of the sides of your ship.</string>
+<game_area>Naval Battle</game_area>
+</battle_script_strings>
+<battle_script_strings>
+<key>CreativeAssembly.Naval_Basic_Controls.Fire_At_Will_3</key>
+<string>Your ship will now automatically fire on the enemy once they are within range.</string>
+<game_area>Naval Battle</game_area>
+</battle_script_strings>
+<battle_script_strings>
+<key>CreativeAssembly.Naval_Basic_Controls.First_Combat</key>
+<string>Your ship will now sail into range and open fire of the enemy. Your experienced crew will soon make short work of them.</string>
+<game_area>Naval Battle</game_area>
+</battle_script_strings>
+<battle_script_strings>
+<key>CreativeAssembly.Naval_Basic_Controls.First_Enemy_Approaching</key>
+<string>Look sir, one of the enemy sloops is approaching us.</string>
+<game_area>Naval Battle</game_area>
+</battle_script_strings>
+<battle_script_strings>
+<key>CreativeAssembly.Naval_Basic_Controls.First_Enemy_Sunk</key>
+<string>Well done sir, this enemy Sloop has been sunk.</string>
+<game_area>Naval Battle</game_area>
+</battle_script_strings>
+<battle_script_strings>
+<key>CreativeAssembly.Naval_Basic_Controls.Health_Bars_1</key>
+<string>The circular flag above your ship is its icon. The green bars at the bottom represent the strength of the hull on each side of your ship, and the white bar at the top represents the amount of damage your sails and masts have taken.</string>
+<game_area>Naval Battle</game_area>
+</battle_script_strings>
+<battle_script_strings>
+<key>CreativeAssembly.Naval_Basic_Controls.Health_Bars_2</key>
+<string>As your ship takes hits throughout a battle these bars will go down and change colour to represent the fact your ship is taking damage.</string>
+<game_area>Naval Battle</game_area>
+</battle_script_strings>
+<battle_script_strings>
+<key>CreativeAssembly.Naval_Basic_Controls.HUD_1</key>
+<string>The HUD, or heads up display, has now been revealed. You will be taught about the HUD and buttons over the course of this tutorial.</string>
+<game_area>Naval Battle</game_area>
+</battle_script_strings>
+<battle_script_strings>
+<key>CreativeAssembly.Naval_Basic_Controls.Movement_1</key>
+<string>Now you will learn how to move your ship.</string>
+<game_area>Naval Battle</game_area>
+</battle_script_strings>
+<battle_script_strings>
+<key>CreativeAssembly.Naval_Basic_Controls.Movement_1_Info</key>
+<string>With your ship selected, right click at the base of the marker shown to have your ship move there.</string>
+<game_area>Naval Battle</game_area>
+</battle_script_strings>
+<battle_script_strings>
+<key>CreativeAssembly.Naval_Basic_Controls.Movement_1_Move</key>
+<string>Your ship will now move to the first marker.</string>
+<game_area>Naval Battle</game_area>
+</battle_script_strings>
+<battle_script_strings>
+<key>CreativeAssembly.Naval_Basic_Controls.Movement_1_Resume</key>
+<string>Now have your ship resume its movement to the first marker.</string>
+<game_area>Naval Battle</game_area>
+</battle_script_strings>
+<battle_script_strings>
+<key>CreativeAssembly.Naval_Basic_Controls.Movement_2_Info</key>
+<string>Now try double clicking at the base of the next marker to have your ship move there at its fastest speed.</string>
+<game_area>Naval Battle</game_area>
+</battle_script_strings>
+<battle_script_strings>
+<key>CreativeAssembly.Naval_Basic_Controls.Movement_2_Move</key>
+<string>Double clicking to have your ship move will always make it move at its fastest speed.</string>
+<game_area>Naval Battle</game_area>
+</battle_script_strings>
+<battle_script_strings>
+<key>CreativeAssembly.Naval_Basic_Controls.Player_Ship</key>
+<string>Your ship is nearby, and ready for you to learn how to control it.</string>
+<game_area>Naval Battle</game_area>
+</battle_script_strings>
+<battle_script_strings>
+<key>CreativeAssembly.Naval_Basic_Controls.Player_Ship_Card</key>
+<string>The new flashing icon is the ship card for your ship. Left click the ship card now to select it.</string>
+<game_area>Naval Battle</game_area>
+</battle_script_strings>
+<battle_script_strings>
+<key>CreativeAssembly.Naval_Basic_Controls.Review_Panel</key>
+<string>The flashing part of the HUD is the review panel. This is where the ship cards for the ships in your navy will be displayed.</string>
+<game_area>Naval Battle</game_area>
+</battle_script_strings>
+<battle_script_strings>
+<key>CreativeAssembly.Naval_Basic_Controls.Rotate</key>
+<string>You can use the highlighted buttons to rotate your ship and help keep the enemy within your broadsides when moving your ship around manually.</string>
+<game_area>Naval Battle</game_area>
+</battle_script_strings>
+<battle_script_strings>
+<key>CreativeAssembly.Naval_Basic_Controls.Second_Enemy_Approaching</key>
+<string>The second enemy sloop is now approaching us, and you must be ready to receive it.</string>
+<game_area>Naval Battle</game_area>
+</battle_script_strings>
+<battle_script_strings>
+<key>CreativeAssembly.Naval_Basic_Controls.Second_Enemy_Combat</key>
+<string>Use all the ways to control your ship in combat to fight the last enemy ship. Remember, you can give your ship an attack order and control how its broadsides fire at the same time if you want to.</string>
+<game_area>Naval Battle</game_area>
+</battle_script_strings>
+<battle_script_strings>
+<key>CreativeAssembly.Naval_Basic_Controls.Second_Enemy_Demasted</key>
+<string>A lucky shot has demasted the enemy Sloop, and its crew are bringing it to a halt.</string>
+<game_area>Naval Battle</game_area>
+</battle_script_strings>
+<battle_script_strings>
+<key>CreativeAssembly.Naval_Basic_Controls.Shot_Types_1</key>
+<string>Now whilst your ship moves into range and engages the enemy you will learn about the different shot types your ship can use.</string>
+<game_area>Naval Battle</game_area>
+</battle_script_strings>
+<battle_script_strings>
+<key>CreativeAssembly.Naval_Basic_Controls.Shot_Types_2</key>
+<string>The currently selected shot type for your ship and the default is Round Shot. This shot type is effective against the enemy’s hull and taking out their guns.</string>
+<game_area>Naval Battle</game_area>
+</battle_script_strings>
+<battle_script_strings>
+<key>CreativeAssembly.Naval_Basic_Controls.Shot_Types_3</key>
+<string>The highlighted type is Chain Shot. This shot type will hit the enemy’s masts and can be used to cripple an enemy’s movement.</string>
+<game_area>Naval Battle</game_area>
+</battle_script_strings>
+<battle_script_strings>
+<key>CreativeAssembly.Naval_Basic_Controls.Shot_Types_4</key>
+<string>The final shot type now highlighted is Grape Shot. This is a close range shot type that is devastating against the enemy’s crew.</string>
+<game_area>Naval Battle</game_area>
+</battle_script_strings>
+<battle_script_strings>
+<key>CreativeAssembly.Naval_Basic_Controls.Shot_Types_5</key>
+<string>You have now learnt about the various shot types, experiment with them now if you want but your aim is to sink this enemy ship.</string>
+<game_area>Naval Battle</game_area>
+</battle_script_strings>
+<battle_script_strings>
+<key>CreativeAssembly.Naval_Basic_Controls.Tutorial_Complete_1</key>
+<string>The enemy sloop has surrendered, well done sir!</string>
+<game_area>Naval Battle</game_area>
+</battle_script_strings>
+<battle_script_strings>
+<key>CreativeAssembly.Naval_Basic_Controls.Tutorial_Complete_2</key>
+<string>This brings the Naval tutorial to an end.</string>
+<game_area>Naval Battle</game_area>
+</battle_script_strings>
+<battle_script_strings>
+<key>CreativeAssembly.Naval_Basic_Controls.Tutorial_Complete_3</key>
+<string>In this tutorial you learnt how to control the camera, how to move your ship, how to attack, how to board and how to control your ship in combat. You also learned the basics of the HUD.</string>
+<game_area>Naval Battle</game_area>
+</battle_script_strings>
+<battle_script_strings>
+<key>CreativeAssembly.Naval_Basic_Controls.Welcome_1</key>
+<string>Welcome to the Naval Battle Basic Controls tutorial. My name is Admiral Green, and I am your naval battle advisor.</string>
+<game_area>Naval Battle</game_area>
+</battle_script_strings>
+<battle_script_strings>
+<key>CreativeAssembly.Naval_Basic_Controls.Welcome_2</key>
+<string>We have had reports of French ships raiding in the Caribbean and your ship has been dispatched to deal with them.</string>
+<game_area>Naval Battle</game_area>
+</battle_script_strings>
+<battle_script_strings>
+<key>CreativeAssembly.Naval_Basic_Controls.Welcome_3</key>
+<string>In this tutorial you will learn about the HUD, camera controls, ship movement and combat.</string>
+<game_area>Naval Battle</game_area>
+</battle_script_strings>
+<battle_script_strings>
+<key>CreativeAssembly.Naval_Basic_Controls.Welcome_4</key>
+<string>For now please click the End Deployment button to begin the tutorial.</string>
+<game_area>Naval Battle</game_area>
+</battle_script_strings>
+<battle_script_strings>
+<key>CreativeAssembly.Naval_General_Tutorial_Messages.Good</key>
+<string>Good.</string>
+<game_area>Naval Battle</game_area>
+</battle_script_strings>
+</dataroot>

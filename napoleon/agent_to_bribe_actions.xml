@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="agent_to_bribe_actions.xsd" generated="2010-03-11T10:27:03">
+<agent_to_bribe_actions>
+<agent>admiral</agent>
+<bribe_action>no_orders</bribe_action>
+<s_ColLineage>kNOq8QEAAACQ06rxAQAAAA==
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{E9B5001C-7A2D-4FD6-8F95-E516FB401B2D}</s_GUID>
+<s_Lineage>kNOq8QIAAAAAAAAAAAAAAA==
+</s_Lineage>
+</agent_to_bribe_actions>
+<agent_to_bribe_actions>
+<agent>captain</agent>
+<bribe_action>no_orders</bribe_action>
+<s_ColLineage>kNOq8QMAAACQ06rxAQAAAA==
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{4E4A9EE6-7E06-42B9-8F40-D6F4C625F3E3}</s_GUID>
+<s_Lineage>kNOq8QQAAAAAAAAAAAAAAA==
+</s_Lineage>
+</agent_to_bribe_actions>
+<agent_to_bribe_actions>
+<agent>colonel</agent>
+<bribe_action>no_orders</bribe_action>
+<s_ColLineage>kNOq8QMAAACQ06rxAQAAAA==
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{46E7E577-5E57-4FB3-9799-9610828D8D90}</s_GUID>
+<s_Lineage>kNOq8QQAAAAAAAAAAAAAAA==
+</s_Lineage>
+</agent_to_bribe_actions>
+</dataroot>

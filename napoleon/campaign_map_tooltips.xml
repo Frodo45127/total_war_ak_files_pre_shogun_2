@@ -1,0 +1,3416 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="campaign_map_tooltips.xsd" generated="2010-04-14T15:40:45">
+<campaign_map_tooltips>
+<select_context>army</select_context>
+<over_context>land_can_disembark</over_context>
+<tooltip_line>Right click to move</tooltip_line>
+<Gen_TempField_x002A_0>0</Gen_TempField_x002A_0>
+<Gen_TempField_x002A_1>0</Gen_TempField_x002A_1>
+<s_ColLineage>kNOq8QIAAACQ06rxAgAAAJDTqvEEAAAAkNOq8QEAAACQ06rxAgAAAJDTqvEBAAAA
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{18AA7942-923B-4E2D-AF3B-3C79CA88B46C}</s_GUID>
+<s_Lineage>kNOq8QQAAAAAAAAAAAAAAA==
+</s_Lineage>
+</campaign_map_tooltips>
+<campaign_map_tooltips>
+<select_context>army</select_context>
+<over_context>land_can_disembark_can_ambush</over_context>
+<tooltip_line>Right click to move</tooltip_line>
+<advice_line>Your army can lay an ambush here.</advice_line>
+<Gen_TempField_x002A_0>0</Gen_TempField_x002A_0>
+<Gen_TempField_x002A_1>0</Gen_TempField_x002A_1>
+<s_ColLineage>W4e7tQIAAABbh7u1AgAAAFuHu7UDAAAAW4e7tQEAAABbh7u1AgAAAFuHu7UBAAAA
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{8FA016E6-D90E-4A95-BD40-EFE236411D05}</s_GUID>
+<s_Lineage>W4e7tQMAAAAAAAAAAAAAAA==
+</s_Lineage>
+</campaign_map_tooltips>
+<campaign_map_tooltips>
+<select_context>army</select_context>
+<over_context>land_cannot_disembark</over_context>
+<tooltip_line>Right click to move</tooltip_line>
+<Gen_TempField_x002A_0>0</Gen_TempField_x002A_0>
+<Gen_TempField_x002A_1>0</Gen_TempField_x002A_1>
+<s_ColLineage>kNOq8QIAAACQ06rxAgAAAJDTqvEEAAAAkNOq8QEAAACQ06rxAgAAAJDTqvEBAAAA
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{7031292F-248E-445D-8FCD-1BBAEA2F3AB5}</s_GUID>
+<s_Lineage>kNOq8QQAAAAAAAAAAAAAAA==
+</s_Lineage>
+</campaign_map_tooltips>
+<campaign_map_tooltips>
+<select_context>army</select_context>
+<over_context>land_cannot_disembark_can_ambush</over_context>
+<tooltip_line>Right click to move</tooltip_line>
+<advice_line>Your army can lay an ambush here.</advice_line>
+<Gen_TempField_x002A_0>0</Gen_TempField_x002A_0>
+<Gen_TempField_x002A_1>0</Gen_TempField_x002A_1>
+<s_ColLineage>W4e7tQIAAABbh7u1AgAAAFuHu7UDAAAAW4e7tQEAAABbh7u1AgAAAFuHu7UBAAAA
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{254B4DB3-869A-4C29-9992-D187F2F70618}</s_GUID>
+<s_Lineage>W4e7tQMAAAAAAAAAAAAAAA==
+</s_Lineage>
+</campaign_map_tooltips>
+<campaign_map_tooltips>
+<select_context>army</select_context>
+<over_context>non_player_army</over_context>
+<tooltip_line>Right click to attack target</tooltip_line>
+<advice_line>The size of this army is displayed as pips on the side of their national flag.</advice_line>
+<Gen_TempField_x002A_0>0</Gen_TempField_x002A_0>
+<Gen_TempField_x002A_1>0</Gen_TempField_x002A_1>
+<s_ColLineage>kNOq8QIAAACQ06rxAgAAAJDTqvEPAAAAkNOq8QEAAACQ06rxAgAAAJDTqvEBAAAA
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{24A55E47-EA5B-4302-BDB3-2CE143DEC188}</s_GUID>
+<s_Lineage>kNOq8Q8AAAAAAAAAAAAAAA==
+</s_Lineage>
+</campaign_map_tooltips>
+<campaign_map_tooltips>
+<select_context>army</select_context>
+<over_context>non_player_fort</over_context>
+<tooltip_line>Right click to take fort</tooltip_line>
+<advice_line>Forts allow armies to remain protected while outside of their cities. If the fort is already occupied you will be in for a battle.</advice_line>
+<Gen_TempField_x002A_0>0</Gen_TempField_x002A_0>
+<Gen_TempField_x002A_1>0</Gen_TempField_x002A_1>
+<s_ColLineage>kNOq8QIAAACQ06rxAgAAAJDTqvEHAAAAkNOq8QEAAACQ06rxAwAAAJDTqvEBAAAA
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{C448F5B6-D623-48BF-B3BC-C0BE444942F2}</s_GUID>
+<s_Lineage>kNOq8QcAAAAAAAAAAAAAAA==
+</s_Lineage>
+</campaign_map_tooltips>
+<campaign_map_tooltips>
+<select_context>army</select_context>
+<over_context>non_player_land_trade_route</over_context>
+<tooltip_line>Right click to raid trade route</tooltip_line>
+<advice_line>Raiding trade routes to steal money from other nations. Your army must stay on the trade route for one turn to carry out the raid.</advice_line>
+<Gen_TempField_x002A_0>0</Gen_TempField_x002A_0>
+<Gen_TempField_x002A_1>0</Gen_TempField_x002A_1>
+<s_ColLineage>kNOq8QIAAACQ06rxAgAAAJDTqvEKAAAAkNOq8QEAAACQ06rxAgAAAJDTqvEBAAAA
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{B519F7D9-9BE5-419A-909D-B380243D57D4}</s_GUID>
+<s_Lineage>kNOq8QoAAAAAAAAAAAAAAA==
+</s_Lineage>
+</campaign_map_tooltips>
+<campaign_map_tooltips>
+<select_context>army</select_context>
+<over_context>non_player_navy_at_sea</over_context>
+<tooltip_line>Your army cannot attack a navy</tooltip_line>
+<Gen_TempField_x002A_0>0</Gen_TempField_x002A_0>
+<Gen_TempField_x002A_1>0</Gen_TempField_x002A_1>
+<s_ColLineage>kNOq8QIAAACQ06rxAgAAAJDTqvEEAAAAkNOq8QEAAACQ06rxAgAAAJDTqvEBAAAA
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{F0DF64CD-A6C2-423A-BB7E-52864CB5A481}</s_GUID>
+<s_Lineage>kNOq8QQAAAAAAAAAAAAAAA==
+</s_Lineage>
+</campaign_map_tooltips>
+<campaign_map_tooltips>
+<select_context>army</select_context>
+<over_context>non_player_navy_in_port</over_context>
+<tooltip_line>Right click to occupy port</tooltip_line>
+<advice_line>Move your army into this port to deprive the owning nation of its use and leave it in a mess when you leave, forcing them to spend time and money repairing it.</advice_line>
+<Gen_TempField_x002A_0>0</Gen_TempField_x002A_0>
+<Gen_TempField_x002A_1>0</Gen_TempField_x002A_1>
+<s_ColLineage>kNOq8QIAAACQ06rxAgAAAJDTqvEGAAAAkNOq8QEAAACQ06rxAgAAAJDTqvEBAAAA
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{AD4E896E-4755-46B8-831C-FC4B966A43DD}</s_GUID>
+<s_Lineage>kNOq8QYAAAAAAAAAAAAAAA==
+</s_Lineage>
+</campaign_map_tooltips>
+<campaign_map_tooltips>
+<select_context>army</select_context>
+<over_context>non_player_port_occupied</over_context>
+<tooltip_line>Right click to attack port</tooltip_line>
+<advice_line>Move your army into this port to deprive the owning nation of its use and leave it in a mess when you leave, forcing them to spend time and money repairing it.</advice_line>
+<Gen_TempField_x002A_0>0</Gen_TempField_x002A_0>
+<Gen_TempField_x002A_1>0</Gen_TempField_x002A_1>
+<s_ColLineage>kNOq8QIAAACQ06rxAgAAAJDTqvEHAAAAkNOq8QEAAACQ06rxAgAAAJDTqvEBAAAA
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{04C73A0B-3F28-4ECA-B0F5-B1497635920B}</s_GUID>
+<s_Lineage>kNOq8QcAAAAAAAAAAAAAAA==
+</s_Lineage>
+</campaign_map_tooltips>
+<campaign_map_tooltips>
+<select_context>army</select_context>
+<over_context>non_player_port_unoccupied</over_context>
+<tooltip_line>Right click to occupy port</tooltip_line>
+<advice_line>Move your army into this port to deprive the owning nation of its use and leave it in a mess when you leave, forcing them to spend time and money repairing it.</advice_line>
+<Gen_TempField_x002A_0>0</Gen_TempField_x002A_0>
+<Gen_TempField_x002A_1>0</Gen_TempField_x002A_1>
+<s_ColLineage>kNOq8QIAAACQ06rxAgAAAJDTqvEGAAAAkNOq8QEAAACQ06rxAgAAAJDTqvEBAAAA
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{CC94D6F2-9875-41E8-994C-1DA89C4A5072}</s_GUID>
+<s_Lineage>kNOq8QYAAAAAAAAAAAAAAA==
+</s_Lineage>
+</campaign_map_tooltips>
+<campaign_map_tooltips>
+<select_context>army</select_context>
+<over_context>non_player_region_capital</over_context>
+<tooltip_line>Right click to besiege city</tooltip_line>
+<advice_line>Besiege a city to claim it as your own. Then either develop it as part of your empire, or destroy its buildings, leaving it useless to any  other nation.</advice_line>
+<Gen_TempField_x002A_0>0</Gen_TempField_x002A_0>
+<Gen_TempField_x002A_1>0</Gen_TempField_x002A_1>
+<s_ColLineage>kNOq8QIAAACQ06rxAgAAADQJx44IAAAAkNOq8QEAAACQ06rxAgAAAJDTqvEBAAAA
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{1F21F7F7-2962-4453-AB8E-4800084474C9}</s_GUID>
+<s_Lineage>NAnHjggAAACQ06rxBwAAAAAAAAAAAAAA
+</s_Lineage>
+</campaign_map_tooltips>
+<campaign_map_tooltips>
+<select_context>army</select_context>
+<over_context>non_player_resource</over_context>
+<tooltip_line>Right click to attack</tooltip_line>
+<advice_line>Attacking this resource will prevent the owning nation from being able to use it.</advice_line>
+<Gen_TempField_x002A_0>0</Gen_TempField_x002A_0>
+<Gen_TempField_x002A_1>0</Gen_TempField_x002A_1>
+<s_ColLineage>kNOq8QIAAACQ06rxAgAAAJDTqvEFAAAAkNOq8QEAAACQ06rxAgAAAJDTqvEBAAAA
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{8AC8F401-5077-4C3A-BD18-6BCA4B6D12A5}</s_GUID>
+<s_Lineage>kNOq8QUAAAAAAAAAAAAAAA==
+</s_Lineage>
+</campaign_map_tooltips>
+<campaign_map_tooltips>
+<select_context>army</select_context>
+<over_context>non_player_town</over_context>
+<tooltip_line>Right click to attack</tooltip_line>
+<advice_line>Attacking this town will prevent the owning nation from being able to use it.</advice_line>
+<Gen_TempField_x002A_0>0</Gen_TempField_x002A_0>
+<Gen_TempField_x002A_1>0</Gen_TempField_x002A_1>
+<s_ColLineage>kNOq8QIAAACQ06rxAgAAAJDTqvEGAAAAkNOq8QEAAACQ06rxAgAAAJDTqvEBAAAA
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{FD7D6464-6611-44D8-BC78-F73FF9C0A885}</s_GUID>
+<s_Lineage>kNOq8QYAAAAAAAAAAAAAAA==
+</s_Lineage>
+</campaign_map_tooltips>
+<campaign_map_tooltips>
+<select_context>army</select_context>
+<over_context>non_player_university</over_context>
+<tooltip_line>Right click to attack</tooltip_line>
+<advice_line>Attack this university to stop any technology research being carried out inside it.</advice_line>
+<Gen_TempField_x002A_0>0</Gen_TempField_x002A_0>
+<Gen_TempField_x002A_1>0</Gen_TempField_x002A_1>
+<s_ColLineage>kNOq8QIAAACQ06rxAgAAAJDTqvEGAAAAkNOq8QEAAACQ06rxAgAAAJDTqvEBAAAA
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{9A2F6287-1B84-459D-B69F-2FF467095E7C}</s_GUID>
+<s_Lineage>kNOq8QYAAAAAAAAAAAAAAA==
+</s_Lineage>
+</campaign_map_tooltips>
+<campaign_map_tooltips>
+<select_context>army</select_context>
+<over_context>player_army</over_context>
+<tooltip_line>Right click to merge armies</tooltip_line>
+<advice_line>Merge armies to create a larger army or add experienced troops to an army otherwise wet behind the ears.</advice_line>
+<Gen_TempField_x002A_0>0</Gen_TempField_x002A_0>
+<Gen_TempField_x002A_1>0</Gen_TempField_x002A_1>
+<s_ColLineage>kNOq8QIAAACQ06rxAgAAAJDTqvEHAAAAkNOq8QEAAACQ06rxAgAAAJDTqvEBAAAA
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{080BEA74-A8C6-4C4F-A634-5E87056850A6}</s_GUID>
+<s_Lineage>kNOq8QcAAAAAAAAAAAAAAA==
+</s_Lineage>
+</campaign_map_tooltips>
+<campaign_map_tooltips>
+<select_context>army</select_context>
+<over_context>player_army_can_ambush</over_context>
+<tooltip_line>Right click to merge armies</tooltip_line>
+<advice_line>Merge armies to create a larger army or add experienced troops to an army otherwise wet behind the ears.</advice_line>
+<Gen_TempField_x002A_0>0</Gen_TempField_x002A_0>
+<Gen_TempField_x002A_1>0</Gen_TempField_x002A_1>
+<s_ColLineage>W4e7tQIAAABbh7u1AgAAAFuHu7UCAAAAW4e7tQEAAABbh7u1AgAAAFuHu7UBAAAA
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{272DF56C-9DF2-4B97-91E3-AA26E37DCC9B}</s_GUID>
+<s_Lineage>W4e7tQIAAAAAAAAAAAAAAA==
+</s_Lineage>
+</campaign_map_tooltips>
+<campaign_map_tooltips>
+<select_context>army</select_context>
+<over_context>player_fort</over_context>
+<tooltip_line>Right click to enter fort</tooltip_line>
+<advice_line>Forts allow armies to remain protected while outside of their cities and can be placed strategically to provide defence for your regions.</advice_line>
+<Gen_TempField_x002A_0>0</Gen_TempField_x002A_0>
+<Gen_TempField_x002A_1>0</Gen_TempField_x002A_1>
+<s_ColLineage>kNOq8QIAAACQ06rxAgAAAJDTqvEGAAAAkNOq8QEAAACQ06rxAgAAAJDTqvEBAAAA
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{AC7FBA7F-E3FA-4199-BC82-4673BC9531D7}</s_GUID>
+<s_Lineage>kNOq8QYAAAAAAAAAAAAAAA==
+</s_Lineage>
+</campaign_map_tooltips>
+<campaign_map_tooltips>
+<select_context>army</select_context>
+<over_context>player_navy</over_context>
+<tooltip_line>Right click to embark</tooltip_line>
+<advice_line>Not only can ships carry your armies across the sea, but they are also quicker than walking. Send them across the coast close to your destination for a short cut.</advice_line>
+<Gen_TempField_x002A_0>0</Gen_TempField_x002A_0>
+<Gen_TempField_x002A_1>0</Gen_TempField_x002A_1>
+<s_ColLineage>kNOq8QIAAACQ06rxAgAAAJDTqvEKAAAAkNOq8QEAAACQ06rxAgAAAJDTqvEBAAAA
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{F79C4385-D1D1-40F9-8365-33248A2BD53D}</s_GUID>
+<s_Lineage>kNOq8QoAAAAAAAAAAAAAAA==
+</s_Lineage>
+</campaign_map_tooltips>
+<campaign_map_tooltips>
+<select_context>army</select_context>
+<over_context>player_port</over_context>
+<tooltip_line>Right click to enter port</tooltip_line>
+<advice_line>Not only can ships carry your armies across the sea, but they are also quicker than walking. Send them across the coast close to your destination for a short cut.</advice_line>
+<Gen_TempField_x002A_0>0</Gen_TempField_x002A_0>
+<Gen_TempField_x002A_1>0</Gen_TempField_x002A_1>
+<s_ColLineage>kNOq8QIAAACQ06rxAgAAAJDTqvEFAAAAkNOq8QEAAACQ06rxAgAAAJDTqvEBAAAA
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{9BE3BC6D-6A6A-4E1E-81E1-E933D39782CF}</s_GUID>
+<s_Lineage>kNOq8QUAAAAAAAAAAAAAAA==
+</s_Lineage>
+</campaign_map_tooltips>
+<campaign_map_tooltips>
+<select_context>army</select_context>
+<over_context>player_region_capital</over_context>
+<tooltip_line>Right click to garrison</tooltip_line>
+<advice_line>Move your army here if it looks vulnerable to attack, or public order is becoming unstable.</advice_line>
+<Gen_TempField_x002A_0>0</Gen_TempField_x002A_0>
+<Gen_TempField_x002A_1>0</Gen_TempField_x002A_1>
+<s_ColLineage>kNOq8QIAAACQ06rxAgAAAJDTqvEFAAAAkNOq8QEAAACQ06rxAgAAAJDTqvEBAAAA
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{AA4013D6-26DA-4F4A-B2B1-9A448B980D59}</s_GUID>
+<s_Lineage>kNOq8QUAAAAAAAAAAAAAAA==
+</s_Lineage>
+</campaign_map_tooltips>
+<campaign_map_tooltips>
+<select_context>army</select_context>
+<over_context>player_resource</over_context>
+<tooltip_line>Right click to enter</tooltip_line>
+<Gen_TempField_x002A_0>0</Gen_TempField_x002A_0>
+<Gen_TempField_x002A_1>0</Gen_TempField_x002A_1>
+<s_ColLineage>kNOq8QIAAACQ06rxAgAAAJDTqvEEAAAAkNOq8QEAAACQ06rxAgAAAJDTqvEBAAAA
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{9CC1F01A-76E6-4D36-94E8-7ACD8CBE2348}</s_GUID>
+<s_Lineage>kNOq8QQAAAAAAAAAAAAAAA==
+</s_Lineage>
+</campaign_map_tooltips>
+<campaign_map_tooltips>
+<select_context>army</select_context>
+<over_context>player_town</over_context>
+<tooltip_line>Right click to enter town</tooltip_line>
+<Gen_TempField_x002A_0>0</Gen_TempField_x002A_0>
+<Gen_TempField_x002A_1>0</Gen_TempField_x002A_1>
+<s_ColLineage>kNOq8QIAAACQ06rxAgAAAJDTqvEEAAAAkNOq8QEAAACQ06rxAgAAAJDTqvEBAAAA
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{9884C47F-9F20-4A0F-AF27-A8AC536697AA}</s_GUID>
+<s_Lineage>kNOq8QQAAAAAAAAAAAAAAA==
+</s_Lineage>
+</campaign_map_tooltips>
+<campaign_map_tooltips>
+<select_context>army</select_context>
+<over_context>player_university</over_context>
+<tooltip_line>Right click to enter town</tooltip_line>
+<Gen_TempField_x002A_0>0</Gen_TempField_x002A_0>
+<Gen_TempField_x002A_1>0</Gen_TempField_x002A_1>
+<s_ColLineage>kNOq8QIAAACQ06rxAgAAAJDTqvEEAAAAkNOq8QEAAACQ06rxAgAAAJDTqvEBAAAA
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{31C9DC9E-CC86-4BD7-9D7E-A2543A06661C}</s_GUID>
+<s_Lineage>kNOq8QQAAAAAAAAAAAAAAA==
+</s_Lineage>
+</campaign_map_tooltips>
+<campaign_map_tooltips>
+<select_context>army_can_ambush</select_context>
+<over_context>land_can_disembark</over_context>
+<tooltip_line>Right click to move</tooltip_line>
+<advice_line>Your army can lay an ambush here.</advice_line>
+<Gen_TempField_x002A_0>0</Gen_TempField_x002A_0>
+<Gen_TempField_x002A_1>0</Gen_TempField_x002A_1>
+<s_ColLineage>W4e7tQIAAABbh7u1AgAAAFuHu7UDAAAAW4e7tQEAAABbh7u1AgAAAFuHu7UBAAAA
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{A614C0B5-2711-4F14-8215-9FB7F4F8A92D}</s_GUID>
+<s_Lineage>W4e7tQMAAAAAAAAAAAAAAA==
+</s_Lineage>
+</campaign_map_tooltips>
+<campaign_map_tooltips>
+<select_context>army_can_ambush</select_context>
+<over_context>land_can_disembark_can_ambush</over_context>
+<tooltip_line>Right click to move</tooltip_line>
+<advice_line>Your army can lay an ambush here.</advice_line>
+<Gen_TempField_x002A_0>0</Gen_TempField_x002A_0>
+<Gen_TempField_x002A_1>0</Gen_TempField_x002A_1>
+<s_ColLineage>W4e7tQIAAABbh7u1AgAAAFuHu7UDAAAAW4e7tQEAAABbh7u1AgAAAFuHu7UBAAAA
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{A541E98F-D51B-49EC-9707-4FF8A6F6D366}</s_GUID>
+<s_Lineage>W4e7tQMAAAAAAAAAAAAAAA==
+</s_Lineage>
+</campaign_map_tooltips>
+<campaign_map_tooltips>
+<select_context>army_can_ambush</select_context>
+<over_context>land_cannot_disembark</over_context>
+<tooltip_line>Right click to move</tooltip_line>
+<advice_line>Your army can lay an ambush here.</advice_line>
+<Gen_TempField_x002A_0>0</Gen_TempField_x002A_0>
+<Gen_TempField_x002A_1>0</Gen_TempField_x002A_1>
+<s_ColLineage>W4e7tQIAAABbh7u1AgAAAFuHu7UDAAAAW4e7tQEAAABbh7u1AgAAAFuHu7UBAAAA
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{7DB29B3F-B593-4891-8BF5-7E921D9F16CB}</s_GUID>
+<s_Lineage>W4e7tQMAAAAAAAAAAAAAAA==
+</s_Lineage>
+</campaign_map_tooltips>
+<campaign_map_tooltips>
+<select_context>army_can_ambush</select_context>
+<over_context>land_cannot_disembark_can_ambush</over_context>
+<tooltip_line>Right click to move</tooltip_line>
+<advice_line>Your army can lay an ambush here.</advice_line>
+<Gen_TempField_x002A_0>0</Gen_TempField_x002A_0>
+<Gen_TempField_x002A_1>0</Gen_TempField_x002A_1>
+<s_ColLineage>W4e7tQIAAABbh7u1AgAAAFuHu7UDAAAAW4e7tQEAAABbh7u1AgAAAFuHu7UBAAAA
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{33D57F3E-71A8-4698-9C4B-F1066A4D8E5E}</s_GUID>
+<s_Lineage>W4e7tQMAAAAAAAAAAAAAAA==
+</s_Lineage>
+</campaign_map_tooltips>
+<campaign_map_tooltips>
+<select_context>army_can_ambush</select_context>
+<over_context>non_player_army</over_context>
+<tooltip_line>Right click to attack target</tooltip_line>
+<advice_line>The size of this army is displayed as pips on the side of their national flag.</advice_line>
+<Gen_TempField_x002A_0>0</Gen_TempField_x002A_0>
+<Gen_TempField_x002A_1>0</Gen_TempField_x002A_1>
+<s_ColLineage>W4e7tQIAAABbh7u1AgAAAFuHu7UCAAAAW4e7tQEAAABbh7u1AgAAAFuHu7UBAAAA
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{F9B897DA-4B70-48F1-8216-1266B54B6780}</s_GUID>
+<s_Lineage>W4e7tQIAAAAAAAAAAAAAAA==
+</s_Lineage>
+</campaign_map_tooltips>
+<campaign_map_tooltips>
+<select_context>army_can_ambush</select_context>
+<over_context>non_player_fort</over_context>
+<tooltip_line>Right click to take fort</tooltip_line>
+<advice_line>Forts allow armies to remain protected while outside of their cities. If the fort is already occupied you will be in for a battle.</advice_line>
+<Gen_TempField_x002A_0>0</Gen_TempField_x002A_0>
+<Gen_TempField_x002A_1>0</Gen_TempField_x002A_1>
+<s_ColLineage>W4e7tQIAAABbh7u1AgAAAFuHu7UCAAAAW4e7tQEAAABbh7u1AgAAAFuHu7UBAAAA
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{014A4F01-5B78-414C-B890-D268AD7B9DFE}</s_GUID>
+<s_Lineage>W4e7tQIAAAAAAAAAAAAAAA==
+</s_Lineage>
+</campaign_map_tooltips>
+<campaign_map_tooltips>
+<select_context>army_can_ambush</select_context>
+<over_context>non_player_land_trade_route</over_context>
+<tooltip_line>Right click to raid trade route</tooltip_line>
+<advice_line>Raiding trade routes to steal money from other nations. Your army must stay on the trade route for one turn to carry out the raid.</advice_line>
+<Gen_TempField_x002A_0>0</Gen_TempField_x002A_0>
+<Gen_TempField_x002A_1>0</Gen_TempField_x002A_1>
+<s_ColLineage>W4e7tQIAAABbh7u1AgAAAFuHu7UCAAAAW4e7tQEAAABbh7u1AgAAAFuHu7UBAAAA
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{F315E129-ADCC-4FE8-BF9F-13DC56A9C0CA}</s_GUID>
+<s_Lineage>W4e7tQIAAAAAAAAAAAAAAA==
+</s_Lineage>
+</campaign_map_tooltips>
+<campaign_map_tooltips>
+<select_context>army_can_ambush</select_context>
+<over_context>non_player_navy_at_sea</over_context>
+<tooltip_line>Your army cannot attack a navy</tooltip_line>
+<Gen_TempField_x002A_0>0</Gen_TempField_x002A_0>
+<Gen_TempField_x002A_1>0</Gen_TempField_x002A_1>
+<s_ColLineage>W4e7tQIAAABbh7u1AgAAAFuHu7UCAAAAW4e7tQEAAABbh7u1AgAAAFuHu7UBAAAA
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{150BB972-05B1-4894-BA6E-7CBA6C133264}</s_GUID>
+<s_Lineage>W4e7tQIAAAAAAAAAAAAAAA==
+</s_Lineage>
+</campaign_map_tooltips>
+<campaign_map_tooltips>
+<select_context>army_can_ambush</select_context>
+<over_context>non_player_navy_in_port</over_context>
+<tooltip_line>Right click to occupy port</tooltip_line>
+<advice_line>Move your army into this port to deprive the owning nation of its use and leave it in a mess when you leave, forcing them to spend time and money repairing it.</advice_line>
+<Gen_TempField_x002A_0>0</Gen_TempField_x002A_0>
+<Gen_TempField_x002A_1>0</Gen_TempField_x002A_1>
+<s_ColLineage>W4e7tQIAAABbh7u1AgAAAFuHu7UCAAAAW4e7tQEAAABbh7u1AgAAAFuHu7UBAAAA
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{6F09A263-0B64-412B-BEA1-316BDC54159D}</s_GUID>
+<s_Lineage>W4e7tQIAAAAAAAAAAAAAAA==
+</s_Lineage>
+</campaign_map_tooltips>
+<campaign_map_tooltips>
+<select_context>army_can_ambush</select_context>
+<over_context>non_player_port_occupied</over_context>
+<tooltip_line>Right click to attack port</tooltip_line>
+<advice_line>Move your army into this port to deprive the owning nation of its use and leave it in a mess when you leave, forcing them to spend time and money repairing it.</advice_line>
+<Gen_TempField_x002A_0>0</Gen_TempField_x002A_0>
+<Gen_TempField_x002A_1>0</Gen_TempField_x002A_1>
+<s_ColLineage>W4e7tQIAAABbh7u1AgAAAFuHu7UCAAAAW4e7tQEAAABbh7u1AgAAAFuHu7UBAAAA
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{1A9F3011-F9A8-4238-B218-EB1DCE5E089F}</s_GUID>
+<s_Lineage>W4e7tQIAAAAAAAAAAAAAAA==
+</s_Lineage>
+</campaign_map_tooltips>
+<campaign_map_tooltips>
+<select_context>army_can_ambush</select_context>
+<over_context>non_player_port_unoccupied</over_context>
+<tooltip_line>Right click to occupy port</tooltip_line>
+<advice_line>Move your army into this port to deprive the owning nation of its use and leave it in a mess when you leave, forcing them to spend time and money repairing it.</advice_line>
+<Gen_TempField_x002A_0>0</Gen_TempField_x002A_0>
+<Gen_TempField_x002A_1>0</Gen_TempField_x002A_1>
+<s_ColLineage>W4e7tQIAAABbh7u1AgAAAFuHu7UCAAAAW4e7tQEAAABbh7u1AgAAAFuHu7UBAAAA
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{16C2B53F-888D-4192-B69E-758E4A62A595}</s_GUID>
+<s_Lineage>W4e7tQIAAAAAAAAAAAAAAA==
+</s_Lineage>
+</campaign_map_tooltips>
+<campaign_map_tooltips>
+<select_context>army_can_ambush</select_context>
+<over_context>non_player_region_capital</over_context>
+<tooltip_line>Right click to besiege city</tooltip_line>
+<advice_line>Besiege a city to claim it as your own. Then either develop it as part of your empire, or destroy its buildings, leaving it useless to any  other nation.</advice_line>
+<Gen_TempField_x002A_0>0</Gen_TempField_x002A_0>
+<Gen_TempField_x002A_1>0</Gen_TempField_x002A_1>
+<s_ColLineage>W4e7tQIAAABbh7u1AgAAAFuHu7UCAAAAW4e7tQEAAABbh7u1AgAAAFuHu7UBAAAA
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{F590030D-80AB-427C-BB02-5D3EEBF1CB13}</s_GUID>
+<s_Lineage>W4e7tQIAAAAAAAAAAAAAAA==
+</s_Lineage>
+</campaign_map_tooltips>
+<campaign_map_tooltips>
+<select_context>army_can_ambush</select_context>
+<over_context>non_player_resource</over_context>
+<tooltip_line>Right click to attack</tooltip_line>
+<advice_line>Attacking this resource will prevent the owning nation from being able to use it.</advice_line>
+<Gen_TempField_x002A_0>0</Gen_TempField_x002A_0>
+<Gen_TempField_x002A_1>0</Gen_TempField_x002A_1>
+<s_ColLineage>W4e7tQIAAABbh7u1AgAAAFuHu7UCAAAAW4e7tQEAAABbh7u1AgAAAFuHu7UBAAAA
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{C0C3FF3A-91CD-4C9B-B843-88EAB22B94CF}</s_GUID>
+<s_Lineage>W4e7tQIAAAAAAAAAAAAAAA==
+</s_Lineage>
+</campaign_map_tooltips>
+<campaign_map_tooltips>
+<select_context>army_can_ambush</select_context>
+<over_context>non_player_town</over_context>
+<tooltip_line>Right click to attack</tooltip_line>
+<advice_line>Attacking this town will prevent the owning nation from being able to use it.</advice_line>
+<Gen_TempField_x002A_0>0</Gen_TempField_x002A_0>
+<Gen_TempField_x002A_1>0</Gen_TempField_x002A_1>
+<s_ColLineage>W4e7tQIAAABbh7u1AgAAAFuHu7UCAAAAW4e7tQEAAABbh7u1AgAAAFuHu7UBAAAA
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{982A4F53-654B-4EF0-890D-1E24BCC21FBD}</s_GUID>
+<s_Lineage>W4e7tQIAAAAAAAAAAAAAAA==
+</s_Lineage>
+</campaign_map_tooltips>
+<campaign_map_tooltips>
+<select_context>army_can_ambush</select_context>
+<over_context>non_player_university</over_context>
+<tooltip_line>Right click to attack</tooltip_line>
+<advice_line>Attack this university to stop any technology research being carried out inside it.</advice_line>
+<Gen_TempField_x002A_0>0</Gen_TempField_x002A_0>
+<Gen_TempField_x002A_1>0</Gen_TempField_x002A_1>
+<s_ColLineage>W4e7tQIAAABbh7u1AgAAAFuHu7UCAAAAW4e7tQEAAABbh7u1AgAAAFuHu7UBAAAA
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{A36E30D6-EF8B-482E-B2DF-20C1E20B1F69}</s_GUID>
+<s_Lineage>W4e7tQIAAAAAAAAAAAAAAA==
+</s_Lineage>
+</campaign_map_tooltips>
+<campaign_map_tooltips>
+<select_context>army_can_ambush</select_context>
+<over_context>player_army</over_context>
+<tooltip_line>Right click to merge armies</tooltip_line>
+<advice_line>Merge armies to create a larger army or add experienced troops to an army otherwise wet behind the ears.</advice_line>
+<Gen_TempField_x002A_0>0</Gen_TempField_x002A_0>
+<Gen_TempField_x002A_1>0</Gen_TempField_x002A_1>
+<s_ColLineage>W4e7tQIAAABbh7u1AgAAAFuHu7UCAAAAW4e7tQEAAABbh7u1AgAAAFuHu7UBAAAA
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{6F11C683-0A19-4365-B249-C45CF9C40171}</s_GUID>
+<s_Lineage>W4e7tQIAAAAAAAAAAAAAAA==
+</s_Lineage>
+</campaign_map_tooltips>
+<campaign_map_tooltips>
+<select_context>army_can_ambush</select_context>
+<over_context>player_army_can_ambush</over_context>
+<tooltip_line>Right click to merge armies</tooltip_line>
+<advice_line>Merge armies to create a larger army or add experienced troops to an army otherwise wet behind the ears.</advice_line>
+<Gen_TempField_x002A_0>0</Gen_TempField_x002A_0>
+<Gen_TempField_x002A_1>0</Gen_TempField_x002A_1>
+<s_ColLineage>W4e7tQIAAABbh7u1AgAAAFuHu7UCAAAAW4e7tQEAAABbh7u1AgAAAFuHu7UBAAAA
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{47BE7CCA-74EF-48BE-9E70-529D6223242D}</s_GUID>
+<s_Lineage>W4e7tQIAAAAAAAAAAAAAAA==
+</s_Lineage>
+</campaign_map_tooltips>
+<campaign_map_tooltips>
+<select_context>army_can_ambush</select_context>
+<over_context>player_fort</over_context>
+<tooltip_line>Right click to enter fort</tooltip_line>
+<advice_line>Forts allow armies to remain protected while outside of their cities and can be placed strategically to provide defence for your regions.</advice_line>
+<Gen_TempField_x002A_0>0</Gen_TempField_x002A_0>
+<Gen_TempField_x002A_1>0</Gen_TempField_x002A_1>
+<s_ColLineage>W4e7tQIAAABbh7u1AgAAAFuHu7UCAAAAW4e7tQEAAABbh7u1AgAAAFuHu7UBAAAA
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{5A809527-CB7E-47B7-8D13-971DD534194A}</s_GUID>
+<s_Lineage>W4e7tQIAAAAAAAAAAAAAAA==
+</s_Lineage>
+</campaign_map_tooltips>
+<campaign_map_tooltips>
+<select_context>army_can_ambush</select_context>
+<over_context>player_navy</over_context>
+<tooltip_line>Right click to embark</tooltip_line>
+<advice_line>Not only can ships carry your armies across the sea, but they are also quicker than walking. Send them across the coast close to your destination for a short cut.</advice_line>
+<Gen_TempField_x002A_0>0</Gen_TempField_x002A_0>
+<Gen_TempField_x002A_1>0</Gen_TempField_x002A_1>
+<s_ColLineage>W4e7tQIAAABbh7u1AgAAAFuHu7UCAAAAW4e7tQEAAABbh7u1AgAAAFuHu7UBAAAA
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{6C93A87B-436F-493F-B574-AD171C97EB73}</s_GUID>
+<s_Lineage>W4e7tQIAAAAAAAAAAAAAAA==
+</s_Lineage>
+</campaign_map_tooltips>
+<campaign_map_tooltips>
+<select_context>army_can_ambush</select_context>
+<over_context>player_port</over_context>
+<tooltip_line>Right click to enter port</tooltip_line>
+<advice_line>Not only can ships carry your armies across the sea, but they are also quicker than walking. Send them across the coast close to your destination for a short cut.</advice_line>
+<Gen_TempField_x002A_0>0</Gen_TempField_x002A_0>
+<Gen_TempField_x002A_1>0</Gen_TempField_x002A_1>
+<s_ColLineage>W4e7tQIAAABbh7u1AgAAAFuHu7UCAAAAW4e7tQEAAABbh7u1AgAAAFuHu7UBAAAA
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{73D7EAD7-D56B-4F9A-BE25-707ED11FEAD2}</s_GUID>
+<s_Lineage>W4e7tQIAAAAAAAAAAAAAAA==
+</s_Lineage>
+</campaign_map_tooltips>
+<campaign_map_tooltips>
+<select_context>army_can_ambush</select_context>
+<over_context>player_region_capital</over_context>
+<tooltip_line>Right click to garrison</tooltip_line>
+<advice_line>Move your army here if it looks vulnerable to attack, or public order is becoming unstable.</advice_line>
+<Gen_TempField_x002A_0>0</Gen_TempField_x002A_0>
+<Gen_TempField_x002A_1>0</Gen_TempField_x002A_1>
+<s_ColLineage>W4e7tQIAAABbh7u1AgAAAFuHu7UCAAAAW4e7tQEAAABbh7u1AgAAAFuHu7UBAAAA
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{D07D6CD7-8A89-4137-8860-A8A76820E629}</s_GUID>
+<s_Lineage>W4e7tQIAAAAAAAAAAAAAAA==
+</s_Lineage>
+</campaign_map_tooltips>
+<campaign_map_tooltips>
+<select_context>army_can_ambush</select_context>
+<over_context>player_resource</over_context>
+<tooltip_line>Right click to enter</tooltip_line>
+<Gen_TempField_x002A_0>0</Gen_TempField_x002A_0>
+<Gen_TempField_x002A_1>0</Gen_TempField_x002A_1>
+<s_ColLineage>W4e7tQIAAABbh7u1AgAAAFuHu7UCAAAAW4e7tQEAAABbh7u1AgAAAFuHu7UBAAAA
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{58BD09A8-7944-496A-A73E-8F087F16962F}</s_GUID>
+<s_Lineage>W4e7tQIAAAAAAAAAAAAAAA==
+</s_Lineage>
+</campaign_map_tooltips>
+<campaign_map_tooltips>
+<select_context>army_can_ambush</select_context>
+<over_context>player_town</over_context>
+<tooltip_line>Right click to enter town</tooltip_line>
+<Gen_TempField_x002A_0>0</Gen_TempField_x002A_0>
+<Gen_TempField_x002A_1>0</Gen_TempField_x002A_1>
+<s_ColLineage>W4e7tQIAAABbh7u1AgAAAFuHu7UCAAAAW4e7tQEAAABbh7u1AgAAAFuHu7UBAAAA
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{E68A3C33-CD53-4747-A5D1-1121BAAAEF41}</s_GUID>
+<s_Lineage>W4e7tQIAAAAAAAAAAAAAAA==
+</s_Lineage>
+</campaign_map_tooltips>
+<campaign_map_tooltips>
+<select_context>army_can_ambush</select_context>
+<over_context>player_university</over_context>
+<tooltip_line>Right click to enter town</tooltip_line>
+<Gen_TempField_x002A_0>0</Gen_TempField_x002A_0>
+<Gen_TempField_x002A_1>0</Gen_TempField_x002A_1>
+<s_ColLineage>W4e7tQIAAABbh7u1AgAAAFuHu7UCAAAAW4e7tQEAAABbh7u1AgAAAFuHu7UBAAAA
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{0213034A-71D7-4CFD-9705-F807761FC176}</s_GUID>
+<s_Lineage>W4e7tQIAAAAAAAAAAAAAAA==
+</s_Lineage>
+</campaign_map_tooltips>
+<campaign_map_tooltips>
+<select_context>gentleman</select_context>
+<over_context>land_can_disembark</over_context>
+<tooltip_line>Right click to move</tooltip_line>
+<Gen_TempField_x002A_0>0</Gen_TempField_x002A_0>
+<Gen_TempField_x002A_1>0</Gen_TempField_x002A_1>
+<s_ColLineage>kNOq8QIAAACQ06rxAgAAAJDTqvEEAAAAkNOq8QEAAACQ06rxAgAAAJDTqvEBAAAA
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{4B6062DC-227A-4FA0-8255-705C3C816889}</s_GUID>
+<s_Lineage>kNOq8QQAAAAAAAAAAAAAAA==
+</s_Lineage>
+</campaign_map_tooltips>
+<campaign_map_tooltips>
+<select_context>gentleman</select_context>
+<over_context>land_can_disembark_can_ambush</over_context>
+<tooltip_line>Right click to move</tooltip_line>
+<Gen_TempField_x002A_0>0</Gen_TempField_x002A_0>
+<Gen_TempField_x002A_1>0</Gen_TempField_x002A_1>
+<s_ColLineage>W4e7tQIAAABbh7u1AgAAAFuHu7UCAAAAW4e7tQEAAABbh7u1AgAAAFuHu7UBAAAA
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{86632F10-CF5D-4D81-9DDB-598D6597A683}</s_GUID>
+<s_Lineage>W4e7tQIAAAAAAAAAAAAAAA==
+</s_Lineage>
+</campaign_map_tooltips>
+<campaign_map_tooltips>
+<select_context>gentleman</select_context>
+<over_context>land_cannot_disembark</over_context>
+<tooltip_line>Right click to move</tooltip_line>
+<Gen_TempField_x002A_0>0</Gen_TempField_x002A_0>
+<Gen_TempField_x002A_1>0</Gen_TempField_x002A_1>
+<s_ColLineage>kNOq8QIAAACQ06rxAgAAAJDTqvEEAAAAkNOq8QEAAACQ06rxAgAAAJDTqvEBAAAA
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{BCE2A22D-FCFF-41B3-80AA-4329D7725AA5}</s_GUID>
+<s_Lineage>kNOq8QQAAAAAAAAAAAAAAA==
+</s_Lineage>
+</campaign_map_tooltips>
+<campaign_map_tooltips>
+<select_context>gentleman</select_context>
+<over_context>land_cannot_disembark_can_ambush</over_context>
+<tooltip_line>Right click to move</tooltip_line>
+<Gen_TempField_x002A_0>0</Gen_TempField_x002A_0>
+<Gen_TempField_x002A_1>0</Gen_TempField_x002A_1>
+<s_ColLineage>W4e7tQIAAABbh7u1AgAAAFuHu7UCAAAAW4e7tQEAAABbh7u1AgAAAFuHu7UBAAAA
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{34DB7184-BAE6-4436-A459-ABDA4C170110}</s_GUID>
+<s_Lineage>W4e7tQIAAAAAAAAAAAAAAA==
+</s_Lineage>
+</campaign_map_tooltips>
+<campaign_map_tooltips>
+<select_context>gentleman</select_context>
+<over_context>non_player_army</over_context>
+<tooltip_line>Right click to challenge the general to a duel</tooltip_line>
+<advice_line>Killing a man in a duel is mostly about personal honour. Sometimes though, its about ridding yourself of a potential threat without sparking war and getting in a sticky political situation.</advice_line>
+<Gen_TempField_x002A_0>0</Gen_TempField_x002A_0>
+<Gen_TempField_x002A_1>0</Gen_TempField_x002A_1>
+<s_ColLineage>kNOq8QIAAACQ06rxAgAAAJDTqvEJAAAAkNOq8QEAAACQ06rxAgAAAJDTqvEBAAAA
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{B97105D6-D011-40CC-8D0F-6D120C23F1FE}</s_GUID>
+<s_Lineage>kNOq8QkAAAAAAAAAAAAAAA==
+</s_Lineage>
+</campaign_map_tooltips>
+<campaign_map_tooltips>
+<select_context>gentleman</select_context>
+<over_context>non_player_gentleman</over_context>
+<tooltip_line>Right click to challenge target to a duel</tooltip_line>
+<advice_line>If you win the duel you may rid yourself of competition and prevent this gentleman from killing any of your agents.</advice_line>
+<Gen_TempField_x002A_0>0</Gen_TempField_x002A_0>
+<Gen_TempField_x002A_1>0</Gen_TempField_x002A_1>
+<s_ColLineage>kNOq8QIAAACQ06rxAgAAAJDTqvELAAAAkNOq8QEAAACQ06rxAgAAAJDTqvEBAAAA
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{CC9C2397-9FD8-4275-B5BA-A6B927C3DA50}</s_GUID>
+<s_Lineage>kNOq8QsAAAAAAAAAAAAAAA==
+</s_Lineage>
+</campaign_map_tooltips>
+<campaign_map_tooltips>
+<select_context>gentleman</select_context>
+<over_context>non_player_land_trade_route</over_context>
+<tooltip_line>This agent cannot raid trade routes</tooltip_line>
+<Gen_TempField_x002A_0>0</Gen_TempField_x002A_0>
+<Gen_TempField_x002A_1>0</Gen_TempField_x002A_1>
+<s_ColLineage>kNOq8QIAAACQ06rxAgAAAJDTqvEEAAAAkNOq8QEAAACQ06rxAgAAAJDTqvEBAAAA
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{775B4FC4-DA6A-441E-9660-9A32AD9B6714}</s_GUID>
+<s_Lineage>kNOq8QQAAAAAAAAAAAAAAA==
+</s_Lineage>
+</campaign_map_tooltips>
+<campaign_map_tooltips>
+<select_context>gentleman</select_context>
+<over_context>non_player_navy_at_sea</over_context>
+<tooltip_line>This agent cannot act against fleets</tooltip_line>
+<Gen_TempField_x002A_0>0</Gen_TempField_x002A_0>
+<Gen_TempField_x002A_1>0</Gen_TempField_x002A_1>
+<s_ColLineage>kNOq8QIAAACQ06rxAgAAAJDTqvEEAAAAkNOq8QEAAACQ06rxAgAAAJDTqvEBAAAA
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{4C7048D0-87C1-4219-AF38-2650A5944DD7}</s_GUID>
+<s_Lineage>kNOq8QQAAAAAAAAAAAAAAA==
+</s_Lineage>
+</campaign_map_tooltips>
+<campaign_map_tooltips>
+<select_context>gentleman</select_context>
+<over_context>non_player_navy_in_port</over_context>
+<tooltip_line>This agent cannot act against fleets</tooltip_line>
+<Gen_TempField_x002A_0>0</Gen_TempField_x002A_0>
+<Gen_TempField_x002A_1>0</Gen_TempField_x002A_1>
+<s_ColLineage>kNOq8QIAAACQ06rxAgAAAJDTqvEEAAAAkNOq8QEAAACQ06rxAgAAAJDTqvEBAAAA
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{188A6B6B-F2E0-42EA-9E7A-C76E0183B229}</s_GUID>
+<s_Lineage>kNOq8QQAAAAAAAAAAAAAAA==
+</s_Lineage>
+</campaign_map_tooltips>
+<campaign_map_tooltips>
+<select_context>gentleman</select_context>
+<over_context>non_player_port_occupied</over_context>
+<tooltip_line>Right click to enter port</tooltip_line>
+<Gen_TempField_x002A_0>0</Gen_TempField_x002A_0>
+<Gen_TempField_x002A_1>0</Gen_TempField_x002A_1>
+<s_ColLineage>kNOq8QIAAACQ06rxAgAAAJDTqvEEAAAAkNOq8QEAAACQ06rxAgAAAJDTqvEBAAAA
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{C80146B7-03FD-4C0B-8284-459ECD4ACB28}</s_GUID>
+<s_Lineage>kNOq8QQAAAAAAAAAAAAAAA==
+</s_Lineage>
+</campaign_map_tooltips>
+<campaign_map_tooltips>
+<select_context>gentleman</select_context>
+<over_context>non_player_port_unoccupied</over_context>
+<tooltip_line>Right click to enter port</tooltip_line>
+<Gen_TempField_x002A_0>0</Gen_TempField_x002A_0>
+<Gen_TempField_x002A_1>0</Gen_TempField_x002A_1>
+<s_ColLineage>kNOq8QIAAACQ06rxAgAAAJDTqvEEAAAAkNOq8QEAAACQ06rxAgAAAJDTqvEBAAAA
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{B72082CC-2553-479C-B071-C2A7C4B75104}</s_GUID>
+<s_Lineage>kNOq8QQAAAAAAAAAAAAAAA==
+</s_Lineage>
+</campaign_map_tooltips>
+<campaign_map_tooltips>
+<select_context>gentleman</select_context>
+<over_context>non_player_rake</over_context>
+<tooltip_line>Right click to challenge target to a duel</tooltip_line>
+<advice_line>This man is no gentleman, and rumoured to be involved in sabotage, stealing and assassination. Killing him will protect your nation from any trouble he may cause.</advice_line>
+<Gen_TempField_x002A_0>0</Gen_TempField_x002A_0>
+<Gen_TempField_x002A_1>0</Gen_TempField_x002A_1>
+<s_ColLineage>kNOq8QIAAACQ06rxAgAAAJDTqvEIAAAAkNOq8QEAAACQ06rxAgAAAJDTqvEBAAAA
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{125B262C-2E62-46B8-9345-3A3542F9FD73}</s_GUID>
+<s_Lineage>kNOq8QgAAAAAAAAAAAAAAA==
+</s_Lineage>
+</campaign_map_tooltips>
+<campaign_map_tooltips>
+<select_context>gentleman</select_context>
+<over_context>non_player_region_capital</over_context>
+<tooltip_line>Right click to enter city</tooltip_line>
+<advice_line>Move your gentleman here to decrease the happiness of this city&apos;s population.</advice_line>
+<Gen_TempField_x002A_0>0</Gen_TempField_x002A_0>
+<Gen_TempField_x002A_1>0</Gen_TempField_x002A_1>
+<s_ColLineage>kNOq8QIAAACQ06rxAgAAAFuHu7ULAAAAkNOq8QEAAACQ06rxAgAAAJDTqvEBAAAA
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{7765EC73-908B-4CCE-80FC-352957FC0AB4}</s_GUID>
+<s_Lineage>W4e7tQsAAACQ06rxBgAAAAAAAAAAAAAA
+</s_Lineage>
+</campaign_map_tooltips>
+<campaign_map_tooltips>
+<select_context>gentleman</select_context>
+<over_context>non_player_resource</over_context>
+<tooltip_line>Right click to enter </tooltip_line>
+<Gen_TempField_x002A_0>0</Gen_TempField_x002A_0>
+<Gen_TempField_x002A_1>0</Gen_TempField_x002A_1>
+<s_ColLineage>kNOq8QIAAACQ06rxAgAAAJDTqvEEAAAAkNOq8QEAAACQ06rxAgAAAJDTqvEBAAAA
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{894DBCBB-2C52-47AD-BE36-45F46E62B470}</s_GUID>
+<s_Lineage>kNOq8QQAAAAAAAAAAAAAAA==
+</s_Lineage>
+</campaign_map_tooltips>
+<campaign_map_tooltips>
+<select_context>gentleman</select_context>
+<over_context>non_player_town</over_context>
+<tooltip_line>Right click to enter </tooltip_line>
+<advice_line>Move your gentleman here to decrease the happiness of this town&apos;s population.</advice_line>
+<Gen_TempField_x002A_0>0</Gen_TempField_x002A_0>
+<Gen_TempField_x002A_1>0</Gen_TempField_x002A_1>
+<s_ColLineage>kNOq8QIAAACQ06rxAgAAAFuHu7UJAAAAkNOq8QEAAACQ06rxAgAAAJDTqvEBAAAA
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{4C438CB8-017C-4CAD-BA60-9A1F37123444}</s_GUID>
+<s_Lineage>W4e7tQkAAACQ06rxBAAAAAAAAAAAAAAA
+</s_Lineage>
+</campaign_map_tooltips>
+<campaign_map_tooltips>
+<select_context>gentleman</select_context>
+<over_context>non_player_university</over_context>
+<tooltip_line>Right click to steal technology </tooltip_line>
+<Gen_TempField_x002A_0>0</Gen_TempField_x002A_0>
+<Gen_TempField_x002A_1>0</Gen_TempField_x002A_1>
+<s_ColLineage>kNOq8QIAAACQ06rxAgAAAJDTqvEEAAAAkNOq8QEAAACQ06rxAgAAAJDTqvEBAAAA
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{30D24CC7-CCF6-477E-AD5F-FB0B446468B9}</s_GUID>
+<s_Lineage>kNOq8QQAAAAAAAAAAAAAAA==
+</s_Lineage>
+</campaign_map_tooltips>
+<campaign_map_tooltips>
+<select_context>gentleman</select_context>
+<over_context>player_army</over_context>
+<tooltip_line>Right click to move gentleman into this army</tooltip_line>
+<advice_line>When travelling with an army, a gentleman will be protected from assassination.</advice_line>
+<Gen_TempField_x002A_0>0</Gen_TempField_x002A_0>
+<Gen_TempField_x002A_1>0</Gen_TempField_x002A_1>
+<s_ColLineage>kNOq8QIAAACQ06rxAgAAAJDTqvEFAAAAkNOq8QEAAACQ06rxAgAAAJDTqvEBAAAA
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{5C51A21D-A880-46F0-A027-3E238ACE62BC}</s_GUID>
+<s_Lineage>kNOq8QUAAAAAAAAAAAAAAA==
+</s_Lineage>
+</campaign_map_tooltips>
+<campaign_map_tooltips>
+<select_context>gentleman</select_context>
+<over_context>player_army_can_ambush</over_context>
+<tooltip_line>Right click to move gentleman into this army</tooltip_line>
+<advice_line>When travelling with an army, a gentleman will be protected from assassination.</advice_line>
+<Gen_TempField_x002A_0>0</Gen_TempField_x002A_0>
+<Gen_TempField_x002A_1>0</Gen_TempField_x002A_1>
+<s_ColLineage>W4e7tQIAAABbh7u1AgAAAFuHu7UCAAAAW4e7tQEAAABbh7u1AgAAAFuHu7UBAAAA
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{B457B195-5106-4CDF-95E4-DE843B9AE4F7}</s_GUID>
+<s_Lineage>W4e7tQIAAAAAAAAAAAAAAA==
+</s_Lineage>
+</campaign_map_tooltips>
+<campaign_map_tooltips>
+<select_context>gentleman</select_context>
+<over_context>player_fort</over_context>
+<tooltip_line>Right click to enter fort</tooltip_line>
+<Gen_TempField_x002A_0>0</Gen_TempField_x002A_0>
+<Gen_TempField_x002A_1>0</Gen_TempField_x002A_1>
+<s_ColLineage>kNOq8QIAAACQ06rxAgAAAJDTqvEFAAAAkNOq8QEAAACQ06rxAwAAAJDTqvEBAAAA
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{D12D079D-6A92-4386-B1A2-ED2BF1B02333}</s_GUID>
+<s_Lineage>kNOq8QUAAAAAAAAAAAAAAA==
+</s_Lineage>
+</campaign_map_tooltips>
+<campaign_map_tooltips>
+<select_context>gentleman</select_context>
+<over_context>player_navy</over_context>
+<tooltip_line>Right click to embark</tooltip_line>
+<Gen_TempField_x002A_0>0</Gen_TempField_x002A_0>
+<Gen_TempField_x002A_1>0</Gen_TempField_x002A_1>
+<s_ColLineage>kNOq8QIAAACQ06rxAgAAAJDTqvEEAAAAkNOq8QEAAACQ06rxAgAAAJDTqvEBAAAA
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{8905B6AE-1D22-447F-8FA4-CA5DB9C79CE4}</s_GUID>
+<s_Lineage>kNOq8QQAAAAAAAAAAAAAAA==
+</s_Lineage>
+</campaign_map_tooltips>
+<campaign_map_tooltips>
+<select_context>gentleman</select_context>
+<over_context>player_port</over_context>
+<tooltip_line>Right click to enter port</tooltip_line>
+<Gen_TempField_x002A_0>0</Gen_TempField_x002A_0>
+<Gen_TempField_x002A_1>0</Gen_TempField_x002A_1>
+<s_ColLineage>kNOq8QIAAACQ06rxAgAAAJDTqvEEAAAAkNOq8QEAAACQ06rxAgAAAJDTqvEBAAAA
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{64713EAA-5092-46FA-B9BB-0A7AFD7E8982}</s_GUID>
+<s_Lineage>kNOq8QQAAAAAAAAAAAAAAA==
+</s_Lineage>
+</campaign_map_tooltips>
+<campaign_map_tooltips>
+<select_context>gentleman</select_context>
+<over_context>player_region_capital</over_context>
+<tooltip_line>Right click to enter city</tooltip_line>
+<advice_line>Move your gentleman here to increase the happiness of this city&apos;s population.</advice_line>
+<Gen_TempField_x002A_0>0</Gen_TempField_x002A_0>
+<Gen_TempField_x002A_1>0</Gen_TempField_x002A_1>
+<s_ColLineage>kNOq8QIAAACQ06rxAgAAAFuHu7UNAAAAkNOq8QEAAACQ06rxAgAAAJDTqvEBAAAA
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{F921B905-A226-4C96-91D8-B1BAB26C0BF5}</s_GUID>
+<s_Lineage>W4e7tQ0AAACQ06rxBAAAAAAAAAAAAAAA
+</s_Lineage>
+</campaign_map_tooltips>
+<campaign_map_tooltips>
+<select_context>gentleman</select_context>
+<over_context>player_resource</over_context>
+<tooltip_line>Right click to enter</tooltip_line>
+<Gen_TempField_x002A_0>0</Gen_TempField_x002A_0>
+<Gen_TempField_x002A_1>0</Gen_TempField_x002A_1>
+<s_ColLineage>kNOq8QIAAACQ06rxAgAAAJDTqvEEAAAAkNOq8QEAAACQ06rxAgAAAJDTqvEBAAAA
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{0C6451D6-60DB-43D6-A6CA-39F45BDF32B3}</s_GUID>
+<s_Lineage>kNOq8QQAAAAAAAAAAAAAAA==
+</s_Lineage>
+</campaign_map_tooltips>
+<campaign_map_tooltips>
+<select_context>gentleman</select_context>
+<over_context>player_town</over_context>
+<tooltip_line>Right click to enter</tooltip_line>
+<advice_line>Move your gentleman here to increase the happiness of this town&apos;s population.</advice_line>
+<Gen_TempField_x002A_0>0</Gen_TempField_x002A_0>
+<Gen_TempField_x002A_1>0</Gen_TempField_x002A_1>
+<s_ColLineage>kNOq8QIAAACQ06rxAgAAAFuHu7UQAAAAkNOq8QEAAACQ06rxAgAAAJDTqvEBAAAA
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{CC16EA6E-0A67-42C8-8495-C458F605DDA3}</s_GUID>
+<s_Lineage>W4e7tRAAAACQ06rxBAAAAAAAAAAAAAAA
+</s_Lineage>
+</campaign_map_tooltips>
+<campaign_map_tooltips>
+<select_context>gentleman</select_context>
+<over_context>player_university</over_context>
+<tooltip_line>Right click to research</tooltip_line>
+<advice_line>Gentlemen are learned men and moving them into a university will speed up any research occurring there.</advice_line>
+<Gen_TempField_x002A_0>0</Gen_TempField_x002A_0>
+<Gen_TempField_x002A_1>0</Gen_TempField_x002A_1>
+<s_ColLineage>kNOq8QIAAACQ06rxAgAAAJDTqvEEAAAAkNOq8QEAAACQ06rxAgAAAJDTqvEBAAAA
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{22FA665A-3466-4E75-B507-B3E3E8D381CF}</s_GUID>
+<s_Lineage>kNOq8QQAAAAAAAAAAAAAAA==
+</s_Lineage>
+</campaign_map_tooltips>
+<campaign_map_tooltips>
+<select_context>missionary</select_context>
+<over_context>land_can_disembark</over_context>
+<tooltip_line>Right click to move</tooltip_line>
+<advice_line>Move your agent here to start converting the population to your political alignment.</advice_line>
+<Gen_TempField_x002A_0>0</Gen_TempField_x002A_0>
+<Gen_TempField_x002A_1>0</Gen_TempField_x002A_1>
+<s_ColLineage>kNOq8QIAAACQ06rxAgAAAGq5bWoHAAAAkNOq8QEAAACQ06rxBAAAAJDTqvEBAAAA
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{FB0647D8-FD7F-494A-AA82-2F912DBF2CB1}</s_GUID>
+<s_Lineage>arltagcAAAA0CceOBgAAAJDTqvEFAAAAAAAAAAAAAAA=
+</s_Lineage>
+</campaign_map_tooltips>
+<campaign_map_tooltips>
+<select_context>missionary</select_context>
+<over_context>land_can_disembark_can_ambush</over_context>
+<tooltip_line>Right click to move</tooltip_line>
+<advice_line>Move your agent here to start converting the population to your political alignment.</advice_line>
+<Gen_TempField_x002A_0>0</Gen_TempField_x002A_0>
+<Gen_TempField_x002A_1>0</Gen_TempField_x002A_1>
+<s_ColLineage>W4e7tQIAAABbh7u1AgAAAGq5bWoDAAAAW4e7tQEAAABbh7u1AgAAAFuHu7UBAAAA
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{91183F1B-8C2D-4C83-9B55-8D63D216319C}</s_GUID>
+<s_Lineage>arltagMAAABbh7u1AgAAAAAAAAAAAAAA
+</s_Lineage>
+</campaign_map_tooltips>
+<campaign_map_tooltips>
+<select_context>missionary</select_context>
+<over_context>land_cannot_disembark</over_context>
+<tooltip_line>Right click to move</tooltip_line>
+<Gen_TempField_x002A_0>0</Gen_TempField_x002A_0>
+<Gen_TempField_x002A_1>0</Gen_TempField_x002A_1>
+<s_ColLineage>kNOq8QIAAACQ06rxAgAAAJDTqvEEAAAAkNOq8QEAAACQ06rxAgAAAJDTqvEBAAAA
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{0737C468-7E0B-435D-82EF-3722119CC887}</s_GUID>
+<s_Lineage>kNOq8QQAAAAAAAAAAAAAAA==
+</s_Lineage>
+</campaign_map_tooltips>
+<campaign_map_tooltips>
+<select_context>missionary</select_context>
+<over_context>land_cannot_disembark_can_ambush</over_context>
+<tooltip_line>Right click to move</tooltip_line>
+<Gen_TempField_x002A_0>0</Gen_TempField_x002A_0>
+<Gen_TempField_x002A_1>0</Gen_TempField_x002A_1>
+<s_ColLineage>W4e7tQIAAABbh7u1AgAAAFuHu7UCAAAAW4e7tQEAAABbh7u1AgAAAFuHu7UBAAAA
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{A036111F-B54F-4D0B-9D6F-3A4D375F931B}</s_GUID>
+<s_Lineage>W4e7tQIAAAAAAAAAAAAAAA==
+</s_Lineage>
+</campaign_map_tooltips>
+<campaign_map_tooltips>
+<select_context>missionary</select_context>
+<over_context>non_player_army</over_context>
+<tooltip_line>You cannot act against armies with this agent</tooltip_line>
+<Gen_TempField_x002A_0>0</Gen_TempField_x002A_0>
+<Gen_TempField_x002A_1>0</Gen_TempField_x002A_1>
+<s_ColLineage>kNOq8QIAAACQ06rxAgAAAJDTqvEEAAAAkNOq8QEAAACQ06rxAgAAAJDTqvEBAAAA
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{A72809FC-729F-4B5A-A536-CDD28205EFBB}</s_GUID>
+<s_Lineage>kNOq8QQAAAAAAAAAAAAAAA==
+</s_Lineage>
+</campaign_map_tooltips>
+<campaign_map_tooltips>
+<select_context>missionary</select_context>
+<over_context>non_player_land_trade_route</over_context>
+<tooltip_line>This agent cannot raid trade routes</tooltip_line>
+<Gen_TempField_x002A_0>0</Gen_TempField_x002A_0>
+<Gen_TempField_x002A_1>0</Gen_TempField_x002A_1>
+<s_ColLineage>kNOq8QIAAACQ06rxAgAAAJDTqvEEAAAAkNOq8QEAAACQ06rxAgAAAJDTqvEBAAAA
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{2C6D68C4-5654-481A-A5BC-CD53D486AD7D}</s_GUID>
+<s_Lineage>kNOq8QQAAAAAAAAAAAAAAA==
+</s_Lineage>
+</campaign_map_tooltips>
+<campaign_map_tooltips>
+<select_context>missionary</select_context>
+<over_context>non_player_navy_at_sea</over_context>
+<tooltip_line>This agent cannot act against fleets</tooltip_line>
+<Gen_TempField_x002A_0>0</Gen_TempField_x002A_0>
+<Gen_TempField_x002A_1>0</Gen_TempField_x002A_1>
+<s_ColLineage>kNOq8QIAAACQ06rxAgAAAJDTqvEEAAAAkNOq8QEAAACQ06rxAgAAAJDTqvEBAAAA
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{7D1EE9B9-D137-4197-AD47-A6E4AEE6931C}</s_GUID>
+<s_Lineage>kNOq8QQAAAAAAAAAAAAAAA==
+</s_Lineage>
+</campaign_map_tooltips>
+<campaign_map_tooltips>
+<select_context>missionary</select_context>
+<over_context>non_player_navy_in_port</over_context>
+<tooltip_line>This agent cannot act against fleets</tooltip_line>
+<Gen_TempField_x002A_0>0</Gen_TempField_x002A_0>
+<Gen_TempField_x002A_1>0</Gen_TempField_x002A_1>
+<s_ColLineage>kNOq8QIAAACQ06rxAgAAAJDTqvEEAAAAkNOq8QEAAACQ06rxAgAAAJDTqvEBAAAA
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{9207E750-09F5-45BF-96D8-63A871044FE4}</s_GUID>
+<s_Lineage>kNOq8QQAAAAAAAAAAAAAAA==
+</s_Lineage>
+</campaign_map_tooltips>
+<campaign_map_tooltips>
+<select_context>missionary</select_context>
+<over_context>non_player_port_occupied</over_context>
+<tooltip_line>Right click to enter port</tooltip_line>
+<advice_line>Move your agent here to start converting the population to your political alignment.</advice_line>
+<Gen_TempField_x002A_0>0</Gen_TempField_x002A_0>
+<Gen_TempField_x002A_1>0</Gen_TempField_x002A_1>
+<s_ColLineage>kNOq8QIAAACQ06rxAgAAAGq5bWoGAAAAkNOq8QEAAACQ06rxAgAAAJDTqvEBAAAA
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{616CD11D-9932-488D-BFB5-28C92509043A}</s_GUID>
+<s_Lineage>arltagYAAAA0CceOBQAAAJDTqvEEAAAAAAAAAAAAAAA=
+</s_Lineage>
+</campaign_map_tooltips>
+<campaign_map_tooltips>
+<select_context>missionary</select_context>
+<over_context>non_player_port_unoccupied</over_context>
+<tooltip_line>Right click to enter port</tooltip_line>
+<advice_line>Move your agent here to start converting the population to your political alignment.</advice_line>
+<Gen_TempField_x002A_0>0</Gen_TempField_x002A_0>
+<Gen_TempField_x002A_1>0</Gen_TempField_x002A_1>
+<s_ColLineage>kNOq8QIAAACQ06rxAgAAAGq5bWoGAAAAkNOq8QEAAACQ06rxAgAAAJDTqvEBAAAA
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{6FEC6CC0-369B-4867-8213-DFDC3113AF70}</s_GUID>
+<s_Lineage>arltagYAAAA0CceOBQAAAJDTqvEEAAAAAAAAAAAAAAA=
+</s_Lineage>
+</campaign_map_tooltips>
+<campaign_map_tooltips>
+<select_context>missionary</select_context>
+<over_context>non_player_region_capital</over_context>
+<tooltip_line>Right click to enter city</tooltip_line>
+<advice_line>Move your agent here to start converting the population to your political alignment.</advice_line>
+<Gen_TempField_x002A_0>0</Gen_TempField_x002A_0>
+<Gen_TempField_x002A_1>0</Gen_TempField_x002A_1>
+<s_ColLineage>kNOq8QIAAACQ06rxAgAAAGq5bWoIAAAAkNOq8QEAAACQ06rxAgAAAJDTqvEBAAAA
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{16318651-55C8-435A-87DD-A62097498494}</s_GUID>
+<s_Lineage>arltaggAAAA0CceOBwAAAJDTqvEGAAAAAAAAAAAAAAA=
+</s_Lineage>
+</campaign_map_tooltips>
+<campaign_map_tooltips>
+<select_context>missionary</select_context>
+<over_context>non_player_resource</over_context>
+<tooltip_line>Right click to enter</tooltip_line>
+<advice_line>Move your agent here to start converting the population to your political alignment.</advice_line>
+<Gen_TempField_x002A_0>0</Gen_TempField_x002A_0>
+<Gen_TempField_x002A_1>0</Gen_TempField_x002A_1>
+<s_ColLineage>kNOq8QIAAACQ06rxAgAAAGq5bWoIAAAAkNOq8QEAAACQ06rxAgAAAJDTqvEBAAAA
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{9DD4AC4A-49F8-4DDD-B3B0-2FA549FFBBD1}</s_GUID>
+<s_Lineage>arltaggAAAA0CceOBwAAAJDTqvEEAAAAAAAAAAAAAAA=
+</s_Lineage>
+</campaign_map_tooltips>
+<campaign_map_tooltips>
+<select_context>missionary</select_context>
+<over_context>non_player_town</over_context>
+<tooltip_line>Right click to enter town</tooltip_line>
+<advice_line>Move your agent here to start converting the population to your political alignment.</advice_line>
+<Gen_TempField_x002A_0>0</Gen_TempField_x002A_0>
+<Gen_TempField_x002A_1>0</Gen_TempField_x002A_1>
+<s_ColLineage>kNOq8QIAAACQ06rxAgAAAGq5bWoIAAAAkNOq8QEAAACQ06rxAgAAAJDTqvEBAAAA
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{3D83FEC3-BE65-4D83-8786-4DCF437CBC92}</s_GUID>
+<s_Lineage>arltaggAAAA0CceOBwAAAJDTqvEEAAAAAAAAAAAAAAA=
+</s_Lineage>
+</campaign_map_tooltips>
+<campaign_map_tooltips>
+<select_context>missionary</select_context>
+<over_context>non_player_university</over_context>
+<tooltip_line>Right click to enter town</tooltip_line>
+<advice_line>Move your agent here to start converting the population to your political alignment.</advice_line>
+<Gen_TempField_x002A_0>0</Gen_TempField_x002A_0>
+<Gen_TempField_x002A_1>0</Gen_TempField_x002A_1>
+<s_ColLineage>kNOq8QIAAACQ06rxAgAAAGq5bWoIAAAAkNOq8QEAAACQ06rxAgAAAJDTqvEBAAAA
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{E37816A6-CD3C-477A-965D-0EC591307792}</s_GUID>
+<s_Lineage>arltaggAAAA0CceOBwAAAJDTqvEEAAAAAAAAAAAAAAA=
+</s_Lineage>
+</campaign_map_tooltips>
+<campaign_map_tooltips>
+<select_context>missionary</select_context>
+<over_context>player_army</over_context>
+<tooltip_line>Right click to move your agent into this army</tooltip_line>
+<Gen_TempField_x002A_0>0</Gen_TempField_x002A_0>
+<Gen_TempField_x002A_1>0</Gen_TempField_x002A_1>
+<s_ColLineage>kNOq8QIAAACQ06rxAgAAAJDTqvEEAAAAkNOq8QEAAACQ06rxAgAAAJDTqvEBAAAA
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{D595F2E5-930E-4F33-B8CA-87BF12327015}</s_GUID>
+<s_Lineage>kNOq8QQAAAAAAAAAAAAAAA==
+</s_Lineage>
+</campaign_map_tooltips>
+<campaign_map_tooltips>
+<select_context>missionary</select_context>
+<over_context>player_army_can_ambush</over_context>
+<tooltip_line>Right click to move your agent into this army</tooltip_line>
+<Gen_TempField_x002A_0>0</Gen_TempField_x002A_0>
+<Gen_TempField_x002A_1>0</Gen_TempField_x002A_1>
+<s_ColLineage>W4e7tQIAAABbh7u1AgAAAFuHu7UCAAAAW4e7tQEAAABbh7u1AgAAAFuHu7UBAAAA
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{FB4CA2DC-F9BB-4532-966E-579DA84992DF}</s_GUID>
+<s_Lineage>W4e7tQIAAAAAAAAAAAAAAA==
+</s_Lineage>
+</campaign_map_tooltips>
+<campaign_map_tooltips>
+<select_context>missionary</select_context>
+<over_context>player_navy</over_context>
+<tooltip_line>Right click to embark</tooltip_line>
+<advice_line>Move your agent onto a ship to carry him across the sea and spread his message abroad.</advice_line>
+<Gen_TempField_x002A_0>0</Gen_TempField_x002A_0>
+<Gen_TempField_x002A_1>0</Gen_TempField_x002A_1>
+<s_ColLineage>kNOq8QIAAACQ06rxAgAAADQJx44HAAAAkNOq8QEAAACQ06rxAgAAAJDTqvEBAAAA
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{84A20474-1E8E-492F-AE97-A36F1D74F494}</s_GUID>
+<s_Lineage>NAnHjgcAAACQ06rxBgAAAAAAAAAAAAAA
+</s_Lineage>
+</campaign_map_tooltips>
+<campaign_map_tooltips>
+<select_context>missionary</select_context>
+<over_context>player_port</over_context>
+<tooltip_line>Right click to enter port</tooltip_line>
+<advice_line>Move your agent here to start converting the population to your political alignment.</advice_line>
+<Gen_TempField_x002A_0>0</Gen_TempField_x002A_0>
+<Gen_TempField_x002A_1>0</Gen_TempField_x002A_1>
+<s_ColLineage>kNOq8QIAAACQ06rxAgAAAGq5bWoGAAAAkNOq8QEAAACQ06rxAgAAAJDTqvEBAAAA
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{DB42952C-B5D0-4F9D-B59B-41ACC2B3D91E}</s_GUID>
+<s_Lineage>arltagYAAAA0CceOBQAAAJDTqvEEAAAAAAAAAAAAAAA=
+</s_Lineage>
+</campaign_map_tooltips>
+<campaign_map_tooltips>
+<select_context>missionary</select_context>
+<over_context>player_region_capital</over_context>
+<tooltip_line>Right click to enter city</tooltip_line>
+<advice_line>Move your agent here to start converting the population to your political alignment.</advice_line>
+<Gen_TempField_x002A_0>0</Gen_TempField_x002A_0>
+<Gen_TempField_x002A_1>0</Gen_TempField_x002A_1>
+<s_ColLineage>kNOq8QIAAACQ06rxAgAAAGq5bWoIAAAAkNOq8QEAAACQ06rxAgAAAJDTqvEBAAAA
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{34C48626-0C6A-46EA-B9BB-D25565B28F97}</s_GUID>
+<s_Lineage>arltaggAAAA0CceOBwAAAJDTqvEGAAAAAAAAAAAAAAA=
+</s_Lineage>
+</campaign_map_tooltips>
+<campaign_map_tooltips>
+<select_context>missionary</select_context>
+<over_context>player_resource</over_context>
+<tooltip_line>Right click to enter</tooltip_line>
+<advice_line>Move your agent here to start converting the population to your political alignment.</advice_line>
+<Gen_TempField_x002A_0>0</Gen_TempField_x002A_0>
+<Gen_TempField_x002A_1>0</Gen_TempField_x002A_1>
+<s_ColLineage>kNOq8QIAAACQ06rxAgAAAGq5bWoGAAAAkNOq8QEAAACQ06rxAgAAAJDTqvEBAAAA
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{E043D179-D2CF-4BB6-AFC1-914F563178BB}</s_GUID>
+<s_Lineage>arltagYAAAA0CceOBQAAAJDTqvEEAAAAAAAAAAAAAAA=
+</s_Lineage>
+</campaign_map_tooltips>
+<campaign_map_tooltips>
+<select_context>missionary</select_context>
+<over_context>player_town</over_context>
+<tooltip_line>Right click to enter town</tooltip_line>
+<advice_line>Move your agent here to start converting the population to your political alignment.</advice_line>
+<Gen_TempField_x002A_0>0</Gen_TempField_x002A_0>
+<Gen_TempField_x002A_1>0</Gen_TempField_x002A_1>
+<s_ColLineage>kNOq8QIAAACQ06rxAgAAAGq5bWoGAAAAkNOq8QEAAACQ06rxAgAAAJDTqvEBAAAA
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{6E153197-830F-4B57-9E68-2039C1CFFE0D}</s_GUID>
+<s_Lineage>arltagYAAAA0CceOBQAAAJDTqvEEAAAAAAAAAAAAAAA=
+</s_Lineage>
+</campaign_map_tooltips>
+<campaign_map_tooltips>
+<select_context>missionary</select_context>
+<over_context>player_university</over_context>
+<tooltip_line>Right click to enter town</tooltip_line>
+<advice_line>Move your agent here to start converting the population to your political alignment.</advice_line>
+<Gen_TempField_x002A_0>0</Gen_TempField_x002A_0>
+<Gen_TempField_x002A_1>0</Gen_TempField_x002A_1>
+<s_ColLineage>kNOq8QIAAACQ06rxAgAAAGq5bWoGAAAAkNOq8QEAAACQ06rxAgAAAJDTqvEBAAAA
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{A7A91F50-4B71-44AE-BE99-9DA7FDD329B5}</s_GUID>
+<s_Lineage>arltagYAAAA0CceOBQAAAJDTqvEEAAAAAAAAAAAAAAA=
+</s_Lineage>
+</campaign_map_tooltips>
+<campaign_map_tooltips>
+<select_context>navy_empty</select_context>
+<over_context>non_player_army</over_context>
+<tooltip_line>Your navy cannot attack an army</tooltip_line>
+<Gen_TempField_x002A_0>0</Gen_TempField_x002A_0>
+<Gen_TempField_x002A_1>0</Gen_TempField_x002A_1>
+<s_ColLineage>kNOq8QIAAACQ06rxAgAAAJDTqvEEAAAAkNOq8QEAAACQ06rxAgAAAJDTqvEBAAAA
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{6551078D-65FE-4E92-BC8F-0E4165470B3F}</s_GUID>
+<s_Lineage>kNOq8QQAAAAAAAAAAAAAAA==
+</s_Lineage>
+</campaign_map_tooltips>
+<campaign_map_tooltips>
+<select_context>navy_empty</select_context>
+<over_context>non_player_navy_at_sea</over_context>
+<tooltip_line>Right click to attack target</tooltip_line>
+<advice_line>Before attacking a navy you can view the size of their fleet by looking at the number of pips by the side of their national flag.</advice_line>
+<Gen_TempField_x002A_0>0</Gen_TempField_x002A_0>
+<Gen_TempField_x002A_1>0</Gen_TempField_x002A_1>
+<s_ColLineage>kNOq8QIAAACQ06rxAgAAAJDTqvEHAAAAkNOq8QEAAACQ06rxAgAAAJDTqvEBAAAA
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{6A9CBA27-515A-469B-9645-FFF55A7CF971}</s_GUID>
+<s_Lineage>kNOq8QcAAAAAAAAAAAAAAA==
+</s_Lineage>
+</campaign_map_tooltips>
+<campaign_map_tooltips>
+<select_context>navy_empty</select_context>
+<over_context>non_player_navy_in_port</over_context>
+<tooltip_line>Right click to blockade in port</tooltip_line>
+<advice_line>Blockading this port is an act of war and will prevent the owning nation from using it for any existing trade routes.</advice_line>
+<Gen_TempField_x002A_0>0</Gen_TempField_x002A_0>
+<Gen_TempField_x002A_1>0</Gen_TempField_x002A_1>
+<s_ColLineage>kNOq8QIAAACQ06rxAgAAAJDTqvEFAAAAkNOq8QEAAACQ06rxAgAAAJDTqvEBAAAA
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{50DFE553-B060-4EE1-AE0E-7DEE10C3700F}</s_GUID>
+<s_Lineage>kNOq8QUAAAAAAAAAAAAAAA==
+</s_Lineage>
+</campaign_map_tooltips>
+<campaign_map_tooltips>
+<select_context>navy_empty</select_context>
+<over_context>non_player_port_occupied</over_context>
+<tooltip_line>Right click to blockade port</tooltip_line>
+<advice_line>Blockading this port is an act of war and will prevent the owning nation from using it for any existing trade routes.</advice_line>
+<Gen_TempField_x002A_0>0</Gen_TempField_x002A_0>
+<Gen_TempField_x002A_1>0</Gen_TempField_x002A_1>
+<s_ColLineage>kNOq8QIAAACQ06rxAgAAAJDTqvEGAAAAkNOq8QEAAACQ06rxAgAAAJDTqvEBAAAA
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{F5FEAD5D-D7EE-4763-8FEB-16587199CA8C}</s_GUID>
+<s_Lineage>kNOq8QYAAAAAAAAAAAAAAA==
+</s_Lineage>
+</campaign_map_tooltips>
+<campaign_map_tooltips>
+<select_context>navy_empty</select_context>
+<over_context>non_player_port_unoccupied</over_context>
+<tooltip_line>Right click capture port</tooltip_line>
+<Gen_TempField_x002A_0>0</Gen_TempField_x002A_0>
+<Gen_TempField_x002A_1>0</Gen_TempField_x002A_1>
+<s_ColLineage>kNOq8QIAAACQ06rxAgAAAJDTqvEGAAAAkNOq8QEAAACQ06rxAgAAAJDTqvEBAAAA
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{5D2C5814-F91D-4A90-9B0F-55CEDB30A8BF}</s_GUID>
+<s_Lineage>kNOq8QYAAAAAAAAAAAAAAA==
+</s_Lineage>
+</campaign_map_tooltips>
+<campaign_map_tooltips>
+<select_context>navy_empty</select_context>
+<over_context>non_player_region_capital</over_context>
+<tooltip_line>Your navy cannot attack cities</tooltip_line>
+<Gen_TempField_x002A_0>0</Gen_TempField_x002A_0>
+<Gen_TempField_x002A_1>0</Gen_TempField_x002A_1>
+<s_ColLineage>kNOq8QIAAACQ06rxAgAAAJDTqvEEAAAAkNOq8QEAAACQ06rxAgAAAJDTqvEBAAAA
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{9935C992-0386-42A6-B99D-D55B79568E79}</s_GUID>
+<s_Lineage>kNOq8QQAAAAAAAAAAAAAAA==
+</s_Lineage>
+</campaign_map_tooltips>
+<campaign_map_tooltips>
+<select_context>navy_empty</select_context>
+<over_context>non_player_resource</over_context>
+<tooltip_line>Your navy cannot attack this</tooltip_line>
+<Gen_TempField_x002A_0>0</Gen_TempField_x002A_0>
+<Gen_TempField_x002A_1>0</Gen_TempField_x002A_1>
+<s_ColLineage>kNOq8QIAAACQ06rxAgAAAJDTqvEEAAAAkNOq8QEAAACQ06rxAgAAAJDTqvEBAAAA
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{A335FE57-18D7-47C5-B47D-B4C53A26F8D2}</s_GUID>
+<s_Lineage>kNOq8QQAAAAAAAAAAAAAAA==
+</s_Lineage>
+</campaign_map_tooltips>
+<campaign_map_tooltips>
+<select_context>navy_empty</select_context>
+<over_context>non_player_sea_trade_route</over_context>
+<tooltip_line>Right click to raid trade route</tooltip_line>
+<advice_line>Raiding trade routes will supply your nation with someone elses hard earned money. Your navy must stay on the trade route for one turn to carry out the raid.</advice_line>
+<Gen_TempField_x002A_0>0</Gen_TempField_x002A_0>
+<Gen_TempField_x002A_1>0</Gen_TempField_x002A_1>
+<s_ColLineage>kNOq8QIAAACQ06rxAgAAAJDTqvEHAAAAkNOq8QEAAACQ06rxAgAAAJDTqvEBAAAA
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{13E88620-5B95-424B-A505-FFD0EF4C5975}</s_GUID>
+<s_Lineage>kNOq8QcAAAAAAAAAAAAAAA==
+</s_Lineage>
+</campaign_map_tooltips>
+<campaign_map_tooltips>
+<select_context>navy_empty</select_context>
+<over_context>non_player_town</over_context>
+<tooltip_line>Your navy cannot attack towns</tooltip_line>
+<Gen_TempField_x002A_0>0</Gen_TempField_x002A_0>
+<Gen_TempField_x002A_1>0</Gen_TempField_x002A_1>
+<s_ColLineage>kNOq8QIAAACQ06rxAgAAAJDTqvEEAAAAkNOq8QEAAACQ06rxAgAAAJDTqvEBAAAA
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{FDDF75B9-CE27-4FAC-980A-9BB5B338CEAD}</s_GUID>
+<s_Lineage>kNOq8QQAAAAAAAAAAAAAAA==
+</s_Lineage>
+</campaign_map_tooltips>
+<campaign_map_tooltips>
+<select_context>navy_empty</select_context>
+<over_context>non_player_university</over_context>
+<tooltip_line>Your navy cannot attack towns</tooltip_line>
+<Gen_TempField_x002A_0>0</Gen_TempField_x002A_0>
+<Gen_TempField_x002A_1>0</Gen_TempField_x002A_1>
+<s_ColLineage>kNOq8QIAAACQ06rxAgAAAJDTqvEEAAAAkNOq8QEAAACQ06rxAgAAAJDTqvEBAAAA
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{D6448667-1E02-4531-985C-BBA4C2C154AC}</s_GUID>
+<s_Lineage>kNOq8QQAAAAAAAAAAAAAAA==
+</s_Lineage>
+</campaign_map_tooltips>
+<campaign_map_tooltips>
+<select_context>navy_empty</select_context>
+<over_context>player_army</over_context>
+<tooltip_line>Select and move army to embark</tooltip_line>
+<advice_line>Not only can Ships carry your armies across the sea, but they are also much faster than marching. Send them across the coast close to your destination for a short cut.</advice_line>
+<Gen_TempField_x002A_0>0</Gen_TempField_x002A_0>
+<Gen_TempField_x002A_1>0</Gen_TempField_x002A_1>
+<s_ColLineage>kNOq8QIAAACQ06rxAgAAAJDTqvEHAAAAkNOq8QEAAACQ06rxAgAAAJDTqvEBAAAA
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{D7A0248E-E8C8-4CF5-B926-1B89D7832422}</s_GUID>
+<s_Lineage>kNOq8QcAAAAAAAAAAAAAAA==
+</s_Lineage>
+</campaign_map_tooltips>
+<campaign_map_tooltips>
+<select_context>navy_empty</select_context>
+<over_context>player_army_can_ambush</over_context>
+<tooltip_line>Select and move army to embark</tooltip_line>
+<advice_line>Not only can Ships carry your armies across the sea, but they are also much faster than marching. Send them across the coast close to your destination for a short cut.</advice_line>
+<Gen_TempField_x002A_0>0</Gen_TempField_x002A_0>
+<Gen_TempField_x002A_1>0</Gen_TempField_x002A_1>
+<s_ColLineage>W4e7tQIAAABbh7u1AgAAAFuHu7UCAAAAW4e7tQEAAABbh7u1AgAAAFuHu7UBAAAA
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{1E63F4B9-FB9C-494D-8E56-FE26C253F54A}</s_GUID>
+<s_Lineage>W4e7tQIAAAAAAAAAAAAAAA==
+</s_Lineage>
+</campaign_map_tooltips>
+<campaign_map_tooltips>
+<select_context>navy_empty</select_context>
+<over_context>player_navy</over_context>
+<tooltip_line>Right click to merge fleets</tooltip_line>
+<advice_line>Merge fleets to create a larger navy, or to replenish a navy with more experienced ships.</advice_line>
+<Gen_TempField_x002A_0>0</Gen_TempField_x002A_0>
+<Gen_TempField_x002A_1>0</Gen_TempField_x002A_1>
+<s_ColLineage>kNOq8QIAAACQ06rxAgAAAJDTqvEEAAAAkNOq8QEAAACQ06rxAgAAAJDTqvEBAAAA
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{72E876BE-ADE5-40AF-AC50-FDAA8D14D27C}</s_GUID>
+<s_Lineage>kNOq8QQAAAAAAAAAAAAAAA==
+</s_Lineage>
+</campaign_map_tooltips>
+<campaign_map_tooltips>
+<select_context>navy_empty</select_context>
+<over_context>player_port</over_context>
+<tooltip_line>Right click to enter port</tooltip_line>
+<advice_line>Dock here to replenish your navy or carry out repairs.</advice_line>
+<Gen_TempField_x002A_0>0</Gen_TempField_x002A_0>
+<Gen_TempField_x002A_1>0</Gen_TempField_x002A_1>
+<s_ColLineage>kNOq8QIAAACQ06rxAgAAAJDTqvEGAAAAkNOq8QEAAACQ06rxAgAAAJDTqvEBAAAA
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{3D5A2817-EBB7-4B04-A26E-EF038602CBD4}</s_GUID>
+<s_Lineage>kNOq8QYAAAAAAAAAAAAAAA==
+</s_Lineage>
+</campaign_map_tooltips>
+<campaign_map_tooltips>
+<select_context>navy_empty</select_context>
+<over_context>player_region_capital</over_context>
+<tooltip_line>Dock your navy in a port</tooltip_line>
+<advice_line>Dock your navy in a port to replenish you fleet and carry out repairs</advice_line>
+<Gen_TempField_x002A_0>0</Gen_TempField_x002A_0>
+<Gen_TempField_x002A_1>0</Gen_TempField_x002A_1>
+<s_ColLineage>kNOq8QIAAACQ06rxAgAAAJDTqvEEAAAAkNOq8QEAAACQ06rxAgAAAJDTqvEBAAAA
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{2C886E22-9A5D-404B-BA8F-89EBC895AF7F}</s_GUID>
+<s_Lineage>kNOq8QQAAAAAAAAAAAAAAA==
+</s_Lineage>
+</campaign_map_tooltips>
+<campaign_map_tooltips>
+<select_context>navy_empty</select_context>
+<over_context>player_resource</over_context>
+<tooltip_line>Dock your navy in a port</tooltip_line>
+<advice_line>Dock your navy in a port to replenish you fleet and carry out repairs</advice_line>
+<Gen_TempField_x002A_0>0</Gen_TempField_x002A_0>
+<Gen_TempField_x002A_1>0</Gen_TempField_x002A_1>
+<s_ColLineage>kNOq8QIAAACQ06rxAgAAAJDTqvEEAAAAkNOq8QEAAACQ06rxAgAAAJDTqvEBAAAA
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{31CBC260-9AD1-4AA3-A6C4-F770BCC51E43}</s_GUID>
+<s_Lineage>kNOq8QQAAAAAAAAAAAAAAA==
+</s_Lineage>
+</campaign_map_tooltips>
+<campaign_map_tooltips>
+<select_context>navy_empty</select_context>
+<over_context>player_town</over_context>
+<tooltip_line>Dock your navy in a port</tooltip_line>
+<advice_line>Dock your navy in a port to replenish you fleet and carry out repairs</advice_line>
+<Gen_TempField_x002A_0>0</Gen_TempField_x002A_0>
+<Gen_TempField_x002A_1>0</Gen_TempField_x002A_1>
+<s_ColLineage>kNOq8QIAAACQ06rxAgAAAJDTqvEEAAAAkNOq8QEAAACQ06rxAgAAAJDTqvEBAAAA
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{C1789561-0693-4590-9E01-F54945909541}</s_GUID>
+<s_Lineage>kNOq8QQAAAAAAAAAAAAAAA==
+</s_Lineage>
+</campaign_map_tooltips>
+<campaign_map_tooltips>
+<select_context>navy_empty</select_context>
+<over_context>player_university</over_context>
+<tooltip_line>Dock your navy in a port</tooltip_line>
+<advice_line>Dock your navy in a port to replenish you fleet and carry out repairs</advice_line>
+<Gen_TempField_x002A_0>0</Gen_TempField_x002A_0>
+<Gen_TempField_x002A_1>0</Gen_TempField_x002A_1>
+<s_ColLineage>kNOq8QIAAACQ06rxAgAAAJDTqvEEAAAAkNOq8QEAAACQ06rxAgAAAJDTqvEBAAAA
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{619B3AEC-18D8-4CC9-9947-0FC7C5B0FBF7}</s_GUID>
+<s_Lineage>kNOq8QQAAAAAAAAAAAAAAA==
+</s_Lineage>
+</campaign_map_tooltips>
+<campaign_map_tooltips>
+<select_context>navy_empty</select_context>
+<over_context>sea</over_context>
+<tooltip_line>Right click to sail here</tooltip_line>
+<Gen_TempField_x002A_0>0</Gen_TempField_x002A_0>
+<Gen_TempField_x002A_1>0</Gen_TempField_x002A_1>
+<s_ColLineage>kNOq8QIAAACQ06rxAgAAAJDTqvEEAAAAkNOq8QEAAACQ06rxAgAAAJDTqvEBAAAA
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{7336166E-F193-475C-B881-59A114E504DD}</s_GUID>
+<s_Lineage>kNOq8QQAAAAAAAAAAAAAAA==
+</s_Lineage>
+</campaign_map_tooltips>
+<campaign_map_tooltips>
+<select_context>navy_empty</select_context>
+<over_context>sea_trade_post</over_context>
+<tooltip_line>This navy cannot create trade routes</tooltip_line>
+<advice_line>This navy contains no trade ships. To create a trade route move one of your trade ships into this trade port. However, you can use this navy to defend the post.</advice_line>
+<Gen_TempField_x002A_0>0</Gen_TempField_x002A_0>
+<Gen_TempField_x002A_1>0</Gen_TempField_x002A_1>
+<s_ColLineage>kNOq8QIAAACQ06rxAgAAAJDTqvEFAAAAkNOq8QEAAAA0CceOBgAAAJDTqvEBAAAA
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{046F37BE-AB23-44F1-9342-EF3AA41C6703}</s_GUID>
+<s_Lineage>NAnHjgYAAACQ06rxBQAAAAAAAAAAAAAA
+</s_Lineage>
+</campaign_map_tooltips>
+<campaign_map_tooltips>
+<select_context>navy_empty</select_context>
+<over_context>sea_trade_post_can_attack</over_context>
+<tooltip_line>Right click to attack navy</tooltip_line>
+<advice_line>A successful attack will allow you to occupy this trade post with trade ships</advice_line>
+<Gen_TempField_x002A_0>0</Gen_TempField_x002A_0>
+<Gen_TempField_x002A_1>0</Gen_TempField_x002A_1>
+<s_ColLineage>W4e7tQIAAABbh7u1AgAAAGq5bWoEAAAAW4e7tQEAAABquW1qBAAAAFuHu7UBAAAA
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{8E23FB82-6836-4B9A-9F3D-999A96C22609}</s_GUID>
+<s_Lineage>arltagQAAABbh7u1AwAAAAAAAAAAAAAA
+</s_Lineage>
+</campaign_map_tooltips>
+<campaign_map_tooltips>
+<select_context>navy_empty</select_context>
+<over_context>theatre_transition</over_context>
+<tooltip_line>Right click to sail to a different theatre</tooltip_line>
+<advice_line>There are three different theatres: Europe, America and India. There are also trade theatres where you will find trade posts. Entering a transition zone will bring up the Travel Destinations panel which will help you move between them.</advice_line>
+<Gen_TempField_x002A_0>0</Gen_TempField_x002A_0>
+<Gen_TempField_x002A_1>0</Gen_TempField_x002A_1>
+<s_ColLineage>kNOq8QIAAACQ06rxAgAAAJDTqvEHAAAAkNOq8QEAAACQ06rxAgAAAJDTqvEBAAAA
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{7320E5D8-2630-41B1-B65B-3119EF864F9C}</s_GUID>
+<s_Lineage>kNOq8QcAAAAAAAAAAAAAAA==
+</s_Lineage>
+</campaign_map_tooltips>
+<campaign_map_tooltips>
+<select_context>navy_that_can_trade</select_context>
+<over_context>sea_trade_post</over_context>
+<tooltip_line>Right click to enter trade post</tooltip_line>
+<advice_line>Occupying a trading post with a trade ship will generate a new trade route. You may want to defend your trade posts with armed ships as they are valuable and can come under attack.</advice_line>
+<Gen_TempField_x002A_0>0</Gen_TempField_x002A_0>
+<Gen_TempField_x002A_1>0</Gen_TempField_x002A_1>
+<s_ColLineage>kNOq8QIAAACQ06rxBAAAAJDTqvEDAAAAkNOq8QEAAACQ06rxAgAAAJDTqvEBAAAA
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{53E4D656-1E78-4005-B2E5-0808E6F86978}</s_GUID>
+<s_Lineage>kNOq8QQAAAAAAAAAAAAAAA==
+</s_Lineage>
+</campaign_map_tooltips>
+<campaign_map_tooltips>
+<select_context>navy_that_can_trade</select_context>
+<over_context>sea_trade_post_can_attack</over_context>
+<tooltip_line>Right click to attack navy in trade post</tooltip_line>
+<advice_line>A successful attack will allow you to occupy this trade post with trade ships</advice_line>
+<Gen_TempField_x002A_0>0</Gen_TempField_x002A_0>
+<Gen_TempField_x002A_1>0</Gen_TempField_x002A_1>
+<s_ColLineage>W4e7tQIAAABbh7u1AgAAAGq5bWoFAAAAW4e7tQEAAABquW1qBQAAAFuHu7UBAAAA
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{7CE1B01A-5601-4D9B-8185-0A6DF68B2887}</s_GUID>
+<s_Lineage>arltagUAAABbh7u1BAAAAAAAAAAAAAAA
+</s_Lineage>
+</campaign_map_tooltips>
+<campaign_map_tooltips>
+<select_context>navy_transporting</select_context>
+<over_context>land_can_disembark</over_context>
+<tooltip_line>Right click to disembark</tooltip_line>
+<Gen_TempField_x002A_0>0</Gen_TempField_x002A_0>
+<Gen_TempField_x002A_1>0</Gen_TempField_x002A_1>
+<s_ColLineage>kNOq8QIAAACQ06rxAgAAAJDTqvEEAAAAkNOq8QEAAACQ06rxAgAAAJDTqvEBAAAA
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{7590D595-7F19-4869-B0BB-6550D06FB0E6}</s_GUID>
+<s_Lineage>kNOq8QQAAAAAAAAAAAAAAA==
+</s_Lineage>
+</campaign_map_tooltips>
+<campaign_map_tooltips>
+<select_context>navy_transporting</select_context>
+<over_context>land_can_disembark_can_ambush</over_context>
+<tooltip_line>Right click to disembark</tooltip_line>
+<Gen_TempField_x002A_0>0</Gen_TempField_x002A_0>
+<Gen_TempField_x002A_1>0</Gen_TempField_x002A_1>
+<s_ColLineage>W4e7tQIAAABbh7u1AgAAAFuHu7UCAAAAW4e7tQEAAABbh7u1AgAAAFuHu7UBAAAA
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{E9C5F54F-8761-4401-9278-42BC1F540BF4}</s_GUID>
+<s_Lineage>W4e7tQIAAAAAAAAAAAAAAA==
+</s_Lineage>
+</campaign_map_tooltips>
+<campaign_map_tooltips>
+<select_context>navy_transporting</select_context>
+<over_context>land_cannot_disembark</over_context>
+<tooltip_line>Disembark by clicking on a port or the coast</tooltip_line>
+<Gen_TempField_x002A_0>0</Gen_TempField_x002A_0>
+<Gen_TempField_x002A_1>0</Gen_TempField_x002A_1>
+<s_ColLineage>kNOq8QIAAACQ06rxAgAAAJDTqvEGAAAAkNOq8QEAAACQ06rxAgAAAJDTqvEBAAAA
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{7BD75078-1E5F-4975-B6DE-2465D899DFD4}</s_GUID>
+<s_Lineage>kNOq8QYAAAAAAAAAAAAAAA==
+</s_Lineage>
+</campaign_map_tooltips>
+<campaign_map_tooltips>
+<select_context>navy_transporting</select_context>
+<over_context>land_cannot_disembark_can_ambush</over_context>
+<tooltip_line>Disembark by clicking on a port or the coast</tooltip_line>
+<Gen_TempField_x002A_0>0</Gen_TempField_x002A_0>
+<Gen_TempField_x002A_1>0</Gen_TempField_x002A_1>
+<s_ColLineage>W4e7tQIAAABbh7u1AgAAAFuHu7UCAAAAW4e7tQEAAABbh7u1AgAAAFuHu7UBAAAA
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{82756ED8-1C3B-4204-AA8F-A67CE5CFA393}</s_GUID>
+<s_Lineage>W4e7tQIAAAAAAAAAAAAAAA==
+</s_Lineage>
+</campaign_map_tooltips>
+<campaign_map_tooltips>
+<select_context>navy_transporting</select_context>
+<over_context>non_player_army</over_context>
+<tooltip_line>Your navy cannot attack an army</tooltip_line>
+<Gen_TempField_x002A_0>0</Gen_TempField_x002A_0>
+<Gen_TempField_x002A_1>0</Gen_TempField_x002A_1>
+<s_ColLineage>kNOq8QIAAACQ06rxAgAAAJDTqvEEAAAAkNOq8QEAAACQ06rxAgAAAJDTqvEBAAAA
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{A62534D4-5461-41A0-875C-E2E591AA9E2D}</s_GUID>
+<s_Lineage>kNOq8QQAAAAAAAAAAAAAAA==
+</s_Lineage>
+</campaign_map_tooltips>
+<campaign_map_tooltips>
+<select_context>navy_transporting</select_context>
+<over_context>non_player_land_trade_route</over_context>
+<tooltip_line>Disembark by clicking on a port or the coast</tooltip_line>
+<Gen_TempField_x002A_0>0</Gen_TempField_x002A_0>
+<Gen_TempField_x002A_1>0</Gen_TempField_x002A_1>
+<s_ColLineage>kNOq8QIAAACQ06rxAgAAAJDTqvEEAAAAkNOq8QEAAACQ06rxAgAAAJDTqvEBAAAA
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{EEC044E9-4AD0-4BB2-A22A-1E75C7777108}</s_GUID>
+<s_Lineage>kNOq8QQAAAAAAAAAAAAAAA==
+</s_Lineage>
+</campaign_map_tooltips>
+<campaign_map_tooltips>
+<select_context>navy_transporting</select_context>
+<over_context>non_player_navy_at_sea</over_context>
+<tooltip_line>Right click to attack target</tooltip_line>
+<advice_line>Be careful not to lose any ships carrying passengers in battle. If the ship sinks, so will the passengers, and you could lose an entire army!</advice_line>
+<Gen_TempField_x002A_0>0</Gen_TempField_x002A_0>
+<Gen_TempField_x002A_1>0</Gen_TempField_x002A_1>
+<s_ColLineage>kNOq8QIAAACQ06rxAgAAADQJx44JAAAAkNOq8QEAAACQ06rxAgAAAJDTqvEBAAAA
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{02E85377-EE32-46AD-8648-370D0951D64F}</s_GUID>
+<s_Lineage>NAnHjgkAAACQ06rxCAAAAAAAAAAAAAAA
+</s_Lineage>
+</campaign_map_tooltips>
+<campaign_map_tooltips>
+<select_context>navy_transporting</select_context>
+<over_context>non_player_navy_in_port</over_context>
+<tooltip_line>Right click to blockade in port</tooltip_line>
+<advice_line>Blockading this port is an act of war and will prevent the owning faction from using it for any existing trade routes.</advice_line>
+<Gen_TempField_x002A_0>0</Gen_TempField_x002A_0>
+<Gen_TempField_x002A_1>0</Gen_TempField_x002A_1>
+<s_ColLineage>kNOq8QIAAACQ06rxAgAAAJDTqvEEAAAAkNOq8QEAAACQ06rxAgAAAJDTqvEBAAAA
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{A905963A-77E3-47D0-B462-275CBE0DEF0A}</s_GUID>
+<s_Lineage>kNOq8QQAAAAAAAAAAAAAAA==
+</s_Lineage>
+</campaign_map_tooltips>
+<campaign_map_tooltips>
+<select_context>navy_transporting</select_context>
+<over_context>non_player_port_occupied</over_context>
+<tooltip_line>Right click to blockade port</tooltip_line>
+<advice_line>Blockading this port is an act of war and will prevent the owning faction from using it for any existing trade routes.</advice_line>
+<Gen_TempField_x002A_0>0</Gen_TempField_x002A_0>
+<Gen_TempField_x002A_1>0</Gen_TempField_x002A_1>
+<s_ColLineage>kNOq8QIAAACQ06rxAgAAAJDTqvEEAAAAkNOq8QEAAACQ06rxAgAAAJDTqvEBAAAA
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{BE6882F1-A394-4198-AF9F-373DB0A1D452}</s_GUID>
+<s_Lineage>kNOq8QQAAAAAAAAAAAAAAA==
+</s_Lineage>
+</campaign_map_tooltips>
+<campaign_map_tooltips>
+<select_context>navy_transporting</select_context>
+<over_context>non_player_port_unoccupied</over_context>
+<tooltip_line>Right click capture port</tooltip_line>
+<Gen_TempField_x002A_0>0</Gen_TempField_x002A_0>
+<Gen_TempField_x002A_1>0</Gen_TempField_x002A_1>
+<s_ColLineage>kNOq8QIAAACQ06rxAgAAAJDTqvEFAAAAkNOq8QEAAACQ06rxAgAAAJDTqvEBAAAA
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{8486D2E7-2033-45A5-8395-DA893A9E9CC4}</s_GUID>
+<s_Lineage>kNOq8QUAAAAAAAAAAAAAAA==
+</s_Lineage>
+</campaign_map_tooltips>
+<campaign_map_tooltips>
+<select_context>navy_transporting</select_context>
+<over_context>non_player_region_capital</over_context>
+<tooltip_line>Disembark by clicking on a port or the coast</tooltip_line>
+<Gen_TempField_x002A_0>0</Gen_TempField_x002A_0>
+<Gen_TempField_x002A_1>0</Gen_TempField_x002A_1>
+<s_ColLineage>kNOq8QIAAACQ06rxAgAAAJDTqvEEAAAAkNOq8QEAAACQ06rxAgAAAJDTqvEBAAAA
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{124C9EDB-BC65-4381-8413-F5BAF76851B6}</s_GUID>
+<s_Lineage>kNOq8QQAAAAAAAAAAAAAAA==
+</s_Lineage>
+</campaign_map_tooltips>
+<campaign_map_tooltips>
+<select_context>navy_transporting</select_context>
+<over_context>non_player_resource</over_context>
+<tooltip_line>Disembark by clicking on a port or the coast</tooltip_line>
+<Gen_TempField_x002A_0>0</Gen_TempField_x002A_0>
+<Gen_TempField_x002A_1>0</Gen_TempField_x002A_1>
+<s_ColLineage>kNOq8QIAAACQ06rxAgAAAJDTqvEEAAAAkNOq8QEAAACQ06rxAgAAAJDTqvEBAAAA
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{E1945E36-839E-4A5A-947A-DEFAF6E177CA}</s_GUID>
+<s_Lineage>kNOq8QQAAAAAAAAAAAAAAA==
+</s_Lineage>
+</campaign_map_tooltips>
+<campaign_map_tooltips>
+<select_context>navy_transporting</select_context>
+<over_context>non_player_sea_trade_route</over_context>
+<tooltip_line>Right click to raid trade route</tooltip_line>
+<advice_line>Raiding trade routes will supply your nation with someone elses hard earned money.</advice_line>
+<Gen_TempField_x002A_0>0</Gen_TempField_x002A_0>
+<Gen_TempField_x002A_1>0</Gen_TempField_x002A_1>
+<s_ColLineage>kNOq8QIAAACQ06rxAgAAAJDTqvEFAAAAkNOq8QEAAACQ06rxAgAAAJDTqvEBAAAA
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{9EF01502-2ACC-4462-8E64-1613959FA2D9}</s_GUID>
+<s_Lineage>kNOq8QUAAAAAAAAAAAAAAA==
+</s_Lineage>
+</campaign_map_tooltips>
+<campaign_map_tooltips>
+<select_context>navy_transporting</select_context>
+<over_context>non_player_town</over_context>
+<tooltip_line>Disembark by clicking on a port or the coast</tooltip_line>
+<Gen_TempField_x002A_0>0</Gen_TempField_x002A_0>
+<Gen_TempField_x002A_1>0</Gen_TempField_x002A_1>
+<s_ColLineage>kNOq8QIAAACQ06rxAgAAAJDTqvEEAAAAkNOq8QEAAACQ06rxAgAAAJDTqvEBAAAA
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{7F96893C-6940-47A4-98E5-2F9AACFE6E97}</s_GUID>
+<s_Lineage>kNOq8QQAAAAAAAAAAAAAAA==
+</s_Lineage>
+</campaign_map_tooltips>
+<campaign_map_tooltips>
+<select_context>navy_transporting</select_context>
+<over_context>non_player_university</over_context>
+<tooltip_line>Disembark by clicking on a port or the coast</tooltip_line>
+<Gen_TempField_x002A_0>0</Gen_TempField_x002A_0>
+<Gen_TempField_x002A_1>0</Gen_TempField_x002A_1>
+<s_ColLineage>kNOq8QIAAACQ06rxAgAAAJDTqvEEAAAAkNOq8QEAAACQ06rxAgAAAJDTqvEBAAAA
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{C67FE067-870A-45B5-9B4B-E85983604B9F}</s_GUID>
+<s_Lineage>kNOq8QQAAAAAAAAAAAAAAA==
+</s_Lineage>
+</campaign_map_tooltips>
+<campaign_map_tooltips>
+<select_context>navy_transporting</select_context>
+<over_context>player_agent_other</over_context>
+<tooltip_line>Disembark by clicking on a port or the coast</tooltip_line>
+<Gen_TempField_x002A_0>0</Gen_TempField_x002A_0>
+<Gen_TempField_x002A_1>0</Gen_TempField_x002A_1>
+<s_ColLineage>kNOq8QIAAACQ06rxAgAAAJDTqvEEAAAAkNOq8QEAAACQ06rxAgAAAJDTqvEBAAAA
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{E3B43F7C-011B-490B-95B6-C34301296620}</s_GUID>
+<s_Lineage>kNOq8QQAAAAAAAAAAAAAAA==
+</s_Lineage>
+</campaign_map_tooltips>
+<campaign_map_tooltips>
+<select_context>navy_transporting</select_context>
+<over_context>player_army</over_context>
+<tooltip_line>Disembark by clicking on a port or the coast</tooltip_line>
+<Gen_TempField_x002A_0>0</Gen_TempField_x002A_0>
+<Gen_TempField_x002A_1>0</Gen_TempField_x002A_1>
+<s_ColLineage>kNOq8QIAAACQ06rxAgAAAJDTqvEEAAAAkNOq8QEAAACQ06rxAgAAAJDTqvEBAAAA
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{8E0869DF-5DF8-45DA-9DE9-CAE7BF771E43}</s_GUID>
+<s_Lineage>kNOq8QQAAAAAAAAAAAAAAA==
+</s_Lineage>
+</campaign_map_tooltips>
+<campaign_map_tooltips>
+<select_context>navy_transporting</select_context>
+<over_context>player_army_can_ambush</over_context>
+<tooltip_line>Disembark by clicking on a port or the coast</tooltip_line>
+<Gen_TempField_x002A_0>0</Gen_TempField_x002A_0>
+<Gen_TempField_x002A_1>0</Gen_TempField_x002A_1>
+<s_ColLineage>W4e7tQIAAABbh7u1AgAAAFuHu7UCAAAAW4e7tQEAAABbh7u1AgAAAFuHu7UBAAAA
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{0129040A-3590-4150-B6AC-2F8720949727}</s_GUID>
+<s_Lineage>W4e7tQIAAAAAAAAAAAAAAA==
+</s_Lineage>
+</campaign_map_tooltips>
+<campaign_map_tooltips>
+<select_context>navy_transporting</select_context>
+<over_context>player_navy</over_context>
+<tooltip_line>Right click to merge fleets</tooltip_line>
+<advice_line>Merge fleets to create a larger navy, or to replenish a navy with more experienced ships.</advice_line>
+<Gen_TempField_x002A_0>0</Gen_TempField_x002A_0>
+<Gen_TempField_x002A_1>0</Gen_TempField_x002A_1>
+<s_ColLineage>kNOq8QIAAACQ06rxAgAAAJDTqvEFAAAAkNOq8QEAAACQ06rxAgAAAJDTqvEBAAAA
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{AF13199C-BA76-40DF-AF5B-29926C4BD6BA}</s_GUID>
+<s_Lineage>kNOq8QUAAAAAAAAAAAAAAA==
+</s_Lineage>
+</campaign_map_tooltips>
+<campaign_map_tooltips>
+<select_context>navy_transporting</select_context>
+<over_context>player_port</over_context>
+<tooltip_line>Right click to enter port (will not automatically disembark)</tooltip_line>
+<advice_line>Dock here to replenish your navy or carry out repairs.</advice_line>
+<Gen_TempField_x002A_0>0</Gen_TempField_x002A_0>
+<Gen_TempField_x002A_1>0</Gen_TempField_x002A_1>
+<s_ColLineage>kNOq8QIAAACQ06rxAgAAAJDTqvEEAAAAkNOq8QEAAACQ06rxAgAAAJDTqvEBAAAA
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{6AF4AA42-DC4C-4AAC-8A8E-F0222D689CD9}</s_GUID>
+<s_Lineage>kNOq8QQAAAAAAAAAAAAAAA==
+</s_Lineage>
+</campaign_map_tooltips>
+<campaign_map_tooltips>
+<select_context>navy_transporting</select_context>
+<over_context>player_rake</over_context>
+<tooltip_line>Disembark by clicking on a port or the coast</tooltip_line>
+<Gen_TempField_x002A_0>0</Gen_TempField_x002A_0>
+<Gen_TempField_x002A_1>0</Gen_TempField_x002A_1>
+<s_ColLineage>kNOq8QIAAACQ06rxAgAAAJDTqvEEAAAAkNOq8QEAAACQ06rxAgAAAJDTqvEBAAAA
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{1A3F5D82-CAA1-4CDC-B0DD-066CA7A348BC}</s_GUID>
+<s_Lineage>kNOq8QQAAAAAAAAAAAAAAA==
+</s_Lineage>
+</campaign_map_tooltips>
+<campaign_map_tooltips>
+<select_context>navy_transporting</select_context>
+<over_context>player_region_capital</over_context>
+<tooltip_line>Disembark by clicking on a port or the coast</tooltip_line>
+<Gen_TempField_x002A_0>0</Gen_TempField_x002A_0>
+<Gen_TempField_x002A_1>0</Gen_TempField_x002A_1>
+<s_ColLineage>kNOq8QIAAACQ06rxAgAAAJDTqvEEAAAAkNOq8QEAAACQ06rxAgAAAJDTqvEBAAAA
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{E1740367-7E64-426E-B132-636D9E57E8F5}</s_GUID>
+<s_Lineage>kNOq8QQAAAAAAAAAAAAAAA==
+</s_Lineage>
+</campaign_map_tooltips>
+<campaign_map_tooltips>
+<select_context>navy_transporting</select_context>
+<over_context>player_resource</over_context>
+<tooltip_line>Disembark by clicking on a port or the coast</tooltip_line>
+<Gen_TempField_x002A_0>0</Gen_TempField_x002A_0>
+<Gen_TempField_x002A_1>0</Gen_TempField_x002A_1>
+<s_ColLineage>kNOq8QIAAACQ06rxAgAAAJDTqvEEAAAAkNOq8QEAAACQ06rxAgAAAJDTqvEBAAAA
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{128164E7-313E-4A45-9406-714B749D4B96}</s_GUID>
+<s_Lineage>kNOq8QQAAAAAAAAAAAAAAA==
+</s_Lineage>
+</campaign_map_tooltips>
+<campaign_map_tooltips>
+<select_context>navy_transporting</select_context>
+<over_context>player_town</over_context>
+<tooltip_line>Disembark by clicking on a port or the coast</tooltip_line>
+<Gen_TempField_x002A_0>0</Gen_TempField_x002A_0>
+<Gen_TempField_x002A_1>0</Gen_TempField_x002A_1>
+<s_ColLineage>kNOq8QIAAACQ06rxAgAAAJDTqvEEAAAAkNOq8QEAAACQ06rxAgAAAJDTqvEBAAAA
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{00B006FF-501E-4B2E-AAFA-88D5E6E0A0EB}</s_GUID>
+<s_Lineage>kNOq8QQAAAAAAAAAAAAAAA==
+</s_Lineage>
+</campaign_map_tooltips>
+<campaign_map_tooltips>
+<select_context>navy_transporting</select_context>
+<over_context>player_university</over_context>
+<tooltip_line>Disembark by clicking on a port or the coast</tooltip_line>
+<Gen_TempField_x002A_0>0</Gen_TempField_x002A_0>
+<Gen_TempField_x002A_1>0</Gen_TempField_x002A_1>
+<s_ColLineage>kNOq8QIAAACQ06rxAgAAAJDTqvEEAAAAkNOq8QEAAACQ06rxAgAAAJDTqvEBAAAA
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{F49A602D-1D98-4C14-B6F0-67C3F02B3C96}</s_GUID>
+<s_Lineage>kNOq8QQAAAAAAAAAAAAAAA==
+</s_Lineage>
+</campaign_map_tooltips>
+<campaign_map_tooltips>
+<select_context>navy_transporting</select_context>
+<over_context>sea</over_context>
+<tooltip_line>Right click to sail here</tooltip_line>
+<Gen_TempField_x002A_0>0</Gen_TempField_x002A_0>
+<Gen_TempField_x002A_1>0</Gen_TempField_x002A_1>
+<s_ColLineage>kNOq8QIAAACQ06rxAgAAAJDTqvEEAAAAkNOq8QEAAACQ06rxAgAAAJDTqvEBAAAA
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{00F6C093-50E3-45B0-A392-3F6AF06953B4}</s_GUID>
+<s_Lineage>kNOq8QQAAAAAAAAAAAAAAA==
+</s_Lineage>
+</campaign_map_tooltips>
+<campaign_map_tooltips>
+<select_context>navy_transporting</select_context>
+<over_context>sea_trade_post</over_context>
+<tooltip_line>This navy cannot create trade routes</tooltip_line>
+<advice_line>This navy contains no trade ships. To create a trade route move one of your trade ships into this trade port. However, you can use this navy to defend the post.</advice_line>
+<Gen_TempField_x002A_0>0</Gen_TempField_x002A_0>
+<Gen_TempField_x002A_1>0</Gen_TempField_x002A_1>
+<s_ColLineage>kNOq8QIAAACQ06rxAgAAAJDTqvEEAAAAkNOq8QEAAAA0CceOBQAAAJDTqvEBAAAA
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{EF518083-7D04-4049-84A6-BB3C374F6B8F}</s_GUID>
+<s_Lineage>NAnHjgUAAACQ06rxBAAAAAAAAAAAAAAA
+</s_Lineage>
+</campaign_map_tooltips>
+<campaign_map_tooltips>
+<select_context>navy_transporting</select_context>
+<over_context>sea_trade_post_can_attack</over_context>
+<tooltip_line>Right click to attack navy</tooltip_line>
+<advice_line>A successful attack will allow you to occupy this trade post with trade ships</advice_line>
+<Gen_TempField_x002A_0>0</Gen_TempField_x002A_0>
+<Gen_TempField_x002A_1>0</Gen_TempField_x002A_1>
+<s_ColLineage>W4e7tQIAAABbh7u1AgAAAGq5bWoEAAAAW4e7tQEAAABquW1qBAAAAFuHu7UBAAAA
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{9258AE4D-0991-4DCF-84AD-B07C821F1BD5}</s_GUID>
+<s_Lineage>arltagQAAABbh7u1AwAAAAAAAAAAAAAA
+</s_Lineage>
+</campaign_map_tooltips>
+<campaign_map_tooltips>
+<select_context>navy_transporting</select_context>
+<over_context>theatre_transition</over_context>
+<tooltip_line>Right click to sail to a different theatre</tooltip_line>
+<advice_line>There are three different theatres: Europe, America and India. There are also trade theatres where you will find trade posts. Entering a transition zone will bring up the Travel Destinations panel which will help you move between them.</advice_line>
+<Gen_TempField_x002A_0>0</Gen_TempField_x002A_0>
+<Gen_TempField_x002A_1>0</Gen_TempField_x002A_1>
+<s_ColLineage>kNOq8QIAAACQ06rxAgAAAJDTqvEHAAAAkNOq8QEAAACQ06rxAgAAAJDTqvEBAAAA
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{E27A251F-3AD5-4AB9-84B4-F55F167A45F1}</s_GUID>
+<s_Lineage>kNOq8QcAAAAAAAAAAAAAAA==
+</s_Lineage>
+</campaign_map_tooltips>
+<campaign_map_tooltips>
+<select_context>none_or_self</select_context>
+<over_context>navy_that_can_trade</over_context>
+<tooltip_line>Left click to select</tooltip_line>
+<advice_line>Trade ships are used to create trade by occupying trade posts. Use your radar to find the trade theatres that contain these posts.</advice_line>
+<Gen_TempField_x002A_0>0</Gen_TempField_x002A_0>
+<Gen_TempField_x002A_1>0</Gen_TempField_x002A_1>
+<s_ColLineage>kNOq8QIAAACQ06rxAgAAADQJx44GAAAAkNOq8QEAAACQ06rxAwAAAJDTqvEBAAAA
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{B58408C3-25EC-4CE8-9DAB-FBC84723F7F0}</s_GUID>
+<s_Lineage>NAnHjgYAAACQ06rxBQAAAAAAAAAAAAAA
+</s_Lineage>
+</campaign_map_tooltips>
+<campaign_map_tooltips>
+<select_context>none_or_self</select_context>
+<over_context>non_player_agent_other</over_context>
+<tooltip_line>Left click to select, double left click to view their details panel</tooltip_line>
+<advice_line>An agent of another nation.</advice_line>
+<Gen_TempField_x002A_0>0</Gen_TempField_x002A_0>
+<Gen_TempField_x002A_1>0</Gen_TempField_x002A_1>
+<s_ColLineage>kNOq8QIAAACQ06rxAwAAAJDTqvEJAAAAkNOq8QEAAAA0CceOCgAAAJDTqvEBAAAA
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{8CF8F569-E774-4F24-98ED-025EBA48872E}</s_GUID>
+<s_Lineage>NAnHjgoAAACQ06rxCQAAAAAAAAAAAAAA
+</s_Lineage>
+</campaign_map_tooltips>
+<campaign_map_tooltips>
+<select_context>none_or_self</select_context>
+<over_context>non_player_army</over_context>
+<tooltip_line>Left click to select, double left click to view the general&apos;s detail panel</tooltip_line>
+<advice_line>An army from another nation. They can attack your armies, besiege your cities and blockade your ports.</advice_line>
+<Gen_TempField_x002A_0>0</Gen_TempField_x002A_0>
+<Gen_TempField_x002A_1>0</Gen_TempField_x002A_1>
+<s_ColLineage>kNOq8QIAAACQ06rxAwAAAJDTqvELAAAAkNOq8QEAAACQ06rxDQAAAJDTqvEBAAAA
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{6C32A5C2-9C4B-45E4-B224-0060B5D3524F}</s_GUID>
+<s_Lineage>kNOq8Q0AAAAAAAAAAAAAAA==
+</s_Lineage>
+</campaign_map_tooltips>
+<campaign_map_tooltips>
+<select_context>none_or_self</select_context>
+<over_context>non_player_fort</over_context>
+<tooltip_line>Left click to select</tooltip_line>
+<advice_line>A fort belonging to another nation. This offers some temporary protection to armies when they are too far from one of their cities.</advice_line>
+<Gen_TempField_x002A_0>0</Gen_TempField_x002A_0>
+<Gen_TempField_x002A_1>0</Gen_TempField_x002A_1>
+<s_ColLineage>kNOq8QIAAACQ06rxAwAAAJDTqvEKAAAAkNOq8QEAAACQ06rxBgAAAJDTqvEBAAAA
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{A670D9AD-5A8E-4A8A-8A98-EB3DD516549E}</s_GUID>
+<s_Lineage>kNOq8QoAAAAAAAAAAAAAAA==
+</s_Lineage>
+</campaign_map_tooltips>
+<campaign_map_tooltips>
+<select_context>none_or_self</select_context>
+<over_context>non_player_gentleman</over_context>
+<tooltip_line>Left click to select, double left click to view his details panel</tooltip_line>
+<advice_line>He is used to help research technologies for his nation and can also challenge other characters to duels.</advice_line>
+<Gen_TempField_x002A_0>0</Gen_TempField_x002A_0>
+<Gen_TempField_x002A_1>0</Gen_TempField_x002A_1>
+<s_ColLineage>kNOq8QIAAACQ06rxAwAAAJDTqvEOAAAAkNOq8QEAAACQ06rxCwAAAJDTqvEBAAAA
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{D4E4CC36-2644-4719-B849-BF1B0F2D3EC4}</s_GUID>
+<s_Lineage>kNOq8Q4AAAAAAAAAAAAAAA==
+</s_Lineage>
+</campaign_map_tooltips>
+<campaign_map_tooltips>
+<select_context>none_or_self</select_context>
+<over_context>non_player_land_trade_route</over_context>
+<tooltip_line>This is a trade route. These are used for the import and export of trade</tooltip_line>
+<Gen_TempField_x002A_0>0</Gen_TempField_x002A_0>
+<Gen_TempField_x002A_1>0</Gen_TempField_x002A_1>
+<s_ColLineage>kNOq8QIAAACQ06rxAgAAAJDTqvENAAAAkNOq8QEAAACQ06rxDgAAAJDTqvEBAAAA
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{3774ADF4-0B0A-4918-AA1C-3768529653BC}</s_GUID>
+<s_Lineage>kNOq8Q4AAAAAAAAAAAAAAA==
+</s_Lineage>
+</campaign_map_tooltips>
+<campaign_map_tooltips>
+<select_context>none_or_self</select_context>
+<over_context>non_player_navy_at_sea</over_context>
+<tooltip_line>Left click to select, double left click to view the admiral&apos;s details panel</tooltip_line>
+<advice_line>A navy from another nation. They can be used for sea battles,  transporting armies and blockading ports.</advice_line>
+<Gen_TempField_x002A_0>0</Gen_TempField_x002A_0>
+<Gen_TempField_x002A_1>0</Gen_TempField_x002A_1>
+<s_ColLineage>kNOq8QIAAACQ06rxAgAAAJDTqvEIAAAAkNOq8QEAAACQ06rxCQAAAJDTqvEBAAAA
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{4FED15D9-7E99-4DFA-9148-608070DFEB8F}</s_GUID>
+<s_Lineage>kNOq8QkAAAAAAAAAAAAAAA==
+</s_Lineage>
+</campaign_map_tooltips>
+<campaign_map_tooltips>
+<select_context>none_or_self</select_context>
+<over_context>non_player_navy_in_port</over_context>
+<tooltip_line>Left click to select, double left click to view the admiral&apos;s details panel</tooltip_line>
+<advice_line>A navy from another nation. They are currently docked and may be replenishing their fleets or effecting repairs.</advice_line>
+<Gen_TempField_x002A_0>0</Gen_TempField_x002A_0>
+<Gen_TempField_x002A_1>0</Gen_TempField_x002A_1>
+<s_ColLineage>kNOq8QIAAACQ06rxAgAAAJDTqvEGAAAAkNOq8QEAAACQ06rxBwAAAJDTqvEBAAAA
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{863EBCB0-20E3-4740-91C5-BFB30B50A27A}</s_GUID>
+<s_Lineage>kNOq8QcAAAAAAAAAAAAAAA==
+</s_Lineage>
+</campaign_map_tooltips>
+<campaign_map_tooltips>
+<select_context>none_or_self</select_context>
+<over_context>non_player_port_occupied</over_context>
+<tooltip_line>Left click to select</tooltip_line>
+<advice_line>A port belonging to another nation. Ports can be military or trading ports and are used for trading, recruiting, repairing and replenishing navies.</advice_line>
+<Gen_TempField_x002A_0>0</Gen_TempField_x002A_0>
+<Gen_TempField_x002A_1>0</Gen_TempField_x002A_1>
+<s_ColLineage>kNOq8QIAAACQ06rxAgAAAFuHu7UKAAAAkNOq8QEAAACQ06rxBQAAAJDTqvEBAAAA
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{5C4EA6AC-DC56-4323-A25B-F79C7836BA46}</s_GUID>
+<s_Lineage>W4e7tQoAAACQ06rxCAAAAAAAAAAAAAAA
+</s_Lineage>
+</campaign_map_tooltips>
+<campaign_map_tooltips>
+<select_context>none_or_self</select_context>
+<over_context>non_player_port_unoccupied</over_context>
+<tooltip_line>Left click to select</tooltip_line>
+<advice_line>A port belonging to another nation. Ports can be military or trading ports and are used for trading, recruiting, repairing and replenishing navies.</advice_line>
+<Gen_TempField_x002A_0>0</Gen_TempField_x002A_0>
+<Gen_TempField_x002A_1>0</Gen_TempField_x002A_1>
+<s_ColLineage>kNOq8QIAAACQ06rxAgAAAFuHu7UKAAAAkNOq8QEAAACQ06rxBgAAAJDTqvEBAAAA
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{C3E4DE26-F82B-4620-B11E-3155EEB75EC1}</s_GUID>
+<s_Lineage>W4e7tQoAAACQ06rxCAAAAAAAAAAAAAAA
+</s_Lineage>
+</campaign_map_tooltips>
+<campaign_map_tooltips>
+<select_context>none_or_self</select_context>
+<over_context>non_player_rake</over_context>
+<tooltip_line>Left click to select, double left click to view details panel</tooltip_line>
+<advice_line>An agent from another nation. He can be used to assassinate, sabotage, spy and steal.</advice_line>
+<Gen_TempField_x002A_0>0</Gen_TempField_x002A_0>
+<Gen_TempField_x002A_1>0</Gen_TempField_x002A_1>
+<s_ColLineage>kNOq8QIAAACQ06rxAgAAADQJx44LAAAAkNOq8QEAAACQ06rxBgAAAJDTqvEBAAAA
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{80812ADA-DDEE-49AF-8765-410CBDD8550F}</s_GUID>
+<s_Lineage>NAnHjgsAAACQ06rxCgAAAAAAAAAAAAAA
+</s_Lineage>
+</campaign_map_tooltips>
+<campaign_map_tooltips>
+<select_context>none_or_self</select_context>
+<over_context>non_player_region_capital</over_context>
+<tooltip_line>Left click to select</tooltip_line>
+<advice_line>A region capital belonging to another nation.</advice_line>
+<Gen_TempField_x002A_0>0</Gen_TempField_x002A_0>
+<Gen_TempField_x002A_1>0</Gen_TempField_x002A_1>
+<s_ColLineage>kNOq8QIAAACQ06rxAgAAAJDTqvEHAAAAkNOq8QEAAAA0CceOCQAAAJDTqvEBAAAA
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{7AEA79AA-2FB2-4B1E-8D15-BEA67935EDE2}</s_GUID>
+<s_Lineage>NAnHjgkAAACQ06rxBwAAAAAAAAAAAAAA
+</s_Lineage>
+</campaign_map_tooltips>
+<campaign_map_tooltips>
+<select_context>none_or_self</select_context>
+<over_context>non_player_resource</over_context>
+<advice_line>A resource belonging to another nation. Resources are used for farming and trade with other nations.</advice_line>
+<Gen_TempField_x002A_0>0</Gen_TempField_x002A_0>
+<Gen_TempField_x002A_1>0</Gen_TempField_x002A_1>
+<s_ColLineage>kNOq8QIAAACQ06rxAgAAAJDTqvEGAAAAkNOq8QEAAACQ06rxBQAAAJDTqvEBAAAA
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{40DA0C46-DC97-4CC3-8218-E299A580EBD9}</s_GUID>
+<s_Lineage>kNOq8QYAAAAAAAAAAAAAAA==
+</s_Lineage>
+</campaign_map_tooltips>
+<campaign_map_tooltips>
+<select_context>none_or_self</select_context>
+<over_context>non_player_sea_trade_route</over_context>
+<tooltip_line>This is a trade route. These are used for the import and export of trade</tooltip_line>
+<Gen_TempField_x002A_0>0</Gen_TempField_x002A_0>
+<Gen_TempField_x002A_1>0</Gen_TempField_x002A_1>
+<s_ColLineage>kNOq8QIAAACQ06rxAgAAAJDTqvEGAAAAkNOq8QEAAACQ06rxBwAAAJDTqvEBAAAA
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{96A702A7-F1AA-4469-B365-B29077B26880}</s_GUID>
+<s_Lineage>kNOq8QcAAAAAAAAAAAAAAA==
+</s_Lineage>
+</campaign_map_tooltips>
+<campaign_map_tooltips>
+<select_context>none_or_self</select_context>
+<over_context>non_player_town</over_context>
+<tooltip_line>Left click to select</tooltip_line>
+<advice_line>A town belonging to another nation. Towns can be developed along educational, entertainment or industrial chains.</advice_line>
+<Gen_TempField_x002A_0>0</Gen_TempField_x002A_0>
+<Gen_TempField_x002A_1>0</Gen_TempField_x002A_1>
+<s_ColLineage>kNOq8QIAAACQ06rxAgAAAJDTqvEGAAAAkNOq8QEAAACQ06rxBwAAAJDTqvEBAAAA
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{9B1AB253-45A6-43F0-8E6F-638927DCC5EC}</s_GUID>
+<s_Lineage>kNOq8QcAAAAAAAAAAAAAAA==
+</s_Lineage>
+</campaign_map_tooltips>
+<campaign_map_tooltips>
+<select_context>none_or_self</select_context>
+<over_context>non_player_university</over_context>
+<tooltip_line>Left click to select</tooltip_line>
+<advice_line>A university belonging to another nation. Universities provide research into technologies.</advice_line>
+<Gen_TempField_x002A_0>0</Gen_TempField_x002A_0>
+<Gen_TempField_x002A_1>0</Gen_TempField_x002A_1>
+<s_ColLineage>kNOq8QIAAACQ06rxAgAAAJDTqvEDAAAAkNOq8QEAAACQ06rxBAAAAJDTqvEBAAAA
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{97ADBB2E-55EC-4FD8-86A4-B8ED727C94DE}</s_GUID>
+<s_Lineage>kNOq8QQAAAAAAAAAAAAAAA==
+</s_Lineage>
+</campaign_map_tooltips>
+<campaign_map_tooltips>
+<select_context>none_or_self</select_context>
+<over_context>player_agent_other</over_context>
+<tooltip_line>Left click to select, double left click to bring up the details panel</tooltip_line>
+<advice_line>One of your agents.</advice_line>
+<Gen_TempField_x002A_0>0</Gen_TempField_x002A_0>
+<Gen_TempField_x002A_1>0</Gen_TempField_x002A_1>
+<s_ColLineage>kNOq8QIAAACQ06rxAgAAAJDTqvEDAAAAkNOq8QEAAACQ06rxBAAAAJDTqvEBAAAA
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{0DF6ED3E-2577-4297-8F3D-07A7DB5D8A61}</s_GUID>
+<s_Lineage>kNOq8QQAAAAAAAAAAAAAAA==
+</s_Lineage>
+</campaign_map_tooltips>
+<campaign_map_tooltips>
+<select_context>none_or_self</select_context>
+<over_context>player_army</over_context>
+<tooltip_line>Left click to select, double left click to bring up the details panel</tooltip_line>
+<advice_line>One of your armies. Use them to attack armies, besiege cities and blockade ports.</advice_line>
+<Gen_TempField_x002A_0>0</Gen_TempField_x002A_0>
+<Gen_TempField_x002A_1>0</Gen_TempField_x002A_1>
+<s_ColLineage>kNOq8QIAAACQ06rxAgAAAJDTqvEEAAAAkNOq8QEAAACQ06rxBQAAAJDTqvEBAAAA
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{B74D5F7B-02AC-404C-9620-EA09FEDAE497}</s_GUID>
+<s_Lineage>kNOq8QUAAAAAAAAAAAAAAA==
+</s_Lineage>
+</campaign_map_tooltips>
+<campaign_map_tooltips>
+<select_context>none_or_self</select_context>
+<over_context>player_army_can_ambush</over_context>
+<tooltip_line>Left click to select, double left click to bring up the details panel</tooltip_line>
+<advice_line>One of your armies. This army can lay an ambush.</advice_line>
+<Gen_TempField_x002A_0>0</Gen_TempField_x002A_0>
+<Gen_TempField_x002A_1>0</Gen_TempField_x002A_1>
+<s_ColLineage>W4e7tQIAAABbh7u1AgAAAFuHu7UCAAAAW4e7tQEAAABbh7u1AgAAAFuHu7UBAAAA
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{77824BE9-51B5-4E08-A5E7-FBBE554283DA}</s_GUID>
+<s_Lineage>W4e7tQIAAAAAAAAAAAAAAA==
+</s_Lineage>
+</campaign_map_tooltips>
+<campaign_map_tooltips>
+<select_context>none_or_self</select_context>
+<over_context>player_fort</over_context>
+<tooltip_line>Left click to select</tooltip_line>
+<advice_line>One of your forts. These are used to provide temporary protection for your armies.</advice_line>
+<Gen_TempField_x002A_0>0</Gen_TempField_x002A_0>
+<Gen_TempField_x002A_1>0</Gen_TempField_x002A_1>
+<s_ColLineage>kNOq8QIAAACQ06rxAgAAAJDTqvEEAAAAkNOq8QEAAACQ06rxBAAAAJDTqvEBAAAA
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{1085D53A-DCD8-4664-9669-227927B7C84C}</s_GUID>
+<s_Lineage>kNOq8QQAAAAAAAAAAAAAAA==
+</s_Lineage>
+</campaign_map_tooltips>
+<campaign_map_tooltips>
+<select_context>none_or_self</select_context>
+<over_context>player_harbour</over_context>
+<advice_line>Once your region&apos;s population has grown large enough, this harbour will become a port and you will be able to build upon it.</advice_line>
+<Gen_TempField_x002A_0>0</Gen_TempField_x002A_0>
+<Gen_TempField_x002A_1>0</Gen_TempField_x002A_1>
+<s_ColLineage>kNOq8QIAAACQ06rxAgAAAJDTqvECAAAAkNOq8QEAAACQ06rxAgAAAJDTqvEBAAAA
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{61E6C5E9-F8C8-49BC-A873-2C75B85099CB}</s_GUID>
+<s_Lineage>kNOq8QIAAAAAAAAAAAAAAA==
+</s_Lineage>
+</campaign_map_tooltips>
+<campaign_map_tooltips>
+<select_context>none_or_self</select_context>
+<over_context>player_navy</over_context>
+<tooltip_line>Left click to select, double left click to bring up the admiral&apos;s panel</tooltip_line>
+<advice_line>One of your navies. Use them to fight sea battles, transport your armies and blockade ports.</advice_line>
+<Gen_TempField_x002A_0>0</Gen_TempField_x002A_0>
+<Gen_TempField_x002A_1>0</Gen_TempField_x002A_1>
+<s_ColLineage>kNOq8QIAAACQ06rxAgAAAJDTqvEEAAAAkNOq8QEAAACQ06rxBQAAAJDTqvEBAAAA
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{D50F091B-4211-48DD-B118-C206C8BC550F}</s_GUID>
+<s_Lineage>kNOq8QUAAAAAAAAAAAAAAA==
+</s_Lineage>
+</campaign_map_tooltips>
+<campaign_map_tooltips>
+<select_context>none_or_self</select_context>
+<over_context>player_port</over_context>
+<tooltip_line>Left click to select</tooltip_line>
+<advice_line>One of your ports. Ports can be military or trading ports and are used for trading, recruiting, repairing and replenishing navies.</advice_line>
+<Gen_TempField_x002A_0>0</Gen_TempField_x002A_0>
+<Gen_TempField_x002A_1>0</Gen_TempField_x002A_1>
+<s_ColLineage>kNOq8QIAAACQ06rxAgAAAFuHu7UHAAAAkNOq8QEAAACQ06rxBAAAAJDTqvEBAAAA
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{9D478FF0-9005-49AB-9EC7-1934E42ED97D}</s_GUID>
+<s_Lineage>W4e7tQcAAACQ06rxBQAAAAAAAAAAAAAA
+</s_Lineage>
+</campaign_map_tooltips>
+<campaign_map_tooltips>
+<select_context>none_or_self</select_context>
+<over_context>player_rake</over_context>
+<tooltip_line>Left click to select, double left click to bring up the details panel</tooltip_line>
+<advice_line>One of your ports. Ports can be military or trading ports and are used for trading, recruiting, repairing and replenishing navies.</advice_line>
+<Gen_TempField_x002A_0>0</Gen_TempField_x002A_0>
+<Gen_TempField_x002A_1>0</Gen_TempField_x002A_1>
+<s_ColLineage>kNOq8QIAAACQ06rxAgAAAFuHu7UHAAAAkNOq8QEAAACQ06rxBAAAAJDTqvEBAAAA
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{BC4E570D-95F3-4470-8D85-46655B27E146}</s_GUID>
+<s_Lineage>W4e7tQcAAACQ06rxBAAAAAAAAAAAAAAA
+</s_Lineage>
+</campaign_map_tooltips>
+<campaign_map_tooltips>
+<select_context>none_or_self</select_context>
+<over_context>player_region_capital</over_context>
+<tooltip_line>Left click to select, double left click to bring up the details panel</tooltip_line>
+<advice_line>Your region capital. Construct buildings, manage your region and recruit your armies here.</advice_line>
+<Gen_TempField_x002A_0>0</Gen_TempField_x002A_0>
+<Gen_TempField_x002A_1>0</Gen_TempField_x002A_1>
+<s_ColLineage>kNOq8QIAAACQ06rxAgAAAJDTqvEHAAAAkNOq8QEAAACQ06rxBAAAAJDTqvEBAAAA
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{8C212B3C-A5B2-431F-BBF0-5B1E9BB7F7CF}</s_GUID>
+<s_Lineage>kNOq8QcAAAAAAAAAAAAAAA==
+</s_Lineage>
+</campaign_map_tooltips>
+<campaign_map_tooltips>
+<select_context>none_or_self</select_context>
+<over_context>player_resource</over_context>
+<tooltip_line>Left click to select</tooltip_line>
+<advice_line>One of your  resources. Each region has its own resources, and they are used for farming and trade with other nations.</advice_line>
+<Gen_TempField_x002A_0>0</Gen_TempField_x002A_0>
+<Gen_TempField_x002A_1>0</Gen_TempField_x002A_1>
+<s_ColLineage>kNOq8QIAAACQ06rxAgAAAFuHu7UFAAAAkNOq8QEAAACQ06rxAwAAAJDTqvEBAAAA
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{67C6A858-9B58-4899-A8D6-9FC124FDF7DF}</s_GUID>
+<s_Lineage>W4e7tQUAAACQ06rxBAAAAAAAAAAAAAAA
+</s_Lineage>
+</campaign_map_tooltips>
+<campaign_map_tooltips>
+<select_context>none_or_self</select_context>
+<over_context>player_town</over_context>
+<tooltip_line>Left click to select</tooltip_line>
+<advice_line>One of your towns. Different buildings are available in commercial, intelIectual or industrial centres, and each can be developed along military or civilian lines.</advice_line>
+<Gen_TempField_x002A_0>0</Gen_TempField_x002A_0>
+<Gen_TempField_x002A_1>0</Gen_TempField_x002A_1>
+<s_ColLineage>kNOq8QIAAACQ06rxAgAAAFuHu7UIAAAAkNOq8QEAAACQ06rxAwAAAJDTqvEBAAAA
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{C0B8E350-3818-4595-9766-27B587550CFC}</s_GUID>
+<s_Lineage>W4e7tQgAAAA0CceOBAAAAJDTqvEDAAAAAAAAAAAAAAA=
+</s_Lineage>
+</campaign_map_tooltips>
+<campaign_map_tooltips>
+<select_context>none_or_self</select_context>
+<over_context>player_university</over_context>
+<tooltip_line>Left click to select</tooltip_line>
+<advice_line>One of your universities. Universities are used to research into technologies.</advice_line>
+<Gen_TempField_x002A_0>0</Gen_TempField_x002A_0>
+<Gen_TempField_x002A_1>0</Gen_TempField_x002A_1>
+<s_ColLineage>kNOq8QIAAACQ06rxAgAAAJDTqvEDAAAAkNOq8QEAAACQ06rxAwAAAJDTqvEBAAAA
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{DE908C9F-CBA2-4580-B1A6-0873783FACE1}</s_GUID>
+<s_Lineage>kNOq8QMAAAAAAAAAAAAAAA==
+</s_Lineage>
+</campaign_map_tooltips>
+<campaign_map_tooltips>
+<select_context>none_or_self</select_context>
+<over_context>player_village</over_context>
+<advice_line>Once your region&apos;s population has grown large enough, this village will become a town and you will be able to build upon it.</advice_line>
+<Gen_TempField_x002A_0>0</Gen_TempField_x002A_0>
+<Gen_TempField_x002A_1>0</Gen_TempField_x002A_1>
+<s_ColLineage>kNOq8QIAAACQ06rxAwAAAJDTqvEFAAAAkNOq8QEAAACQ06rxBAAAAJDTqvEBAAAA
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{308D4F35-C12F-4211-9C29-DDFFD24D8A8C}</s_GUID>
+<s_Lineage>kNOq8QUAAAAAAAAAAAAAAA==
+</s_Lineage>
+</campaign_map_tooltips>
+<campaign_map_tooltips>
+<select_context>none_or_self</select_context>
+<over_context>theatre_transition</over_context>
+<s_ColLineage>kNOq8QIAAACQ06rxAgAAAJDTqvEBAAAAkNOq8QEAAACQ06rxAQAAAJDTqvEBAAAA
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{E102F946-02D1-4DAB-A9BE-0EE7258099F6}</s_GUID>
+<s_Lineage>kNOq8QIAAAAAAAAAAAAAAA==
+</s_Lineage>
+</campaign_map_tooltips>
+<campaign_map_tooltips>
+<select_context>other_agent</select_context>
+<over_context>land_can_disembark</over_context>
+<tooltip_line>Right click to move</tooltip_line>
+<Gen_TempField_x002A_0>0</Gen_TempField_x002A_0>
+<Gen_TempField_x002A_1>0</Gen_TempField_x002A_1>
+<s_ColLineage>kNOq8QIAAACQ06rxAgAAAJDTqvEGAAAAkNOq8QEAAACQ06rxAgAAAJDTqvEBAAAA
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{44C4F31D-7E25-47F5-BAF8-A49C32E3A159}</s_GUID>
+<s_Lineage>kNOq8QYAAAAAAAAAAAAAAA==
+</s_Lineage>
+</campaign_map_tooltips>
+<campaign_map_tooltips>
+<select_context>other_agent</select_context>
+<over_context>land_can_disembark_can_ambush</over_context>
+<tooltip_line>Right click to move</tooltip_line>
+<Gen_TempField_x002A_0>0</Gen_TempField_x002A_0>
+<Gen_TempField_x002A_1>0</Gen_TempField_x002A_1>
+<s_ColLineage>W4e7tQIAAABbh7u1AgAAAFuHu7UCAAAAW4e7tQEAAABbh7u1AgAAAFuHu7UBAAAA
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{74AEEFA4-02B2-49C9-9B27-ADFD82BFF563}</s_GUID>
+<s_Lineage>W4e7tQIAAAAAAAAAAAAAAA==
+</s_Lineage>
+</campaign_map_tooltips>
+<campaign_map_tooltips>
+<select_context>other_agent</select_context>
+<over_context>land_cannot_disembark</over_context>
+<tooltip_line>Right click to move</tooltip_line>
+<Gen_TempField_x002A_0>0</Gen_TempField_x002A_0>
+<Gen_TempField_x002A_1>0</Gen_TempField_x002A_1>
+<s_ColLineage>kNOq8QIAAACQ06rxAgAAAJDTqvEGAAAAkNOq8QEAAACQ06rxAgAAAJDTqvEBAAAA
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{DBB32D7B-7818-42D9-B5D1-B1719D612FC2}</s_GUID>
+<s_Lineage>kNOq8QYAAAAAAAAAAAAAAA==
+</s_Lineage>
+</campaign_map_tooltips>
+<campaign_map_tooltips>
+<select_context>other_agent</select_context>
+<over_context>land_cannot_disembark_can_ambush</over_context>
+<tooltip_line>Right click to move</tooltip_line>
+<Gen_TempField_x002A_0>0</Gen_TempField_x002A_0>
+<Gen_TempField_x002A_1>0</Gen_TempField_x002A_1>
+<s_ColLineage>W4e7tQIAAABbh7u1AgAAAFuHu7UCAAAAW4e7tQEAAABbh7u1AgAAAFuHu7UBAAAA
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{0E708CEC-3AA8-4663-9B6F-F50A956E88D7}</s_GUID>
+<s_Lineage>W4e7tQIAAAAAAAAAAAAAAA==
+</s_Lineage>
+</campaign_map_tooltips>
+<campaign_map_tooltips>
+<select_context>other_agent</select_context>
+<over_context>non_player_agent_other</over_context>
+<tooltip_line>This agent cannot act against this target</tooltip_line>
+<Gen_TempField_x002A_0>0</Gen_TempField_x002A_0>
+<Gen_TempField_x002A_1>0</Gen_TempField_x002A_1>
+<s_ColLineage>kNOq8QIAAACQ06rxAgAAAJDTqvEGAAAAkNOq8QEAAACQ06rxAgAAAJDTqvEBAAAA
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{3E3D4F69-FE9A-42A2-A146-E6BB3DF1AD80}</s_GUID>
+<s_Lineage>kNOq8QYAAAAAAAAAAAAAAA==
+</s_Lineage>
+</campaign_map_tooltips>
+<campaign_map_tooltips>
+<select_context>other_agent</select_context>
+<over_context>non_player_army</over_context>
+<tooltip_line>You cannot act against armies with this agent</tooltip_line>
+<Gen_TempField_x002A_0>0</Gen_TempField_x002A_0>
+<Gen_TempField_x002A_1>0</Gen_TempField_x002A_1>
+<s_ColLineage>kNOq8QIAAACQ06rxAgAAAJDTqvEGAAAAkNOq8QEAAACQ06rxAgAAAJDTqvEBAAAA
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{2EB01847-D241-4137-8AE2-99729AF01510}</s_GUID>
+<s_Lineage>kNOq8QYAAAAAAAAAAAAAAA==
+</s_Lineage>
+</campaign_map_tooltips>
+<campaign_map_tooltips>
+<select_context>other_agent</select_context>
+<over_context>non_player_gentleman</over_context>
+<tooltip_line>This agent cannot act against this target</tooltip_line>
+<Gen_TempField_x002A_0>0</Gen_TempField_x002A_0>
+<Gen_TempField_x002A_1>0</Gen_TempField_x002A_1>
+<s_ColLineage>kNOq8QIAAACQ06rxAgAAAJDTqvEGAAAAkNOq8QEAAACQ06rxAgAAAJDTqvEBAAAA
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{2A7D62CC-4545-4007-AFEE-E316EE53308E}</s_GUID>
+<s_Lineage>kNOq8QYAAAAAAAAAAAAAAA==
+</s_Lineage>
+</campaign_map_tooltips>
+<campaign_map_tooltips>
+<select_context>other_agent</select_context>
+<over_context>non_player_land_trade_route</over_context>
+<tooltip_line>This agent cannot raid trade routes</tooltip_line>
+<Gen_TempField_x002A_0>0</Gen_TempField_x002A_0>
+<Gen_TempField_x002A_1>0</Gen_TempField_x002A_1>
+<s_ColLineage>kNOq8QIAAACQ06rxAgAAAJDTqvEGAAAAkNOq8QEAAACQ06rxAgAAAJDTqvEBAAAA
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{081D8F41-9F2A-4A21-B2D8-7B0983661BD7}</s_GUID>
+<s_Lineage>kNOq8QYAAAAAAAAAAAAAAA==
+</s_Lineage>
+</campaign_map_tooltips>
+<campaign_map_tooltips>
+<select_context>other_agent</select_context>
+<over_context>non_player_navy_at_sea</over_context>
+<tooltip_line>This agent cannot act against fleets</tooltip_line>
+<Gen_TempField_x002A_0>0</Gen_TempField_x002A_0>
+<Gen_TempField_x002A_1>0</Gen_TempField_x002A_1>
+<s_ColLineage>kNOq8QIAAACQ06rxAgAAAJDTqvEGAAAAkNOq8QEAAACQ06rxAgAAAJDTqvEBAAAA
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{32A4D574-4B77-4872-AA4A-75083E288A4F}</s_GUID>
+<s_Lineage>kNOq8QYAAAAAAAAAAAAAAA==
+</s_Lineage>
+</campaign_map_tooltips>
+<campaign_map_tooltips>
+<select_context>other_agent</select_context>
+<over_context>non_player_navy_in_port</over_context>
+<tooltip_line>This agent cannot act against fleets</tooltip_line>
+<Gen_TempField_x002A_0>0</Gen_TempField_x002A_0>
+<Gen_TempField_x002A_1>0</Gen_TempField_x002A_1>
+<s_ColLineage>kNOq8QIAAACQ06rxAgAAAJDTqvEGAAAAkNOq8QEAAACQ06rxAgAAAJDTqvEBAAAA
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{19E81B84-2224-4DB0-BAFC-5D3F1700F4EF}</s_GUID>
+<s_Lineage>kNOq8QYAAAAAAAAAAAAAAA==
+</s_Lineage>
+</campaign_map_tooltips>
+<campaign_map_tooltips>
+<select_context>other_agent</select_context>
+<over_context>non_player_port_occupied</over_context>
+<tooltip_line>Right click to enter port</tooltip_line>
+<Gen_TempField_x002A_0>0</Gen_TempField_x002A_0>
+<Gen_TempField_x002A_1>0</Gen_TempField_x002A_1>
+<s_ColLineage>kNOq8QIAAACQ06rxAgAAAJDTqvEGAAAAkNOq8QEAAACQ06rxAgAAAJDTqvEBAAAA
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{89966D52-1D65-498F-852C-5B90FB30062A}</s_GUID>
+<s_Lineage>kNOq8QYAAAAAAAAAAAAAAA==
+</s_Lineage>
+</campaign_map_tooltips>
+<campaign_map_tooltips>
+<select_context>other_agent</select_context>
+<over_context>non_player_port_unoccupied</over_context>
+<tooltip_line>Right click to enter port</tooltip_line>
+<Gen_TempField_x002A_0>0</Gen_TempField_x002A_0>
+<Gen_TempField_x002A_1>0</Gen_TempField_x002A_1>
+<s_ColLineage>kNOq8QIAAACQ06rxAgAAAJDTqvEGAAAAkNOq8QEAAACQ06rxAgAAAJDTqvEBAAAA
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{DFBD5BE8-5F57-41D3-A810-FF7336993620}</s_GUID>
+<s_Lineage>kNOq8QYAAAAAAAAAAAAAAA==
+</s_Lineage>
+</campaign_map_tooltips>
+<campaign_map_tooltips>
+<select_context>other_agent</select_context>
+<over_context>non_player_rake</over_context>
+<tooltip_line>This agent cannot act against this target</tooltip_line>
+<Gen_TempField_x002A_0>0</Gen_TempField_x002A_0>
+<Gen_TempField_x002A_1>0</Gen_TempField_x002A_1>
+<s_ColLineage>kNOq8QIAAACQ06rxAgAAAJDTqvEGAAAAkNOq8QEAAACQ06rxAgAAAJDTqvEBAAAA
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{3B0F9522-900C-4D0D-9DE7-641A12B49583}</s_GUID>
+<s_Lineage>kNOq8QYAAAAAAAAAAAAAAA==
+</s_Lineage>
+</campaign_map_tooltips>
+<campaign_map_tooltips>
+<select_context>other_agent</select_context>
+<over_context>non_player_region_capital</over_context>
+<tooltip_line>Right click to enter city</tooltip_line>
+<Gen_TempField_x002A_0>0</Gen_TempField_x002A_0>
+<Gen_TempField_x002A_1>0</Gen_TempField_x002A_1>
+<s_ColLineage>kNOq8QIAAACQ06rxAgAAAJDTqvEGAAAAkNOq8QEAAACQ06rxAgAAAJDTqvEBAAAA
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{672F794E-C1E8-4DCE-8D33-F272261C07A9}</s_GUID>
+<s_Lineage>kNOq8QYAAAAAAAAAAAAAAA==
+</s_Lineage>
+</campaign_map_tooltips>
+<campaign_map_tooltips>
+<select_context>other_agent</select_context>
+<over_context>non_player_resource</over_context>
+<tooltip_line>Right click to enter</tooltip_line>
+<Gen_TempField_x002A_0>0</Gen_TempField_x002A_0>
+<Gen_TempField_x002A_1>0</Gen_TempField_x002A_1>
+<s_ColLineage>kNOq8QIAAACQ06rxAgAAAJDTqvEGAAAAkNOq8QEAAACQ06rxAgAAAJDTqvEBAAAA
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{92BA398E-4B12-4E2A-BB07-54F472F6A230}</s_GUID>
+<s_Lineage>kNOq8QYAAAAAAAAAAAAAAA==
+</s_Lineage>
+</campaign_map_tooltips>
+<campaign_map_tooltips>
+<select_context>other_agent</select_context>
+<over_context>non_player_town</over_context>
+<tooltip_line>Right click to enter town</tooltip_line>
+<Gen_TempField_x002A_0>0</Gen_TempField_x002A_0>
+<Gen_TempField_x002A_1>0</Gen_TempField_x002A_1>
+<s_ColLineage>kNOq8QIAAACQ06rxAgAAAJDTqvEGAAAAkNOq8QEAAACQ06rxAgAAAJDTqvEBAAAA
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{70A476B4-B541-4820-81F4-88429636CF12}</s_GUID>
+<s_Lineage>kNOq8QYAAAAAAAAAAAAAAA==
+</s_Lineage>
+</campaign_map_tooltips>
+<campaign_map_tooltips>
+<select_context>other_agent</select_context>
+<over_context>non_player_university</over_context>
+<tooltip_line>Right click to enter town</tooltip_line>
+<Gen_TempField_x002A_0>0</Gen_TempField_x002A_0>
+<Gen_TempField_x002A_1>0</Gen_TempField_x002A_1>
+<s_ColLineage>kNOq8QIAAACQ06rxAgAAAJDTqvEGAAAAkNOq8QEAAACQ06rxAgAAAJDTqvEBAAAA
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{1823DC8E-8412-46F6-AAF5-F6E2F2C15A67}</s_GUID>
+<s_Lineage>kNOq8QYAAAAAAAAAAAAAAA==
+</s_Lineage>
+</campaign_map_tooltips>
+<campaign_map_tooltips>
+<select_context>other_agent</select_context>
+<over_context>player_army</over_context>
+<tooltip_line>Right click to move your agent into this army</tooltip_line>
+<advice_line>Moving your agent here will place him under the protection of your army.</advice_line>
+<Gen_TempField_x002A_0>0</Gen_TempField_x002A_0>
+<Gen_TempField_x002A_1>0</Gen_TempField_x002A_1>
+<s_ColLineage>kNOq8QIAAACQ06rxAgAAAJDTqvEGAAAAkNOq8QEAAACQ06rxAgAAAJDTqvEBAAAA
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{D9CBFD3D-0E87-421A-84E3-F96047574770}</s_GUID>
+<s_Lineage>kNOq8QYAAAAAAAAAAAAAAA==
+</s_Lineage>
+</campaign_map_tooltips>
+<campaign_map_tooltips>
+<select_context>other_agent</select_context>
+<over_context>player_army_can_ambush</over_context>
+<tooltip_line>Right click to move your agent into this army</tooltip_line>
+<advice_line>Moving your agent here will place him under the protection of your army.</advice_line>
+<Gen_TempField_x002A_0>0</Gen_TempField_x002A_0>
+<Gen_TempField_x002A_1>0</Gen_TempField_x002A_1>
+<s_ColLineage>W4e7tQIAAABbh7u1AgAAAFuHu7UCAAAAW4e7tQEAAABbh7u1AgAAAFuHu7UBAAAA
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{B1FA1688-8951-4675-A5C3-87893B31A488}</s_GUID>
+<s_Lineage>W4e7tQIAAAAAAAAAAAAAAA==
+</s_Lineage>
+</campaign_map_tooltips>
+<campaign_map_tooltips>
+<select_context>other_agent</select_context>
+<over_context>player_navy</over_context>
+<tooltip_line>Right click to embark when the ship is at the coast</tooltip_line>
+<advice_line>Move your agent into this navy to transport them across the sea. He will be under the protection of the navy while travelling with them.</advice_line>
+<Gen_TempField_x002A_0>0</Gen_TempField_x002A_0>
+<Gen_TempField_x002A_1>0</Gen_TempField_x002A_1>
+<s_ColLineage>kNOq8QIAAACQ06rxAgAAAJDTqvEHAAAAkNOq8QEAAACQ06rxCAAAAJDTqvEBAAAA
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{AEEA7FD9-2496-466D-87CD-F0F829B0F942}</s_GUID>
+<s_Lineage>kNOq8QgAAAAAAAAAAAAAAA==
+</s_Lineage>
+</campaign_map_tooltips>
+<campaign_map_tooltips>
+<select_context>other_agent</select_context>
+<over_context>player_port</over_context>
+<tooltip_line>Right click to enter port</tooltip_line>
+<Gen_TempField_x002A_0>0</Gen_TempField_x002A_0>
+<Gen_TempField_x002A_1>0</Gen_TempField_x002A_1>
+<s_ColLineage>kNOq8QIAAACQ06rxAgAAAJDTqvEEAAAAkNOq8QEAAACQ06rxAgAAAJDTqvEBAAAA
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{9D75FCDA-95F0-4E2E-B4F1-EEDBD404C60C}</s_GUID>
+<s_Lineage>kNOq8QQAAAAAAAAAAAAAAA==
+</s_Lineage>
+</campaign_map_tooltips>
+<campaign_map_tooltips>
+<select_context>other_agent</select_context>
+<over_context>player_region_capital</over_context>
+<tooltip_line>Right click to enter city</tooltip_line>
+<Gen_TempField_x002A_0>0</Gen_TempField_x002A_0>
+<Gen_TempField_x002A_1>0</Gen_TempField_x002A_1>
+<s_ColLineage>kNOq8QIAAACQ06rxAgAAAJDTqvEEAAAAkNOq8QEAAACQ06rxAgAAAJDTqvEBAAAA
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{3A1740A0-FD22-4B31-B92D-AF62FBA5422F}</s_GUID>
+<s_Lineage>kNOq8QQAAAAAAAAAAAAAAA==
+</s_Lineage>
+</campaign_map_tooltips>
+<campaign_map_tooltips>
+<select_context>other_agent</select_context>
+<over_context>player_resource</over_context>
+<tooltip_line>Right click to enter</tooltip_line>
+<Gen_TempField_x002A_0>0</Gen_TempField_x002A_0>
+<Gen_TempField_x002A_1>0</Gen_TempField_x002A_1>
+<s_ColLineage>kNOq8QIAAACQ06rxAgAAAJDTqvEEAAAAkNOq8QEAAACQ06rxAgAAAJDTqvEBAAAA
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{50C2AD42-9213-4B31-A4F7-F63A060A9380}</s_GUID>
+<s_Lineage>kNOq8QQAAAAAAAAAAAAAAA==
+</s_Lineage>
+</campaign_map_tooltips>
+<campaign_map_tooltips>
+<select_context>other_agent</select_context>
+<over_context>player_town</over_context>
+<tooltip_line>Right click to enter town</tooltip_line>
+<Gen_TempField_x002A_0>0</Gen_TempField_x002A_0>
+<Gen_TempField_x002A_1>0</Gen_TempField_x002A_1>
+<s_ColLineage>kNOq8QIAAACQ06rxAgAAAJDTqvEEAAAAkNOq8QEAAACQ06rxAgAAAJDTqvEBAAAA
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{FB2574AD-74D1-4860-A9ED-2B029F88E26E}</s_GUID>
+<s_Lineage>kNOq8QQAAAAAAAAAAAAAAA==
+</s_Lineage>
+</campaign_map_tooltips>
+<campaign_map_tooltips>
+<select_context>other_agent</select_context>
+<over_context>player_university</over_context>
+<tooltip_line>Right click to enter town</tooltip_line>
+<Gen_TempField_x002A_0>0</Gen_TempField_x002A_0>
+<Gen_TempField_x002A_1>0</Gen_TempField_x002A_1>
+<s_ColLineage>kNOq8QIAAACQ06rxAgAAAJDTqvEEAAAAkNOq8QEAAACQ06rxAgAAAJDTqvEBAAAA
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{D6F71E16-9656-4B1A-8DBC-6E1C68481AF3}</s_GUID>
+<s_Lineage>kNOq8QQAAAAAAAAAAAAAAA==
+</s_Lineage>
+</campaign_map_tooltips>
+<campaign_map_tooltips>
+<select_context>rake</select_context>
+<over_context>land_can_disembark</over_context>
+<tooltip_line>Right click to move</tooltip_line>
+<Gen_TempField_x002A_0>0</Gen_TempField_x002A_0>
+<Gen_TempField_x002A_1>0</Gen_TempField_x002A_1>
+<s_ColLineage>kNOq8QIAAACQ06rxAgAAAJDTqvEEAAAAkNOq8QEAAACQ06rxAgAAAJDTqvEBAAAA
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{80C826C0-B9DE-42C0-BB23-CC8D3F9A52B0}</s_GUID>
+<s_Lineage>kNOq8QQAAAAAAAAAAAAAAA==
+</s_Lineage>
+</campaign_map_tooltips>
+<campaign_map_tooltips>
+<select_context>rake</select_context>
+<over_context>land_can_disembark_can_ambush</over_context>
+<tooltip_line>Right click to move</tooltip_line>
+<Gen_TempField_x002A_0>0</Gen_TempField_x002A_0>
+<Gen_TempField_x002A_1>0</Gen_TempField_x002A_1>
+<s_ColLineage>W4e7tQIAAABbh7u1AgAAAFuHu7UCAAAAW4e7tQEAAABbh7u1AgAAAFuHu7UBAAAA
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{32A6AE16-FE28-440F-BE1B-D8A6657EEE34}</s_GUID>
+<s_Lineage>W4e7tQIAAAAAAAAAAAAAAA==
+</s_Lineage>
+</campaign_map_tooltips>
+<campaign_map_tooltips>
+<select_context>rake</select_context>
+<over_context>land_cannot_disembark</over_context>
+<tooltip_line>Right click to move</tooltip_line>
+<Gen_TempField_x002A_0>0</Gen_TempField_x002A_0>
+<Gen_TempField_x002A_1>0</Gen_TempField_x002A_1>
+<s_ColLineage>kNOq8QIAAACQ06rxAgAAAJDTqvEEAAAAkNOq8QEAAACQ06rxAgAAAJDTqvEBAAAA
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{2273A68D-51B4-42A3-8122-E0EF642425BF}</s_GUID>
+<s_Lineage>kNOq8QQAAAAAAAAAAAAAAA==
+</s_Lineage>
+</campaign_map_tooltips>
+<campaign_map_tooltips>
+<select_context>rake</select_context>
+<over_context>land_cannot_disembark_can_ambush</over_context>
+<tooltip_line>Right click to move</tooltip_line>
+<Gen_TempField_x002A_0>0</Gen_TempField_x002A_0>
+<Gen_TempField_x002A_1>0</Gen_TempField_x002A_1>
+<s_ColLineage>W4e7tQIAAABbh7u1AgAAAFuHu7UCAAAAW4e7tQEAAABbh7u1AgAAAFuHu7UBAAAA
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{5F9F5870-CA5A-403F-A159-32B3F8714965}</s_GUID>
+<s_Lineage>W4e7tQIAAAAAAAAAAAAAAA==
+</s_Lineage>
+</campaign_map_tooltips>
+<campaign_map_tooltips>
+<select_context>rake</select_context>
+<over_context>non_player_agent_other</over_context>
+<tooltip_line>Right click to assassinate target</tooltip_line>
+<advice_line>Remove any threat this agent may pose to your nation by assassinating them. Assess the chances of getting captured or killed yourself from the assassination panel.</advice_line>
+<Gen_TempField_x002A_0>0</Gen_TempField_x002A_0>
+<Gen_TempField_x002A_1>0</Gen_TempField_x002A_1>
+<s_ColLineage>kNOq8QIAAACQ06rxAgAAAJDTqvEIAAAAkNOq8QEAAACQ06rxAgAAAJDTqvEBAAAA
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{C1318117-C4A8-43AD-921E-608110C89927}</s_GUID>
+<s_Lineage>kNOq8QgAAAAAAAAAAAAAAA==
+</s_Lineage>
+</campaign_map_tooltips>
+<campaign_map_tooltips>
+<select_context>rake</select_context>
+<over_context>non_player_army</over_context>
+<tooltip_line>Right click to operate against target</tooltip_line>
+<Gen_TempField_x002A_0>0</Gen_TempField_x002A_0>
+<Gen_TempField_x002A_1>0</Gen_TempField_x002A_1>
+<s_ColLineage>kNOq8QIAAACQ06rxAgAAADQJx44HAAAAkNOq8QEAAAA0CceOBgAAAJDTqvEBAAAA
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{7C539961-D63A-402B-9B68-3F3DD03F37F8}</s_GUID>
+<s_Lineage>NAnHjgcAAACQ06rxBQAAAAAAAAAAAAAA
+</s_Lineage>
+</campaign_map_tooltips>
+<campaign_map_tooltips>
+<select_context>rake</select_context>
+<over_context>non_player_fort</over_context>
+<tooltip_line>Right click to operate against target</tooltip_line>
+<advice_line>If there is an army here your agent will get an opportunity to spy or carry out an assassination.</advice_line>
+<Gen_TempField_x002A_0>0</Gen_TempField_x002A_0>
+<Gen_TempField_x002A_1>0</Gen_TempField_x002A_1>
+<s_ColLineage>kNOq8QIAAACQ06rxAgAAADQJx44PAAAAkNOq8QEAAACQ06rxAwAAAJDTqvEBAAAA
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{959903C5-10DC-4CBA-9DFF-81EBA68E0850}</s_GUID>
+<s_Lineage>NAnHjg8AAACQ06rxDAAAAAAAAAAAAAAA
+</s_Lineage>
+</campaign_map_tooltips>
+<campaign_map_tooltips>
+<select_context>rake</select_context>
+<over_context>non_player_gentleman</over_context>
+<tooltip_line>Right click to assassinate gentleman</tooltip_line>
+<Gen_TempField_x002A_0>0</Gen_TempField_x002A_0>
+<Gen_TempField_x002A_1>0</Gen_TempField_x002A_1>
+<s_ColLineage>kNOq8QIAAACQ06rxAgAAADQJx44KAAAAkNOq8QEAAACQ06rxAgAAAJDTqvEBAAAA
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{BE064BD2-3CF8-43CE-987B-0C246BF3010A}</s_GUID>
+<s_Lineage>NAnHjgoAAACQ06rxCQAAAAAAAAAAAAAA
+</s_Lineage>
+</campaign_map_tooltips>
+<campaign_map_tooltips>
+<select_context>rake</select_context>
+<over_context>non_player_land_trade_route</over_context>
+<Gen_TempField_x002A_0>0</Gen_TempField_x002A_0>
+<Gen_TempField_x002A_1>0</Gen_TempField_x002A_1>
+<s_ColLineage>kNOq8QIAAACQ06rxAgAAAJDTqvEGAAAAkNOq8QEAAACQ06rxBgAAAJDTqvEBAAAA
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{30BDE0A4-BAA6-4B40-BED9-2CDA71964057}</s_GUID>
+<s_Lineage>kNOq8QYAAAAAAAAAAAAAAA==
+</s_Lineage>
+</campaign_map_tooltips>
+<campaign_map_tooltips>
+<select_context>rake</select_context>
+<over_context>non_player_navy_at_sea</over_context>
+<tooltip_line>This agent cannot act against fleets</tooltip_line>
+<Gen_TempField_x002A_0>0</Gen_TempField_x002A_0>
+<Gen_TempField_x002A_1>0</Gen_TempField_x002A_1>
+<s_ColLineage>kNOq8QIAAACQ06rxAgAAAJDTqvEEAAAAkNOq8QEAAACQ06rxAgAAAJDTqvEBAAAA
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{924545C3-FCAF-4191-9ED6-60B6DA58BDDC}</s_GUID>
+<s_Lineage>kNOq8QQAAAAAAAAAAAAAAA==
+</s_Lineage>
+</campaign_map_tooltips>
+<campaign_map_tooltips>
+<select_context>rake</select_context>
+<over_context>non_player_navy_in_port</over_context>
+<tooltip_line>Right click to infiltrate target fleet</tooltip_line>
+<advice_line>Infiltrate this navy to relay intelligence about it back to your nation or attempt an assassination on its admiral or captain.</advice_line>
+<Gen_TempField_x002A_0>0</Gen_TempField_x002A_0>
+<Gen_TempField_x002A_1>0</Gen_TempField_x002A_1>
+<s_ColLineage>kNOq8QIAAACQ06rxAgAAAJDTqvEGAAAAkNOq8QEAAACQ06rxAgAAAJDTqvEBAAAA
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{9D5DB199-5167-49E3-83B6-9851CF262B62}</s_GUID>
+<s_Lineage>kNOq8QYAAAAAAAAAAAAAAA==
+</s_Lineage>
+</campaign_map_tooltips>
+<campaign_map_tooltips>
+<select_context>rake</select_context>
+<over_context>non_player_port_occupied</over_context>
+<tooltip_line>Right click to operate against target</tooltip_line>
+<advice_line>Sneak into this port to spy, perform sabotage or carry out an assassination.</advice_line>
+<Gen_TempField_x002A_0>0</Gen_TempField_x002A_0>
+<Gen_TempField_x002A_1>0</Gen_TempField_x002A_1>
+<s_ColLineage>kNOq8QIAAACQ06rxAgAAAJDTqvEGAAAAkNOq8QEAAACQ06rxAgAAAJDTqvEBAAAA
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{19F7F49F-5B8A-499F-BABC-6768444F7FD1}</s_GUID>
+<s_Lineage>kNOq8QYAAAAAAAAAAAAAAA==
+</s_Lineage>
+</campaign_map_tooltips>
+<campaign_map_tooltips>
+<select_context>rake</select_context>
+<over_context>non_player_port_unoccupied</over_context>
+<tooltip_line>Right click to operate against target</tooltip_line>
+<advice_line>Slip into this port to spy or perform sabotage. Any damage your agent does will prevent the owning nation from using it until repaired.</advice_line>
+<Gen_TempField_x002A_0>0</Gen_TempField_x002A_0>
+<Gen_TempField_x002A_1>0</Gen_TempField_x002A_1>
+<s_ColLineage>kNOq8QIAAACQ06rxAgAAADQJx44IAAAAkNOq8QEAAACQ06rxAgAAAJDTqvEBAAAA
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{928D4625-440E-441F-ABEE-554D806D2ADB}</s_GUID>
+<s_Lineage>NAnHjggAAACQ06rxBwAAAAAAAAAAAAAA
+</s_Lineage>
+</campaign_map_tooltips>
+<campaign_map_tooltips>
+<select_context>rake</select_context>
+<over_context>non_player_rake</over_context>
+<tooltip_line>Right click to assassinate spy</tooltip_line>
+<advice_line>This agent is a potential threat to your nation. Spies are skilled in the art of sabotage, spying, and assassination - and as such should be taken care of as soon as possible.</advice_line>
+<Gen_TempField_x002A_0>0</Gen_TempField_x002A_0>
+<Gen_TempField_x002A_1>0</Gen_TempField_x002A_1>
+<s_ColLineage>kNOq8QIAAACQ06rxAgAAAFuHu7UNAAAAkNOq8QEAAABbh7u1DAAAAJDTqvEBAAAA
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{F1382CBE-DE25-448F-96EF-7874E6FD24E6}</s_GUID>
+<s_Lineage>W4e7tQ0AAACQ06rxCwAAAAAAAAAAAAAA
+</s_Lineage>
+</campaign_map_tooltips>
+<campaign_map_tooltips>
+<select_context>rake</select_context>
+<over_context>non_player_region_capital</over_context>
+<tooltip_line>Right click to operate against target</tooltip_line>
+<advice_line>Move your agent into this city to spy, perform sabotage or carry out an assassination.</advice_line>
+<Gen_TempField_x002A_0>0</Gen_TempField_x002A_0>
+<Gen_TempField_x002A_1>0</Gen_TempField_x002A_1>
+<s_ColLineage>kNOq8QIAAACQ06rxAgAAADQJx44FAAAAkNOq8QEAAACQ06rxAgAAAJDTqvEBAAAA
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{038A6D12-FB4F-4BA3-861B-E994BE913DDB}</s_GUID>
+<s_Lineage>NAnHjgUAAACQ06rxBAAAAAAAAAAAAAAA
+</s_Lineage>
+</campaign_map_tooltips>
+<campaign_map_tooltips>
+<select_context>rake</select_context>
+<over_context>non_player_resource</over_context>
+<tooltip_line>Right click to operate against target</tooltip_line>
+<advice_line>Move your agent here to perform sabotage. Anything damaged will be unusable until repaired.</advice_line>
+<Gen_TempField_x002A_0>0</Gen_TempField_x002A_0>
+<Gen_TempField_x002A_1>0</Gen_TempField_x002A_1>
+<s_ColLineage>kNOq8QIAAACQ06rxAgAAADQJx44HAAAAkNOq8QEAAACQ06rxAgAAAJDTqvEBAAAA
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{DD84BAD3-5B4B-474B-B039-61AC435CF330}</s_GUID>
+<s_Lineage>NAnHjgcAAACQ06rxBgAAAAAAAAAAAAAA
+</s_Lineage>
+</campaign_map_tooltips>
+<campaign_map_tooltips>
+<select_context>rake</select_context>
+<over_context>non_player_town</over_context>
+<tooltip_line>Right click to operate against target</tooltip_line>
+<advice_line>Move your agent here to perform sabotage. Anything damaged will be unusable until repaired.</advice_line>
+<Gen_TempField_x002A_0>0</Gen_TempField_x002A_0>
+<Gen_TempField_x002A_1>0</Gen_TempField_x002A_1>
+<s_ColLineage>kNOq8QIAAACQ06rxAgAAADQJx44IAAAAkNOq8QEAAACQ06rxAgAAAJDTqvEBAAAA
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{B8F06300-12FE-4DC1-A6EB-CE1AD6330CFE}</s_GUID>
+<s_Lineage>NAnHjggAAACQ06rxBgAAAAAAAAAAAAAA
+</s_Lineage>
+</campaign_map_tooltips>
+<campaign_map_tooltips>
+<select_context>rake</select_context>
+<over_context>non_player_university</over_context>
+<tooltip_line>Right click to operate against target</tooltip_line>
+<advice_line>Move your agent into this university to spy, perform sabotage or carry out an assassination.</advice_line>
+<Gen_TempField_x002A_0>0</Gen_TempField_x002A_0>
+<Gen_TempField_x002A_1>0</Gen_TempField_x002A_1>
+<s_ColLineage>kNOq8QIAAACQ06rxAgAAADQJx44FAAAAkNOq8QEAAACQ06rxAgAAAJDTqvEBAAAA
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{3E049E62-452F-4EF0-9A38-9BAF837690E0}</s_GUID>
+<s_Lineage>NAnHjgUAAACQ06rxBAAAAAAAAAAAAAAA
+</s_Lineage>
+</campaign_map_tooltips>
+<campaign_map_tooltips>
+<select_context>rake</select_context>
+<over_context>player_army</over_context>
+<tooltip_line>Right click to move your agent into this army</tooltip_line>
+<advice_line>Moving your agent here will place him under the protection of your army and enable him to root out any enemy agents who have infiltrated the ranks.</advice_line>
+<Gen_TempField_x002A_0>0</Gen_TempField_x002A_0>
+<Gen_TempField_x002A_1>0</Gen_TempField_x002A_1>
+<s_ColLineage>kNOq8QIAAACQ06rxAgAAADQJx44HAAAAkNOq8QEAAACQ06rxAgAAAJDTqvEBAAAA
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{B73969E7-B980-4009-A1AD-6F5BCFC106F8}</s_GUID>
+<s_Lineage>NAnHjgcAAACQ06rxBAAAAAAAAAAAAAAA
+</s_Lineage>
+</campaign_map_tooltips>
+<campaign_map_tooltips>
+<select_context>rake</select_context>
+<over_context>player_army_can_ambush</over_context>
+<tooltip_line>Right click to move your agent into this army</tooltip_line>
+<advice_line>Moving your agent here will place him under the protection of your army and enable him to root out any enemy agents who have infiltrated the ranks.</advice_line>
+<Gen_TempField_x002A_0>0</Gen_TempField_x002A_0>
+<Gen_TempField_x002A_1>0</Gen_TempField_x002A_1>
+<s_ColLineage>W4e7tQIAAABbh7u1AgAAAFuHu7UCAAAAW4e7tQEAAABbh7u1AgAAAFuHu7UBAAAA
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{5F41A21F-7E8D-4D97-8172-07F1E6CE4468}</s_GUID>
+<s_Lineage>W4e7tQIAAAAAAAAAAAAAAA==
+</s_Lineage>
+</campaign_map_tooltips>
+<campaign_map_tooltips>
+<select_context>rake</select_context>
+<over_context>player_fort</over_context>
+<tooltip_line>Right click to enter fort</tooltip_line>
+<advice_line>Place your agent here to root out any enemy agents.</advice_line>
+<Gen_TempField_x002A_0>0</Gen_TempField_x002A_0>
+<Gen_TempField_x002A_1>0</Gen_TempField_x002A_1>
+<s_ColLineage>kNOq8QIAAACQ06rxAgAAADQJx44FAAAAkNOq8QEAAACQ06rxAwAAAJDTqvEBAAAA
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{8F641AD3-82E4-4BE0-8AD8-5069E4E128A6}</s_GUID>
+<s_Lineage>NAnHjgUAAACQ06rxBAAAAAAAAAAAAAAA
+</s_Lineage>
+</campaign_map_tooltips>
+<campaign_map_tooltips>
+<select_context>rake</select_context>
+<over_context>player_navy</over_context>
+<tooltip_line>Right click to embark when the ship is at the coast</tooltip_line>
+<advice_line>Place your agent onto a ship to transport him across the sea so he can carry out his nefarious schemes abroad!</advice_line>
+<Gen_TempField_x002A_0>0</Gen_TempField_x002A_0>
+<Gen_TempField_x002A_1>0</Gen_TempField_x002A_1>
+<s_ColLineage>kNOq8QIAAACQ06rxAgAAADQJx44IAAAAkNOq8QEAAACQ06rxBwAAAJDTqvEBAAAA
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{226FD847-60ED-4B35-80A5-5166E6780979}</s_GUID>
+<s_Lineage>NAnHjggAAACQ06rxBwAAAAAAAAAAAAAA
+</s_Lineage>
+</campaign_map_tooltips>
+<campaign_map_tooltips>
+<select_context>rake</select_context>
+<over_context>player_port</over_context>
+<tooltip_line>Right click to enter port</tooltip_line>
+<advice_line>Place your agent here to root out any enemy agents.</advice_line>
+<Gen_TempField_x002A_0>0</Gen_TempField_x002A_0>
+<Gen_TempField_x002A_1>0</Gen_TempField_x002A_1>
+<s_ColLineage>kNOq8QIAAACQ06rxAgAAADQJx44HAAAAkNOq8QEAAACQ06rxAgAAAJDTqvEBAAAA
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{CC38E414-6E06-418E-9998-1CE628F6ADD7}</s_GUID>
+<s_Lineage>NAnHjgcAAACQ06rxBgAAAAAAAAAAAAAA
+</s_Lineage>
+</campaign_map_tooltips>
+<campaign_map_tooltips>
+<select_context>rake</select_context>
+<over_context>player_region_capital</over_context>
+<tooltip_line>Right click to enter city</tooltip_line>
+<advice_line>Place your agent here to root out any enemy agents.</advice_line>
+<Gen_TempField_x002A_0>0</Gen_TempField_x002A_0>
+<Gen_TempField_x002A_1>0</Gen_TempField_x002A_1>
+<s_ColLineage>kNOq8QIAAACQ06rxAgAAADQJx44GAAAAkNOq8QEAAACQ06rxAgAAAJDTqvEBAAAA
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{D67C257A-2C80-47B6-8E39-BEC0EAEE6C52}</s_GUID>
+<s_Lineage>NAnHjgYAAACQ06rxBQAAAAAAAAAAAAAA
+</s_Lineage>
+</campaign_map_tooltips>
+<campaign_map_tooltips>
+<select_context>rake</select_context>
+<over_context>player_resource</over_context>
+<tooltip_line>Right click to enter</tooltip_line>
+<advice_line>Place your agent here to root out any enemy agents.</advice_line>
+<Gen_TempField_x002A_0>0</Gen_TempField_x002A_0>
+<Gen_TempField_x002A_1>0</Gen_TempField_x002A_1>
+<s_ColLineage>kNOq8QIAAACQ06rxAgAAADQJx44HAAAAkNOq8QEAAACQ06rxAgAAAJDTqvEBAAAA
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{54FB9C8A-6935-4036-B801-F655D92F1347}</s_GUID>
+<s_Lineage>NAnHjgcAAACQ06rxBQAAAAAAAAAAAAAA
+</s_Lineage>
+</campaign_map_tooltips>
+<campaign_map_tooltips>
+<select_context>rake</select_context>
+<over_context>player_town</over_context>
+<tooltip_line>Right click to enter town</tooltip_line>
+<advice_line>Place your agent here to root out any enemy agents.</advice_line>
+<Gen_TempField_x002A_0>0</Gen_TempField_x002A_0>
+<Gen_TempField_x002A_1>0</Gen_TempField_x002A_1>
+<s_ColLineage>kNOq8QIAAACQ06rxAgAAADQJx44HAAAAkNOq8QEAAACQ06rxAgAAAJDTqvEBAAAA
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{E553BB5B-F586-40F2-AD48-6471148FA015}</s_GUID>
+<s_Lineage>NAnHjgcAAACQ06rxBQAAAAAAAAAAAAAA
+</s_Lineage>
+</campaign_map_tooltips>
+<campaign_map_tooltips>
+<select_context>rake</select_context>
+<over_context>player_university</over_context>
+<tooltip_line>Right click to enter town</tooltip_line>
+<advice_line>Place your agent here to root out any enemy agents.</advice_line>
+<Gen_TempField_x002A_0>0</Gen_TempField_x002A_0>
+<Gen_TempField_x002A_1>0</Gen_TempField_x002A_1>
+<s_ColLineage>kNOq8QIAAACQ06rxAgAAADQJx44GAAAAkNOq8QEAAACQ06rxAgAAAJDTqvEBAAAA
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{DE091D4F-6527-40FE-B158-053781A4CEBC}</s_GUID>
+<s_Lineage>NAnHjgYAAACQ06rxBQAAAAAAAAAAAAAA
+</s_Lineage>
+</campaign_map_tooltips>
+<campaign_map_tooltips>
+<select_context>researchers_who_cannot_duel</select_context>
+<over_context>land_can_disembark</over_context>
+<tooltip_line>Right click to move</tooltip_line>
+<Gen_TempField_x002A_0>0</Gen_TempField_x002A_0>
+<Gen_TempField_x002A_1>0</Gen_TempField_x002A_1>
+<s_ColLineage>kNOq8QIAAACQ06rxAgAAAJDTqvEDAAAAkNOq8QEAAACQ06rxAwAAAJDTqvEBAAAA
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{4A2902AF-9578-43F8-AB24-F9098DEF7572}</s_GUID>
+<s_Lineage>kNOq8QMAAAAAAAAAAAAAAA==
+</s_Lineage>
+</campaign_map_tooltips>
+<campaign_map_tooltips>
+<select_context>researchers_who_cannot_duel</select_context>
+<over_context>land_can_disembark_can_ambush</over_context>
+<tooltip_line>Right click to move</tooltip_line>
+<Gen_TempField_x002A_0>0</Gen_TempField_x002A_0>
+<Gen_TempField_x002A_1>0</Gen_TempField_x002A_1>
+<s_ColLineage>W4e7tQIAAABbh7u1AgAAAFuHu7UCAAAAW4e7tQEAAABbh7u1AgAAAFuHu7UBAAAA
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{3CB08DA3-A0EF-4F0C-8109-1D587517F7AC}</s_GUID>
+<s_Lineage>W4e7tQIAAAAAAAAAAAAAAA==
+</s_Lineage>
+</campaign_map_tooltips>
+<campaign_map_tooltips>
+<select_context>researchers_who_cannot_duel</select_context>
+<over_context>land_cannot_disembark</over_context>
+<tooltip_line>Right click to move</tooltip_line>
+<Gen_TempField_x002A_0>0</Gen_TempField_x002A_0>
+<Gen_TempField_x002A_1>0</Gen_TempField_x002A_1>
+<s_ColLineage>kNOq8QIAAACQ06rxAgAAAJDTqvEDAAAAkNOq8QEAAACQ06rxAwAAAJDTqvEBAAAA
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{E965BB91-2C68-44DB-91F7-C3FF6F0B205D}</s_GUID>
+<s_Lineage>kNOq8QMAAAAAAAAAAAAAAA==
+</s_Lineage>
+</campaign_map_tooltips>
+<campaign_map_tooltips>
+<select_context>researchers_who_cannot_duel</select_context>
+<over_context>land_cannot_disembark_can_ambush</over_context>
+<tooltip_line>Right click to move</tooltip_line>
+<Gen_TempField_x002A_0>0</Gen_TempField_x002A_0>
+<Gen_TempField_x002A_1>0</Gen_TempField_x002A_1>
+<s_ColLineage>W4e7tQIAAABbh7u1AgAAAFuHu7UCAAAAW4e7tQEAAABbh7u1AgAAAFuHu7UBAAAA
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{BAE955FB-0D74-4737-BF6B-F4E60156D9A2}</s_GUID>
+<s_Lineage>W4e7tQIAAAAAAAAAAAAAAA==
+</s_Lineage>
+</campaign_map_tooltips>
+<campaign_map_tooltips>
+<select_context>researchers_who_cannot_duel</select_context>
+<over_context>non_player_army</over_context>
+<tooltip_line>You cannot act against armies with this agent</tooltip_line>
+<Gen_TempField_x002A_0>0</Gen_TempField_x002A_0>
+<Gen_TempField_x002A_1>0</Gen_TempField_x002A_1>
+<s_ColLineage>kNOq8QIAAACQ06rxAgAAAJDTqvEFAAAAkNOq8QEAAACQ06rxBAAAAJDTqvEBAAAA
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{594D7CCD-5AE2-4A1D-B182-B84340257811}</s_GUID>
+<s_Lineage>kNOq8QUAAAAAAAAAAAAAAA==
+</s_Lineage>
+</campaign_map_tooltips>
+<campaign_map_tooltips>
+<select_context>researchers_who_cannot_duel</select_context>
+<over_context>non_player_land_trade_route</over_context>
+<tooltip_line>This agent cannot raid trade routes</tooltip_line>
+<Gen_TempField_x002A_0>0</Gen_TempField_x002A_0>
+<Gen_TempField_x002A_1>0</Gen_TempField_x002A_1>
+<s_ColLineage>kNOq8QIAAACQ06rxAgAAAJDTqvEDAAAAkNOq8QEAAACQ06rxAwAAAJDTqvEBAAAA
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{8C63FA5B-3E7B-4BBA-B330-8B9AEF44FBF7}</s_GUID>
+<s_Lineage>kNOq8QMAAAAAAAAAAAAAAA==
+</s_Lineage>
+</campaign_map_tooltips>
+<campaign_map_tooltips>
+<select_context>researchers_who_cannot_duel</select_context>
+<over_context>non_player_navy_at_sea</over_context>
+<tooltip_line>This agent cannot act against fleets</tooltip_line>
+<Gen_TempField_x002A_0>0</Gen_TempField_x002A_0>
+<Gen_TempField_x002A_1>0</Gen_TempField_x002A_1>
+<s_ColLineage>kNOq8QIAAACQ06rxAgAAAJDTqvEDAAAAkNOq8QEAAACQ06rxAwAAAJDTqvEBAAAA
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{A80E3DC7-52CB-4FE6-9605-9449A054ECFC}</s_GUID>
+<s_Lineage>kNOq8QMAAAAAAAAAAAAAAA==
+</s_Lineage>
+</campaign_map_tooltips>
+<campaign_map_tooltips>
+<select_context>researchers_who_cannot_duel</select_context>
+<over_context>non_player_navy_in_port</over_context>
+<tooltip_line>This agent cannot act against fleets</tooltip_line>
+<Gen_TempField_x002A_0>0</Gen_TempField_x002A_0>
+<Gen_TempField_x002A_1>0</Gen_TempField_x002A_1>
+<s_ColLineage>kNOq8QIAAACQ06rxAgAAAJDTqvEDAAAAkNOq8QEAAACQ06rxAwAAAJDTqvEBAAAA
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{4E20A7F2-6356-4449-87CC-8864903F82CC}</s_GUID>
+<s_Lineage>kNOq8QMAAAAAAAAAAAAAAA==
+</s_Lineage>
+</campaign_map_tooltips>
+<campaign_map_tooltips>
+<select_context>researchers_who_cannot_duel</select_context>
+<over_context>non_player_port_occupied</over_context>
+<tooltip_line>Right click to enter port</tooltip_line>
+<Gen_TempField_x002A_0>0</Gen_TempField_x002A_0>
+<Gen_TempField_x002A_1>0</Gen_TempField_x002A_1>
+<s_ColLineage>kNOq8QIAAACQ06rxAgAAAJDTqvEDAAAAkNOq8QEAAACQ06rxAwAAAJDTqvEBAAAA
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{F23E44A1-ECF9-4B5E-85DF-F0172E8EAD12}</s_GUID>
+<s_Lineage>kNOq8QMAAAAAAAAAAAAAAA==
+</s_Lineage>
+</campaign_map_tooltips>
+<campaign_map_tooltips>
+<select_context>researchers_who_cannot_duel</select_context>
+<over_context>non_player_port_unoccupied</over_context>
+<tooltip_line>Right click to enter port</tooltip_line>
+<Gen_TempField_x002A_0>0</Gen_TempField_x002A_0>
+<Gen_TempField_x002A_1>0</Gen_TempField_x002A_1>
+<s_ColLineage>kNOq8QIAAACQ06rxAgAAAJDTqvEDAAAAkNOq8QEAAACQ06rxAwAAAJDTqvEBAAAA
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{5FD0FFC7-FB3F-4857-85E3-7853197E4396}</s_GUID>
+<s_Lineage>kNOq8QMAAAAAAAAAAAAAAA==
+</s_Lineage>
+</campaign_map_tooltips>
+<campaign_map_tooltips>
+<select_context>researchers_who_cannot_duel</select_context>
+<over_context>non_player_region_capital</over_context>
+<tooltip_line>Right click to enter city</tooltip_line>
+<advice_line>Move your scholar here to decrease the happiness of this city&apos;s population.</advice_line>
+<Gen_TempField_x002A_0>0</Gen_TempField_x002A_0>
+<Gen_TempField_x002A_1>0</Gen_TempField_x002A_1>
+<s_ColLineage>kNOq8QIAAACQ06rxAgAAAGq5bWoGAAAAkNOq8QEAAACQ06rxAwAAAJDTqvEBAAAA
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{06F718ED-5ECF-42BE-953F-DA37E43FB1EF}</s_GUID>
+<s_Lineage>arltagYAAACQ06rxBAAAAAAAAAAAAAAA
+</s_Lineage>
+</campaign_map_tooltips>
+<campaign_map_tooltips>
+<select_context>researchers_who_cannot_duel</select_context>
+<over_context>non_player_resource</over_context>
+<tooltip_line>Right click to enter </tooltip_line>
+<Gen_TempField_x002A_0>0</Gen_TempField_x002A_0>
+<Gen_TempField_x002A_1>0</Gen_TempField_x002A_1>
+<s_ColLineage>kNOq8QIAAACQ06rxAgAAAJDTqvEDAAAAkNOq8QEAAACQ06rxAwAAAJDTqvEBAAAA
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{A26E7574-9435-4CF2-891A-2B4E59F482D1}</s_GUID>
+<s_Lineage>kNOq8QMAAAAAAAAAAAAAAA==
+</s_Lineage>
+</campaign_map_tooltips>
+<campaign_map_tooltips>
+<select_context>researchers_who_cannot_duel</select_context>
+<over_context>non_player_town</over_context>
+<tooltip_line>Right click to enter </tooltip_line>
+<advice_line>Move your scholar here to decrease the happiness of this town&apos;s population.</advice_line>
+<Gen_TempField_x002A_0>0</Gen_TempField_x002A_0>
+<Gen_TempField_x002A_1>0</Gen_TempField_x002A_1>
+<s_ColLineage>kNOq8QIAAACQ06rxAgAAAGq5bWoEAAAAkNOq8QEAAACQ06rxAwAAAJDTqvEBAAAA
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{75DFF1E8-BCB9-479A-9847-D4FECAF03031}</s_GUID>
+<s_Lineage>arltagQAAACQ06rxAwAAAAAAAAAAAAAA
+</s_Lineage>
+</campaign_map_tooltips>
+<campaign_map_tooltips>
+<select_context>researchers_who_cannot_duel</select_context>
+<over_context>non_player_university</over_context>
+<tooltip_line>Right click to steal technology </tooltip_line>
+<Gen_TempField_x002A_0>0</Gen_TempField_x002A_0>
+<Gen_TempField_x002A_1>0</Gen_TempField_x002A_1>
+<s_ColLineage>kNOq8QIAAACQ06rxAgAAAJDTqvEDAAAAkNOq8QEAAACQ06rxAwAAAJDTqvEBAAAA
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{3250C103-FD75-42C2-9E90-984EE1EE245B}</s_GUID>
+<s_Lineage>kNOq8QMAAAAAAAAAAAAAAA==
+</s_Lineage>
+</campaign_map_tooltips>
+<campaign_map_tooltips>
+<select_context>researchers_who_cannot_duel</select_context>
+<over_context>player_army</over_context>
+<tooltip_line>Right click to move into this army</tooltip_line>
+<advice_line>When travelling with an army, a scholar will be protected from assassination.</advice_line>
+<Gen_TempField_x002A_0>0</Gen_TempField_x002A_0>
+<Gen_TempField_x002A_1>0</Gen_TempField_x002A_1>
+<s_ColLineage>kNOq8QIAAACQ06rxAgAAAGq5bWoHAAAAkNOq8QEAAACQ06rxBAAAAJDTqvEBAAAA
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{8288F28F-17E5-4E23-B2B2-B938D6647E62}</s_GUID>
+<s_Lineage>arltagcAAACQ06rxBQAAAAAAAAAAAAAA
+</s_Lineage>
+</campaign_map_tooltips>
+<campaign_map_tooltips>
+<select_context>researchers_who_cannot_duel</select_context>
+<over_context>player_army_can_ambush</over_context>
+<tooltip_line>Right click to move into this army</tooltip_line>
+<advice_line>When travelling with an army, a scholar will be protected from assassination.</advice_line>
+<Gen_TempField_x002A_0>0</Gen_TempField_x002A_0>
+<Gen_TempField_x002A_1>0</Gen_TempField_x002A_1>
+<s_ColLineage>W4e7tQIAAABbh7u1AgAAAGq5bWoEAAAAW4e7tQEAAABbh7u1AgAAAFuHu7UBAAAA
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{A0BE299E-3F57-4776-AB88-7BF51B5D8857}</s_GUID>
+<s_Lineage>arltagQAAABbh7u1AgAAAAAAAAAAAAAA
+</s_Lineage>
+</campaign_map_tooltips>
+<campaign_map_tooltips>
+<select_context>researchers_who_cannot_duel</select_context>
+<over_context>player_navy</over_context>
+<tooltip_line>Right click to embark when the ship is at the coast</tooltip_line>
+<Gen_TempField_x002A_0>0</Gen_TempField_x002A_0>
+<Gen_TempField_x002A_1>0</Gen_TempField_x002A_1>
+<s_ColLineage>kNOq8QIAAACQ06rxAgAAAJDTqvEDAAAAkNOq8QEAAAA0CceOBQAAAJDTqvEBAAAA
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{DF76028E-677E-4BD2-B38E-78F1347DC7E3}</s_GUID>
+<s_Lineage>NAnHjgUAAACQ06rxBAAAAAAAAAAAAAAA
+</s_Lineage>
+</campaign_map_tooltips>
+<campaign_map_tooltips>
+<select_context>researchers_who_cannot_duel</select_context>
+<over_context>player_port</over_context>
+<tooltip_line>Right click to enter port</tooltip_line>
+<Gen_TempField_x002A_0>0</Gen_TempField_x002A_0>
+<Gen_TempField_x002A_1>0</Gen_TempField_x002A_1>
+<s_ColLineage>kNOq8QIAAACQ06rxAgAAAJDTqvEDAAAAkNOq8QEAAACQ06rxAwAAAJDTqvEBAAAA
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{97E2A758-7CD5-4992-8404-FDB35B1BC2F2}</s_GUID>
+<s_Lineage>kNOq8QMAAAAAAAAAAAAAAA==
+</s_Lineage>
+</campaign_map_tooltips>
+<campaign_map_tooltips>
+<select_context>researchers_who_cannot_duel</select_context>
+<over_context>player_region_capital</over_context>
+<tooltip_line>Right click to enter city</tooltip_line>
+<advice_line>Move your scholar here to increase the happiness of this city&apos;s population.</advice_line>
+<Gen_TempField_x002A_0>0</Gen_TempField_x002A_0>
+<Gen_TempField_x002A_1>0</Gen_TempField_x002A_1>
+<s_ColLineage>kNOq8QIAAACQ06rxAgAAAGq5bWoEAAAAkNOq8QEAAACQ06rxAwAAAJDTqvEBAAAA
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{21C40084-E8A0-4772-AD0C-E2F46C8479FC}</s_GUID>
+<s_Lineage>arltagQAAACQ06rxAwAAAAAAAAAAAAAA
+</s_Lineage>
+</campaign_map_tooltips>
+<campaign_map_tooltips>
+<select_context>researchers_who_cannot_duel</select_context>
+<over_context>player_resource</over_context>
+<tooltip_line>Right click to enter</tooltip_line>
+<Gen_TempField_x002A_0>0</Gen_TempField_x002A_0>
+<Gen_TempField_x002A_1>0</Gen_TempField_x002A_1>
+<s_ColLineage>kNOq8QIAAACQ06rxAgAAAJDTqvEDAAAAkNOq8QEAAACQ06rxAwAAAJDTqvEBAAAA
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{FF0BE545-C5BD-4D0A-B58A-EC0A5578027B}</s_GUID>
+<s_Lineage>kNOq8QMAAAAAAAAAAAAAAA==
+</s_Lineage>
+</campaign_map_tooltips>
+<campaign_map_tooltips>
+<select_context>researchers_who_cannot_duel</select_context>
+<over_context>player_town</over_context>
+<tooltip_line>Right click to enter</tooltip_line>
+<advice_line>Move your scholar here to increase the happiness of this town&apos;s population.</advice_line>
+<Gen_TempField_x002A_0>0</Gen_TempField_x002A_0>
+<Gen_TempField_x002A_1>0</Gen_TempField_x002A_1>
+<s_ColLineage>kNOq8QIAAACQ06rxAgAAAGq5bWoEAAAAkNOq8QEAAACQ06rxAwAAAJDTqvEBAAAA
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{5CF51E35-6803-4767-87C8-EFBF49E22CFA}</s_GUID>
+<s_Lineage>arltagQAAACQ06rxAwAAAAAAAAAAAAAA
+</s_Lineage>
+</campaign_map_tooltips>
+<campaign_map_tooltips>
+<select_context>researchers_who_cannot_duel</select_context>
+<over_context>player_university</over_context>
+<tooltip_line>Right click to research</tooltip_line>
+<advice_line>Moving this learned man into a university will speed up any research occurring there.</advice_line>
+<Gen_TempField_x002A_0>0</Gen_TempField_x002A_0>
+<Gen_TempField_x002A_1>0</Gen_TempField_x002A_1>
+<s_ColLineage>kNOq8QIAAACQ06rxAgAAAGq5bWoGAAAAkNOq8QEAAACQ06rxAwAAAJDTqvEBAAAA
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{8822EBBD-E2EA-462F-AFFE-5B8EB93C063A}</s_GUID>
+<s_Lineage>arltagYAAACQ06rxBQAAAAAAAAAAAAAA
+</s_Lineage>
+</campaign_map_tooltips>
+</dataroot>

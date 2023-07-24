@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="campaigns.xsd" generated="2009-06-25T15:53:10">
+<campaigns>
+<campaign_name>natives</campaign_name>
+<onscreen_name>Natives</onscreen_name>
+<description>&lt;placeholder text&gt;
+1700 Grand Campaign Description</description>
+<map_name>natives_map</map_name>
+<data_directory>world</data_directory>
+<is_grand>1</is_grand>
+<exportable>1</exportable>
+<campaign_order>0</campaign_order>
+<Gen_description>1</Gen_description>
+<Gen_TempField_x002A_1>0</Gen_TempField_x002A_1>
+<s_ColLineage>aZOKYQsAAABpk4phCwAAAJDTqvEBAAAAaZOKYQwAAACQ06rxAQAAAJDTqvEEAAAA
+bILpKgkAAAAAAAAAAAAAAAAAAAAAAAAAkNOq8QcAAACQ06rxBgAAAGmTimENAAAA
+AAAAAAAAAABpk4phDgAAAA==
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{06F43A7D-6A01-432C-8E19-F0245DA91947}</s_GUID>
+<s_Lineage>aZOKYQ4AAABsgukqCQAAAJDTqvEHAAAAAAAAAAAAAAA=
+</s_Lineage>
+<project_specific>1</project_specific>
+</campaigns>
+</dataroot>

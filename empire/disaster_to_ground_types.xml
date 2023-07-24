@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="disaster_to_ground_types.xsd" generated="2007-05-04T14:26:00">
+<disaster_to_ground_types>
+<disaster>dustbowl</disaster>
+<ground_type>desert</ground_type>
+</disaster_to_ground_types>
+<disaster_to_ground_types>
+<disaster>flood</disaster>
+<ground_type>swamp</ground_type>
+</disaster_to_ground_types>
+</dataroot>

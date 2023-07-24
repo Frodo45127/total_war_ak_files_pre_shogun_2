@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="mission_activities.xsd" generated="2009-01-26T11:35:56">
+<mission_activities>
+<mission_activity>assassination</mission_activity>
+<description>Assassinate Character</description>
+<check_event>MissionCheckAssassination</check_event>
+<evaluate_event>MissionEvaluateAssassination</evaluate_event>
+<s_ColLineage>kNOq8QIAAACQ06rxBQAAAJDTqvEEAAAAkNOq8QQAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{09765545-79F7-4F51-9916-403255972438}</s_GUID>
+<s_Lineage>kNOq8QUAAAAAAAAAAAAAAA==
+</s_Lineage>
+</mission_activities>
+<mission_activities>
+<mission_activity>blockade_port</mission_activity>
+<description>Blockade Port</description>
+<check_event>MissionCheckBlockadePort</check_event>
+<evaluate_event>MissionEvaluateBlockadePort</evaluate_event>
+<s_ColLineage>kNOq8QIAAACQ06rxBAAAAJDTqvEDAAAAkNOq8QMAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{31D9B543-2999-49E7-8E94-A89930B1B3B0}</s_GUID>
+<s_Lineage>kNOq8QQAAAAAAAAAAAAAAA==
+</s_Lineage>
+</mission_activities>
+<mission_activities>
+<mission_activity>build</mission_activity>
+<description>Construct Building</description>
+<check_event>MissionCheckBuild</check_event>
+<evaluate_event>MissionEvaluateBuild</evaluate_event>
+<s_ColLineage>kNOq8QEAAACQ06rxCAAAAJDTqvEGAAAAkNOq8QYAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{B1EA96A8-85DD-4BF0-A9B5-1992D2BF4F35}</s_GUID>
+<s_Lineage>kNOq8QgAAAAAAAAAAAAAAA==
+</s_Lineage>
+</mission_activities>
+<mission_activities>
+<mission_activity>capture_city</mission_activity>
+<description>Capture City</description>
+<check_event>MissionCheckCaptureCity</check_event>
+<evaluate_event>MissionEvaluateCaptureCity</evaluate_event>
+<s_ColLineage>kNOq8QEAAACQ06rxBAAAAJDTqvEDAAAAkNOq8QMAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{1679A1C0-CC45-4C2F-B07A-FB5A93B32F4B}</s_GUID>
+<s_Lineage>kNOq8QQAAAAAAAAAAAAAAA==
+</s_Lineage>
+</mission_activities>
+<mission_activities>
+<mission_activity>duel</mission_activity>
+<description>Challenge To A Duel</description>
+<check_event>MissionCheckDuel</check_event>
+<evaluate_event>MissionEvaluateDuel</evaluate_event>
+<s_ColLineage>kNOq8QIAAACQ06rxBgAAAJDTqvEEAAAAkNOq8QQAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{C912B799-61F6-4104-AE95-4B485491DE48}</s_GUID>
+<s_Lineage>kNOq8QYAAAAAAAAAAAAAAA==
+</s_Lineage>
+</mission_activities>
+<mission_activities>
+<mission_activity>engage_character</mission_activity>
+<description>Attack Enemy</description>
+<check_event>MissionCheckEngageCharacter</check_event>
+<evaluate_event>MissionEvaluateEngageCharacter</evaluate_event>
+<s_ColLineage>kNOq8QIAAACQ06rxAwAAAJDTqvECAAAAkNOq8QIAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{69ABF519-355E-4254-8DE1-01D1E838AEB6}</s_GUID>
+<s_Lineage>kNOq8QMAAAAAAAAAAAAAAA==
+</s_Lineage>
+</mission_activities>
+<mission_activities>
+<mission_activity>engage_faction</mission_activity>
+<description>Attack Nation</description>
+<check_event>MissionCheckEngageFaction</check_event>
+<evaluate_event>MissionEvaluateEngageFaction</evaluate_event>
+<s_ColLineage>kNOq8QIAAACQ06rxBwAAAJDTqvEEAAAAkNOq8QUAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{CDF905E2-21A8-4F50-92A1-F8B0683B9640}</s_GUID>
+<s_Lineage>kNOq8QcAAAAAAAAAAAAAAA==
+</s_Lineage>
+</mission_activities>
+<mission_activities>
+<mission_activity>gain_military_access</mission_activity>
+<description>Gain Military Access</description>
+<check_event>MissionCheckGainMilitaryAccess</check_event>
+<evaluate_event>MissionEvaluateGainMilitaryAccess</evaluate_event>
+<s_ColLineage>kNOq8QIAAACQ06rxAwAAAJDTqvECAAAAkNOq8QIAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{687EFE8B-F3E4-4E65-9987-C0A0A927EBAF}</s_GUID>
+<s_Lineage>kNOq8QMAAAAAAAAAAAAAAA==
+</s_Lineage>
+</mission_activities>
+<mission_activities>
+<mission_activity>make_alliance</mission_activity>
+<description>Form Alliance</description>
+<check_event>MissionCheckMakeAlliance</check_event>
+<evaluate_event>MissionEvaluateMakeAlliance</evaluate_event>
+<s_ColLineage>kNOq8QEAAACQ06rxBAAAAJDTqvEDAAAAkNOq8QMAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{64170510-2E6B-4DBC-8C2A-1187983A6AD8}</s_GUID>
+<s_Lineage>kNOq8QQAAAAAAAAAAAAAAA==
+</s_Lineage>
+</mission_activities>
+<mission_activities>
+<mission_activity>make_trade_agreement</mission_activity>
+<description>Make Trade Agreement</description>
+<check_event>MissionCheckMakeTradeAgreement</check_event>
+<evaluate_event>MissionEvaluateMakeTradeAgreement</evaluate_event>
+<s_ColLineage>kNOq8QIAAACQ06rxBgAAAJDTqvEDAAAAkNOq8QUAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{E05E68F5-74C6-424C-8FDE-4FACF6D4C6CF}</s_GUID>
+<s_Lineage>kNOq8QYAAAAAAAAAAAAAAA==
+</s_Lineage>
+</mission_activities>
+<mission_activities>
+<mission_activity>protectorate_region_capture</mission_activity>
+<description>Capture Regions</description>
+<check_event>MissionCheckRecruit</check_event>
+<evaluate_event>MissionEvaluateRecruit</evaluate_event>
+<s_ColLineage>kNOq8QEAAACQ06rxAwAAAJDTqvEEAAAAkNOq8QUAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{BD27F8F2-1110-4090-A24D-ADA3B34FAEA5}</s_GUID>
+<s_Lineage>kNOq8QUAAAAAAAAAAAAAAA==
+</s_Lineage>
+</mission_activities>
+<mission_activities>
+<mission_activity>recruit</mission_activity>
+<description>Recruit Unit</description>
+<check_event>MissionCheckRecruit</check_event>
+<evaluate_event>MissionEvaluateRecruit</evaluate_event>
+<s_ColLineage>kNOq8QIAAACQ06rxBAAAAJDTqvEDAAAAkNOq8QMAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{EF38022C-8C9B-42FF-B549-4A6FD52910BD}</s_GUID>
+<s_Lineage>kNOq8QQAAAAAAAAAAAAAAA==
+</s_Lineage>
+</mission_activities>
+<mission_activities>
+<mission_activity>research</mission_activity>
+<description>Research Technology</description>
+<check_event>MissionCheckResearch</check_event>
+<evaluate_event>MissionEvaluateResearch</evaluate_event>
+<s_ColLineage>kNOq8QIAAACQ06rxBAAAAJDTqvEDAAAAkNOq8QMAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{B20BC042-7A11-4323-9878-D6E8C3BE4538}</s_GUID>
+<s_Lineage>kNOq8QQAAAAAAAAAAAAAAA==
+</s_Lineage>
+</mission_activities>
+<mission_activities>
+<mission_activity>spy_on_city</mission_activity>
+<description>Conduct Espionage</description>
+<check_event>MissionCheckSpyOnCity</check_event>
+<evaluate_event>MissionEvaluateSpyOnCity</evaluate_event>
+<s_ColLineage>kNOq8QIAAACQ06rxAgAAAJDTqvEDAAAAkNOq8QMAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{EB358432-5790-4962-9CD6-16A5F007A3BB}</s_GUID>
+<s_Lineage>kNOq8QMAAAAAAAAAAAAAAA==
+</s_Lineage>
+</mission_activities>
+<mission_activities>
+<mission_activity>capture_fort</mission_activity>
+<description>Capture Fort</description>
+<check_event>n</check_event>
+<evaluate_event>n</evaluate_event>
+<s_ColLineage>NAnHjgIAAAA0CceOAwAAADQJx44EAAAANAnHjgQAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{02385175-91BC-4436-AB95-0EB7738E2BCC}</s_GUID>
+<s_Lineage>NAnHjgQAAAAAAAAAAAAAAA==
+</s_Lineage>
+</mission_activities>
+</dataroot>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="pdlc.xsd" generated="2010-02-03T10:46:09">
+<pdlc>
+<ID>america_elite_units</ID>
+<SteamID>10607</SteamID>
+<description>A brand new pack featuring 15 elite units from the American War of Independence. Each comes with their own unique combination of statistics and abilities, and can be used in both single and multiplayer games.</description>
+<project_specific>0</project_specific>
+<release_order>3</release_order>
+</pdlc>
+<pdlc>
+<ID>campaign_multiplayer_beta</ID>
+<SteamID>10605</SteamID>
+<description>Challenge a friend or enemy to the ultimate multiplayer strategic experience, with the free BETA trial of the 1v1 Multiplayer Campaign for Empire: Total War.</description>
+<project_specific>0</project_specific>
+<release_order>999</release_order>
+</pdlc>
+<pdlc>
+<ID>european_elite_units</ID>
+<SteamID>10604</SteamID>
+<description>The Elite Units of the West introduces 14 new units for the Western factions. All new infantry and cavalry, with the best weapons and training bring increased battlefield options.</description>
+<project_specific>0</project_specific>
+<release_order>1</release_order>
+</pdlc>
+<pdlc>
+<ID>natives</ID>
+<SteamID>10606</SteamID>
+<description>An all new Warpath campaign, featuring five new American Indian playable factions, new tribal unit types and technologies!</description>
+<project_specific>0</project_specific>
+<release_order>2</release_order>
+</pdlc>
+<pdlc>
+<ID>east_elite_units</ID>
+<SteamID>10608</SteamID>
+<description>A brand new pack featuring 12 elite units for the Ottoman and Indian factions. Each comes with their own unique combination of statistics and abilities, and can be used in both single and multiplayer games.</description>
+<project_specific>0</project_specific>
+<release_order>4</release_order>
+</pdlc>
+</dataroot>

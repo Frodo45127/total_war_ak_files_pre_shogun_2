@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="empires.xsd" generated="2008-10-03T17:46:24">
+<empires>
+<empire_name>english_empire</empire_name>
+<onscreen>English Empire</onscreen>
+<s_ColLineage>kNOq8QEAAACQ06rxAQAAAA==
+</s_ColLineage>
+<s_Generation>1</s_Generation>
+<s_GUID>{45AD7E80-0E0A-4BDA-AB1D-616B86C1B973}</s_GUID>
+<s_Lineage>kNOq8QEAAAAAAAAAAAAAAA==
+</s_Lineage>
+</empires>
+<empires>
+<empire_name>german_empire</empire_name>
+<onscreen>German Empire</onscreen>
+<s_ColLineage>kNOq8QEAAACQ06rxAQAAAA==
+</s_ColLineage>
+<s_Generation>1</s_Generation>
+<s_GUID>{CC423AF7-B963-43E2-A5B4-18D5DE74ED14}</s_GUID>
+<s_Lineage>kNOq8QEAAAAAAAAAAAAAAA==
+</s_Lineage>
+</empires>
+<empires>
+<empire_name>holy_roman_empire</empire_name>
+<onscreen>Holy Roman Empire</onscreen>
+<s_ColLineage>kNOq8QEAAACQ06rxAQAAAA==
+</s_ColLineage>
+<s_Generation>1</s_Generation>
+<s_GUID>{6E49999B-DC76-4032-9245-7D0C19D7B4FF}</s_GUID>
+<s_Lineage>kNOq8QEAAAAAAAAAAAAAAA==
+</s_Lineage>
+</empires>
+<empires>
+<empire_name>indian_empire</empire_name>
+<onscreen>Indian Empire</onscreen>
+<s_ColLineage>kNOq8QEAAACQ06rxAQAAAA==
+</s_ColLineage>
+<s_Generation>1</s_Generation>
+<s_GUID>{28866079-969A-4490-9A0A-0A8A0DFB2568}</s_GUID>
+<s_Lineage>kNOq8QEAAAAAAAAAAAAAAA==
+</s_Lineage>
+</empires>
+<empires>
+<empire_name>ottoman_empire</empire_name>
+<onscreen>Ottoman Empire</onscreen>
+<s_ColLineage>kNOq8QEAAACQ06rxAQAAAA==
+</s_ColLineage>
+<s_Generation>1</s_Generation>
+<s_GUID>{38669E66-89F4-475A-8CFC-735BD86B3C34}</s_GUID>
+<s_Lineage>kNOq8QEAAAAAAAAAAAAAAA==
+</s_Lineage>
+</empires>
+<empires>
+<empire_name>russian_empire</empire_name>
+<onscreen>Russian Empire</onscreen>
+<s_ColLineage>kNOq8QEAAACQ06rxAQAAAA==
+</s_ColLineage>
+<s_Generation>1</s_Generation>
+<s_GUID>{FB9B3C0F-D743-48C2-BAD1-955B10B2DE1D}</s_GUID>
+<s_Lineage>kNOq8QEAAAAAAAAAAAAAAA==
+</s_Lineage>
+</empires>
+</dataroot>

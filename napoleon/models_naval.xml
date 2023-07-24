@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot>
+<models_naval>
+<key>1deck24</key>
+<logic_folder>ships\1deck24\</logic_folder>
+<rigging_file>RigidModels\naval\1deck24\logic.xml.rigging</rigging_file>
+<destruction_file>RigidModels\naval\1deck24\ship_destruction.rigid_model_animation</destruction_file>
+<s_ColLineage>104</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{guid {5D77AFB9-E269-4285-B9C9-3355450BA95E}}</s_GUID>
+<s_Lineage>104</s_Lineage>
+</models_naval>
+<models_naval>
+<key>1deck32</key>
+<logic_folder>ships\1deck32\</logic_folder>
+<rigging_file>RigidModels\naval\1deck32\logic.xml.rigging</rigging_file>
+<destruction_file>RigidModels\naval\1deck32\ship_destruction.rigid_model_animation</destruction_file>
+<s_ColLineage>104</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{guid {72CBD433-8DF1-4FF2-8F3D-9C5614B64728}}</s_GUID>
+<s_Lineage>104</s_Lineage>
+</models_naval>
+<models_naval>
+<key>1deck38</key>
+<logic_folder>ships\1deck38\</logic_folder>
+<rigging_file>RigidModels\naval\1deck38\logic.xml.rigging</rigging_file>
+<destruction_file>RigidModels\naval\1deck38\ship_destruction.rigid_model_animation</destruction_file>
+<s_ColLineage>104</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{guid {B04896F9-72BB-4320-AB80-4590B53273AC}}</s_GUID>
+<s_Lineage>104</s_Lineage>
+</models_naval>
+<models_naval>
+<key>1deck38_steam</key>
+<logic_folder>ships\1deck38_steam\</logic_folder>
+<rigging_file>RigidModels\naval\1deck38_steam\logic.xml.rigging</rigging_file>
+<destruction_file>RigidModels\naval\1deck38_steam\ship_destruction.rigid_model_animation</destruction_file>
+<s_ColLineage>104</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{guid {FCDF0CB9-F2F0-4981-A1ED-E0C642FA2E23}}</s_GUID>
+<s_Lineage>104</s_Lineage>
+</models_naval>
+<models_naval>
+<key>2deck50</key>
+<logic_folder>ships\2deck50\</logic_folder>
+<rigging_file>RigidModels\naval\2deck50\logic.xml.rigging</rigging_file>
+<destruction_file>RigidModels\naval\2deck50\ship_destruction.rigid_model_animation</destruction_file>
+<s_ColLineage>104</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{guid {6AB9C5F3-C2F5-4716-B97E-49EEC7D918F0}}</s_GUID>
+<s_Lineage>104</s_Lineage>
+</models_naval>
+<models_naval>
+<key>2deck58</key>
+<logic_folder>ships\2deck58\</logic_folder>
+<rigging_file>RigidModels\naval\2deck58\logic.xml.rigging</rigging_file>
+<destruction_file>RigidModels\naval\2deck58\ship_destruction.rigid_model_animation</destruction_file>
+<s_ColLineage>104</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{guid {6278D906-C761-4765-BECB-A86035EFC545}}</s_GUID>
+<s_Lineage>104</s_Lineage>
+</models_naval>
+<models_naval>
+<key>2deck64</key>
+<logic_folder>ships\2deck64\</logic_folder>
+<rigging_file>RigidModels\naval\2deck64\logic.xml.rigging</rigging_file>
+<destruction_file>RigidModels\naval\2deck64\ship_destruction.rigid_model_animation</destruction_file>
+<s_ColLineage>104</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{guid {A96FE69E-0972-4D3F-A1DC-21DEC8B3A1D9}}</s_GUID>
+<s_Lineage>104</s_Lineage>
+</models_naval>
+<models_naval>
+<key>2deck74</key>
+<logic_folder>ships\2deck74\</logic_folder>
+<rigging_file>RigidModels\naval\2deck74\logic.xml.rigging</rigging_file>
+<destruction_file>RigidModels\naval\2deck74\ship_destruction.rigid_model_animation</destruction_file>
+<s_ColLineage>104</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{guid {D4AAABC4-AF4E-442C-9A3A-4D14480383BC}}</s_GUID>
+<s_Lineage>104</s_Lineage>
+</models_naval>
+<models_naval>
+<key>2deck80</key>
+<logic_folder>ships\2deck80\</logic_folder>
+<rigging_file>RigidModels\naval\2deck80\logic.xml.rigging</rigging_file>
+<destruction_file>RigidModels\naval\2deck80\ship_destruction.rigid_model_animation</destruction_file>
+<s_ColLineage>104</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{guid {73A97BF6-3922-41D7-8CA7-45E445016014}}</s_GUID>
+<s_Lineage>104</s_Lineage>
+</models_naval>
+<models_naval>
+<key>2deck80_ironclad</key>
+<logic_folder>ships\2deck80_ironclad\</logic_folder>
+<rigging_file>RigidModels\naval\2deck80_ironclad\logic.xml.rigging</rigging_file>
+<destruction_file>RigidModels\naval\2deck80_ironclad\ship_destruction.rigid_model_animation</destruction_file>
+<s_ColLineage>192</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{guid {402F6424-D2D2-4A0D-9C18-079085CEE4D2}}</s_GUID>
+<s_Lineage>192</s_Lineage>
+</models_naval>
+<models_naval>
+<key>2deck80_steam</key>
+<logic_folder>ships\2deck80_steam\</logic_folder>
+<rigging_file>RigidModels\naval\2deck80_steam\logic.xml.rigging</rigging_file>
+<destruction_file>RigidModels\naval\2deck80_steam\ship_destruction.rigid_model_animation</destruction_file>
+<s_ColLineage>192</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{guid {8E3151BD-8739-425F-A749-6395DC7B2ED2}}</s_GUID>
+<s_Lineage>192</s_Lineage>
+</models_naval>
+<models_naval>
+<key>3deck100</key>
+<logic_folder>ships\3deck100\</logic_folder>
+<rigging_file>RigidModels\naval\3deck100\logic.xml.rigging</rigging_file>
+<destruction_file>RigidModels\naval\3deck100\ship_destruction.rigid_model_animation</destruction_file>
+<s_ColLineage>192</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{guid {29643FD1-473F-402A-8CF1-55796A2257FA}}</s_GUID>
+<s_Lineage>192</s_Lineage>
+</models_naval>
+<models_naval>
+<key>3deck80</key>
+<logic_folder>ships\3deck80\</logic_folder>
+<rigging_file>RigidModels\naval\3deck80\logic.xml.rigging</rigging_file>
+<destruction_file>RigidModels\naval\3deck80\ship_destruction.rigid_model_animation</destruction_file>
+<s_ColLineage>192</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{guid {3F22A0C1-4BF9-4C93-8E2E-0737CBCADA5C}}</s_GUID>
+<s_Lineage>192</s_Lineage>
+</models_naval>
+<models_naval>
+<key>3deck98</key>
+<logic_folder>ships\3deck98\</logic_folder>
+<rigging_file>RigidModels\naval\3deck98\logic.xml.rigging</rigging_file>
+<destruction_file>RigidModels\naval\3deck98\ship_destruction.rigid_model_animation</destruction_file>
+<s_ColLineage>192</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{guid {11AF7D40-58A8-49E6-A813-69243815B8B6}}</s_GUID>
+<s_Lineage>192</s_Lineage>
+</models_naval>
+<models_naval>
+<key>4deck120</key>
+<logic_folder>ships\4deck120\</logic_folder>
+<rigging_file>RigidModels\naval\4deck120\logic.xml.rigging</rigging_file>
+<destruction_file>RigidModels\naval\4deck120\ship_destruction.rigid_model_animation</destruction_file>
+<s_ColLineage>192</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{guid {F9F74D1B-7B0D-4022-9AF1-F97AC663240C}}</s_GUID>
+<s_Lineage>192</s_Lineage>
+</models_naval>
+<models_naval>
+<key>4deck140</key>
+<logic_folder>ships\4deck140\</logic_folder>
+<rigging_file>RigidModels\naval\4deck140\logic.xml.rigging</rigging_file>
+<destruction_file>RigidModels\naval\4deck140\ship_destruction.rigid_model_animation</destruction_file>
+<s_ColLineage>192</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{guid {116E382F-C8A3-4EB4-8300-489BC387254C}}</s_GUID>
+<s_Lineage>192</s_Lineage>
+</models_naval>
+<models_naval>
+<key>bomb_ketch</key>
+<logic_folder>ships\bomb_ketch\</logic_folder>
+<rigging_file>RigidModels\naval\bomb_ketch\logic.xml.rigging</rigging_file>
+<destruction_file>RigidModels\naval\bomb_ketch\ship_destruction.rigid_model_animation</destruction_file>
+<s_ColLineage>192</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{guid {2938A94D-0C4D-4271-BC5F-F9BEE229AECD}}</s_GUID>
+<s_Lineage>192</s_Lineage>
+</models_naval>
+<models_naval>
+<key>brig</key>
+<logic_folder>ships\brig\</logic_folder>
+<rigging_file>RigidModels\naval\brig\logic.xml.rigging</rigging_file>
+<destruction_file>RigidModels\naval\brig\ship_destruction.rigid_model_animation</destruction_file>
+<s_ColLineage>192</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{guid {27517699-5DAC-4170-9395-69D4F3A20B33}}</s_GUID>
+<s_Lineage>192</s_Lineage>
+</models_naval>
+<models_naval>
+<key>dhow</key>
+<logic_folder>ships\dhow\</logic_folder>
+<rigging_file>RigidModels\naval\dhow\logic.xml.rigging</rigging_file>
+<destruction_file>RigidModels\naval\dhow\ship_destruction.rigid_model_animation</destruction_file>
+<s_ColLineage>192</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{guid {51AF9CC4-F515-4022-8E54-29C52AF2D725}}</s_GUID>
+<s_Lineage>192</s_Lineage>
+</models_naval>
+<models_naval>
+<key>galley</key>
+<logic_folder>ships\galley\</logic_folder>
+<rigging_file>RigidModels\naval\galley\logic.xml.rigging</rigging_file>
+<destruction_file>RigidModels\naval\galley\ship_destruction.rigid_model_animation</destruction_file>
+<s_ColLineage>192</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{guid {52CF8723-371B-4CB8-864A-AF57FFD90120}}</s_GUID>
+<s_Lineage>192</s_Lineage>
+</models_naval>
+<models_naval>
+<key>hms_elephant</key>
+<logic_folder>ships\hms_elephant\</logic_folder>
+<rigging_file>RigidModels\naval\hms_elephant\logic.xml.rigging</rigging_file>
+<destruction_file>RigidModels\naval\hms_elephant\ship_destruction.rigid_model_animation</destruction_file>
+<s_ColLineage>192</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{guid {C2C8BBF4-2715-4B22-B30C-B4B27D5D0D57}}</s_GUID>
+<s_Lineage>192</s_Lineage>
+</models_naval>
+<models_naval>
+<key>merchant_64</key>
+<logic_folder>ships\merchant_64\</logic_folder>
+<rigging_file>RigidModels\naval\merchant_64\logic.xml.rigging</rigging_file>
+<destruction_file>RigidModels\naval\merchant_64\ship_destruction.rigid_model_animation</destruction_file>
+<s_ColLineage>192</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{guid {1BEBBC7C-6CFE-4D28-83CB-1BB0D29A5855}}</s_GUID>
+<s_Lineage>192</s_Lineage>
+</models_naval>
+<models_naval>
+<key>razee44</key>
+<logic_folder>ships\razee44\</logic_folder>
+<rigging_file>RigidModels\naval\razee44\logic.xml.rigging</rigging_file>
+<destruction_file>RigidModels\naval\razee44\ship_destruction.rigid_model_animation</destruction_file>
+<s_ColLineage>192</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{guid {3A4C81ED-ECA3-45B9-BB96-FAF2C9A3717F}}</s_GUID>
+<s_Lineage>192</s_Lineage>
+</models_naval>
+<models_naval>
+<key>rocket_ship</key>
+<logic_folder>ships\rocket_ship\</logic_folder>
+<rigging_file>RigidModels\naval\rocket_ship\logic.xml.rigging</rigging_file>
+<destruction_file>RigidModels\naval\rocket_ship\ship_destruction.rigid_model_animation</destruction_file>
+<s_ColLineage>192</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{guid {9E51CA70-C98E-44E9-89B9-258F2A099630}}</s_GUID>
+<s_Lineage>192</s_Lineage>
+</models_naval>
+<models_naval>
+<key>sloop</key>
+<logic_folder>ships\sloop\</logic_folder>
+<rigging_file>RigidModels\naval\sloop\logic.xml.rigging</rigging_file>
+<destruction_file>RigidModels\naval\sloop\ship_destruction.rigid_model_animation</destruction_file>
+<s_ColLineage>192</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{guid {70D7B9A6-E654-46BE-BDFE-4FB9AEBC9E25}}</s_GUID>
+<s_Lineage>192</s_Lineage>
+</models_naval>
+<models_naval>
+<key>steam_frigate</key>
+<logic_folder>ships\steam_frigate\</logic_folder>
+<rigging_file>RigidModels\naval\steam_frigate\logic.xml.rigging</rigging_file>
+<destruction_file>RigidModels\naval\steam_frigate\ship_destruction.rigid_model_animation</destruction_file>
+<s_ColLineage>192</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{guid {B4E597DA-2F5F-4977-A82F-7093CF98DB35}}</s_GUID>
+<s_Lineage>192</s_Lineage>
+</models_naval>
+</dataroot>

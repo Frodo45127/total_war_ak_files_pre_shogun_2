@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="population_classes.xsd" generated="2009-11-20T16:40:24">
+<population_classes>
+<population_class>lower</population_class>
+<riots>1</riots>
+<demands>0</demands>
+<spawn_rebel_general>0</spawn_rebel_general>
+<onscreen_name>Lower Class</onscreen_name>
+<s_ColLineage>kNOq8QEAAACQ06rxAQAAAJDTqvEBAAAAkNOq8QEAAACQ06rxAgAAAA==
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{76D3B090-F0C6-46EE-827F-0CC8530B572B}</s_GUID>
+<s_Lineage>kNOq8QIAAAAAAAAAAAAAAA==
+</s_Lineage>
+</population_classes>
+<population_classes>
+<population_class>middle</population_class>
+<riots>1</riots>
+<demands>0</demands>
+<spawn_rebel_general>0</spawn_rebel_general>
+<onscreen_name>Middle Class</onscreen_name>
+<s_ColLineage>kNOq8QEAAACQ06rxAQAAAJDTqvEBAAAAkNOq8QEAAACQ06rxAgAAAA==
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{700EEB02-8669-4C12-888D-C2BF244EEFE9}</s_GUID>
+<s_Lineage>kNOq8QIAAAAAAAAAAAAAAA==
+</s_Lineage>
+</population_classes>
+<population_classes>
+<population_class>upper</population_class>
+<riots>0</riots>
+<demands>1</demands>
+<spawn_rebel_general>1</spawn_rebel_general>
+<onscreen_name>Nobility</onscreen_name>
+<s_ColLineage>kNOq8QEAAACQ06rxAQAAAJDTqvEBAAAAkNOq8QEAAACQ06rxAwAAAA==
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{8419C1FC-C542-4B50-9976-35C3BDFD618A}</s_GUID>
+<s_Lineage>kNOq8QMAAAAAAAAAAAAAAA==
+</s_Lineage>
+</population_classes>
+</dataroot>

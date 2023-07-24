@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="trigger_to_trigger_effects.xsd" generated="2006-12-14T12:28:53">
+<trigger_to_trigger_effects>
+<trigger>all_romans_are_drunks</trigger>
+<effect>drink</effect>
+</trigger_to_trigger_effects>
+<trigger_to_trigger_effects>
+<trigger>coward</trigger>
+<effect>cowardice</effect>
+</trigger_to_trigger_effects>
+</dataroot>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="cdir_unit_balance_configs.xsd" generated="2009-08-26T11:49:03">
+<cdir_unit_balance_configs>
+<key>default</key>
+<s_ColLineage>W4e7tQIAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{13C6F8FB-FAC9-47A2-B489-F522076FC9F2}</s_GUID>
+<s_Lineage>W4e7tQIAAAAAAAAAAAAAAA==
+</s_Lineage>
+</cdir_unit_balance_configs>
+</dataroot>

@@ -1,0 +1,543 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="unit_class.xsd" generated="2010-03-18T15:33:31">
+<unit_class>
+<key>artillery_fixed</key>
+<onscreen>Fixed Artillery</onscreen>
+<tooltip>Powerful, but cannot move once battle starts. Best used in defensive battles where the enemy must advance into range.||Artillery is most effective when targeting enemy troop concentrations and can also bombard the ground around choke points and enemy lines of advance.</tooltip>
+<Gen_TempField_x002A_0>0</Gen_TempField_x002A_0>
+<s_ColLineage>kNOq8QEAAACQ06rxBAAAAJDTqvEGAAAAkNOq8QUAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{A2AEB829-A8EE-45B7-BC1C-8215789F1970}</s_GUID>
+<s_Lineage>kNOq8QYAAAAAAAAAAAAAAA==
+</s_Lineage>
+</unit_class>
+<unit_class>
+<key>artillery_foot</key>
+<onscreen>Artillery</onscreen>
+<tooltip>Can be limbered and repositioned at a walking pace, very good firepower.||Artillery is most effective when targeting enemy troop concentrations and can also bombard the ground around choke points and enemy lines of advance.</tooltip>
+<Gen_TempField_x002A_0>0</Gen_TempField_x002A_0>
+<s_ColLineage>kNOq8QEAAACQ06rxAwAAAJDTqvEGAAAAkNOq8QUAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{0DADE242-A0D9-40D3-81FA-8FDB340709FD}</s_GUID>
+<s_Lineage>kNOq8QYAAAAAAAAAAAAAAA==
+</s_Lineage>
+</unit_class>
+<unit_class>
+<key>artillery_horse</key>
+<onscreen>Horse Artillery</onscreen>
+<tooltip>Can be limbered and repositioned quickly at a gallop, very good firepower.||Artillery is most effective when targeting enemy troop concentrations and can also bombard the ground around choke points and enemy lines of advance.</tooltip>
+<Gen_TempField_x002A_0>0</Gen_TempField_x002A_0>
+<s_ColLineage>kNOq8QEAAACQ06rxAwAAAJDTqvEGAAAAkNOq8QUAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{E21D4918-B167-470F-9782-821AD0F60BD0}</s_GUID>
+<s_Lineage>kNOq8QYAAAAAAAAAAAAAAA==
+</s_Lineage>
+</unit_class>
+<unit_class>
+<key>cavalry_camels</key>
+<onscreen>Camel Cavalry</onscreen>
+<tooltip>Scares horses, good stamina.||This staying-power makes them increasingly useful as the battles wears on.</tooltip>
+<Gen_TempField_x002A_0>0</Gen_TempField_x002A_0>
+<s_ColLineage>kNOq8QEAAACQ06rxBAAAAJDTqvEHAAAAkNOq8QYAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{3D0E0EB9-1CF4-4245-936A-3FAD01DEDCCB}</s_GUID>
+<s_Lineage>kNOq8QcAAAAAAAAAAAAAAA==
+</s_Lineage>
+</unit_class>
+<unit_class>
+<key>cavalry_heavy</key>
+<onscreen>Heavy Cavalry</onscreen>
+<tooltip>Shock cavalry, strong charge. Effective against infantry even in prolonged melee.||Powerful against infantry and cavalry, but vulnerable to pikes and infantry in squares.</tooltip>
+<Gen_TempField_x002A_0>0</Gen_TempField_x002A_0>
+<s_ColLineage>kNOq8QEAAACQ06rxBAAAAJDTqvEHAAAAkNOq8QYAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{3F0773A4-A07D-4867-8DA5-9ABCE5230458}</s_GUID>
+<s_Lineage>kNOq8QcAAAAAAAAAAAAAAA==
+</s_Lineage>
+</unit_class>
+<unit_class>
+<key>cavalry_irregular</key>
+<onscreen>Irregular Cavalry</onscreen>
+<tooltip>Can hide in light scrub. Good for ambushing enemies.||Good for chasing down routing units and harassing.</tooltip>
+<Gen_TempField_x002A_0>0</Gen_TempField_x002A_0>
+<s_ColLineage>kNOq8QEAAACQ06rxBAAAAJDTqvEHAAAAkNOq8QYAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{31BA4AC4-33AA-4E06-B7FB-6F3A2EB21333}</s_GUID>
+<s_Lineage>kNOq8QcAAAAAAAAAAAAAAA==
+</s_Lineage>
+</unit_class>
+<unit_class>
+<key>cavalry_lancers</key>
+<onscreen>Lancer Cavalry</onscreen>
+<tooltip>Deadly charge but vulnerable in prolonged melee. Good versus cavalry.||Before a general melee develops lancers should be withdrawn to charge again.</tooltip>
+<Gen_TempField_x002A_0>0</Gen_TempField_x002A_0>
+<s_ColLineage>kNOq8QEAAACQ06rxAwAAAJDTqvEGAAAAkNOq8QUAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{187177B9-DA99-455E-9080-2D0F5859C91A}</s_GUID>
+<s_Lineage>kNOq8QYAAAAAAAAAAAAAAA==
+</s_Lineage>
+</unit_class>
+<unit_class>
+<key>cavalry_light</key>
+<onscreen>Light Cavalry</onscreen>
+<tooltip>Lightly armed but good for attacking unsupported units.||Able to outrun most adversaries, they can operate far from support, tying enemy units down. Perfect for charging down routing units.</tooltip>
+<Gen_TempField_x002A_0>0</Gen_TempField_x002A_0>
+<s_ColLineage>kNOq8QEAAACQ06rxAwAAAJDTqvEGAAAAkNOq8QUAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{1B702C6D-55BB-4168-9E7C-99A11665E282}</s_GUID>
+<s_Lineage>kNOq8QYAAAAAAAAAAAAAAA==
+</s_Lineage>
+</unit_class>
+<unit_class>
+<key>cavalry_missile</key>
+<onscreen>Missile Cavalry</onscreen>
+<tooltip>Can harass enemies and keep their distance but poor in melee.||Able to fire then reposition, they are difficult to pin down. They should also avoid concentrations of enemy musketmen.</tooltip>
+<Gen_TempField_x002A_0>0</Gen_TempField_x002A_0>
+<s_ColLineage>kNOq8QEAAACQ06rxAwAAAJDTqvEGAAAAkNOq8QUAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{5F64C5AB-BC4D-44EB-8B19-C9A4870E68F3}</s_GUID>
+<s_Lineage>kNOq8QYAAAAAAAAAAAAAAA==
+</s_Lineage>
+</unit_class>
+<unit_class>
+<key>cavalry_standard</key>
+<onscreen>Cavalry</onscreen>
+<tooltip>Good at attacking enemies in flanks and rear. The horseman&apos;s mobility is his greatest asset.||Head-on attacks against infantry set to receive them should be avoided though.</tooltip>
+<Gen_TempField_x002A_0>0</Gen_TempField_x002A_0>
+<s_ColLineage>kNOq8QEAAACQ06rxBAAAAJDTqvEHAAAAkNOq8QYAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{BD8B9277-AE25-427E-B6D5-037FF0D114DC}</s_GUID>
+<s_Lineage>kNOq8QcAAAAAAAAAAAAAAA==
+</s_Lineage>
+</unit_class>
+<unit_class>
+<key>dragoons</key>
+<onscreen>Mounted Infantry</onscreen>
+<tooltip>Mounted troops who can dismount and act as infantry. Good for harassing enemy’s flanks.|| Can dismount to ply their muskets before remounting and riding to a new position. Good at riding down routers.</tooltip>
+<Gen_TempField_x002A_0>0</Gen_TempField_x002A_0>
+<s_ColLineage>kNOq8QEAAACxmqzrBgAAAJDTqvEFAAAAkNOq8QQAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{BCB79A2F-9886-424D-B3DF-6D98FA2E29D0}</s_GUID>
+<s_Lineage>sZqs6wYAAACQ06rxBQAAAAAAAAAAAAAA
+</s_Lineage>
+</unit_class>
+<unit_class>
+<key>elephants</key>
+<onscreen>Elephants</onscreen>
+<tooltip>Elephants are used to charge and panic the enemy but are vulnerable against massed cannons and muskets.||They are best aimed at massed infantry. They are conspicuous targets though and should be kept out of the firing line for as long as possible</tooltip>
+<Gen_TempField_x002A_0>0</Gen_TempField_x002A_0>
+<s_ColLineage>kNOq8QEAAACQ06rxAgAAAJDTqvEFAAAAkNOq8QQAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{F410CDE5-FE07-4643-97E8-4FB44D4111BD}</s_GUID>
+<s_Lineage>kNOq8QUAAAAAAAAAAAAAAA==
+</s_Lineage>
+</unit_class>
+<unit_class>
+<key>general</key>
+<onscreen>General</onscreen>
+<tooltip>Gives big morale boost to nearby friendly troops, but army will suffer morale penalty if General dies.||Best kept near frontlines to boost nearby troops, they are vulnerable so should be protected by other units.</tooltip>
+<Gen_TempField_x002A_0>0</Gen_TempField_x002A_0>
+<s_ColLineage>kNOq8QEAAACQ06rxAgAAAJDTqvEFAAAAkNOq8QQAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{07122796-EA44-4621-9D40-FC98132CA7D8}</s_GUID>
+<s_Lineage>kNOq8QUAAAAAAAAAAAAAAA==
+</s_Lineage>
+</unit_class>
+<unit_class>
+<key>infantry_berserker</key>
+<onscreen>Berserker Infantry</onscreen>
+<tooltip>Brutally effective melee infantry best used to smash a hole in the enemy line.||They remain vulnerable to missile fire.</tooltip>
+<Gen_TempField_x002A_0>0</Gen_TempField_x002A_0>
+<s_ColLineage>kNOq8QEAAACQ06rxAwAAAJDTqvEGAAAAkNOq8QUAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{180E183D-01FB-43E3-87A4-9429345D9F4A}</s_GUID>
+<s_Lineage>kNOq8QYAAAAAAAAAAAAAAA==
+</s_Lineage>
+</unit_class>
+<unit_class>
+<key>infantry_elite</key>
+<onscreen>Elite Infantry</onscreen>
+<tooltip>Crack troops provide a morale boost to nearby friendly units.||Veterans of many hard battles; they can be relied on to hold their position come what may.</tooltip>
+<Gen_TempField_x002A_0>0</Gen_TempField_x002A_0>
+<s_ColLineage>kNOq8QEAAACQ06rxAwAAAJDTqvEGAAAAkNOq8QUAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{6C2A1745-6CA8-400D-A728-F38826BCA1AB}</s_GUID>
+<s_Lineage>kNOq8QYAAAAAAAAAAAAAAA==
+</s_Lineage>
+</unit_class>
+<unit_class>
+<key>infantry_grenadiers</key>
+<onscreen>Grenadiers</onscreen>
+<tooltip>Armed with grenades these are perfect assault troops.||Grenadiers are specialists at clearing buildings, fortifications and choke points. They are typically tough men, able to hold their own in hand-to-hand fighting</tooltip>
+<Gen_TempField_x002A_0>0</Gen_TempField_x002A_0>
+<s_ColLineage>kNOq8QEAAACQ06rxAwAAAJDTqvEGAAAAkNOq8QUAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{251E77FF-552F-44F1-B173-B472039F9848}</s_GUID>
+<s_Lineage>kNOq8QYAAAAAAAAAAAAAAA==
+</s_Lineage>
+</unit_class>
+<unit_class>
+<key>infantry_irregulars</key>
+<onscreen>Irregulars</onscreen>
+<tooltip>Can hide in any terrain, great for ambushes. Generally weak in melee.||They can move whilst hidden allowing them to get into position for the perfect ambush.</tooltip>
+<Gen_TempField_x002A_0>0</Gen_TempField_x002A_0>
+<s_ColLineage>kNOq8QEAAACQ06rxAwAAAJDTqvEGAAAAkNOq8QUAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{8346A32E-2CC0-44CD-ADF3-9FDA90E66213}</s_GUID>
+<s_Lineage>kNOq8QYAAAAAAAAAAAAAAA==
+</s_Lineage>
+</unit_class>
+<unit_class>
+<key>infantry_light</key>
+<onscreen>Light Infantry</onscreen>
+<tooltip>Sharpshooters good at screening main battle line. Weak in melee.||Their role involves advancing before the main body of the army to flush out enemy ambushes and thin the enemy ranks, and then withdrawing behind main line when threatened.</tooltip>
+<Gen_TempField_x002A_0>0</Gen_TempField_x002A_0>
+<s_ColLineage>kNOq8QEAAACQ06rxAwAAAJDTqvEGAAAAkNOq8QUAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{214456F0-DD74-4D06-A2CC-ABE30AE057FD}</s_GUID>
+<s_Lineage>kNOq8QYAAAAAAAAAAAAAAA==
+</s_Lineage>
+</unit_class>
+<unit_class>
+<key>infantry_line</key>
+<onscreen>Line Infantry</onscreen>
+<tooltip>All round units who form main battle line. Thinner lines maximise firepower but are vulnerable to charges.||Their primary function is to present as great a concentration of musket fire as possible. Around this stable platform, the rest of the army can operate.</tooltip>
+<Gen_TempField_x002A_0>0</Gen_TempField_x002A_0>
+<s_ColLineage>kNOq8QEAAACQ06rxAwAAAJDTqvEFAAAAkNOq8QQAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{872BF33C-999F-44FA-BCE9-9A4521B8D4E4}</s_GUID>
+<s_Lineage>kNOq8QUAAAAAAAAAAAAAAA==
+</s_Lineage>
+</unit_class>
+<unit_class>
+<key>infantry_melee</key>
+<onscreen>Melee Infantry</onscreen>
+<tooltip>Specialists in hand to hand combat. Vulnerable to massed ranged units.||Though they offer no reply to incoming enemy fire, when face to face with the enemy these men can even the score.</tooltip>
+<Gen_TempField_x002A_0>0</Gen_TempField_x002A_0>
+<s_ColLineage>kNOq8QEAAACQ06rxAgAAAJDTqvEFAAAAkNOq8QQAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{FC6C22DD-B89E-433A-B483-49984536BCAA}</s_GUID>
+<s_Lineage>kNOq8QUAAAAAAAAAAAAAAA==
+</s_Lineage>
+</unit_class>
+<unit_class>
+<key>infantry_militia</key>
+<onscreen>Militia</onscreen>
+<tooltip>Cheap but of variable quality.||Ideal for garrison duties, they can also bolster the numbers of an army if needed. If well led may surprise a complacent enemy.</tooltip>
+<Gen_TempField_x002A_0>0</Gen_TempField_x002A_0>
+<s_ColLineage>kNOq8QEAAACQ06rxAgAAAJDTqvEFAAAAkNOq8QQAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{307A6B41-6CD4-4028-A2CF-EBD59A38F0B2}</s_GUID>
+<s_Lineage>kNOq8QUAAAAAAAAAAAAAAA==
+</s_Lineage>
+</unit_class>
+<unit_class>
+<key>infantry_mob</key>
+<onscreen>Mob</onscreen>
+<tooltip>Untrained, poorly-equipped and ill-disciplined.||They have no training, experience or leadership. Lacking these, they can only be relied upon to do one thing well: run!</tooltip>
+<Gen_TempField_x002A_0>0</Gen_TempField_x002A_0>
+<s_ColLineage>kNOq8QEAAACQ06rxAgAAAJDTqvEFAAAAkNOq8QQAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{CACFFA4F-745D-4C1C-A4D0-75D082BAEAA1}</s_GUID>
+<s_Lineage>kNOq8QUAAAAAAAAAAAAAAA==
+</s_Lineage>
+</unit_class>
+<unit_class>
+<key>infantry_skirmishers</key>
+<onscreen>Skirmishers</onscreen>
+<tooltip>Deployed to screen main battle line. Good for harassing enemy but weak in melee.||Skirmishers can withdraw to safety when the enemy draws near. This tactic can serve to draw an enemy into an ambush or closer to supporting units.</tooltip>
+<Gen_TempField_x002A_0>0</Gen_TempField_x002A_0>
+<s_ColLineage>kNOq8QEAAACQ06rxAgAAAJDTqvEFAAAAkNOq8QQAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{B7804D16-C628-47DF-9721-90DA2EED073E}</s_GUID>
+<s_Lineage>kNOq8QUAAAAAAAAAAAAAAA==
+</s_Lineage>
+</unit_class>
+<unit_class>
+<key>naval_admiral</key>
+<onscreen>Admiral</onscreen>
+<tooltip>Gives big morale boost to nearby ships. Fleet will suffer morale penalty if Admiral dies.||The Admiral&apos;s Flagship is best used to lead the battle line in order to inspire the ships around it.</tooltip>
+<Gen_TempField_x002A_0>0</Gen_TempField_x002A_0>
+<s_ColLineage>kNOq8QIAAACQ06rxAwAAAJDTqvEGAAAAkNOq8QUAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{30753875-2A9A-43C5-BC10-1B78CFE45CC6}</s_GUID>
+<s_Lineage>kNOq8QYAAAAAAAAAAAAAAA==
+</s_Lineage>
+</unit_class>
+<unit_class>
+<key>naval_bomb_ketch</key>
+<onscreen>Bomb Ketch</onscreen>
+<tooltip>Though vulnerable with a weak hull, plunging mortar shot can sink even the heaviest ship.||Best kept at a distance and used to attack the largest enemy ships.</tooltip>
+<Gen_TempField_x002A_0>0</Gen_TempField_x002A_0>
+<s_ColLineage>kNOq8QEAAACQ06rxAgAAAJDTqvEFAAAAkNOq8QQAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{93C55AED-F967-4818-A6AC-332BB6FBA756}</s_GUID>
+<s_Lineage>kNOq8QUAAAAAAAAAAAAAAA==
+</s_Lineage>
+</unit_class>
+<unit_class>
+<key>naval_brig</key>
+<onscreen>Brig</onscreen>
+<tooltip>Good for taking on smaller ships, fast but lightly armed.||Their relatively small size allows them outmanoeuvre heavy opponents. Positioned across an enemy&apos;s stern though, brigs are capable of doing quite serious damage.</tooltip>
+<Gen_TempField_x002A_0>0</Gen_TempField_x002A_0>
+<s_ColLineage>kNOq8QEAAACQ06rxAgAAAJDTqvEFAAAAkNOq8QQAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{E7B0E93B-DED9-438E-9E42-49F873EE41E6}</s_GUID>
+<s_Lineage>kNOq8QUAAAAAAAAAAAAAAA==
+</s_Lineage>
+</unit_class>
+<unit_class>
+<key>naval_dhow</key>
+<onscreen>Dhow</onscreen>
+<tooltip>Very lightly armed merchant vessel.||Armed with only a couple of forward firing guns, this ship should be kept as far away from the enemy as possible.</tooltip>
+<Gen_TempField_x002A_0>0</Gen_TempField_x002A_0>
+<s_ColLineage>kNOq8QEAAACQ06rxAgAAAJDTqvEFAAAAkNOq8QQAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{96178405-6242-4FF9-9D9A-56E2E7EBC1A0}</s_GUID>
+<s_Lineage>kNOq8QUAAAAAAAAAAAAAAA==
+</s_Lineage>
+</unit_class>
+<unit_class>
+<key>naval_fifth_rate</key>
+<onscreen>5th Rate</onscreen>
+<tooltip>Frigate best used against other frigates and to support main battle line.||Whilst unsuited for a direct attack on a ship of the line, it can tackle any ship smaller than it. Even against a heavier ship, a frigate can damage the sails or fire in through the stern to good effect </tooltip>
+<Gen_TempField_x002A_0>0</Gen_TempField_x002A_0>
+<s_ColLineage>kNOq8QEAAACQ06rxAgAAAJDTqvEEAAAAkNOq8QMAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{0CF02E5E-CFF7-407B-8B16-E6B286CCABB7}</s_GUID>
+<s_Lineage>kNOq8QQAAAAAAAAAAAAAAA==
+</s_Lineage>
+</unit_class>
+<unit_class>
+<key>naval_first_rate</key>
+<onscreen>1st Rate</onscreen>
+<tooltip>Slow but very powerful with 3 decks of heavy cannons.||Best suited to leading the line of battle, this ships firepower makes her ideal for the thick of the action, broadside to broadside with the enemy.</tooltip>
+<Gen_TempField_x002A_0>0</Gen_TempField_x002A_0>
+<s_ColLineage>kNOq8QEAAACQ06rxAgAAAJDTqvEFAAAAkNOq8QQAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{13ACD438-FC1C-4881-905A-DF350588ADFF}</s_GUID>
+<s_Lineage>kNOq8QUAAAAAAAAAAAAAAA==
+</s_Lineage>
+</unit_class>
+<unit_class>
+<key>naval_fourth_rate</key>
+<onscreen>4th Rate</onscreen>
+<tooltip>Light ship of the line. Not as strong as bigger ships.||When supported by other ships, the 4th rate can still tackle even the largest enemy vessel, provided she is handled well.</tooltip>
+<Gen_TempField_x002A_0>0</Gen_TempField_x002A_0>
+<s_ColLineage>kNOq8QEAAACQ06rxAgAAAJDTqvEFAAAAkNOq8QQAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{8B3AE251-3B0B-4F5D-9CDC-078AFFE80C55}</s_GUID>
+<s_Lineage>kNOq8QUAAAAAAAAAAAAAAA==
+</s_Lineage>
+</unit_class>
+<unit_class>
+<key>naval_galleon</key>
+<onscreen>Galleon</onscreen>
+<tooltip>Relic of a bygone age, slow but fairly well armed.||This ships age shows in its slow speed, but still carries a good amount of guns and has a good hull.</tooltip>
+<Gen_TempField_x002A_0>0</Gen_TempField_x002A_0>
+<s_ColLineage>kNOq8QEAAACQ06rxAgAAAJDTqvEFAAAAkNOq8QQAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{7550D254-60D5-4888-A08D-AF2C47E69346}</s_GUID>
+<s_Lineage>kNOq8QUAAAAAAAAAAAAAAA==
+</s_Lineage>
+</unit_class>
+<unit_class>
+<key>naval_heavy_galley</key>
+<onscreen>Heavy Galley</onscreen>
+<tooltip>Can row into the wind, good for boarding. Has powerful forward firing guns and a relatively strong hull.||The galley&apos;s independence from the wind is a major tactical advantage. This provides plenty of opportunities to use its heavy bow cannons to good effect.</tooltip>
+<Gen_TempField_x002A_0>0</Gen_TempField_x002A_0>
+<s_ColLineage>kNOq8QEAAACQ06rxAgAAAJDTqvEEAAAAkNOq8QMAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{A42A385C-EF98-4722-B7E0-A490CD7B3ED8}</s_GUID>
+<s_Lineage>kNOq8QQAAAAAAAAAAAAAAA==
+</s_Lineage>
+</unit_class>
+<unit_class>
+<key>naval_indiaman</key>
+<onscreen>Indiaman</onscreen>
+<tooltip>Merchant ship with few guns.||Lightly armed, she can merely fend off the lightest ships and should always try and avoid combat.</tooltip>
+<Gen_TempField_x002A_0>0</Gen_TempField_x002A_0>
+<s_ColLineage>kNOq8QEAAACQ06rxAgAAAJDTqvEFAAAAkNOq8QQAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{311A2936-ACBA-499C-B785-AC21AB006F9B}</s_GUID>
+<s_Lineage>kNOq8QUAAAAAAAAAAAAAAA==
+</s_Lineage>
+</unit_class>
+<unit_class>
+<key>naval_light_galley</key>
+<onscreen>Light Galley</onscreen>
+<tooltip>Fragile but can row into the wind. Has powerful bow guns.||The galley&apos;s independence from the wind is a major tactical advantage. This provides plenty of opportunities to ply the galley&apos;s heavy bow cannon to good effect</tooltip>
+<Gen_TempField_x002A_0>0</Gen_TempField_x002A_0>
+<s_ColLineage>kNOq8QEAAACQ06rxAgAAAJDTqvEFAAAAkNOq8QQAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{464DF85C-5930-4135-8FB9-0C086F08EC43}</s_GUID>
+<s_Lineage>kNOq8QUAAAAAAAAAAAAAAA==
+</s_Lineage>
+</unit_class>
+<unit_class>
+<key>naval_lugger</key>
+<onscreen>Lugger</onscreen>
+<tooltip>Unarmed merchant vessel.||This ship should be kept as far away from the enemy as possible.</tooltip>
+<Gen_TempField_x002A_0>0</Gen_TempField_x002A_0>
+<s_ColLineage>kNOq8QEAAACQ06rxAgAAAJDTqvEFAAAAkNOq8QQAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{631E6118-1007-48E7-9EB7-8CFEBF71E050}</s_GUID>
+<s_Lineage>kNOq8QUAAAAAAAAAAAAAAA==
+</s_Lineage>
+</unit_class>
+<unit_class>
+<key>naval_medium_galley</key>
+<onscreen>Medium Galley</onscreen>
+<tooltip>Powerful bow guns and can sail directly into the wind.||The galley&apos;s independence from the wind is a major tactical advantage. This provides plenty of opportunities to use its heavy bow cannon to good effect</tooltip>
+<Gen_TempField_x002A_0>0</Gen_TempField_x002A_0>
+<s_ColLineage>kNOq8QEAAACQ06rxAgAAAJDTqvEFAAAAkNOq8QQAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{C5765E2F-A37A-4D67-89E2-E7B78D705D0D}</s_GUID>
+<s_Lineage>kNOq8QUAAAAAAAAAAAAAAA==
+</s_Lineage>
+</unit_class>
+<unit_class>
+<key>naval_over_first_rate</key>
+<onscreen>Over 1st Rate</onscreen>
+<tooltip>Fortress of the waves, the most powerful ship available. Inspires nearby ships. Slow and hard to manoeuvre.||This ship is a fortress in itself and the most powerful available. She carries more artillery than a large army and is a very heavy hitter. The massive timbers of her hull provide the highest level of protection to her numerous crew</tooltip>
+<Gen_TempField_x002A_0>0</Gen_TempField_x002A_0>
+<s_ColLineage>kNOq8QEAAACQ06rxAgAAAJDTqvEEAAAAkNOq8QMAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{80D8FEB0-FCA6-4A53-891C-8C6D2DB857DB}</s_GUID>
+<s_Lineage>kNOq8QQAAAAAAAAAAAAAAA==
+</s_Lineage>
+</unit_class>
+<unit_class>
+<key>naval_razee</key>
+<onscreen>Razee</onscreen>
+<tooltip>Stripped down ship of the line, very good at destroying frigates. Cannot take on ships of the line easily.||Has heavier guns than the average frigate. Her hull also has thicker timbers than a standard frigate.</tooltip>
+<Gen_TempField_x002A_0>0</Gen_TempField_x002A_0>
+<s_ColLineage>kNOq8QEAAACQ06rxAgAAAJDTqvEFAAAAkNOq8QQAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{1FFCC6E3-9868-41AD-8EC6-E1F0F1A7ABB3}</s_GUID>
+<s_Lineage>kNOq8QUAAAAAAAAAAAAAAA==
+</s_Lineage>
+</unit_class>
+<unit_class>
+<key>naval_rocket_ship</key>
+<onscreen>Rocket Ship</onscreen>
+<tooltip>Slow and fragile but its rockets can set enemy ships on fire.||Kept far away from the enemy fleet; she can use her long range rockets to bombard them from a safe distance.||Though inaccurate, rockets can easily ignite sails and rigging to start a deadly blaze.</tooltip>
+<Gen_TempField_x002A_0>0</Gen_TempField_x002A_0>
+<s_ColLineage>kNOq8QEAAACQ06rxAgAAAJDTqvEEAAAAkNOq8QMAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{7328B4D7-7200-42D6-8978-D417DB872FC2}</s_GUID>
+<s_Lineage>kNOq8QQAAAAAAAAAAAAAAA==
+</s_Lineage>
+</unit_class>
+<unit_class>
+<key>naval_second_rate</key>
+<onscreen>2nd Rate</onscreen>
+<tooltip>Heavy ship of the line, slow.||Strong enough to stand broadside to broadside with the enemy.</tooltip>
+<Gen_TempField_x002A_0>0</Gen_TempField_x002A_0>
+<s_ColLineage>kNOq8QEAAACQ06rxAgAAAJDTqvEFAAAAkNOq8QQAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{17DF0491-7CA8-4786-A0C4-71FB83B5D7DF}</s_GUID>
+<s_Lineage>kNOq8QUAAAAAAAAAAAAAAA==
+</s_Lineage>
+</unit_class>
+<unit_class>
+<key>naval_sixth_rate</key>
+<onscreen>6th Rate</onscreen>
+<tooltip>Light frigate, good firepower and manoeuvrable. Best used against other frigates.||Whilst unsuited for a direct attack on a ship of the line, it can tackle any ship smaller than it. Even against a heavier ship, a frigate can damage the sails or fire in through the stern to good effect </tooltip>
+<Gen_TempField_x002A_0>0</Gen_TempField_x002A_0>
+<s_ColLineage>kNOq8QEAAACQ06rxAgAAAJDTqvEEAAAAkNOq8QMAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{A9AD8EE4-513C-4151-B930-81C6C9D41FF2}</s_GUID>
+<s_Lineage>kNOq8QQAAAAAAAAAAAAAAA==
+</s_Lineage>
+</unit_class>
+<unit_class>
+<key>naval_sloop</key>
+<onscreen>Sloop</onscreen>
+<tooltip>Fastest ships. Very lightly armed and weak hull.||Her unique sail plan allows her to sail into the wind faster than almost any other sailing ship. This is vital since the sloop is very lightly armed and extremely fragile</tooltip>
+<Gen_TempField_x002A_0>0</Gen_TempField_x002A_0>
+<s_ColLineage>kNOq8QEAAACQ06rxAgAAAJDTqvEFAAAAkNOq8QQAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{115304DE-922E-4B20-BC85-FE4BB8F261E4}</s_GUID>
+<s_Lineage>kNOq8QUAAAAAAAAAAAAAAA==
+</s_Lineage>
+</unit_class>
+<unit_class>
+<key>naval_steam_ship</key>
+<onscreen>Steam Ship</onscreen>
+<tooltip>Can move independent of wind. Powerful close range guns. Cannot stand up to biggest ships of the line.||The steam paddles allow this ship to move without relying on the wind, closing to use its powerful close range guns.</tooltip>
+<Gen_TempField_x002A_0>0</Gen_TempField_x002A_0>
+<s_ColLineage>kNOq8QEAAACQ06rxAgAAAJDTqvEFAAAAkNOq8QQAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{01A7A60C-22A4-4C67-868F-7684976D4913}</s_GUID>
+<s_Lineage>kNOq8QUAAAAAAAAAAAAAAA==
+</s_Lineage>
+</unit_class>
+<unit_class>
+<key>naval_third_rate</key>
+<onscreen>3rd Rate</onscreen>
+<tooltip>The standard ship of the line. Good mix of firepower, hull strength and cost.||This ship formed the main part of any line of battle.</tooltip>
+<Gen_TempField_x002A_0>0</Gen_TempField_x002A_0>
+<s_ColLineage>kNOq8QEAAACQ06rxAgAAAJDTqvEFAAAAkNOq8QQAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{33AE4EAF-74FC-4289-A14D-147B2BAAC5A5}</s_GUID>
+<s_Lineage>kNOq8QUAAAAAAAAAAAAAAA==
+</s_Lineage>
+</unit_class>
+<unit_class>
+<key>naval_xebec</key>
+<onscreen>Xebec</onscreen>
+<tooltip>Boarding specialist which sacrifices firepower for increased boarding potential.||Fast and agile, the xebec can catch most opponents fairly quickly. Her hull is weak though and her armament light, so trading broadsides is not recommended.</tooltip>
+<Gen_TempField_x002A_0>0</Gen_TempField_x002A_0>
+<s_ColLineage>kNOq8QEAAACQ06rxAgAAAJDTqvEFAAAAkNOq8QQAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{C271575D-3669-43CF-8E2F-D0115815700D}</s_GUID>
+<s_Lineage>kNOq8QUAAAAAAAAAAAAAAA==
+</s_Lineage>
+</unit_class>
+</dataroot>

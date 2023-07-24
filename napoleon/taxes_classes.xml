@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="taxes_classes.xsd" generated="2008-07-28T11:42:55">
+<taxes_classes>
+<tax>lower_classes</tax>
+<s_ColLineage>kNOq8QEAAAA=
+</s_ColLineage>
+<s_Generation>1</s_Generation>
+<s_GUID>{AD2906C1-6C86-4F2E-8BD2-77E5F222173C}</s_GUID>
+<s_Lineage>kNOq8QEAAAAAAAAAAAAAAA==
+</s_Lineage>
+</taxes_classes>
+<taxes_classes>
+<tax>upper_classes</tax>
+<s_ColLineage>kNOq8QEAAAA=
+</s_ColLineage>
+<s_Generation>1</s_Generation>
+<s_GUID>{646A1982-CCD7-41BA-8E77-3D39B8102EE5}</s_GUID>
+<s_Lineage>kNOq8QEAAAAAAAAAAAAAAA==
+</s_Lineage>
+</taxes_classes>
+</dataroot>

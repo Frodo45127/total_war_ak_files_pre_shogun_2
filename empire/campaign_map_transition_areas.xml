@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="campaign_map_transition_areas.xsd" generated="2009-08-03T15:10:55">
+<campaign_map_transition_areas>
+<mapname>global_map</mapname>
+<index>1</index>
+<minx>-760</minx>
+<miny>80</miny>
+<maxx>-740</maxx>
+<maxy>120</maxy>
+<storm_chance_percentage>0</storm_chance_percentage>
+<onscreen_name>To the East Indies (Moluccas)</onscreen_name>
+<project_specific>0</project_specific>
+</campaign_map_transition_areas>
+<campaign_map_transition_areas>
+<mapname>global_map</mapname>
+<index>2</index>
+<minx>-620</minx>
+<miny>0</miny>
+<maxx>-580</maxx>
+<maxy>20</maxy>
+<storm_chance_percentage>0</storm_chance_percentage>
+<onscreen_name>To Brazil (South)</onscreen_name>
+<project_specific>0</project_specific>
+</campaign_map_transition_areas>
+<campaign_map_transition_areas>
+<mapname>global_map</mapname>
+<index>3</index>
+<minx>-360</minx>
+<miny>320</miny>
+<maxx>-340</maxx>
+<maxy>420</maxy>
+<storm_chance_percentage>0</storm_chance_percentage>
+<onscreen_name>To Europe (Iceland)</onscreen_name>
+<project_specific>0</project_specific>
+</campaign_map_transition_areas>
+<campaign_map_transition_areas>
+<mapname>global_map</mapname>
+<index>4</index>
+<minx>-360</minx>
+<miny>200</miny>
+<maxx>-340</maxx>
+<maxy>240</maxy>
+<storm_chance_percentage>0</storm_chance_percentage>
+<onscreen_name>To Europe (Azores)</onscreen_name>
+<project_specific>0</project_specific>
+</campaign_map_transition_areas>
+<campaign_map_transition_areas>
+<mapname>global_map</mapname>
+<index>5</index>
+<minx>-360</minx>
+<miny>60</miny>
+<maxx>-340</maxx>
+<maxy>100</maxy>
+<storm_chance_percentage>0</storm_chance_percentage>
+<onscreen_name>To Brazil (Northwest)</onscreen_name>
+<project_specific>0</project_specific>
+</campaign_map_transition_areas>
+<campaign_map_transition_areas>
+<mapname>global_map</mapname>
+<index>6</index>
+<minx>-180</minx>
+<miny>360</miny>
+<maxx>-160</maxx>
+<maxy>440</maxy>
+<storm_chance_percentage>0</storm_chance_percentage>
+<onscreen_name>To America (Newfoundland)</onscreen_name>
+<project_specific>0</project_specific>
+</campaign_map_transition_areas>
+<campaign_map_transition_areas>
+<mapname>global_map</mapname>
+<index>7</index>
+<minx>-180</minx>
+<miny>260</miny>
+<maxx>-160</maxx>
+<maxy>300</maxy>
+<storm_chance_percentage>0</storm_chance_percentage>
+<onscreen_name>To America (Mid-Atlantic)</onscreen_name>
+<project_specific>0</project_specific>
+</campaign_map_transition_areas>
+<campaign_map_transition_areas>
+<mapname>global_map</mapname>
+<index>8</index>
+<minx>-180</minx>
+<miny>180</miny>
+<maxx>-160</maxx>
+<maxy>220</maxy>
+<storm_chance_percentage>0</storm_chance_percentage>
+<onscreen_name>To Brazil (Northeast)</onscreen_name>
+<project_specific>0</project_specific>
+</campaign_map_transition_areas>
+<campaign_map_transition_areas>
+<mapname>global_map</mapname>
+<index>9</index>
+<minx>-180</minx>
+<miny>140</miny>
+<maxx>-115</maxx>
+<maxy>160</maxy>
+<storm_chance_percentage>0</storm_chance_percentage>
+<onscreen_name>To the Ivory Coast (Northwest)</onscreen_name>
+<project_specific>0</project_specific>
+</campaign_map_transition_areas>
+<campaign_map_transition_areas>
+<mapname>global_map</mapname>
+<index>10</index>
+<minx>436.42</minx>
+<miny>17.49</miny>
+<maxx>454.61</maxx>
+<maxy>105.5</maxy>
+<storm_chance_percentage>0</storm_chance_percentage>
+<onscreen_name>To Madagascar (North)</onscreen_name>
+<project_specific>0</project_specific>
+</campaign_map_transition_areas>
+<campaign_map_transition_areas>
+<mapname>global_map</mapname>
+<index>11</index>
+<minx>660.63</minx>
+<miny>17.73</miny>
+<maxx>678.66</maxx>
+<maxy>118.5</maxy>
+<storm_chance_percentage>0</storm_chance_percentage>
+<onscreen_name>To the East Indies (Java)</onscreen_name>
+<project_specific>0</project_specific>
+</campaign_map_transition_areas>
+<campaign_map_transition_areas>
+<mapname>global_map</mapname>
+<index>13</index>
+<minx>-338.75</minx>
+<miny>-235</miny>
+<maxx>-314</maxx>
+<maxy>-223</maxy>
+<storm_chance_percentage>0</storm_chance_percentage>
+<onscreen_name>To the Pacific (Panama)</onscreen_name>
+<project_specific>0</project_specific>
+</campaign_map_transition_areas>
+<campaign_map_transition_areas>
+<mapname>global_map</mapname>
+<index>14</index>
+<minx>-285.43</minx>
+<miny>-153.6</miny>
+<maxx>-259.3</maxx>
+<maxy>-139.6</maxy>
+<storm_chance_percentage>0</storm_chance_percentage>
+<onscreen_name>To America (Guyana)</onscreen_name>
+<project_specific>0</project_specific>
+</campaign_map_transition_areas>
+<campaign_map_transition_areas>
+<mapname>global_map</mapname>
+<index>15</index>
+<minx>-259.3</minx>
+<miny>-166.74</miny>
+<maxx>-246</maxx>
+<maxy>-139.6</maxy>
+<storm_chance_percentage>0</storm_chance_percentage>
+<onscreen_name>To Europe (Canary Islands)</onscreen_name>
+<project_specific>0</project_specific>
+</campaign_map_transition_areas>
+<campaign_map_transition_areas>
+<mapname>global_map</mapname>
+<index>16</index>
+<minx>-259.3</minx>
+<miny>-189.46</miny>
+<maxx>-246</maxx>
+<maxy>-166.74</maxy>
+<storm_chance_percentage>0</storm_chance_percentage>
+<onscreen_name>To the Ivory Coast (West)</onscreen_name>
+<project_specific>0</project_specific>
+</campaign_map_transition_areas>
+<campaign_map_transition_areas>
+<mapname>global_map</mapname>
+<index>17</index>
+<minx>-10</minx>
+<miny>5</miny>
+<maxx>5</maxx>
+<maxy>50</maxy>
+<storm_chance_percentage>0</storm_chance_percentage>
+<onscreen_name>To Europe (Mauritania)</onscreen_name>
+<project_specific>0</project_specific>
+</campaign_map_transition_areas>
+<campaign_map_transition_areas>
+<mapname>global_map</mapname>
+<index>18</index>
+<minx>-10</minx>
+<miny>-39.7</miny>
+<maxx>5</maxx>
+<maxy>4.5</maxy>
+<storm_chance_percentage>0</storm_chance_percentage>
+<onscreen_name>To Brazil (East)</onscreen_name>
+<project_specific>0</project_specific>
+</campaign_map_transition_areas>
+<campaign_map_transition_areas>
+<mapname>global_map</mapname>
+<index>19</index>
+<minx>35</minx>
+<miny>-40</miny>
+<maxx>90</maxx>
+<maxy>-25</maxy>
+<storm_chance_percentage>0</storm_chance_percentage>
+<onscreen_name>To Madagascar (South)</onscreen_name>
+<project_specific>0</project_specific>
+</campaign_map_transition_areas>
+<campaign_map_transition_areas>
+<mapname>global_map</mapname>
+<index>20</index>
+<minx>265</minx>
+<miny>-140</miny>
+<maxx>320</maxx>
+<maxy>-125</maxy>
+<storm_chance_percentage>0</storm_chance_percentage>
+<onscreen_name>To the Ivory Coast (South)</onscreen_name>
+<project_specific>0</project_specific>
+</campaign_map_transition_areas>
+<campaign_map_transition_areas>
+<mapname>global_map</mapname>
+<index>21</index>
+<minx>275</minx>
+<miny>-70</miny>
+<maxx>350</maxx>
+<maxy>-55</maxy>
+<storm_chance_percentage>0</storm_chance_percentage>
+<onscreen_name>To India (Indian Ocean)</onscreen_name>
+<project_specific>0</project_specific>
+</campaign_map_transition_areas>
+<campaign_map_transition_areas>
+<mapname>global_map</mapname>
+<index>22</index>
+<minx>904.15</minx>
+<miny>-79.33</miny>
+<maxx>920</maxx>
+<maxy>-7.07</maxy>
+<storm_chance_percentage>0</storm_chance_percentage>
+<onscreen_name>To the Pacific (Mexico)</onscreen_name>
+<project_specific>0</project_specific>
+</campaign_map_transition_areas>
+<campaign_map_transition_areas>
+<mapname>global_map</mapname>
+<index>23</index>
+<minx>800.34</minx>
+<miny>-76.67</miny>
+<maxx>811.26</maxx>
+<maxy>-26.33</maxy>
+<storm_chance_percentage>0</storm_chance_percentage>
+<onscreen_name>To India (Andaman Sea)</onscreen_name>
+<project_specific>0</project_specific>
+</campaign_map_transition_areas>
+<campaign_map_transition_areas>
+<mapname>global_map</mapname>
+<index>24</index>
+<minx>-351</minx>
+<miny>-235</miny>
+<maxx>-338.75</maxx>
+<maxy>-204.5</maxy>
+<storm_chance_percentage>0</storm_chance_percentage>
+<onscreen_name>To the Pacific (Panama)</onscreen_name>
+<project_specific>0</project_specific>
+</campaign_map_transition_areas>
+</dataroot>

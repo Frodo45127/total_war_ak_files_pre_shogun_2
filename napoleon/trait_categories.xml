@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="trait_categories.xsd" generated="2010-04-08T11:56:04">
+<trait_categories>
+<category>Character Quirk</category>
+<icon_path>data/ui/campaign ui/pips/effect_characters.tga</icon_path>
+<s_ColLineage>kNOq8QEAAACQ06rxAgAAAA==
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{70F4ADD2-3668-48B4-A4A3-40F5812417F4}</s_GUID>
+<s_Lineage>kNOq8QIAAAAAAAAAAAAAAA==
+</s_Lineage>
+</trait_categories>
+<trait_categories>
+<category>Construction</category>
+<icon_path>data/ui/campaign ui/pips/effect_building.tga</icon_path>
+<s_ColLineage>kNOq8QEAAACQ06rxAgAAAA==
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{257D419C-7171-46C1-A4BE-9AE2D556E0A4}</s_GUID>
+<s_Lineage>kNOq8QIAAAAAAAAAAAAAAA==
+</s_Lineage>
+</trait_categories>
+<trait_categories>
+<category>Espionage</category>
+<icon_path>data/ui/campaign ui/pips/effect_characters.tga</icon_path>
+<s_ColLineage>kNOq8QEAAACQ06rxBQAAAA==
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{75CFE090-334A-4CBB-B9A6-9F409AEFE0AF}</s_GUID>
+<s_Lineage>kNOq8QUAAAAAAAAAAAAAAA==
+</s_Lineage>
+</trait_categories>
+<trait_categories>
+<category>Finance</category>
+<icon_path>data/ui/campaign ui/pips/effect_economy.tga</icon_path>
+<s_ColLineage>kNOq8QEAAACQ06rxAwAAAA==
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{5E4BFD3D-C11A-4886-A288-EAFEA0EA25ED}</s_GUID>
+<s_Lineage>kNOq8QMAAAAAAAAAAAAAAA==
+</s_Lineage>
+</trait_categories>
+<trait_categories>
+<category>Law &amp; Order</category>
+<icon_path>data/ui/campaign ui/pips/effect_upper_classes.tga</icon_path>
+<s_ColLineage>kNOq8QEAAACQ06rxAgAAAA==
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{37406C63-D4E8-47D1-A0EE-047D66A0F5B1}</s_GUID>
+<s_Lineage>kNOq8QIAAAAAAAAAAAAAAA==
+</s_Lineage>
+</trait_categories>
+<trait_categories>
+<category>Military</category>
+<icon_path>data/ui/campaign ui/pips/effect_army.tga</icon_path>
+<s_ColLineage>kNOq8QEAAACQ06rxAgAAAA==
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{77884363-2D50-4A08-9F31-8FEE6AF6EDEE}</s_GUID>
+<s_Lineage>kNOq8QIAAAAAAAAAAAAAAA==
+</s_Lineage>
+</trait_categories>
+<trait_categories>
+<category>Naval</category>
+<icon_path>data/ui/campaign ui/pips/effect_navy.tga</icon_path>
+<s_ColLineage>kNOq8QEAAACQ06rxBAAAAA==
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{1160F6E6-E6B6-4971-96BD-1E3E9D7F9991}</s_GUID>
+<s_Lineage>kNOq8QQAAAAAAAAAAAAAAA==
+</s_Lineage>
+</trait_categories>
+<trait_categories>
+<category>Personal</category>
+<icon_path>data/ui/campaign ui/pips/effect_characters.tga</icon_path>
+<s_ColLineage>kNOq8QEAAACQ06rxAgAAAA==
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{1DB90E7A-673C-433C-BAF2-F9CC937460E5}</s_GUID>
+<s_Lineage>kNOq8QIAAAAAAAAAAAAAAA==
+</s_Lineage>
+</trait_categories>
+<trait_categories>
+<category>Religion (Christian)</category>
+<icon_path>data/ui/campaign ui/pips/effect_zeal.tga</icon_path>
+<s_ColLineage>kNOq8QEAAAA0CceOBgAAAA==
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{FEFE18A6-4BF8-4925-91B8-E749DDAFA027}</s_GUID>
+<s_Lineage>NAnHjgYAAACQ06rxBAAAAAAAAAAAAAAA
+</s_Lineage>
+</trait_categories>
+<trait_categories>
+<category>Religion (Islam)</category>
+<icon_path>data/ui/campaign ui/pips/effect_zeal.tga</icon_path>
+<s_ColLineage>kNOq8QEAAAA0CceOBgAAAA==
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{79C0A8D0-A7B2-4BD5-8653-F63814C39EB7}</s_GUID>
+<s_Lineage>NAnHjgYAAACQ06rxBAAAAAAAAAAAAAAA
+</s_Lineage>
+</trait_categories>
+<trait_categories>
+<category>Religion (Pagan)</category>
+<icon_path>data/ui/campaign ui/pips/effect_zeal.tga</icon_path>
+<s_ColLineage>kNOq8QEAAAA0CceOBgAAAA==
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{8F9CDD8A-C842-4E26-A275-E6E5F9D079CC}</s_GUID>
+<s_Lineage>NAnHjgYAAACQ06rxAgAAAAAAAAAAAAAA
+</s_Lineage>
+</trait_categories>
+<trait_categories>
+<category>Technology</category>
+<icon_path>data/ui/campaign ui/pips/effect_tech.tga</icon_path>
+<s_ColLineage>kNOq8QEAAACQ06rxAgAAAA==
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{AE41715B-B3BF-4735-BDEB-D4AEDE2F1B78}</s_GUID>
+<s_Lineage>kNOq8QIAAAAAAAAAAAAAAA==
+</s_Lineage>
+</trait_categories>
+</dataroot>

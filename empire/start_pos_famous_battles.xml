@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="start_pos_famous_battles.xsd" generated="2009-06-26T14:42:56">
+<start_pos_famous_battles>
+<famous_battle_id>alcantara</famous_battle_id>
+<campaign>natives</campaign>
+<s_ColLineage>kNOq8QEAAABpk4phBQAAAGmTimEEAAAA
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{26E985A4-4578-430B-9379-05C0B776275A}</s_GUID>
+<s_Lineage>aZOKYQUAAACQ06rxAwAAAAAAAAAAAAAA
+</s_Lineage>
+<project_specific>0</project_specific>
+</start_pos_famous_battles>
+</dataroot>

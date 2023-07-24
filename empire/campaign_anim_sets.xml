@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="campaign_anim_sets.xsd" generated="2009-08-05T11:15:32">
+<campaign_anim_sets>
+<set>human</set>
+<s_ColLineage>kNOq8QEAAABpk4phAgAAAA==
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{9C0ABA11-7D7F-411C-AD65-626C8108C332}</s_GUID>
+<s_Lineage>aZOKYQIAAACQ06rxAQAAAAAAAAAAAAAA
+</s_Lineage>
+<project_specific>0</project_specific>
+</campaign_anim_sets>
+<campaign_anim_sets>
+<set>ship</set>
+<s_ColLineage>kNOq8QEAAABpk4phAgAAAA==
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{9948FAE7-185A-4482-AEBC-FF9DCABE9F54}</s_GUID>
+<s_Lineage>aZOKYQIAAACQ06rxAQAAAAAAAAAAAAAA
+</s_Lineage>
+<project_specific>0</project_specific>
+</campaign_anim_sets>
+</dataroot>

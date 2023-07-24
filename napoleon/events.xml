@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="events.xsd" generated="2009-12-04T14:51:30">
+<events>
+<key>1812_war</key>
+<picture_category>us-nation emerges.tga</picture_category>
+<dynamic>0</dynamic>
+<onscreen_name>The War of 1812</onscreen_name>
+<event_text>The United States of America has declared war on Great Britain, after a number of provocations. The three main factors in the conflict are the interruption of trade with Britain’s chief enemy - France, Britain’s military assistance to the native tribes, and the impressment of American citizens into the Royal Navy.\n\n Things have started badly for the United States - their invasion of Canada has already been repulsed, and the British have begun a massive naval blockade along the east coast of America, and are even attempting to levy monetary contributions from coastal settlements in return for leaving them untouched.\n\nAmerican privateers have been launched to attack all British shipping, and attempts are being made to break the confederacy of native tribes that have allied to fight alongside Britain. Trade is continuing through the dissident state of New England, who are refusing to provide troops or funding for the war effort – in direct contravention of United States law.</event_text>
+<historical_date>1812</historical_date>
+<season>season_summer</season>
+<conditions>true</conditions>
+<picture>us-nation emerges.tga</picture>
+<turn_in_year>12</turn_in_year>
+<Gen_conditions>0</Gen_conditions>
+<Gen_event_text>0</Gen_event_text>
+<s_ColLineage>W4e7tQIAAABbh7u1BwAAAFuHu7UBAAAAW4e7tQIAAABbh7u1BQAAAFuHu7UCAAAA
+W4e7tQIAAABbh7u1AwAAAFuHu7UHAAAAW4e7tQgAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{49D7FB03-B18D-4896-A6FD-CD7101DF4584}</s_GUID>
+<s_Lineage>W4e7tQgAAAAAAAAAAAAAAA==
+</s_Lineage>
+</events>
+<events>
+<key>davy_lamp</key>
+<picture_category>innovation.tga</picture_category>
+<dynamic>0</dynamic>
+<onscreen_name>The Davy Lamp</onscreen_name>
+<event_text>The chemist and inventor Sir Humphrey Davy has designed a new mining lamp designed to improve safety in coal mines. Whereas previously a naked flame would ignite any flammable gases present at the coalface, Davy’s innovation of a wire mesh between the candle and the open air allows combustion to occur but not escape due to a very fine mesh separating the two. The new lamp also acts as a means of detecting potentially dangerous gases, as the flame increases in size or extinguishes when insufficient oxygen is present.\n\nUnfortunately, the invention of a similar lamp by George Stephenson has led to accusations of plagiarism from supporters of the rival inventors, and there are still critical safety issues to be resolved for both designs. For instance, a Davy Lamp can become too hot in the presence of a large quantity of methane, and the overall quality of illumination is poor. Despite these negative factors, the new lamp is simple to construct and cheap to manufacture - something that will surely strike a chord with mine owners everywhere.</event_text>
+<historical_date>1815</historical_date>
+<season>season_summer</season>
+<conditions>true</conditions>
+<picture>innovation.tga</picture>
+<turn_in_year>16</turn_in_year>
+<Gen_conditions>0</Gen_conditions>
+<Gen_event_text>0</Gen_event_text>
+<s_ColLineage>W4e7tQIAAABbh7u1BgAAAFuHu7UBAAAAW4e7tQIAAABbh7u1AgAAAFuHu7UCAAAA
+W4e7tQIAAABbh7u1AwAAAFuHu7UFAAAAW4e7tQcAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{8FFD6326-DB3B-40BF-8F3F-292D7A3AB4D9}</s_GUID>
+<s_Lineage>W4e7tQcAAAAAAAAAAAAAAA==
+</s_Lineage>
+</events>
+<events>
+<key>embargo_act_repealed</key>
+<picture_category>Politics_european.tga</picture_category>
+<dynamic>0</dynamic>
+<onscreen_name>Embargo Act Repealed</onscreen_name>
+<event_text>The United States government introduced the Embargo Act in 1807 following several unprovoked acts of aggression by the Royal Navy towards American shipping. The act prevented vessels from docking at foreign ports without the permission of the President himself, and required ship captains to sign a bond guaranteeing compliance at the risk of the value of both the ship and its cargo.\n\nPresident Jefferson thought that this measure would prevent the United States from being drawn into war with Napoleon by the British due to their trade relationship with France. Unsurprisingly, the legislation was highly unpopular and almost impossible to enforce. It also proved unprofitable, as British ships continued to trade at American ports, damaging the US economy.\n\nFollowing much flouting of the act, and the resultant tightening of the rules surrounding it, the Embargo Act has finally been repealed – the President declaring the United States “safe enough” from entering the conflict.</event_text>
+<historical_date>1809</historical_date>
+<season>season_spring</season>
+<conditions>true</conditions>
+<picture>Politics_european.tga</picture>
+<turn_in_year>6</turn_in_year>
+<Gen_conditions>0</Gen_conditions>
+<Gen_event_text>0</Gen_event_text>
+<s_ColLineage>W4e7tQIAAABbh7u1AgAAAFuHu7UBAAAAW4e7tQIAAABbh7u1AgAAAFuHu7UCAAAA
+W4e7tQIAAABbh7u1AwAAAFuHu7UCAAAAW4e7tQUAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{E49CE51F-F38F-4A50-9236-C0AC1D354664}</s_GUID>
+<s_Lineage>W4e7tQUAAAAAAAAAAAAAAA==
+</s_Lineage>
+</events>
+<events>
+<key>lewis_clark</key>
+<picture_category>departure.tga</picture_category>
+<dynamic>0</dynamic>
+<onscreen_name>Lewis and Clark reach the Pacific Ocean</onscreen_name>
+<event_text>&quot;Ocean in view! O! The Joy!&quot; writes William Clark in his journal. Over two years since leaving Pittsburgh, Clark, his partner Merriweather Lewis, and the thirty-one explorers of the Corps of Discovery have finally crossed America and reached the Pacific Ocean on foot.\n\nAfter gaining permission for the expedition from President Jefferson, Clark purchased a large quantity of pork, salt, and medicines to feed the explorers on the journey. Along the way the party met many native tribes, and generally maintained good relations with each of them. However, once reaching the Great Plains, the expedition encountered the Sioux tribes. The Sioux were progressively less peaceful the farther west they travelled, demanding tribute in return for safe passage and giving warnings about aggression from neighbouring Sioux tribes. On more than one occasion Lewis and Clark had to escape a potentially violent situation by sailing up-river. Following the construction of Fort Mandan in early 1805, the explorers found a native guide married to a French-Canadian fur trapper – Sacagawea, who translated for the remainder of the journey. Her presence and that of her infant son also helped soften native perception of the expedition, which could otherwise be assumed hostile.\n\nFinally reaching the Pacific in December, the expedition camped for winter and prepared supplies for the return journey. So far there has been just one casualty – an unpreventable death from acute appendicitis – surely this expedition was meant to succeed by divine providence?</event_text>
+<historical_date>1805</historical_date>
+<season>season_winter</season>
+<conditions>true</conditions>
+<picture>departure.tga</picture>
+<turn_in_year>24</turn_in_year>
+<Gen_conditions>0</Gen_conditions>
+<Gen_event_text>0</Gen_event_text>
+<s_ColLineage>W4e7tQIAAABbh7u1BQAAAFuHu7UBAAAAW4e7tQIAAABbh7u1AgAAAFuHu7UCAAAA
+W4e7tQIAAABbh7u1AwAAAFuHu7UFAAAAW4e7tQYAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{30DA7F9F-54FC-411E-9B13-20745EF93DA5}</s_GUID>
+<s_Lineage>W4e7tQYAAAAAAAAAAAAAAA==
+</s_Lineage>
+</events>
+<events>
+<key>luddite_movement</key>
+<picture_category>strike-eu.tga</picture_category>
+<dynamic>0</dynamic>
+<onscreen_name>The Luddite Movement</onscreen_name>
+<event_text>Textile workers in Great Britain have begun protests at recent advances in technology that they feel are an assault on their livelihoods. The new wide-framed automated looms do not require skilled labour, and as a result many have lost their jobs and fallen further into abject poverty.\n\nHeaded by the (probably fictional) character Ned Ludd, the Luddites have begun smashing mill machinery and setting fire to factories as their leader is said to have done thirty years hence. Beginning in Nottinghamshire, the Luddite movement is spreading rapidly across the industrialised midlands and gradually moving northwards to Yorkshire and Lancashire.\n\nIn addition to machine breaking, mill owners, magistrates, and merchants have received death threats, causing the government to take serious action against the protestors. The Luddites exist in such numbers that the army have been deployed to combat the situation, and harsh sentences are being handed down by the courts – including transportation to Australia, and in some cases execution.</event_text>
+<historical_date>1811</historical_date>
+<season>season_summer</season>
+<conditions>true</conditions>
+<picture>strike-eu.tga</picture>
+<turn_in_year>12</turn_in_year>
+<Gen_conditions>0</Gen_conditions>
+<Gen_event_text>0</Gen_event_text>
+<s_ColLineage>W4e7tQIAAABbh7u1BQAAAFuHu7UBAAAAW4e7tQIAAABbh7u1AgAAAFuHu7UCAAAA
+W4e7tQIAAABbh7u1AwAAAFuHu7UFAAAAW4e7tQYAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{B4F422BE-E293-487D-93D4-18DED84A73F8}</s_GUID>
+<s_Lineage>W4e7tQYAAAAAAAAAAAAAAA==
+</s_Lineage>
+</events>
+<events>
+<key>mutiny_vellore</key>
+<picture_category>Crime_European.tga</picture_category>
+<dynamic>0</dynamic>
+<onscreen_name>The Vellore Mutiny</onscreen_name>
+<event_text>The sons of Tippu Sultan, the former ruler of Mysore, recently instigated a rebellion of the Sepoys against the British East India Company at Vellore in southern India. Although lasting for only one day, the mutineers caused two hundred British casualties.\n\nDissent amongst the Sepoys has increased following changes to their dress code banning facial hair and Hindu markings, and reached dangerous levels since several Sepoys were brutally punished for flaunting the new rules. Under the pretext of attending the wedding of a daughter of the late Tippu Sultan, the plotters gathered at the fort in early July. In the dead of night the fort was surrounded and the mutineers began killing its European inhabitants. By dawn the fort was under their control and Fateh Hyder, the second son of Tippu Sultan, was declared King of Mysore.\n\nThe mutiny came to an end when, alerted by an escaped officer, the Madras Cavalry arrived from Arcot and gained access through the insufficiently secured gates at the front of the fort. What followed was a slaughter, with almost seven-hundred rebel casualties by the end of the day.\n\nIn the aftermath of the mutiny the Governor of Madras was replaced, the East India Company no longer interfered with the religious customs of its soldiers, and the practice of flogging Sepoys was totally abolished.</event_text>
+<historical_date>1806</historical_date>
+<season>season_summer</season>
+<conditions>true</conditions>
+<picture>Crime_European.tga</picture>
+<turn_in_year>14</turn_in_year>
+<Gen_conditions>0</Gen_conditions>
+<Gen_event_text>0</Gen_event_text>
+<s_ColLineage>W4e7tQIAAABbh7u1AgAAAFuHu7UBAAAAW4e7tQIAAABquW1qCAAAAFuHu7UCAAAA
+W4e7tQIAAABbh7u1AwAAAFuHu7UCAAAAW4e7tQcAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{8D3D8C6E-D17D-4832-B91E-226E225614E3}</s_GUID>
+<s_Lineage>arltaggAAABbh7u1BwAAAAAAAAAAAAAA
+</s_Lineage>
+</events>
+<events>
+<key>rum_rebellion</key>
+<picture_category>Crime_European.tga</picture_category>
+<dynamic>0</dynamic>
+<onscreen_name>The Rum Puncheon Rebellion</onscreen_name>
+<event_text>An armed insurrection has taken place in New South Wales, Australia, and the New South Wales Corp have deposed the governor – one William Bligh. Bligh is well-known as a harsh and uncompromising disciplinarian who always carries out his duty to the letter, and this is the second time a mutiny has taken place in response to aspects of his command.\n\nFollowing typically draconian moves to prevent circumvention of the laws surrounding the manufacture and distribution of alcohol to the Corps, Bligh found himself arrested at home by the Corps led by Captain Johnson. Once the acting governor, Joseph Foveaux, arrived he sent Johnson and his associates for courts-martial, and Bligh was given command of a ship and ordered to return to England to give account of his actions. Instead choosing to sail to Tasmania to raise support for an armed coup to recapture the colony; Bligh was surprised that the governor of Tasmania did not support him, and he was confined to his ship until it was recalled to England.\n\nFor his part in the rebellion Johnson was eventually cashiered – a lenient penalty under the circumstances, but reflecting the bloodless nature of events. Bligh was criticised for his handling of the affair, yet promoted to Rear Admiral. It is interesting to note that, since the affair occurred, the British authorities have given the governorship of the colonies exclusively to army officers instead of those from the Royal Navy.</event_text>
+<historical_date>1808</historical_date>
+<season>season_summer</season>
+<conditions>true</conditions>
+<picture>Crime_European.tga</picture>
+<turn_in_year>12</turn_in_year>
+<Gen_conditions>0</Gen_conditions>
+<Gen_event_text>0</Gen_event_text>
+<s_ColLineage>W4e7tQIAAABbh7u1AgAAAFuHu7UBAAAAW4e7tQIAAABquW1qCQAAAFuHu7UCAAAA
+W4e7tQIAAABbh7u1BAAAAFuHu7UDAAAAW4e7tQcAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{3DD90DF7-236D-48D0-9893-4410F96EF317}</s_GUID>
+<s_Lineage>arltagkAAABbh7u1BwAAAAAAAAAAAAAA
+</s_Lineage>
+</events>
+<events>
+<key>stock_exchange_hoax</key>
+<picture_category>Politics_european.tga</picture_category>
+<dynamic>0</dynamic>
+<onscreen_name>The Great Stock Exchange Hoax</onscreen_name>
+<event_text>A fraudulent hoax has been uncovered in Great Britain when the circulation of news claiming that Napoleon had been defeated caused an artificial increase in the value of government bonds.\n\nOn February 21st a man calling himself Colonel du Borg visited every inn between Dover and London, claiming that the French Emperor had been killed and France’s deposed royal family restored to the throne. Later in the day, a coach containing three French officers rode around London distributing leaflets confirming the story. By the afternoon it had been revealed as a hoax, but by that point the value of government stock had risen sufficiently for the perpetrators to make a grand profit from the sale of those shares.\n\nSuspecting fraud, the Committee of the Stock Exchange immediately launched an investigation into the affair - concluding that a substantial purchase completed one week earlier was definitely connected to the fraud. The three men responsible now stand convicted of the crime. Controversially, one of them happens to be the naval hero Lord Cochrane, and many have reasoned that a man with such a record of bravery must surely be innocent of the charges against him. However, despite the public outcry he has been stripped of his rank and expelled from the Order of the Bath. Cochrane has protested his innocence in the strongest possible terms, and we can be assured that the matter will not rest there.</event_text>
+<historical_date>1814</historical_date>
+<season>season_spring</season>
+<conditions>true</conditions>
+<picture>Politics_european.tga</picture>
+<turn_in_year>4</turn_in_year>
+<Gen_conditions>0</Gen_conditions>
+<Gen_event_text>0</Gen_event_text>
+<s_ColLineage>W4e7tQQAAABbh7u1AgAAAFuHu7UBAAAAW4e7tQIAAABbh7u1BgAAAFuHu7UCAAAA
+W4e7tQIAAABbh7u1BQAAAFuHu7UDAAAAW4e7tQgAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{CC71DCE6-2ADD-4ED3-B4EC-B2BB3B6823D9}</s_GUID>
+<s_Lineage>W4e7tQgAAAAAAAAAAAAAAA==
+</s_Lineage>
+</events>
+</dataroot>

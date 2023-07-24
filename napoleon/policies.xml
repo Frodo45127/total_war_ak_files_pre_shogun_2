@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="policies.xsd" generated="2008-10-03T17:46:12">
+<policies>
+<policy>religious_persecution</policy>
+<prerequisites>n</prerequisites>
+<Gen_prerequisites>1</Gen_prerequisites>
+<s_ColLineage>kNOq8QEAAACQ06rxAQAAAA==
+</s_ColLineage>
+<s_Generation>1</s_Generation>
+<s_GUID>{34720106-16C8-4509-94C1-96C9AA4A40CC}</s_GUID>
+<s_Lineage>kNOq8QEAAAAAAAAAAAAAAA==
+</s_Lineage>
+</policies>
+<policies>
+<policy>religious_tolerance</policy>
+<prerequisites>n</prerequisites>
+<Gen_prerequisites>1</Gen_prerequisites>
+<s_ColLineage>kNOq8QEAAACQ06rxAQAAAA==
+</s_ColLineage>
+<s_Generation>1</s_Generation>
+<s_GUID>{9FFF6DDA-6C79-4C95-B26A-8CD17E8DA7B3}</s_GUID>
+<s_Lineage>kNOq8QEAAAAAAAAAAAAAAA==
+</s_Lineage>
+</policies>
+</dataroot>

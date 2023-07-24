@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="genders.xsd" generated="2007-04-19T16:57:43">
+<genders>
+<gender>b</gender>
+<onscreen>Both</onscreen>
+</genders>
+<genders>
+<gender>f</gender>
+<onscreen>Female</onscreen>
+</genders>
+<genders>
+<gender>m</gender>
+<onscreen>Male</onscreen>
+</genders>
+</dataroot>

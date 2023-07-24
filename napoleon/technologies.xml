@@ -1,0 +1,1975 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="technologies.xsd" generated="2010-05-20T12:31:56">
+<technologies>
+<key>admin1_classical_economics</key>
+<building_level>sAdmin1_tax_office</building_level>
+<position_index>2</position_index>
+<onscreen_name>Classical Economics</onscreen_name>
+<short_description>An attempt to understand, explore and explain economic growth and development.</short_description>
+<long_description> \n\nClassical economics seeks to change the way a nation’s wealth is considered. No longer is the amount of money in a king’s treasury the sole measurement of national wealth. The earnings of the populace are now taken into account. With this step forward people leave feudal society and step forward as individuals seeking their own gains for their own benefit.\n\nClassical economics was eventually superseded. Its influence does still linger however, especially within the modern school of thought known as “new classical economics.”\n\nHistorically, the school of classical economics was originally created by Scottish philosopher Adam Smith, but David Ricardo is leading the school forward in its beliefs and methods. His debates on such topics as the Corn Laws with Thomas Malthus are giving theorists much to consider. One of the key questions the theory seeks to answer is: how can a society be built upon a system where man seeks to further only his own interests?</long_description>
+<icon_name>admin1_classical_economics</icon_name>
+<research_points_required>75</research_points_required>
+<military_prestige>0</military_prestige>
+<naval_prestige>0</naval_prestige>
+<economic_prestige>50</economic_prestige>
+<enlightenment_prestige>0</enlightenment_prestige>
+<mp_available_early>0</mp_available_early>
+<mp_available_late>0</mp_available_late>
+<info_pic>innovation.tga</info_pic>
+<ai_bias>1</ai_bias>
+<Gen_TempField_x002A_0>0</Gen_TempField_x002A_0>
+<Gen_TempField_x002A_1>0</Gen_TempField_x002A_1>
+<s_ColLineage>W4e7tQIAAABbh7u1AgAAAFuHu7UDAAAAW4e7tQIAAABbh7u1BQAAAFuHu7UBAAAA
+W4e7tQcAAABbh7u1BAAAAFuHu7UBAAAAarltahUAAABbh7u1AgAAAFuHu7UCAAAA
+arltag8AAABbh7u1AgAAAGq5bWoTAAAAW4e7tQEAAABquW1qFAAAAFuHu7UKAAAA
+arltahIAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{364363A7-4016-4154-98D2-6B1B33EAAEDF}</s_GUID>
+<s_Lineage>arltahUAAABbh7u1DAAAAAAAAAAAAAAA
+</s_Lineage>
+</technologies>
+<technologies>
+<key>admin1_national_debt</key>
+<building_level>sAdmin1_tax_office</building_level>
+<position_index>1</position_index>
+<onscreen_name>National Debt</onscreen_name>
+<short_description>National debt increases wealth growth and reduces the upkeep cost of units.</short_description>
+<long_description>\n\nKings have always run up debts, borrowing money (sometimes at sword’s point) from subjects and great banking houses. The debt, however, was the personal responsibility of the king. The concept of national debt allows a nation to borrow to finance expansion and conquest. The nation sells bonds, and agrees to pay interest on those bonds every year. This simple idea increases the growth of national wealth and facilitates expansion by reducing upkeep costs.\n\nScottish economist, gambler, and rake John Law (1671-1729) made several advances in his field, the most notable being the introduction of the French national bank. He also proposed state control over national finances and trade. He manipulated the market by using money from monopoly trading companies to buy government bonds rather than investing in overseas enterprises. Eventually his schemes collapsed, and many Frenchmen were ruined. Law failed, but he gave the idea of government-backed bank notes, and the word “millionaire”, to the West.\n\nNational debt was extensively used by British governments to finance the wars against France and Napoleon. Despite the blockade of Napoleon’s Continental System, British trade was able to flourish and sustain the increasing mountain of debt that the war created.</long_description>
+<icon_name>admin1_national_debt</icon_name>
+<research_points_required>75</research_points_required>
+<military_prestige>0</military_prestige>
+<naval_prestige>0</naval_prestige>
+<economic_prestige>10</economic_prestige>
+<enlightenment_prestige>0</enlightenment_prestige>
+<mp_available_early>0</mp_available_early>
+<mp_available_late>0</mp_available_late>
+<info_pic>innovation.tga</info_pic>
+<ai_bias>0</ai_bias>
+<Gen_TempField_x002A_0>0</Gen_TempField_x002A_0>
+<Gen_TempField_x002A_1>0</Gen_TempField_x002A_1>
+<s_ColLineage>W4e7tQIAAABbh7u1AgAAAFuHu7UEAAAAW4e7tQIAAABbh7u1CgAAAFuHu7UBAAAA
+W4e7tQgAAABbh7u1CQAAAFuHu7UBAAAAarltahUAAABbh7u1AgAAAFuHu7UCAAAA
+arltahMAAABbh7u1AgAAAGq5bWoWAAAAW4e7tQEAAABquW1qFwAAAFuHu7UMAAAA
+W4e7tQIAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{53700A5E-EC36-429A-BD3A-159636C173CB}</s_GUID>
+<s_Lineage>arltahcAAABbh7u1EAAAAAAAAAAAAAAA
+</s_Lineage>
+</technologies>
+<technologies>
+<key>admin1_public_schooling</key>
+<building_level>sAdmin2_magistrate</building_level>
+<position_index>4</position_index>
+<onscreen_name>Public Schooling</onscreen_name>
+<short_description>Public schools allow the people to make full use of their wits by making education widely available.</short_description>
+<long_description>\n\nEducation is usually the preserve of wealthy and ambitious families: the aristocracy have little need for it, because it adds no lustre to their titles; the poor have little use for it, because it rarely puts bread in their bellies. Education must be bought, and schools are generally run as privately-owned businesses. Public schooling introduces the idea of the state paying for the education of its people, sometimes regardless of their backgrounds: a radical notion in many ways. Public schooling provides a bonus to research, and increases the spawning rate of agents.\n\nGeneral state-funded public education was fiercely resisted in many influential quarters across Europe, as it was feared that teaching the poor to read would only encourage them in seditious thoughts. Britain is an oddity in that its “public” schools are nothing of the sort. They are private business establishments, where money rather than ability secures a place. The name came about because “public” schools would accept anyone who could pay, as opposed to “private” schools that accepted pupils by invitation only.</long_description>
+<icon_name>admin1_public_schooling</icon_name>
+<research_points_required>90</research_points_required>
+<military_prestige>0</military_prestige>
+<naval_prestige>0</naval_prestige>
+<economic_prestige>0</economic_prestige>
+<enlightenment_prestige>30</enlightenment_prestige>
+<mp_available_early>0</mp_available_early>
+<mp_available_late>0</mp_available_late>
+<info_pic>innovation.tga</info_pic>
+<ai_bias>1</ai_bias>
+<Gen_TempField_x002A_0>0</Gen_TempField_x002A_0>
+<Gen_TempField_x002A_1>0</Gen_TempField_x002A_1>
+<s_ColLineage>W4e7tQIAAABbh7u1DAAAAFuHu7UMAAAAW4e7tQIAAABbh7u1CgAAAFuHu7UBAAAA
+W4e7tQgAAABbh7u1CQAAAFuHu7UBAAAAarltahYAAABbh7u1AgAAAFuHu7UCAAAA
+W4e7tQIAAABquW1qEwAAAGq5bWoYAAAAW4e7tQEAAABquW1qGQAAAFuHu7ULAAAA
+arltahcAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{A2CAB654-08F8-4D21-95F9-85AB1DD4F23E}</s_GUID>
+<s_Lineage>arltahkAAABbh7u1EQAAAAAAAAAAAAAA
+</s_Lineage>
+</technologies>
+<technologies>
+<key>admin2_national_census</key>
+<building_level>sAdmin2_magistrate</building_level>
+<position_index>5</position_index>
+<onscreen_name>National Census</onscreen_name>
+<short_description>Counting people, their property and servants allows a government to know exactly what it can tax.</short_description>
+<long_description>\n\nBy counting everyone in the population, a government can tax everyone; possibly taxation will be unfair, but it will be unfair to all. It also becomes possible for a government to monitor the movement of people from the countryside to towns, calculate how fast the population is growing, and even know if there will be enough men for an army. However, the most immediate impact is on tax: a census increases the tax yield.\n\nCounting people and taxation have been linked since at least Biblical times. The Directory, under Napoleon’s Consulate, carried out very successful censuses in post-revolutionary France, allowing them to collect taxes effectively and, just as vitally for Napoleon’s ambitions, know how many men were available for conscription. In Britain, the National Census was the result of work by Thomas Malthus (1766-1834) on population growth. He was convinced that a crisis was looming as the number of people outstripped the available food supply. The 1800 Census Act resulted in the British government knowing that there were nine million people in the country; this probably wasn’t all that satisfactory, as it was just over a third of the number of Frenchmen in France.</long_description>
+<icon_name>admin2_national_census</icon_name>
+<research_points_required>90</research_points_required>
+<military_prestige>0</military_prestige>
+<naval_prestige>0</naval_prestige>
+<economic_prestige>10</economic_prestige>
+<enlightenment_prestige>0</enlightenment_prestige>
+<mp_available_early>0</mp_available_early>
+<mp_available_late>0</mp_available_late>
+<info_pic>innovation.tga</info_pic>
+<ai_bias>1</ai_bias>
+<Gen_TempField_x002A_0>0</Gen_TempField_x002A_0>
+<Gen_TempField_x002A_1>0</Gen_TempField_x002A_1>
+<s_ColLineage>W4e7tQIAAABbh7u1AgAAAFuHu7ULAAAAW4e7tQIAAABbh7u1CQAAAFuHu7UBAAAA
+W4e7tQgAAABbh7u1CQAAAFuHu7UBAAAAarltahcAAABbh7u1DwAAAFuHu7UCAAAA
+arltahQAAABbh7u1AgAAAGq5bWoZAAAAW4e7tQEAAABquW1qGgAAAFuHu7UKAAAA
+arltahgAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{DD0E23B2-06DF-4CF1-9644-C3DB3DAED8F6}</s_GUID>
+<s_Lineage>arltahoAAABbh7u1EgAAAAAAAAAAAAAA
+</s_Lineage>
+</technologies>
+<technologies>
+<key>admin3_abolition_of_slavery</key>
+<building_level>sAdmin3_court_justice</building_level>
+<position_index>6</position_index>
+<onscreen_name>Abolition of Slavery</onscreen_name>
+<short_description>The abolition of slavery removes the right of one man to own another, and outlaws any trade in human beings as property.</short_description>
+<long_description>\n\nThe slave trade is hugely profitable for those who engage in it, whether through trade such as that from Africa to the New World, or conquest such as the depredations of European shipping by the Barbary Pirates of North Africa. The morality and necessity of slave owning, however, are disputed. Abolition of the trade has its roots in religious feelings and in radical Enlightenment thought, but its effects are clear: a cessation of slave taking, transportation and exploitation.\n\nHistorically, abolition was far from universally popular. William Wilberforce (1759-1833), the MP for Kingston-upon-Hull in Yorkshire, campaigned for many years in the face of bitter opposition from mercantile interests. His eventual success only outlawed slavery in British possessions and British involvement in any foreign trade. The Royal Navy acted as a “world policeman”, attempting to stop the African trade at source. Oddly, English judges had already decided that slaves could become free by stepping onto English soil in 1772. Wilberforce’s work was the start of a process that continues even today with attempts to stop “people trafficking”.</long_description>
+<icon_name>admin3_abolition_of_slavery</icon_name>
+<research_points_required>240</research_points_required>
+<military_prestige>0</military_prestige>
+<naval_prestige>0</naval_prestige>
+<economic_prestige>0</economic_prestige>
+<enlightenment_prestige>100</enlightenment_prestige>
+<mp_available_early>0</mp_available_early>
+<mp_available_late>0</mp_available_late>
+<info_pic>innovation.tga</info_pic>
+<ai_bias>0</ai_bias>
+<Gen_TempField_x002A_0>0</Gen_TempField_x002A_0>
+<Gen_TempField_x002A_1>0</Gen_TempField_x002A_1>
+<s_ColLineage>W4e7tQIAAABbh7u1AgAAAFuHu7UDAAAAW4e7tQIAAABbh7u1BQAAAFuHu7UBAAAA
+W4e7tQcAAABbh7u1BAAAAFuHu7UBAAAAarltag4AAABbh7u1AgAAAFuHu7UCAAAA
+W4e7tQIAAABquW1qDAAAAGq5bWoPAAAAW4e7tQEAAABquW1qEAAAAFuHu7UKAAAA
+W4e7tQIAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{9DDE32D6-8C2D-410B-9B9B-D803B80A9F90}</s_GUID>
+<s_Lineage>arltahAAAABbh7u1CgAAAAAAAAAAAAAA
+</s_Lineage>
+</technologies>
+<technologies>
+<key>admin3_code_napoleon</key>
+<building_level>sAdmin2_magistrate</building_level>
+<position_index>6</position_index>
+<onscreen_name>Code Napoleon</onscreen_name>
+<short_description>This systematic overhaul of the law aims to create a fair and equal framework for the people to live under.</short_description>
+<long_description>\n\nThe Code is a set of laws designed to protect the ideals of the Revolution, but also to protect the rights of people and property in France. Some measures are surprisingly liberal, while others give almost draconian powers to family heads over wives and children. The intention, however, is to create a legal system that everyone can understand, and one that can control the population. The Code Napoleon increases repression, but improves happiness among the lower and middle classes.\n\nNapoleon claimed to prize his Civil Code above all his other works. In 1800 he ordered distinguished lawyers to remake French law in just five months. Although they did not meet the deadline, the code is still the basis of French law today. The clarity of the system has appealed to many other, non-French nations since, and some 70 nations now use a similar, proscriptive system of law. The Anglophone world continues to rely largely on a common law system, where precedent is used to determine legality, for much of its everyday law.</long_description>
+<icon_name>admin3_code_napoleon</icon_name>
+<research_points_required>75</research_points_required>
+<military_prestige>0</military_prestige>
+<naval_prestige>0</naval_prestige>
+<economic_prestige>0</economic_prestige>
+<enlightenment_prestige>30</enlightenment_prestige>
+<mp_available_early>0</mp_available_early>
+<mp_available_late>0</mp_available_late>
+<info_pic>innovation.tga</info_pic>
+<ai_bias>0</ai_bias>
+<Gen_TempField_x002A_0>0</Gen_TempField_x002A_0>
+<Gen_TempField_x002A_1>0</Gen_TempField_x002A_1>
+<s_ColLineage>W4e7tQIAAABbh7u1EAAAAFuHu7URAAAAW4e7tRgAAABbh7u1GQAAAFuHu7UBAAAA
+W4e7tQkAAABquW1qHwAAAFuHu7UBAAAAarltah0AAABbh7u1AgAAAFuHu7UCAAAA
+W4e7tQIAAABquW1qGwAAAGq5bWogAAAAW4e7tQEAAABquW1qIQAAAFuHu7ULAAAA
+W4e7tQIAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{FE625A86-F6B8-4A9A-B994-53FC6E87DF5A}</s_GUID>
+<s_Lineage>arltaiEAAABbh7u1GQAAAAAAAAAAAAAA
+</s_Lineage>
+</technologies>
+<technologies>
+<key>admin3_metric_system</key>
+<building_level>sAdmin3_court_justice</building_level>
+<position_index>5</position_index>
+<onscreen_name>Metric System</onscreen_name>
+<short_description>A metric system standardises all weights and measures, and attempts to link them into a coherent whole.</short_description>
+<long_description>\n\nMany measuring systems are age-old, and based on some aspect of human physiognomy: hands for measuring horses and the like. There are quirky relationships within measuring systems: who would set out to design a weight scale that has 16 ounces in a pound, yet 112 pounds in a hundredweight?\n\nA metric system creates arbitrary, but scientifically derived, units for length, volume, area, weight, and so on. One unified system can measure everything, and there is no complicated mathematics required, as only multiples of ten are used. Adopting such a scheme increases research rates and allows further research in a number of areas.\n\nHistorically, the French were not the first people to attempt a codified measuring system, but the work done by the French Academy of Sciences in the 1790s was certainly the most organised approach up to that time. Although officially adopted quite quickly, the public were not required by law to use metric measures until 1840. The metric system is now the de facto standard for all national armies, although many navies still use old “imperial” units like the fathom for depth and knot for speed.</long_description>
+<icon_name>admin3_metric_system</icon_name>
+<research_points_required>120</research_points_required>
+<military_prestige>0</military_prestige>
+<naval_prestige>0</naval_prestige>
+<economic_prestige>20</economic_prestige>
+<enlightenment_prestige>20</enlightenment_prestige>
+<mp_available_early>0</mp_available_early>
+<mp_available_late>0</mp_available_late>
+<info_pic>innovation.tga</info_pic>
+<ai_bias>1</ai_bias>
+<Gen_TempField_x002A_0>0</Gen_TempField_x002A_0>
+<Gen_TempField_x002A_1>0</Gen_TempField_x002A_1>
+<s_ColLineage>W4e7tQIAAABbh7u1AgAAAFuHu7UEAAAAW4e7tQIAAABbh7u1CQAAAFuHu7UBAAAA
+W4e7tQgAAABbh7u1CQAAAFuHu7UBAAAAarltahAAAABbh7u1AgAAAFuHu7UCAAAA
+arltag4AAABquW1qDgAAAGq5bWoSAAAAW4e7tQEAAABquW1qEwAAAFuHu7UKAAAA
+arltahEAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{00343B84-5581-4090-89E1-A41F1FCBFBC5}</s_GUID>
+<s_Lineage>arltahMAAABbh7u1DAAAAAAAAAAAAAAA
+</s_Lineage>
+</technologies>
+<technologies>
+<key>admin3_trade_unions</key>
+<building_level>sAdmin3_court_justice</building_level>
+<position_index>4</position_index>
+<onscreen_name>Trade Unions</onscreen_name>
+<short_description>The working classes often have to fight for their rights, sometimes even their right to earn enough to live.</short_description>
+<long_description>\n\nOnce the ideas of revolution, liberty, and equality are mooted, the poor and downtrodden will want to know why these concepts do not apply equally to them. The growth of combinations and workers’ organisations is inevitable in societies where poverty can mean more than just low pay, but starvation. Trade unions give workers the ability to negotiate with employers from a position of strength: the individual can be dismissed, but not the whole workforce. Trade unions improve the happiness of the lower classes, and enable the construction of higher level law courts.\n\nHistorically, trade unions were declared illegal and widely feared by the landed and moneyed classes in most societies. The idea that the poor would dare to ask for more of anything, except a good horsewhipping, was only one step away from armed insurrection. The British reaction of passing the 1799 and 1825 Combination Acts was typical, as was the deportation to Australia of the “Tolpuddle Martyrs”, a group of agricultural labourers who had dared to form a society with the aim of obtaining better pay and conditions for themselves.</long_description>
+<icon_name>admin3_trade_unions</icon_name>
+<research_points_required>240</research_points_required>
+<military_prestige>0</military_prestige>
+<naval_prestige>0</naval_prestige>
+<economic_prestige>10</economic_prestige>
+<enlightenment_prestige>20</enlightenment_prestige>
+<mp_available_early>0</mp_available_early>
+<mp_available_late>0</mp_available_late>
+<info_pic>innovation.tga</info_pic>
+<ai_bias>1</ai_bias>
+<Gen_TempField_x002A_0>0</Gen_TempField_x002A_0>
+<Gen_TempField_x002A_1>0</Gen_TempField_x002A_1>
+<s_ColLineage>W4e7tQIAAABbh7u1AgAAAFuHu7UDAAAAW4e7tQIAAABbh7u1CAAAAFuHu7UBAAAA
+W4e7tQcAAABbh7u1CAAAAFuHu7UBAAAAarltahEAAABbh7u1AgAAAFuHu7UCAAAA
+arltag8AAABquW1qDwAAAGq5bWoTAAAAW4e7tQEAAABquW1qFAAAAFuHu7UJAAAA
+arltahIAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{432F5713-21D4-4403-B842-6A8CC4ED07FE}</s_GUID>
+<s_Lineage>arltahQAAABbh7u1CwAAAAAAAAAAAAAA
+</s_Lineage>
+</technologies>
+<technologies>
+<key>admin4_dialectics</key>
+<building_level>sAdmin4_court_appeals</building_level>
+<position_index>4</position_index>
+<onscreen_name>Dialectics</onscreen_name>
+<short_description>This new philosophical method of argument and counter-argument allows the exploration of many important ideas and questions.</short_description>
+<long_description>\n\nDialectics attempts to resolve the conflict between two opposing arguments without proving, or disproving, either argument. As a method of debate it teaches careful and considered reasoning; the idea can be applied equally to natural philosophy, politics, law, and life generally. Dialectics provide a bonus to diplomatic relations and a bonus to research rates; scientists are armed with a new intellectual tool. It also allows the building of the best available courts and universities.\n\nThe concept, in the West, can be traced back to the Greek scholars of antiquity. However, it was during the explosion of free-thinking during the Enlightenment that the technique of thinking was revisited. Thanks to the enquiring mind of Georg Hegel (1770-1831), dialectics and many other advances in the practice of philosophy were promulgated. He built a comprehensive frame work around philosophical thought that would help others to understand the complexities of the human mind and its connection with nature.</long_description>
+<icon_name>admin4_dialectics</icon_name>
+<research_points_required>450</research_points_required>
+<military_prestige>0</military_prestige>
+<naval_prestige>0</naval_prestige>
+<economic_prestige>0</economic_prestige>
+<enlightenment_prestige>50</enlightenment_prestige>
+<mp_available_early>0</mp_available_early>
+<mp_available_late>0</mp_available_late>
+<info_pic>innovation.tga</info_pic>
+<ai_bias>1</ai_bias>
+<Gen_TempField_x002A_0>0</Gen_TempField_x002A_0>
+<Gen_TempField_x002A_1>0</Gen_TempField_x002A_1>
+<s_ColLineage>W4e7tQIAAABbh7u1AgAAAFuHu7UCAAAAW4e7tQIAAABbh7u1BwAAAFuHu7UBAAAA
+W4e7tQYAAABbh7u1BwAAAFuHu7UBAAAAarltag0AAABbh7u1AgAAAFuHu7UCAAAA
+W4e7tQIAAABquW1qCwAAAGq5bWoPAAAAW4e7tQEAAABquW1qEAAAAFuHu7UIAAAA
+arltag4AAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{F7711BA8-7CA1-40EA-B466-02A058CCD890}</s_GUID>
+<s_Lineage>arltahAAAABbh7u1CQAAAAAAAAAAAAAA
+</s_Lineage>
+</technologies>
+<technologies>
+<key>admin4_semaphore_lines</key>
+<building_level>sAdmin4_court_appeals</building_level>
+<position_index>6</position_index>
+<onscreen_name>Semaphore Lines</onscreen_name>
+<short_description>Semaphore lines are a chain of signalling stations, using elaborate codes to pass on timely information.</short_description>
+<long_description>\n\nNews can travel along a semaphore system far faster than any postal system. Chains of towers are built across the countryside, so that each is visible to its neighbours. Operators use telescopes to watch their neighbouring towers, and messages are passed by setting the position of the tower’s arms or large moveable boards. Each combination of positions carries a meaning; once copied from a tower, the semaphore operator can repeat the message, sending it further down the line. In this fashion, news, even from distant frontiers, can be sent across a country in a matter of moments. The effect is to increase the line of sight around the borders of a nation’s territory.\n\nThe bonfire or beacon is, possibly, the simplest of message systems. It can carry one pre-arranged message when fired, usually something along the lines of “The enemy are coming!” By having a system that can send multiple messages, semaphore lines reduce the response time in any situation. Napoleon saw the worth of a semaphore system for keeping in touch; the British Admiralty invested much time and effort in constructing a system between all its major operational ports.</long_description>
+<icon_name>admin4_semaphore_lines</icon_name>
+<research_points_required>450</research_points_required>
+<military_prestige>10</military_prestige>
+<naval_prestige>0</naval_prestige>
+<economic_prestige>10</economic_prestige>
+<enlightenment_prestige>0</enlightenment_prestige>
+<mp_available_early>0</mp_available_early>
+<mp_available_late>0</mp_available_late>
+<info_pic>innovation.tga</info_pic>
+<ai_bias>0</ai_bias>
+<Gen_TempField_x002A_0>0</Gen_TempField_x002A_0>
+<Gen_TempField_x002A_1>0</Gen_TempField_x002A_1>
+<s_ColLineage>W4e7tQIAAABbh7u1AgAAAFuHu7UDAAAAW4e7tQIAAABbh7u1CAAAAFuHu7UBAAAA
+W4e7tQcAAABbh7u1CAAAAFuHu7UBAAAAarltag4AAABquW1qDAAAAFuHu7UCAAAA
+arltagwAAABbh7u1AgAAAGq5bWoPAAAAW4e7tQEAAABquW1qEAAAAFuHu7UJAAAA
+W4e7tQIAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{BB233CE4-0C9A-47C5-A7B0-C3F547639131}</s_GUID>
+<s_Lineage>arltahAAAABbh7u1CgAAAAAAAAAAAAAA
+</s_Lineage>
+</technologies>
+<technologies>
+<key>admin5_national_propaganda</key>
+<building_level>sAdmin5_court_supreme</building_level>
+<position_index>2</position_index>
+<onscreen_name>National Propaganda</onscreen_name>
+<short_description>Telling people “the truth” unifies the nation and raises morale.</short_description>
+<long_description>\n\nNewspapers, broadsheets, pamphlets, flyers, and posters can all be used to tell people about the glory won on the battlefield and the evil schemes of other nations. Such carefully crafted messages can also aid agents. A gentleman who is working for a noble, worthwhile cause will find it easier to persuade others to support it if he has a plausible version of the truth on his side. The morale of an army may also be increased in battle if soldiers believe in the righteousness of the national cause.\n\nIn reality, Napoleon was a master of using the press to burnish his own reputation, and to prepare the nation for changes in policy.  The “Moniteur” newspaper, and other Parisian journals, harped on the perfidious intentions of Britain at every opportunity. Oddly, however, Napoleon was incensed when British newspapers returned the favour and traduced his reputation, and was considered by some to be angry enough over the matter to declare war. He didn’t seem to notice that the British press were horrid about everyone, and were as rude about “Prinny”, their own lardy, indolent, pie-guzzling, womanizing, booze-sodden, and debauched Prince Regent, as they were about a short Corsican in a funny hat. Some things never change.</long_description>
+<icon_name>admin5_national_propaganda</icon_name>
+<research_points_required>1400</research_points_required>
+<military_prestige>20</military_prestige>
+<naval_prestige>20</naval_prestige>
+<economic_prestige>20</economic_prestige>
+<enlightenment_prestige>20</enlightenment_prestige>
+<mp_available_early>0</mp_available_early>
+<mp_available_late>0</mp_available_late>
+<info_pic>innovation.tga</info_pic>
+<ai_bias>0</ai_bias>
+<Gen_TempField_x002A_0>0</Gen_TempField_x002A_0>
+<Gen_TempField_x002A_1>0</Gen_TempField_x002A_1>
+<s_ColLineage>W4e7tQIAAABbh7u1AgAAAFuHu7UCAAAAW4e7tQIAAABbh7u1DAAAAFuHu7UBAAAA
+W4e7tQMAAABbh7u1CgAAAFuHu7UBAAAAarltahEAAABquW1qDgAAAGq5bWoPAAAA
+arltag8AAABquW1qDwAAAGq5bWoSAAAAW4e7tQEAAABquW1qEgAAAFuHu7UGAAAA
+W4e7tQIAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{3325B07F-D1A0-4F96-B2E1-76496238B75E}</s_GUID>
+<s_Lineage>arltahIAAABbh7u1DAAAAAAAAAAAAAAA
+</s_Lineage>
+</technologies>
+<technologies>
+<key>admin5_passports</key>
+<building_level>sAdmin5_court_supreme</building_level>
+<position_index>0</position_index>
+<onscreen_name>Passports</onscreen_name>
+<short_description>A passport allows the bearer to move freely across borders and through internal barriers.</short_description>
+<long_description>\n\nThose without the correct documentation cannot proceed on their way, and governments are not above changing the required documents without notice as a way of controlling their people. Passports and adequate record keeping also allow governments to monitor exactly how many suspicious foreigners may be lurking on their soil at any one time. Such knowledge can be of great use in making life much harder for spies and foreign provocateurs to carry out their foul and nefarious schemes of sabotage and spreading discontent!\n\nA “pass port” was the right to enter or leave by a gate. The invention of the modern idea of a passport is credited to the English king Henry V (1386–1422) and was called a “safe conduct”. This guaranteed that the person carrying it could travel safely to and in foreign lands. Passports have since changed to become a proof of identity and a guarantee that a person will be aided and defended from threats to his well being by his country. Many embassies spend much of their time and resources helping citizens in distress in foreign parts, and the guarantee of support to a passport holder continues to include the use of military force.</long_description>
+<icon_name>admin5_passports</icon_name>
+<research_points_required>1400</research_points_required>
+<military_prestige>0</military_prestige>
+<naval_prestige>0</naval_prestige>
+<economic_prestige>10</economic_prestige>
+<enlightenment_prestige>0</enlightenment_prestige>
+<mp_available_early>0</mp_available_early>
+<mp_available_late>0</mp_available_late>
+<info_pic>innovation.tga</info_pic>
+<ai_bias>0</ai_bias>
+<Gen_TempField_x002A_0>0</Gen_TempField_x002A_0>
+<Gen_TempField_x002A_1>0</Gen_TempField_x002A_1>
+<s_ColLineage>W4e7tQIAAABbh7u1AgAAAFuHu7UDAAAAW4e7tQIAAABbh7u1CAAAAFuHu7UBAAAA
+W4e7tQcAAABbh7u1CAAAAFuHu7UBAAAAarltag8AAABbh7u1AgAAAFuHu7UCAAAA
+arltag0AAABbh7u1AgAAAGq5bWoQAAAAW4e7tQEAAABquW1qEQAAAFuHu7UJAAAA
+W4e7tQIAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{F899B80B-0825-4E8B-B977-83BA234A4240}</s_GUID>
+<s_Lineage>arltahEAAABbh7u1CwAAAAAAAAAAAAAA
+</s_Lineage>
+</technologies>
+<technologies>
+<key>economy1_bottling_canning</key>
+<building_level>tFactory1_manufactory</building_level>
+<position_index>6</position_index>
+<onscreen_name>Bottling and Canning</onscreen_name>
+<short_description>Bottling and canning prevents food spoiling, a problem on ocean voyages where fresh food is unavailable.</short_description>
+<long_description>\n\nDiet-related ailments at sea can be reduced or eliminated by eating fresh food. Sealing food in airtight containers keeps it fresh; dried biscuits and bread may last longer than fruit or meat, but on their own they are not sufficient to sustain crew health or morale. Instead, bottled and canned foods can be taken aboard at the start of a journey, providing good meals for all. This technique not only preserves the food, but its goodness as well: the crew are better for eating good food, and naval upkeep costs are reduced.\n\nIn 1800 the French government, recognising the truth of “an army marches on its stomach”, offered a reward to anyone who could come up with a way of providing armies with safe food. After years of experimenting, French confectioner Nicolas Appert (1749-1841) noticed that food boiled in sealed containers only went off once air was admitted. He won the prize and put his foods into production in 1810 at the world’s first cannery.</long_description>
+<icon_name>economy1_bottling_canning</icon_name>
+<research_points_required>75</research_points_required>
+<military_prestige>0</military_prestige>
+<naval_prestige>0</naval_prestige>
+<economic_prestige>20</economic_prestige>
+<enlightenment_prestige>0</enlightenment_prestige>
+<mp_available_early>0</mp_available_early>
+<mp_available_late>0</mp_available_late>
+<info_pic>steam.tga</info_pic>
+<ai_bias>0</ai_bias>
+<Gen_TempField_x002A_0>0</Gen_TempField_x002A_0>
+<Gen_TempField_x002A_1>0</Gen_TempField_x002A_1>
+<s_ColLineage>W4e7tQIAAABbh7u1AgAAAFuHu7UCAAAAW4e7tQIAAABbh7u1CAAAAFuHu7UBAAAA
+W4e7tQcAAABbh7u1CAAAAFuHu7UBAAAAarltag8AAABbh7u1AgAAAFuHu7UCAAAA
+arltag0AAABbh7u1AgAAAGq5bWoQAAAAW4e7tQEAAABquW1qEQAAAFuHu7UJAAAA
+W4e7tQIAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{8D0260B9-858B-4BAC-B9BD-3FA0FDF39914}</s_GUID>
+<s_Lineage>arltahEAAABbh7u1CwAAAAAAAAAAAAAA
+</s_Lineage>
+</technologies>
+<technologies>
+<key>economy1_division_of_labour</key>
+<building_level>tFactory1_manufactory</building_level>
+<position_index>0</position_index>
+<onscreen_name>Division of Labour</onscreen_name>
+<short_description>The division of labour creates a more skilled and organised work force by making workers specialise in only one task.</short_description>
+<long_description>\n\nAs a society develops, its capabilities and needs grow. By dividing work into tasks, and allocating these to specific workers, a manufactory owner can develop a more effective work force. As workers specialise in their tasks, they will become faster and find ways of improving their work; this knowledge can be passed on to future workers. This result is an increase of each building’s economic output.\n\nScottish philosopher Adam Smith (1723-90) was a champion of the division of labour. He argued that any rate of production would be dramatically increased within industry if work was divided effectively. In his book “The Wealth of Nations” he called for a public education system to be put in place to teach workers the fine points of their crafts, if not much else. American author and naturalist Henry David Thoreau (1817- 1862) later criticized this idea in his book “Walden”. Thoreau thought specialisation was at the expense of traditional skills, such as farming and house-building, which were needed for true independent living.</long_description>
+<icon_name>economy1_division_of_labour</icon_name>
+<research_points_required>75</research_points_required>
+<military_prestige>0</military_prestige>
+<naval_prestige>0</naval_prestige>
+<economic_prestige>50</economic_prestige>
+<enlightenment_prestige>20</enlightenment_prestige>
+<mp_available_early>0</mp_available_early>
+<mp_available_late>0</mp_available_late>
+<info_pic>steam.tga</info_pic>
+<ai_bias>1</ai_bias>
+<Gen_TempField_x002A_0>0</Gen_TempField_x002A_0>
+<Gen_TempField_x002A_1>0</Gen_TempField_x002A_1>
+<s_ColLineage>W4e7tQIAAABbh7u1AgAAAFuHu7UKAAAAW4e7tQIAAABbh7u1BwAAAFuHu7UBAAAA
+W4e7tQYAAABbh7u1BwAAAFuHu7UBAAAAarltahAAAABbh7u1AgAAAFuHu7UCAAAA
+arltag4AAABquW1qDgAAAGq5bWoSAAAAW4e7tQEAAABquW1qEwAAAFuHu7UIAAAA
+arltahEAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{012B65F7-B8A2-4EBF-840E-5E5797965014}</s_GUID>
+<s_Lineage>arltahMAAABbh7u1DAAAAAAAAAAAAAAA
+</s_Lineage>
+</technologies>
+<technologies>
+<key>economy1_land_drainage</key>
+<building_level>tFactory1_manufactory</building_level>
+<position_index>5</position_index>
+<onscreen_name>Land Drainage</onscreen_name>
+<short_description>Draining marshy and low-lying land for agricultural purposes improves soil and crop yields for all farming.</short_description>
+<long_description>\n\nLand drainage can provide new land that can be cultivated, and protect existing farmland from flooding. Marshy landscapes can be tamed, and rivers diverted to make way for productive and profitable farmland. This land reclamation and improvement gives a higher output from all farms, and provides more food.\n\nHistorically, the Dutch were experts on drainage using windmills to distribute water into high channels where it could flow away; this is hardly surprising given their country’s low-lying landscape. Of course, drainage was at the mercy of the wind, and developments in steam power in the late eighteenth century led to the technology being applied to drainage. The steam engine would pump as long as it had water and fuel. Indeed, stationary steam engines were first used to pump water out of mines in Britain, allowing miners to excavate deeper than before, but the principles of raising water were exactly the same for a land drainage scheme.</long_description>
+<icon_name>economy1_land_drainage</icon_name>
+<research_points_required>75</research_points_required>
+<military_prestige>0</military_prestige>
+<naval_prestige>0</naval_prestige>
+<economic_prestige>10</economic_prestige>
+<enlightenment_prestige>0</enlightenment_prestige>
+<mp_available_early>0</mp_available_early>
+<mp_available_late>0</mp_available_late>
+<info_pic>steam.tga</info_pic>
+<ai_bias>0</ai_bias>
+<Gen_TempField_x002A_0>0</Gen_TempField_x002A_0>
+<Gen_TempField_x002A_1>0</Gen_TempField_x002A_1>
+<s_ColLineage>W4e7tQIAAABbh7u1AgAAAFuHu7UCAAAAW4e7tQIAAABbh7u1BwAAAFuHu7UBAAAA
+W4e7tQYAAABbh7u1BwAAAFuHu7UBAAAAarltag4AAABbh7u1AgAAAFuHu7UCAAAA
+arltagwAAABbh7u1AgAAAGq5bWoPAAAAW4e7tQEAAABquW1qEAAAAFuHu7UIAAAA
+W4e7tQIAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{07EC0762-AF28-4989-8F3A-B8515803758A}</s_GUID>
+<s_Lineage>arltahAAAABbh7u1CgAAAAAAAAAAAAAA
+</s_Lineage>
+</technologies>
+<technologies>
+<key>economy1_poverty_control_laws</key>
+<building_level>tFactory1_manufactory</building_level>
+<position_index>4</position_index>
+<onscreen_name>Poverty Control Laws</onscreen_name>
+<short_description>These laws help control any poverty problem by making being poor and destitute a crime.</short_description>
+<long_description>\n\nIn order to properly aid and control the poor, a distinction must be made between the genuinely needy and the merely bone-idle and feckless. These vagrants prey on hand-outs meant for deserving locals, but suitable persuasion, such as a sound beating or prison, moves them on. Such strictures will also illustrate the advantages of honest work and act as a deterrent to anyone else looking to evade their duty of work. The feckless, being made to work, can add to the productivity of a region.\n\nHistorically, in many countries poor relief was closely regulated: the poor were “impotent”, ”able-bodied”, or ”idle”. Local government, being sensitive to local needs, distinguished between each type, and also decided on who needed moving on to another locale. Whereas the infirm and elderly could not earn a living wage, there were some who were happy to leech off the goodwill of charitable parishes. For the ”able-bodied” who couldn’t find work, there was also the workhouse. These institutions were made deliberately unpleasant to discourage the poor from viewing them as an easy alternative to finding work for themselves.</long_description>
+<icon_name>economy1_poverty_control_laws</icon_name>
+<research_points_required>75</research_points_required>
+<military_prestige>0</military_prestige>
+<naval_prestige>0</naval_prestige>
+<economic_prestige>10</economic_prestige>
+<enlightenment_prestige>0</enlightenment_prestige>
+<mp_available_early>0</mp_available_early>
+<mp_available_late>0</mp_available_late>
+<info_pic>steam.tga</info_pic>
+<ai_bias>1</ai_bias>
+<Gen_TempField_x002A_0>0</Gen_TempField_x002A_0>
+<Gen_TempField_x002A_1>0</Gen_TempField_x002A_1>
+<s_ColLineage>W4e7tQ8AAABbh7u1AgAAAFuHu7ULAAAAW4e7tQIAAABbh7u1CAAAAFuHu7UBAAAA
+W4e7tQcAAABbh7u1CAAAAFuHu7UBAAAAarltahMAAABbh7u1AgAAAFuHu7UCAAAA
+arltahEAAABbh7u1AgAAAGq5bWoVAAAAW4e7tQEAAABquW1qFgAAAFuHu7UJAAAA
+arltahQAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{9A23CE9A-671E-44F7-B641-0FDEEA021B17}</s_GUID>
+<s_Lineage>arltahYAAABbh7u1DwAAAAAAAAAAAAAA
+</s_Lineage>
+</technologies>
+<technologies>
+<key>economy2_joint_stock_company</key>
+<building_level>tFactory2_factory</building_level>
+<position_index>2</position_index>
+<onscreen_name>Joint Stock Company</onscreen_name>
+<short_description>A joint stock company is owned and capitalised by many people, who can trade their stake in the company.</short_description>
+<long_description>\n\nJoint stock companies allow a business to raise money quickly. The people who provide the money have shares in any subsequent profits and own the enterprise even if they do not manage it. They can sell their stake in the company as they see fit, for whatever price they can get, so creating a stock market. Shareholder investment reduces the construction cost of industrial and mining buildings, and boosts the growth of national wealth.\n\nHistorically, joint stock companies are the basis of a capitalist economic system, but have always had dire results for some investors. The easy profits to be made in trading stocks and shares encourage rampant speculation that may be entirely unconnected to the actual value of what is being traded. Stocks have also been “talked up” and sold unfairly by unscrupulous investors. The South Sea Bubble of 1711 in Britain and the Mississippi Company Bubble of 1721 in France both resulted from what would, today, be termed criminal insider dealing and insanely greedy speculation by too many eager “marks”. However, when used honestly, the stocks-and-shares system remains a fine way of raising capital to do business while compensating those whose money is at risk.</long_description>
+<icon_name>economy2_joint_stock_company</icon_name>
+<research_points_required>240</research_points_required>
+<military_prestige>0</military_prestige>
+<naval_prestige>0</naval_prestige>
+<economic_prestige>50</economic_prestige>
+<enlightenment_prestige>10</enlightenment_prestige>
+<mp_available_early>0</mp_available_early>
+<mp_available_late>0</mp_available_late>
+<info_pic>steam.tga</info_pic>
+<ai_bias>1</ai_bias>
+<Gen_TempField_x002A_0>0</Gen_TempField_x002A_0>
+<Gen_TempField_x002A_1>0</Gen_TempField_x002A_1>
+<s_ColLineage>arltahIAAABbh7u1AgAAAFuHu7UPAAAAW4e7tQIAAABbh7u1CwAAAFuHu7UBAAAA
+W4e7tQoAAABbh7u1CwAAAFuHu7UBAAAAarltahgAAABbh7u1AgAAAFuHu7UCAAAA
+arltahUAAABquW1qFQAAAGq5bWoaAAAAW4e7tQEAAABquW1qGwAAAFuHu7UMAAAA
+arltahkAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{EED1F13E-E511-428C-8C2D-649F51F6797E}</s_GUID>
+<s_Lineage>arltahsAAABbh7u1EQAAAAAAAAAAAAAA
+</s_Lineage>
+</technologies>
+<technologies>
+<key>economy2_plateways</key>
+<building_level>tFactory2_factory</building_level>
+<position_index>3</position_index>
+<onscreen_name>Plateways</onscreen_name>
+<short_description>Plateways are iron tracks that allow more efficient transportation of ore or coal, increasing a mine’s output.</short_description>
+<long_description>\n\nWith industry comes the demand for materials and fuels to sustain it, and the need for improved transport to carry them. One answer lies in putting carts on cast iron channels called plateways, laid out as tracks that guide the vehicles. These sturdy plateways are laid on level routes as far as possible, allowing horses to pull heavy loads for great distances. Plateways make mining and industry more efficient by delivering bulk raw materials.\n\nHistorically, movement of iron ore and coal without using rivers or canals was costly and slow. Horse-drawn wagons ran along wooden rails, but these regularly broke under the strain. Cast iron provided the answer in the form of L-shaped iron rails; the upright guided the cart wheels. This system worked well enough, but the carts were easily derailed by stones. This was not an uncommon problem when iron ore and other stony products were being carried. The weight of carts could also crack the cast iron used. Both these problems were solved by the introduction of wrought iron rails, but the concept of a plateway is a direct ancestor of the modern rail network.</long_description>
+<icon_name>economy2_plateways</icon_name>
+<research_points_required>240</research_points_required>
+<military_prestige>0</military_prestige>
+<naval_prestige>0</naval_prestige>
+<economic_prestige>20</economic_prestige>
+<enlightenment_prestige>0</enlightenment_prestige>
+<mp_available_early>0</mp_available_early>
+<mp_available_late>0</mp_available_late>
+<info_pic>steam.tga</info_pic>
+<ai_bias>1</ai_bias>
+<Gen_TempField_x002A_0>0</Gen_TempField_x002A_0>
+<Gen_TempField_x002A_1>0</Gen_TempField_x002A_1>
+<s_ColLineage>W4e7tQIAAABbh7u1AgAAAFuHu7UGAAAAW4e7tQIAAABbh7u1CwAAAFuHu7UBAAAA
+W4e7tQoAAABbh7u1CwAAAFuHu7UBAAAAarltahQAAABbh7u1AgAAAFuHu7UCAAAA
+arltahEAAABbh7u1AgAAAGq5bWoWAAAAW4e7tQEAAABquW1qFwAAAFuHu7UMAAAA
+arltahUAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{702E6882-85D7-40BC-941A-303D4A611015}</s_GUID>
+<s_Lineage>arltahcAAABbh7u1DgAAAAAAAAAAAAAA
+</s_Lineage>
+</technologies>
+<technologies>
+<key>economy2_steam_engine</key>
+<building_level>tFactory2_factory</building_level>
+<position_index>4</position_index>
+<onscreen_name>Steam Engine</onscreen_name>
+<short_description>This mechanical stationary engine enables the building of steam-powered factories.</short_description>
+<long_description>\n\nThe application of reliable and controllable sources of power allows industry to produce goods at a tremendous rate. Work is no longer tied to the force of a convenient river, reliant on the wind or limited by a man’s muscles. Progress and industry, simply, are no longer subject to Nature’s whims! The steam engine unleashes power wherever it is needed, leading to an accelerated growth of industrial production.\n\nExperiments with steam power can be traced all the way through history, as far back as the ancient Greeks and the Aeolipile. However, it was the atmospheric beam engine of Thomas Newcomen (1664-1729) that first used steam effectively and signalled a new age of industry. His design was later improved by James Watt (1736-1819). The more fuel-efficient, and thus cheaper to run, Watt Steam Engine provided power to run factories, pump water, and eventually propel all manner of vehicles.</long_description>
+<icon_name>economy2_steam_engine</icon_name>
+<research_points_required>240</research_points_required>
+<military_prestige>0</military_prestige>
+<naval_prestige>10</naval_prestige>
+<economic_prestige>60</economic_prestige>
+<enlightenment_prestige>0</enlightenment_prestige>
+<mp_available_early>0</mp_available_early>
+<mp_available_late>0</mp_available_late>
+<info_pic>steam.tga</info_pic>
+<ai_bias>1</ai_bias>
+<Gen_TempField_x002A_0>0</Gen_TempField_x002A_0>
+<Gen_TempField_x002A_1>0</Gen_TempField_x002A_1>
+<s_ColLineage>W4e7tQIAAABbh7u1AgAAAFuHu7UEAAAAW4e7tQIAAABbh7u1CgAAAFuHu7UBAAAA
+W4e7tQkAAABbh7u1CgAAAFuHu7UBAAAAarltahQAAABbh7u1AgAAAGq5bWoRAAAA
+arltahAAAABbh7u1AgAAAGq5bWoWAAAAW4e7tQEAAABquW1qFwAAAFuHu7ULAAAA
+arltahUAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{EAEAE9E5-131B-46D3-A283-2A7D2831F67D}</s_GUID>
+<s_Lineage>arltahcAAABbh7u1DQAAAAAAAAAAAAAA
+</s_Lineage>
+</technologies>
+<technologies>
+<key>economy3_interchangeable_parts</key>
+<building_level>tFactory3_steam_powered_factory</building_level>
+<position_index>5</position_index>
+<onscreen_name>Interchangeable Parts</onscreen_name>
+<short_description>Uniformity in the parts of any machine or device means that it can be assembled easily or broken items can be replaced quickly.</short_description>
+<long_description>\n\nMany devices are hand-built by craftsmen to extremely high standards, but this brings its own problems. If a designed component doesn’t fit into a machine, it can be carefully worked until it does; in itself, this is no bad thing, but the altered piece may not now fit into an apparently identical mechanism.\n\nBy making identical parts within a fine tolerance, identical machines can be built from any mixture of those parts. Work can be divided up amongst craftsmen, and broken parts can be replaced easily, even by a user! This is particularly useful for the military, as muskets and other equipment can be quickly repaired in the field rather than being thrown away or expensively rebuilt.\n\nThis advance became widely known about thanks to American inventor Eli Whitney (1765-1825). He built ten muskets in front of a US Congressional committee, took them to pieces, mixed up the parts, and rebuilt the muskets. The act was impressive, but he had cheated by having all his demonstration pieces carefully handcrafted to extremely exacting standards. He was largely copying the ideas of Frenchman Honoré Blanc.</long_description>
+<icon_name>economy2_interchangeable_parts</icon_name>
+<research_points_required>500</research_points_required>
+<military_prestige>0</military_prestige>
+<naval_prestige>0</naval_prestige>
+<economic_prestige>20</economic_prestige>
+<enlightenment_prestige>0</enlightenment_prestige>
+<mp_available_early>0</mp_available_early>
+<mp_available_late>0</mp_available_late>
+<info_pic>steam.tga</info_pic>
+<ai_bias>0</ai_bias>
+<Gen_TempField_x002A_0>0</Gen_TempField_x002A_0>
+<Gen_TempField_x002A_1>0</Gen_TempField_x002A_1>
+<s_ColLineage>W4e7tQIAAABbh7u1AgAAAFuHu7UCAAAAW4e7tQIAAABbh7u1BAAAAFuHu7UBAAAA
+W4e7tQYAAABbh7u1AwAAAFuHu7UBAAAAarltag4AAABbh7u1AgAAAFuHu7UCAAAA
+arltagwAAABbh7u1AgAAAGq5bWoPAAAAW4e7tQEAAABquW1qEAAAAFuHu7UJAAAA
+W4e7tQIAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{F31CD65E-8761-4980-8A45-834474FA6C1A}</s_GUID>
+<s_Lineage>arltahAAAABbh7u1CQAAAAAAAAAAAAAA
+</s_Lineage>
+</technologies>
+<technologies>
+<key>economy3_limited_liability_company</key>
+<building_level>tFactory3_steam_powered_factory</building_level>
+<position_index>2</position_index>
+<onscreen_name>Limited Liability Company</onscreen_name>
+<short_description>Limited liability protects the shareholders from any financial problems their company may have.</short_description>
+<long_description>\n\nTrade and enterprise are among the building blocks of any fledgling empire, and therefore any business is to be encouraged and aided. The shareholders in a limited liability company are not held personally accountable for any company debts. They are not expected to use any more of their own money, beyond what they paid for their shares, to honour the company’s commitments. Shareholders face less risk as a result, and this not only increases the wealth of a nation, but also its gross national product.\n\nWhen the Act of Limited Liability was passed in the United Kingdom in 1855 it was met with some scepticism. The public feared that companies would be free to act irresponsibly because their owner could walk away from the financial consequences. To prevent this, shares were only partly paid to begin with so that in the event of company bankruptcy shareholders would still have to pay the balance for shares in a worthless enterprise. However, as only the already wealthy could afford the risk, this approach was soon abandoned, and business boomed.</long_description>
+<icon_name>economy3_limited_liability_company</icon_name>
+<research_points_required>500</research_points_required>
+<military_prestige>0</military_prestige>
+<naval_prestige>0</naval_prestige>
+<economic_prestige>40</economic_prestige>
+<enlightenment_prestige>0</enlightenment_prestige>
+<mp_available_early>0</mp_available_early>
+<mp_available_late>0</mp_available_late>
+<info_pic>steam.tga</info_pic>
+<ai_bias>1</ai_bias>
+<Gen_TempField_x002A_0>0</Gen_TempField_x002A_0>
+<Gen_TempField_x002A_1>0</Gen_TempField_x002A_1>
+<s_ColLineage>W4e7tQIAAABbh7u1AgAAAFuHu7UOAAAAW4e7tQIAAABbh7u1CgAAAFuHu7UBAAAA
+W4e7tQkAAABbh7u1CgAAAFuHu7UBAAAAarltahUAAABbh7u1AgAAAFuHu7UCAAAA
+arltahMAAABbh7u1AgAAAGq5bWoXAAAAW4e7tQEAAABquW1qGAAAAFuHu7ULAAAA
+arltahYAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{EEE1586D-7D89-408A-8519-656281D30CEE}</s_GUID>
+<s_Lineage>arltahgAAABbh7u1EAAAAAAAAAAAAAAA
+</s_Lineage>
+</technologies>
+<technologies>
+<key>economy3_screw_propeller</key>
+<building_level>tFactory3_steam_powered_factory</building_level>
+<position_index>4</position_index>
+<onscreen_name>Screw Propeller</onscreen_name>
+<short_description>A screw propeller drives a ship through the water, powered by steam and independent of the wind.</short_description>
+<long_description>\n\nUnlike a paddlewheel, a screw propeller is entirely underwater, and is largely invulnerable to enemy fire as a result. However, it does add to the draft of a ship, so a pilot must have his wits about him in shallow water. The mechanism is, however, far more efficient than any combination of paddlewheels (either stern or side), and can drive a ship at much higher speed for a given engine size.\n\nHistorically, the screw propeller had its origins in Archimedes’ Screw, an ancient method of lifting water to a higher level. The screw’s potential for propulsion was recognised early on, but not actually implemented. It required steam power, coupled with further refinements to the shape of the screw propeller, to finally see it adopted instead of paddle wheels. British engineer Francis Pettit Smith (1808-1874) accidentally discovered that smaller propellers work better than big ones. During one of his many tests, a piece of his screw propeller snapped off, and he noticed that, rather than grinding to a halt, the ship actually accelerated.</long_description>
+<icon_name>economy3_screw_propeller</icon_name>
+<research_points_required>500</research_points_required>
+<military_prestige>0</military_prestige>
+<naval_prestige>30</naval_prestige>
+<economic_prestige>0</economic_prestige>
+<enlightenment_prestige>0</enlightenment_prestige>
+<mp_available_early>0</mp_available_early>
+<mp_available_late>0</mp_available_late>
+<info_pic>steam.tga</info_pic>
+<ai_bias>0</ai_bias>
+<Gen_TempField_x002A_0>0</Gen_TempField_x002A_0>
+<Gen_TempField_x002A_1>0</Gen_TempField_x002A_1>
+<s_ColLineage>W4e7tQIAAABbh7u1AgAAAFuHu7UDAAAAW4e7tQIAAABbh7u1EQAAAFuHu7UBAAAA
+W4e7tQsAAABbh7u1DAAAAFuHu7UBAAAAarltahYAAABbh7u1AgAAAGq5bWoUAAAA
+W4e7tQIAAABbh7u1AgAAAGq5bWoXAAAAW4e7tQEAAABquW1qGAAAAFuHu7UNAAAA
+W4e7tQIAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{528B07B4-B063-4748-96F0-436CCF48583A}</s_GUID>
+<s_Lineage>arltahgAAABbh7u1EQAAAAAAAAAAAAAA
+</s_Lineage>
+</technologies>
+<technologies>
+<key>economy3_steam_locomotive</key>
+<building_level>tFactory3_steam_powered_factory</building_level>
+<position_index>3</position_index>
+<onscreen_name>Steam Locomotive</onscreen_name>
+<short_description>A locomotive moves not only itself but also a train of carriages or wagons along a track.</short_description>
+<long_description>\n\nA stationary steam engine can be used to haul loads along a track by means of ropes or chains, but it is much more convenient for the engine to move with the train. Plateways and railways are not new ideas, but the application of mobile steam power is a revolution. Railways linking mines, ports, and cities make the world smaller, but also give men of business unparalleled opportunities for trade, so allowing increased industrial expansion.\n\nHistorically, steam engines were a wonder of the age when they were introduced to public service, despite the fact that the first day of the first passenger railway in the world resulted in the death of an important local politician. In 1830, the Liverpool and Manchester Railway held a grand celebration. William Huskisson, the Liverpool Member of Parliament, dithered when a train approached at speed, and was run down. His leg was severed, and it took the unfortunate fellow some time to die from shock and blood loss. Despite killing a well-loved worthy, the L&amp;M was an engineering triumph and a financial success, ushering in the railway age.</long_description>
+<icon_name>economy3_steam_locomotive</icon_name>
+<research_points_required>500</research_points_required>
+<military_prestige>0</military_prestige>
+<naval_prestige>0</naval_prestige>
+<economic_prestige>50</economic_prestige>
+<enlightenment_prestige>10</enlightenment_prestige>
+<mp_available_early>0</mp_available_early>
+<mp_available_late>0</mp_available_late>
+<info_pic>steam.tga</info_pic>
+<ai_bias>1</ai_bias>
+<Gen_TempField_x002A_0>0</Gen_TempField_x002A_0>
+<Gen_TempField_x002A_1>0</Gen_TempField_x002A_1>
+<s_ColLineage>W4e7tQYAAABbh7u1BgAAAFuHu7UHAAAAW4e7tQIAAABbh7u1CwAAAFuHu7UBAAAA
+W4e7tQoAAABbh7u1CwAAAFuHu7UBAAAAarltahMAAABbh7u1AgAAAFuHu7UCAAAA
+arltahEAAABquW1qEQAAAGq5bWoVAAAAW4e7tQEAAABquW1qFgAAAFuHu7UMAAAA
+arltahQAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{8446F48D-CA22-43D0-8528-B191568CFD22}</s_GUID>
+<s_Lineage>arltahYAAABbh7u1DgAAAAAAAAAAAAAA
+</s_Lineage>
+</technologies>
+<technologies>
+<key>economy3_steam_ship_propulsion</key>
+<building_level>tFactory3_steam_powered_factory</building_level>
+<position_index>0</position_index>
+<onscreen_name>Steam Ship Propulsion</onscreen_name>
+<short_description>Steam propulsion concerns the use of steam engines to propel ocean-going vessels, enabling the building of paddle steamers.</short_description>
+<long_description>\n\nEngineering improvements to the steam engine have made it more efficient, and it is now suitable for use in ships. The only question is where to store the mountain of coal required to fuel the engine, a problem that limits the cruising range of ships and still requires them to have masts and sails. When the wind is right, it is more sensible to use it than burn coal.\n\nHistorically, the transition from wind-power to steam-powered vessels was slow and protracted. Apart from the need for a network of coaling ports, development of steam ship propulsion itself went through many increments and was beset by engine failures, sinking ships, bureaucracy, and false starts. Jouffroy d’Abbans (1751-1832) was one of many inventors who were almost official geniuses: in 1783, his paddle steamer, the Pyroscaphe, managed to sail for fifteen minutes down the Saône, but the French Academy of Sciences refused to acknowledge his achievement for political reasons. D’Abbans died unrecognised, bitter and impoverished.</long_description>
+<icon_name>economy3_steam_ship_propulsion</icon_name>
+<research_points_required>500</research_points_required>
+<military_prestige>0</military_prestige>
+<naval_prestige>30</naval_prestige>
+<economic_prestige>0</economic_prestige>
+<enlightenment_prestige>0</enlightenment_prestige>
+<mp_available_early>0</mp_available_early>
+<mp_available_late>0</mp_available_late>
+<info_pic>steam.tga</info_pic>
+<ai_bias>0</ai_bias>
+<Gen_TempField_x002A_0>0</Gen_TempField_x002A_0>
+<Gen_TempField_x002A_1>0</Gen_TempField_x002A_1>
+<s_ColLineage>W4e7tQIAAABbh7u1AgAAAFuHu7UDAAAAW4e7tQIAAABbh7u1CAAAAFuHu7UBAAAA
+W4e7tQcAAABbh7u1CAAAAFuHu7UBAAAAarltahIAAABbh7u1AgAAAGq5bWoQAAAA
+W4e7tQIAAABbh7u1AgAAAGq5bWoTAAAAW4e7tQEAAABquW1qFAAAAFuHu7UNAAAA
+W4e7tQIAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{5A34218B-699D-42DA-911E-DFC09EDD9EF6}</s_GUID>
+<s_Lineage>arltahQAAABbh7u1DQAAAAAAAAAAAAAA
+</s_Lineage>
+</technologies>
+<technologies>
+<key>economy5_mass_production</key>
+<building_level>tFactory2_factory</building_level>
+<position_index>5</position_index>
+<onscreen_name>Mass Production</onscreen_name>
+<short_description>A system for making items in huge quantities, where manufacturing is no longer dependent upon the skills of individual craftsmen. </short_description>
+<long_description>\n\nCraft-based manufacturing of any kind has a ceiling on the number of goods that it can produce. The goods themselves may be beautifully made, but the number of expert workers is the limitation; people can only make so many things if they are doing everything for themselves.\n\nMass production mechanises the basic and repetitive tasks of production, and divides work into simple, repetitive and repeatable tasks. No longer does a master craftsman labour to make one item from start to finish. Instead, work is broken down into simple tasks and each given to a worker with the item passing to the next person for the next task. Each job is simple, so mechanical aids and tools can be used in place of expertise.\n\nMarc Brunel (1769-1849) was a French engineer who fetched up in England after the French Revolution. His block-making machines are a typical example of mass production in the period. They let unskilled labour make the blocks and pulleys needed in their thousands by the Royal Navy – blocks were a vital part of ship’s rigging.</long_description>
+<icon_name>economy2_mass_production</icon_name>
+<research_points_required>240</research_points_required>
+<military_prestige>0</military_prestige>
+<naval_prestige>0</naval_prestige>
+<economic_prestige>60</economic_prestige>
+<enlightenment_prestige>0</enlightenment_prestige>
+<mp_available_early>0</mp_available_early>
+<mp_available_late>0</mp_available_late>
+<info_pic>steam.tga</info_pic>
+<ai_bias>0</ai_bias>
+<Gen_TempField_x002A_0>0</Gen_TempField_x002A_0>
+<Gen_TempField_x002A_1>0</Gen_TempField_x002A_1>
+<s_ColLineage>W4e7tQIAAABbh7u1AgAAAFuHu7UCAAAAW4e7tQIAAABbh7u1BAAAAFuHu7UBAAAA
+W4e7tQYAAABbh7u1AwAAAFuHu7UBAAAAarltag4AAABbh7u1AgAAAFuHu7UCAAAA
+arltagsAAABbh7u1AgAAAGq5bWoPAAAAW4e7tQEAAABquW1qEAAAAFuHu7UJAAAA
+W4e7tQIAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{8E752ECE-8387-4B56-9B0E-DD24A3ECD25C}</s_GUID>
+<s_Lineage>arltahAAAABbh7u1CQAAAAAAAAAAAAAA
+</s_Lineage>
+</technologies>
+<technologies>
+<key>military1_carronade</key>
+<building_level>sArmy1_cantonment</building_level>
+<position_index>7</position_index>
+<onscreen_name>Carronade</onscreen_name>
+<short_description>This weapon is a short-barrelled, muzzle-loading cannon that can be mounted on the upper decks of a warship.</short_description>
+<long_description>\n\nCarronade differ from the normal warship “long guns” by having a shortened barrel, relative to the weight of shot. Short barrels require reduced gunpowder charges; large charges would be wasted because they would not have time to burn properly. This gives a reduced muzzle velocity, less recoil, and a lighter weapon. As a further benefit, carronades require fewer gunners to fire them. There is, however, a tactical price to pay: carronades are short-range weapons. In close, but only in close, they can do fearful slaughter.\n\nHistorically, the carronade was developed by the Carron Company of Fife, Scotland. It was a huge success initially, as the weight of shot more than made up for its short range: 68-pounder carronades were quite easily carried aboard even small ships. HMS Victory carried 68-pounder carronades as part of her armament: one raking round shot and a load of 500 musket balls did terrible slaughter on the gun deck of the Bucentaure at the Battle of Trafalgar in 1805.</long_description>
+<icon_name>military1_carronades</icon_name>
+<research_points_required>75</research_points_required>
+<military_prestige>0</military_prestige>
+<naval_prestige>10</naval_prestige>
+<economic_prestige>0</economic_prestige>
+<enlightenment_prestige>0</enlightenment_prestige>
+<mp_available_early>1</mp_available_early>
+<mp_available_late>1</mp_available_late>
+<info_pic>arsenal-2.tga</info_pic>
+<ai_bias>0</ai_bias>
+<Gen_TempField_x002A_0>0</Gen_TempField_x002A_0>
+<Gen_TempField_x002A_1>0</Gen_TempField_x002A_1>
+<s_ColLineage>W4e7tQIAAABbh7u1AgAAAFuHu7UGAAAAW4e7tQIAAABbh7u1BAAAAFuHu7UBAAAA
+W4e7tQUAAABbh7u1AwAAAFuHu7UBAAAAarltag4AAABbh7u1AgAAAGq5bWoMAAAA
+W4e7tQIAAABbh7u1AgAAAGq5bWoPAAAAW4e7tQEAAABbh7u1CAAAAFuHu7UJAAAA
+W4e7tQIAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{2FCCD3C5-8F3C-42FA-8BC8-672BE2CCF458}</s_GUID>
+<s_Lineage>arltag8AAABbh7u1CgAAAAAAAAAAAAAA
+</s_Lineage>
+</technologies>
+<technologies>
+<key>military1_conscription</key>
+<building_level>sArmy1_cantonment</building_level>
+<position_index>0</position_index>
+<onscreen_name>Conscription</onscreen_name>
+<short_description>Conscription forces every able-bodied man to make himself available for service in the army.</short_description>
+<long_description>\n\nThis provides an enormous pool of recruits, and makes the business of building an army much simpler and cheaper: if a thousand men are needed for a regiment, they can be found instantly! The negative consequences are that conscripted soldiers are not reliable or particularly well trained: they do not want to be in the army, learn how to use a gun, or be in a battle. They want to go home in one piece. They cannot be expected to hold to the same standards of discipline as volunteers or regular soldiers.\n\nRevolutionary France was the first nation to introduce conscription, with the &quot;Jourdan Law&quot; of 1798. All men aged 20-25 were liable for service, but there were many exceptions. Clergymen, some essential workers and public office holders did not have to report, and it was possible to pay someone else to go in your place. This last clause effectively made conscription fall heavily on the poor and peasant classes. Ironically, General Jean-Baptiste Jourdan, the man who created the system that saved Revolutionary France, had been forced out of the army because his moderate views made the Committee of Public Safety suspicious of his loyalties.</long_description>
+<icon_name>military1_conscription</icon_name>
+<research_points_required>75</research_points_required>
+<military_prestige>10</military_prestige>
+<naval_prestige>0</naval_prestige>
+<economic_prestige>0</economic_prestige>
+<enlightenment_prestige>0</enlightenment_prestige>
+<mp_available_early>1</mp_available_early>
+<mp_available_late>1</mp_available_late>
+<info_pic>arsenal-2.tga</info_pic>
+<ai_bias>1</ai_bias>
+<Gen_TempField_x002A_0>0</Gen_TempField_x002A_0>
+<Gen_TempField_x002A_1>0</Gen_TempField_x002A_1>
+<s_ColLineage>W4e7tQIAAABbh7u1AgAAAFuHu7UCAAAAW4e7tQIAAABbh7u1CAAAAFuHu7UBAAAA
+W4e7tQMAAABbh7u1BwAAAFuHu7UBAAAAarltagwAAABquW1qCgAAAFuHu7UCAAAA
+W4e7tQIAAABbh7u1AgAAAFuHu7UEAAAAW4e7tQEAAABbh7u1BQAAAFuHu7UGAAAA
+arltag0AAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{724CA35D-6D3E-413B-825A-8F8755D27310}</s_GUID>
+<s_Lineage>arltag0AAABbh7u1CAAAAAAAAAAAAAAA
+</s_Lineage>
+</technologies>
+<technologies>
+<key>military1_diamond_formation</key>
+<building_level>sArmy1_cantonment</building_level>
+<position_index>1</position_index>
+<onscreen_name>Diamond Formation</onscreen_name>
+<short_description>An improved method for positioning and manoeuvring a cavalry unit, so that it may change direction with expedition. </short_description>
+<long_description>\n\nA diamond formation, as the name suggests, is a way of employing all the men of a cavalry unit to best effect. Rather than being arranged as a simple wedge, point towards the enemy, the unit tapers off from its broadest point. Even though the riders may be knee-to-knee to maximise the shock of impact should a charge connect with a target, a diamond-formed unit can change direction quickly. This is not true with the earlier cavalry wedge, the members of which find any kind of wheeling turn difficult to execute.\n\nHistorically, the Swedes were among the leaders in European cavalry tactics at the start of the 18th Century; King Charles XII was all in favour of closely packed, large cavalry formations as he believed that these could break the enemy by fear alone. There was debate among military men in other nations too: in Britain the Duke of Marlborough favoured his cavalry charging home with cold steel, rather than relying on fear or bullets to do their terrible work.</long_description>
+<icon_name>military1_diamond_formation</icon_name>
+<research_points_required>75</research_points_required>
+<military_prestige>10</military_prestige>
+<naval_prestige>0</naval_prestige>
+<economic_prestige>0</economic_prestige>
+<enlightenment_prestige>0</enlightenment_prestige>
+<mp_available_early>1</mp_available_early>
+<mp_available_late>1</mp_available_late>
+<info_pic>arsenal-2.tga</info_pic>
+<ai_bias>0</ai_bias>
+<Gen_TempField_x002A_0>0</Gen_TempField_x002A_0>
+<Gen_TempField_x002A_1>0</Gen_TempField_x002A_1>
+<s_ColLineage>W4e7tQIAAABbh7u1AgAAAFuHu7UHAAAAW4e7tQIAAABbh7u1BAAAAFuHu7UBAAAA
+W4e7tQYAAABbh7u1AwAAAFuHu7UBAAAAarltag4AAABquW1qDAAAAFuHu7UCAAAA
+W4e7tQIAAABbh7u1AgAAAFuHu7UIAAAAW4e7tQEAAABbh7u1CAAAAFuHu7UJAAAA
+W4e7tQIAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{8CCDC62B-821A-45C0-A3EF-23BEA2915A95}</s_GUID>
+<s_Lineage>arltag4AAABbh7u1CgAAAAAAAAAAAAAA
+</s_Lineage>
+</technologies>
+<technologies>
+<key>military1_fire_and_advance</key>
+<building_level>sArmy1_cantonment</building_level>
+<position_index>2</position_index>
+<onscreen_name>Fire and Advance</onscreen_name>
+<short_description>Infantry units are trained to move forwards in sections, each firing turn to cover the advance of their comrades.</short_description>
+<long_description>\n\nWhen using this tactic, infantry units do not move forward as a single block. Instead, groups take it in turn to advance towards the enemy, halt, and fire. While one group is firing, others are advancing or loading for another volley. Good discipline and weapons drill are also required, so that the stationary companies will always be ready to give fire when needed. The evolution requires a great deal of coordination by officers and sergeants, and faith in their fellows by the men.\n\nFire and advance remains in use today as a method of advance known as “bounding overwatch”, a particularly useful technique for armoured units where tanks give each other covering fire. The first unit moves into a predetermined position and becomes the “overwatching unit”; these tend to be in cover to provide the stationary unit with protection as it covers the bounding unit. In addition, armoured vehicles being able to fire on the move with gyro-stabilised weapons has made “fire and advance” mean exactly that.</long_description>
+<icon_name>military1_fire_and_advance</icon_name>
+<research_points_required>75</research_points_required>
+<military_prestige>10</military_prestige>
+<naval_prestige>0</naval_prestige>
+<economic_prestige>0</economic_prestige>
+<enlightenment_prestige>0</enlightenment_prestige>
+<mp_available_early>1</mp_available_early>
+<mp_available_late>1</mp_available_late>
+<info_pic>arsenal-2.tga</info_pic>
+<ai_bias>0</ai_bias>
+<Gen_TempField_x002A_0>0</Gen_TempField_x002A_0>
+<Gen_TempField_x002A_1>0</Gen_TempField_x002A_1>
+<s_ColLineage>W4e7tQMAAABbh7u1AgAAAFuHu7UEAAAAW4e7tQIAAABbh7u1CwAAAFuHu7UBAAAA
+W4e7tQkAAABbh7u1CwAAAFuHu7UBAAAAarltahAAAABquW1qDgAAAFuHu7UCAAAA
+W4e7tQIAAABbh7u1AgAAAFuHu7UKAAAAW4e7tQEAAABbh7u1CgAAAFuHu7UMAAAA
+W4e7tQIAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{0023CDAE-7F81-401A-AED0-A67836A86058}</s_GUID>
+<s_Lineage>arltahAAAABbh7u1DAAAAAAAAAAAAAAA
+</s_Lineage>
+</technologies>
+<technologies>
+<key>military1_improved_coppering</key>
+<building_level>sArmy1_cantonment</building_level>
+<position_index>3</position_index>
+<onscreen_name>Improved Coppering</onscreen_name>
+<short_description>Coppering protects a ship’s hull from marine worms and weeds.</short_description>
+<long_description>\n\nBy fastening thin copper sheets over the timbers below the waterline, weeds and worms are kept at bay. The ship lasts longer because its bottom is not eaten away, and is faster by not being fouled. Upkeep costs are reduced, and handling improved. Coppering is not cheap, though, as it requires substantial work in the shipyard during construction.\n\nHistorically, coppering ships was not immediately accepted by the Royal Navy. The Admiralty were put off by the high cost of the copper; a second problem was that coppering actually seemed to make the rotting of ships’ hulls worse, not better. This was the result of an unexpected reaction between seawater, the copper sheets and the iron bolts used to hold them in place. These became, in effect, a large battery, and the iron bolts were eaten away by the chemical reaction, resulting in the hull falling to bits. Once iron was no longer used, “copper bottomed” became a mark of approval: something so (financially) sound it could not possibly fail. Coppering remained in use until the development of modern anti-fouling paints.</long_description>
+<icon_name>military1_improved_coppering</icon_name>
+<research_points_required>75</research_points_required>
+<military_prestige>0</military_prestige>
+<naval_prestige>10</naval_prestige>
+<economic_prestige>0</economic_prestige>
+<enlightenment_prestige>0</enlightenment_prestige>
+<mp_available_early>1</mp_available_early>
+<mp_available_late>1</mp_available_late>
+<info_pic>arsenal-2.tga</info_pic>
+<ai_bias>0</ai_bias>
+<Gen_TempField_x002A_0>0</Gen_TempField_x002A_0>
+<Gen_TempField_x002A_1>0</Gen_TempField_x002A_1>
+<s_ColLineage>W4e7tQMAAABbh7u1AgAAAFuHu7UMAAAAW4e7tQIAAABbh7u1CgAAAFuHu7UBAAAA
+W4e7tQkAAABbh7u1CgAAAFuHu7UBAAAAarltahIAAABbh7u1AgAAAGq5bWoQAAAA
+W4e7tQIAAABbh7u1AgAAAFuHu7UOAAAAW4e7tQEAAABbh7u1DQAAAFuHu7ULAAAA
+W4e7tQIAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{6F364C12-27A6-446F-B252-B378F524EC0B}</s_GUID>
+<s_Lineage>arltahIAAABbh7u1DgAAAAAAAAAAAAAA
+</s_Lineage>
+</technologies>
+<technologies>
+<key>military2_army_corps_organisation</key>
+<building_level>sArmy2_barracks</building_level>
+<position_index>5</position_index>
+<onscreen_name>Army Corps Organisation</onscreen_name>
+<short_description>Armies fight best when simply organised and directed in a straightforward fashion.</short_description>
+<long_description>\n\nA corps structure introduces an extra level of command, aiding a commanding general by, counter-intuitively, giving him fewer direct subordinates. Rather than dealing with dozens of regimental commanders directly, a general issues his orders to his corps commanders. The general is then free from the burden of dealing with many people, and can concentrate on the overall situation. Each corps operates as an army in miniature, looking after its own supplies and marching routes. One immediately noticeable effect is an improvement in movement rates for armies, because individual units can now be coordinated in detail.\n\nThe corps structure, grouping together army divisions, was not new in the Napoleonic era, but again Napoleon’s genius was to take an existing concept and gain the maximum benefit. Following the Revolutionary War, divisions in the French army were organised into temporary groups known as “wings”. Command of a wing was temporary, and on top of a divisional general’s responsibilities. A sensible evolution of the idea was to make the “Corps D&apos;Armée” a permanent formation, with its own staff and permanent commanding officer. Each corps usually had at least two infantry divisions with their own artillery, a corps artillery reserve, and at least a brigade of cavalry.</long_description>
+<icon_name>military1_army_corps_organisation</icon_name>
+<research_points_required>120</research_points_required>
+<military_prestige>50</military_prestige>
+<naval_prestige>0</naval_prestige>
+<economic_prestige>0</economic_prestige>
+<enlightenment_prestige>0</enlightenment_prestige>
+<mp_available_early>1</mp_available_early>
+<mp_available_late>1</mp_available_late>
+<info_pic>arsenal-2.tga</info_pic>
+<ai_bias>0</ai_bias>
+<Gen_TempField_x002A_0>0</Gen_TempField_x002A_0>
+<Gen_TempField_x002A_1>0</Gen_TempField_x002A_1>
+<s_ColLineage>W4e7tQwAAABbh7u1DAAAAFuHu7UOAAAAW4e7tQIAAABbh7u1CgAAAFuHu7UBAAAA
+W4e7tQkAAABbh7u1CgAAAFuHu7UBAAAAarltahUAAABquW1qEwAAAGq5bWoTAAAA
+W4e7tQIAAABbh7u1AgAAAFuHu7UQAAAAW4e7tQEAAABbh7u1DwAAAFuHu7ULAAAA
+W4e7tQIAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{0A27C87F-074E-4979-8FAE-0F62956C02EB}</s_GUID>
+<s_Lineage>arltahUAAABbh7u1EQAAAAAAAAAAAAAA
+</s_Lineage>
+</technologies>
+<technologies>
+<key>military2_grand_battery</key>
+<building_level>sArmy3_drill_school</building_level>
+<position_index>6</position_index>
+<onscreen_name>Grand Battery</onscreen_name>
+<short_description>Using the tactic of a Grand Battery increases the accuracy of artillery units.</short_description>
+<long_description>\n\nThe Grand Battery is an artillery tactic which involves amassing all available artillery into one huge battery and then concentrating its fire on a single point in the enemy line. The concentrated fire also makes for a devastating attack that can blast through enemy lines and structures. The massed nature of this fire given improves the accuracy and effectiveness of artillery units in battle.\n\nIn reality, the Grand Battery was an ingenious new tactic that, for a while, gave Napoleon the edge over his enemies. At Wagram and Borodino it was used, respectively, to break an enemy line in the centre and repel an enemy counter attack. As with all ingenious tactics, there was an ingenious counter attack: Wellington and other generals started deploying their troops well out of range of any grand battery. Wellington employed this tactic to great effect at the Battle of Waterloo, deploying his men safely out of range and just to be sure, on the reverse slope of a hill, hiding them from any direct fire.</long_description>
+<icon_name>military2_grand_battery</icon_name>
+<research_points_required>120</research_points_required>
+<military_prestige>20</military_prestige>
+<naval_prestige>0</naval_prestige>
+<economic_prestige>0</economic_prestige>
+<enlightenment_prestige>0</enlightenment_prestige>
+<mp_available_early>1</mp_available_early>
+<mp_available_late>1</mp_available_late>
+<info_pic>arsenal-2.tga</info_pic>
+<ai_bias>1</ai_bias>
+<Gen_TempField_x002A_0>0</Gen_TempField_x002A_0>
+<Gen_TempField_x002A_1>0</Gen_TempField_x002A_1>
+<s_ColLineage>W4e7tQMAAABquW1qDwAAAGq5bWoPAAAAW4e7tQIAAABbh7u1CQAAAFuHu7UBAAAA
+W4e7tQgAAABbh7u1CQAAAFuHu7UBAAAAarltahIAAABquW1qEAAAAFuHu7UCAAAA
+W4e7tQIAAABbh7u1AgAAAFuHu7UOAAAAW4e7tQEAAABbh7u1DQAAAFuHu7UKAAAA
+arltahMAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{30001AF1-40D5-4697-B36A-4C2694CAA69A}</s_GUID>
+<s_Lineage>arltahMAAABbh7u1DgAAAAAAAAAAAAAA
+</s_Lineage>
+</technologies>
+<technologies>
+<key>military2_logistics</key>
+<building_level>sArmy2_barracks</building_level>
+<position_index>6</position_index>
+<onscreen_name>Logistics</onscreen_name>
+<short_description>A well-organised supply system mitigates any losses suffered by armies on campaign and in battle.</short_description>
+<long_description>\n\nA supply system can aid in making sure that the attrition inevitably suffered by military units in hostile lands is reduced: soldiers who are properly supplied with all their necessaries are less likely to die or desert. The same system that can deliver a musket or a barrel of gunpowder to the front can also be used to send replacement soldiers forward as well.\n\nBefore gunpowder, armies could support themselves entirely by pillaging, even if this did ruin any land they crossed. This changed with the introduction of gunpowder, as it could rarely be stolen, and could not be manufactured on the march; a transportation system and supply dumps became absolutely vital.\n\nThe writings of Antoine-Henri Jomini, a Frenchman and eventually a Russian general officer, did much to advance the understanding of logistics, the art of military supply. His career included training to be a banker, and time working for an arms manufacturer, but his skills came to the fore when he was a secretary in the Swiss Ministry of War, in charge of reorganising the way the business of war was conducted. This gave him the grounding he needed for his organisational and supply work.</long_description>
+<icon_name>military2_logistics</icon_name>
+<research_points_required>120</research_points_required>
+<military_prestige>30</military_prestige>
+<naval_prestige>0</naval_prestige>
+<economic_prestige>20</economic_prestige>
+<enlightenment_prestige>0</enlightenment_prestige>
+<mp_available_early>1</mp_available_early>
+<mp_available_late>1</mp_available_late>
+<info_pic>arsenal-2.tga</info_pic>
+<ai_bias>1</ai_bias>
+<Gen_TempField_x002A_0>0</Gen_TempField_x002A_0>
+<Gen_TempField_x002A_1>0</Gen_TempField_x002A_1>
+<s_ColLineage>W4e7tQIAAABbh7u1AgAAAFuHu7UFAAAAW4e7tQIAAABbh7u1CgAAAFuHu7UBAAAA
+W4e7tQMAAABbh7u1CQAAAFuHu7UBAAAAarltag0AAABquW1qCwAAAFuHu7UCAAAA
+arltagsAAABbh7u1AgAAAFuHu7UHAAAAW4e7tQEAAABbh7u1BgAAAFuHu7UIAAAA
+arltag4AAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{158079C5-1278-4583-901F-015612895E94}</s_GUID>
+<s_Lineage>arltag4AAABbh7u1CgAAAAAAAAAAAAAA
+</s_Lineage>
+</technologies>
+<technologies>
+<key>military2_mass_mobilisation</key>
+<building_level>sArmy2_barracks</building_level>
+<position_index>4</position_index>
+<onscreen_name>Mass Mobilisation</onscreen_name>
+<short_description>Getting the whole population to believe in the nation’s wars, and be willing to sacrifice themselves, is an enormously powerful idea.</short_description>
+<long_description>\n\nMass mobilisation is the social and political theory that claims that the general public can be inspired to fight for a country or for nebulous ideals such as “freedom”. When men go willingly to war they can be persuaded to suffer hardships beyond those of regular soldiering: overcoming a lack of supplies, food and arms are part of the struggle. Belief is a powerful tool in battle: men will stand for an idea, even in the face of death. Mobilisation reduces the recruitment costs for militia units.\n\n Historically, the French Revolution was the first example of mass mobilisation, even if it was not referred to as such at the time. The people were harnessed to the ideals of the revolution, and willing to undergo hardships in its name. As these ideals were threatened by foreign monarchies, the people could be easily roused to defend them. Patriotic and revolutionary fervour was encouraged by the government to great practical effect; by 1799 more than one million men had shown themselves willing to fight for France and the Revolution.</long_description>
+<icon_name>military2_mass_mobilisation</icon_name>
+<research_points_required>120</research_points_required>
+<military_prestige>50</military_prestige>
+<naval_prestige>0</naval_prestige>
+<economic_prestige>0</economic_prestige>
+<enlightenment_prestige>0</enlightenment_prestige>
+<mp_available_early>1</mp_available_early>
+<mp_available_late>1</mp_available_late>
+<info_pic>arsenal-2.tga</info_pic>
+<ai_bias>1</ai_bias>
+<Gen_TempField_x002A_0>0</Gen_TempField_x002A_0>
+<Gen_TempField_x002A_1>0</Gen_TempField_x002A_1>
+<s_ColLineage>W4e7tQMAAABbh7u1AgAAAFuHu7ULAAAAW4e7tQIAAABbh7u1CQAAAFuHu7UBAAAA
+W4e7tQgAAABbh7u1CQAAAFuHu7UBAAAAarltahAAAABquW1qDgAAAFuHu7UCAAAA
+W4e7tQIAAABbh7u1AgAAAGq5bWoSAAAAW4e7tQEAAABbh7u1DAAAAFuHu7UKAAAA
+arltahEAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{9F005F71-FFA1-48EE-A5BE-7267888FFBB7}</s_GUID>
+<s_Lineage>arltahIAAABbh7u1DQAAAAAAAAAAAAAA
+</s_Lineage>
+</technologies>
+<technologies>
+<key>military2_top_gallants</key>
+<building_level>sArmy2_barracks</building_level>
+<position_index>7</position_index>
+<onscreen_name>Top Gallants</onscreen_name>
+<short_description>Top gallants are extra sails at the top of a mast, giving the ship more sail area and therefore a higher speed. </short_description>
+<long_description>\n\nAll sailing ships rely on the wind for motive power. The only practical way to make a better speed through the water at a particular wind velocity is to put on more sail. Each mast is designed to take a main sail and a topsail, but it is possible with top gallants to add an extra sail above the topsail. Naturally, this requires more yards, ropes and skilled sailors to set the sails. Adding a top gallant is also something of a strain on the fabric of the ship: the extra strain on a mast can, in high winds, rip it right out of a hull. This catastrophic damage to the whole ship can also cause casualties among the crew.\n\nThe speed and handling of a ship can also be improved by careening the hull: a process that takes days. This, however, is not something that will instantly give more speed, unlike setting the topgallants.</long_description>
+<icon_name>military2_top_gallants</icon_name>
+<research_points_required>120</research_points_required>
+<military_prestige>0</military_prestige>
+<naval_prestige>10</naval_prestige>
+<economic_prestige>0</economic_prestige>
+<enlightenment_prestige>0</enlightenment_prestige>
+<mp_available_early>1</mp_available_early>
+<mp_available_late>1</mp_available_late>
+<info_pic>arsenal-2.tga</info_pic>
+<ai_bias>0</ai_bias>
+<Gen_TempField_x002A_0>0</Gen_TempField_x002A_0>
+<Gen_TempField_x002A_1>0</Gen_TempField_x002A_1>
+<s_ColLineage>W4e7tQIAAABbh7u1AgAAAGq5bWoLAAAAW4e7tQIAAABbh7u1BAAAAFuHu7UBAAAA
+W4e7tQUAAABbh7u1AwAAAFuHu7UBAAAAarltag4AAABbh7u1AgAAAGq5bWoMAAAA
+W4e7tQIAAABbh7u1AgAAAFuHu7UJAAAAW4e7tQEAAABbh7u1CAAAAFuHu7UKAAAA
+W4e7tQIAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{E0EE4CCD-72DD-44B3-88A9-A2C53FFBAAD3}</s_GUID>
+<s_Lineage>arltag4AAABbh7u1CgAAAAAAAAAAAAAA
+</s_Lineage>
+</technologies>
+<technologies>
+<key>military3_carcass_shot</key>
+<building_level>sArmy3_drill_school</building_level>
+<position_index>7</position_index>
+<onscreen_name>Carcass Shot</onscreen_name>
+<short_description>This ammunition is a hellish incendiary, contrived from combustible substances wrapped in canvas, strengthened and supported by iron hoops. </short_description>
+<long_description>\n\nThe shells are made by pouring an unpleasant cocktail of turpentine, tallow, resin, saltpetre, and sulphur and antimony compounds into a canvas sack, which is supported by iron interlocking hoops. The mixture hardens, and the shot can then be fired from mortars and howitzers. A weapon with a low muzzle velocity is required, otherwise the canvas rips apart and the crew are showered with the burning contents of the carcass. The hoops hopefully prevent the shot from bursting as it leaves the barrel, setting the users on fire rather than the target.\n\nIn theory, the mixture should burn for a few minutes when the shot bursts on impact, and be incredibly difficult to extinguish. Certainly, dousing the flames with water will have little effect. This makes carcass shot particularly useful against defensive positions, and an extremely unpleasant weapon when used against troops in the open.</long_description>
+<icon_name>military3_carcass_shot</icon_name>
+<research_points_required>240</research_points_required>
+<military_prestige>20</military_prestige>
+<naval_prestige>0</naval_prestige>
+<economic_prestige>0</economic_prestige>
+<enlightenment_prestige>0</enlightenment_prestige>
+<mp_available_early>1</mp_available_early>
+<mp_available_late>1</mp_available_late>
+<info_pic>arsenal-2.tga</info_pic>
+<ai_bias>0</ai_bias>
+<Gen_TempField_x002A_0>0</Gen_TempField_x002A_0>
+<Gen_TempField_x002A_1>0</Gen_TempField_x002A_1>
+<s_ColLineage>W4e7tQIAAABbh7u1AgAAAFuHu7UDAAAAW4e7tQIAAABbh7u1BQAAAFuHu7UBAAAA
+W4e7tQcAAABbh7u1BAAAAFuHu7UBAAAAarltag4AAABquW1qDAAAAFuHu7UCAAAA
+W4e7tQIAAABbh7u1AgAAAFuHu7UJAAAAW4e7tQEAAABbh7u1CAAAAFuHu7UKAAAA
+W4e7tQIAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{634F9EAA-C226-4A7F-B44A-F0E73A6C29D5}</s_GUID>
+<s_Lineage>arltag4AAABbh7u1CgAAAAAAAAAAAAAA
+</s_Lineage>
+</technologies>
+<technologies>
+<key>military3_conscript_infantry_tactics</key>
+<building_level>sArmy3_drill_school</building_level>
+<position_index>4</position_index>
+<onscreen_name>Conscript Infantry Tactics</onscreen_name>
+<short_description>Conscription and the tactics this allows on the battlefield fuel new developments in military thought.</short_description>
+<long_description>\n\nAs the recruitment process for modern armies changes, tactics need to be re-evaluated and altered. Previously, armies had been made up of sometimes-willing volunteers, who were well trained and fiercely disciplined. Conscription provides a new challenge for military tacticians: how best to deploy an army to prevent desertion and give men no choice but to fight. Once these new infantry tactics have been researched and developed, new military academies can be constructed to spread these radical ideas.\n\n Conscript infantry tactics owe their creation, in theory at least, to the French general Count Jacques-Antonine-Hippolyte de Guibert (1743-1790). He was a controversial tactical writer who published his “Essai general de tactique” in 1770 and was notorious for his advanced social opinions. He had been discussing the finer points of mass conscription (which became known as “levee en masse”) long before it became the French military system. He briefly held the position of chief military advisor to the French government but it was soon apparent that the government was not ready for his brand of radical thinking.</long_description>
+<icon_name>military3_conscript_infantry_tactics</icon_name>
+<research_points_required>240</research_points_required>
+<military_prestige>30</military_prestige>
+<naval_prestige>0</naval_prestige>
+<economic_prestige>0</economic_prestige>
+<enlightenment_prestige>0</enlightenment_prestige>
+<mp_available_early>0</mp_available_early>
+<mp_available_late>0</mp_available_late>
+<info_pic>arsenal-2.tga</info_pic>
+<ai_bias>1</ai_bias>
+<Gen_TempField_x002A_0>0</Gen_TempField_x002A_0>
+<Gen_TempField_x002A_1>0</Gen_TempField_x002A_1>
+<s_ColLineage>W4e7tQMAAABbh7u1AgAAAFuHu7UCAAAAW4e7tQIAAABbh7u1CQAAAFuHu7UBAAAA
+W4e7tQcAAABbh7u1CQAAAFuHu7UBAAAAarltahEAAABquW1qDwAAAFuHu7UCAAAA
+W4e7tQIAAABbh7u1AgAAAGq5bWoUAAAAW4e7tQEAAABquW1qFAAAAFuHu7ULAAAA
+arltahIAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{2010DFD1-ABEF-4253-A4B6-EE57DCAF1093}</s_GUID>
+<s_Lineage>arltahQAAABbh7u1DQAAAAAAAAAAAAAA
+</s_Lineage>
+</technologies>
+<technologies>
+<key>military3_field_ambulances</key>
+<building_level>sArmy3_drill_school</building_level>
+<position_index>5</position_index>
+<onscreen_name>Field Ambulances</onscreen_name>
+<short_description>Speed is all-important when treating wounded men. Any delay lessens the chances of survival, let alone recovery.</short_description>
+<long_description>\n\n Field ambulances are fast carts that can be driven into the thick of battle. Stocked with water, bandages, and other medical supplies they allow some treatment to be given immediately. More importantly, the wounded can be carried to the rear where a surgeon can give much needed medical attention. Surgery, however, remains close to butchery. Being able to provide this swift assistance means that the replenishment rate of units is improved.\n\n Historically, ambulances in their basic form have been around for centuries, Roman centurions were followed into battle by teams of strong men who would retrieve the wounded or dying. However, it was not until the Napoleonic Wars that the term “ambulance” was first used. The chief physician to Napoleon, Baron Jean Dominique Larrey (1766 – 1842) introduced a contraption he called the “ambulances volantes”. Outraged by the fact that the wounded and dying were not collected until after a battle, he adapted horse artillery caissons to carry the wounded for treatment at high speed. He eventually developed two varieties of carts that could be taken onto the battlefield to retrieve and treat injured soldiers.</long_description>
+<icon_name>military3_field_ambulances</icon_name>
+<research_points_required>240</research_points_required>
+<military_prestige>40</military_prestige>
+<naval_prestige>0</naval_prestige>
+<economic_prestige>0</economic_prestige>
+<enlightenment_prestige>0</enlightenment_prestige>
+<mp_available_early>1</mp_available_early>
+<mp_available_late>1</mp_available_late>
+<info_pic>arsenal-2.tga</info_pic>
+<ai_bias>0</ai_bias>
+<Gen_TempField_x002A_0>0</Gen_TempField_x002A_0>
+<Gen_TempField_x002A_1>0</Gen_TempField_x002A_1>
+<s_ColLineage>W4e7tQMAAABbh7u1AgAAAFuHu7UCAAAAW4e7tQIAAABbh7u1CAAAAFuHu7UBAAAA
+W4e7tQcAAABbh7u1CAAAAFuHu7UBAAAAarltag8AAABquW1qDQAAAFuHu7UCAAAA
+W4e7tQIAAABbh7u1AgAAAFuHu7ULAAAAW4e7tQEAAABbh7u1CgAAAFuHu7UJAAAA
+W4e7tQIAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{35BDC34D-9DFF-4FC4-AECB-2D66F607FB92}</s_GUID>
+<s_Lineage>arltag8AAABbh7u1CwAAAAAAAAAAAAAA
+</s_Lineage>
+</technologies>
+<technologies>
+<key>military3_standardised_artillery</key>
+<building_level>sArmy4_military_academy</building_level>
+<position_index>6</position_index>
+<onscreen_name>Standardised Artillery</onscreen_name>
+<short_description>Standardisation of parts prolongs the field life of artillery by simplifying the supply of spare parts.</short_description>
+<long_description>\n\nBy using common parts to make many different cannons, such as wheels and gun carriages, it makes manufacturing easier and makes the job of an artilleryman easier too. Field repairs can be made by taking usable parts from a destroyed weapon to repair a damaged one. A single serviceable weapon may be created from the wreckage of a number of other guns.\n\nIn 1764, French artillery officer Jean-Baptiste Vaquette de Gribeauval created a system of standardisation of mass produced gun parts that came to be known as ‘Le systéme Gribeauval’. He improved cannon carriages, and improved the basic manufacturing of guns so that pieces became smaller and lighter for a given calibre.\n\nIt was Napoleon’s ability to use the existing systems of the French army to full effect that made it such an effective fighting force. Bonaparte was, of course, trained as an artilleryman before he was a general officer.</long_description>
+<icon_name>military3_standardised_artillery</icon_name>
+<research_points_required>450</research_points_required>
+<military_prestige>40</military_prestige>
+<naval_prestige>0</naval_prestige>
+<economic_prestige>0</economic_prestige>
+<enlightenment_prestige>0</enlightenment_prestige>
+<mp_available_early>1</mp_available_early>
+<mp_available_late>1</mp_available_late>
+<info_pic>arsenal-2.tga</info_pic>
+<ai_bias>0</ai_bias>
+<Gen_TempField_x002A_0>0</Gen_TempField_x002A_0>
+<Gen_TempField_x002A_1>0</Gen_TempField_x002A_1>
+<s_ColLineage>W4e7tQMAAABquW1qDAAAAFuHu7UCAAAAW4e7tQIAAABbh7u1CAAAAFuHu7UBAAAA
+W4e7tQcAAABbh7u1CAAAAFuHu7UBAAAAarltahEAAABquW1qDgAAAFuHu7UCAAAA
+W4e7tQIAAABbh7u1AgAAAFuHu7ULAAAAW4e7tQEAAABbh7u1CgAAAFuHu7UJAAAA
+W4e7tQIAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{E54ABBA2-B815-4F8C-945F-7793EA619DD4}</s_GUID>
+<s_Lineage>arltahEAAABbh7u1CwAAAAAAAAAAAAAA
+</s_Lineage>
+</technologies>
+<technologies>
+<key>military4_general_staff</key>
+<building_level>sArmy4_military_academy</building_level>
+<position_index>4</position_index>
+<onscreen_name>General Staff</onscreen_name>
+<short_description>A general staff assists commanders in the field and in a war ministry in their many and burdensome duties.</short_description>
+<long_description>\n\nWithout paperwork, clerks and administrators, armies cannot function. Field commanders also need assistance in drafting orders, collating intelligence of the enemy and in making sure that men are properly supplied and fed. A general staff is made up of relatively junior, but trusted officers who can act as the eyes and ears of their general and, when occasion calls for it, make sure his orders are delivered in a clear and prompt fashion. With a general staff to deal with administration, a force can move with more despatch and not waste valuable time.\n\nHistorically, Napoleon Bonaparte made full use of various generals, favourite officers, confidential secretaries and the like to assist him. Louis Alexandre Berthier (1753-1815) was Napoleon’s Chief of Staff, and highly favoured by the emperor because of his diligence in making sure orders were obeyed. After Napoleon’s abdication in 1814, Berthier made his peace with the new King Louis XVIII. He then refused to join Napoleon on his return to Paris in 1815, and Napoleon saw Berthier’s absence as one of the reasons for his defeat at Waterloo.</long_description>
+<icon_name>military4_general_staff</icon_name>
+<research_points_required>450</research_points_required>
+<military_prestige>40</military_prestige>
+<naval_prestige>0</naval_prestige>
+<economic_prestige>0</economic_prestige>
+<enlightenment_prestige>0</enlightenment_prestige>
+<mp_available_early>1</mp_available_early>
+<mp_available_late>1</mp_available_late>
+<info_pic>arsenal-2.tga</info_pic>
+<ai_bias>1</ai_bias>
+<Gen_TempField_x002A_0>0</Gen_TempField_x002A_0>
+<Gen_TempField_x002A_1>0</Gen_TempField_x002A_1>
+<s_ColLineage>W4e7tQMAAABbh7u1AgAAAFuHu7UCAAAAW4e7tQIAAABbh7u1CAAAAFuHu7UBAAAA
+W4e7tQcAAABbh7u1CAAAAFuHu7UBAAAAarltahIAAABquW1qEAAAAFuHu7UCAAAA
+W4e7tQIAAABbh7u1AgAAAGq5bWoNAAAAW4e7tQEAAABquW1qDgAAAFuHu7UJAAAA
+arltahMAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{4328D42A-BEFF-4170-A6D2-7131AA0FACDB}</s_GUID>
+<s_Lineage>arltahMAAABbh7u1CwAAAAAAAAAAAAAA
+</s_Lineage>
+</technologies>
+<technologies>
+<key>military4_modern_rifles</key>
+<building_level>sArmy4_military_academy</building_level>
+<position_index>5</position_index>
+<onscreen_name>Modern Rifles</onscreen_name>
+<short_description>Rifles are deadly accurate, but require great skill from their users. They also have a slow rate of fire.</short_description>
+<long_description>\n\nRifles must be used by specialists to achieve effectiveness on the battlefield; this is why they are usually only issued to specially-selected and highly-trained units of skirmishers. The difference between a rifle and a smoothbore musket is in the grooves cut into the barrel: these give a spin to the ball as it is fired, making it more accurate over long ranges. However, loading a shot requires care and attention in battle, and a rifle needs care and attention to keep it clean and properly adjusted after a fight.\n\nIn 1800, the British Army established the Experimental Corps of Rifles in Horsham, Sussex. Selected men were drafted from various regiments and trained to think independently as well as fight as skirmishers. They were equipped with Ezekiel Baker’s flintlock rifle, a splendidly accurate weapon. It was not unknown for riflemen to hold targets for each other, a demonstration that would have been suicidal and stupid if the firer had been using a standard Brown Bess musket. Clad in green uniforms, Rifles, as the Baker-armed soldiers were soon called, were justly respected.</long_description>
+<icon_name>military4_modern_rifles</icon_name>
+<research_points_required>450</research_points_required>
+<military_prestige>60</military_prestige>
+<naval_prestige>0</naval_prestige>
+<economic_prestige>0</economic_prestige>
+<enlightenment_prestige>0</enlightenment_prestige>
+<mp_available_early>1</mp_available_early>
+<mp_available_late>1</mp_available_late>
+<info_pic>arsenal-2.tga</info_pic>
+<ai_bias>1</ai_bias>
+<Gen_TempField_x002A_0>0</Gen_TempField_x002A_0>
+<Gen_TempField_x002A_1>0</Gen_TempField_x002A_1>
+<s_ColLineage>W4e7tQMAAABbh7u1AgAAAFuHu7UCAAAAW4e7tQIAAABbh7u1CAAAAFuHu7UBAAAA
+W4e7tQcAAABbh7u1CAAAAFuHu7UBAAAAarltahEAAABquW1qDwAAAFuHu7UCAAAA
+W4e7tQIAAABbh7u1AgAAAGq5bWoNAAAAW4e7tQEAAABquW1qDQAAAFuHu7UJAAAA
+arltahIAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{E3A2624E-371C-4EAE-8AED-1F0A4F5F9B63}</s_GUID>
+<s_Lineage>arltahIAAABbh7u1CwAAAAAAAAAAAAAA
+</s_Lineage>
+</technologies>
+<technologies>
+<key>military4_quicklime</key>
+<building_level>sArmy4_military_academy</building_level>
+<position_index>7</position_index>
+<onscreen_name>Quicklime</onscreen_name>
+<short_description>This unpleasant and ungentlemanly artillery projectile showers the target with quicklime, a compound that causes burns and blindness. </short_description>
+<long_description>\n\nQuicklime is a dangerous, caustic product that gets very, very hot when it is slaked with water. It does have entirely innocent uses: plaster, mortar and whitewash for buildings, and in glass making; but as a weapon it is frightening indeed. The smallest amount will cause painful, even fatal, burns on exposed flesh. The eyes are especially vulnerable because they are moist with tears. Quicklime shells carry an explosive charge so as to burst above enemy lines, but they are still dangerous to the gunners using them.\n\nHistorically, quicklime had a long history of use in warfare, dating back to Classical antiquity. This did not make it an acceptable weapon in the eyes of many military gentlemen who, quite rightly, realised that what could be used against the enemy could also be used against them. Further, like all chemical weapons, it was entirely dependent on the wind to send the caustic agent in the right direction once released. It was true that, short of running away, there was no practical defence against perfidious and odious chemical weapons.</long_description>
+<icon_name>military4_quicklime_shells</icon_name>
+<research_points_required>450</research_points_required>
+<military_prestige>30</military_prestige>
+<naval_prestige>0</naval_prestige>
+<economic_prestige>0</economic_prestige>
+<enlightenment_prestige>0</enlightenment_prestige>
+<mp_available_early>1</mp_available_early>
+<mp_available_late>1</mp_available_late>
+<info_pic>arsenal-2.tga</info_pic>
+<ai_bias>0</ai_bias>
+<Gen_TempField_x002A_0>0</Gen_TempField_x002A_0>
+<Gen_TempField_x002A_1>0</Gen_TempField_x002A_1>
+<s_ColLineage>W4e7tQIAAABbh7u1AgAAAFuHu7UDAAAAW4e7tQIAAABbh7u1BQAAAFuHu7UBAAAA
+W4e7tQcAAABbh7u1BAAAAFuHu7UBAAAAarltag8AAABquW1qDQAAAFuHu7UCAAAA
+W4e7tQIAAABbh7u1AgAAAGq5bWoLAAAAW4e7tQEAAABbh7u1CAAAAFuHu7UKAAAA
+W4e7tQIAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{6DAD9091-77FD-4514-8CAA-B27E650F2F36}</s_GUID>
+<s_Lineage>arltag8AAABbh7u1CgAAAAAAAAAAAAAA
+</s_Lineage>
+</technologies>
+<technologies>
+<key>military4_uniform_armament</key>
+<building_level>sArmy5_staff_college</building_level>
+<position_index>2</position_index>
+<onscreen_name>Uniform Armament</onscreen_name>
+<short_description>Equipping warships with guns of only one size simplifies crew training and ammunition supply, so increasing ship efficiency.</short_description>
+<long_description>\n\nA warship’s effectiveness can be measured by the weight of shot it fires in its broadside, and it makes excellent sense to have the heaviest cannons possible on board. However, too many different sizes of gun can make ammunition supply in the heat of battle more complicated than it need be, and different guns have different loading speeds, ballistic characteristics and crewing needs. By settling on only one size of gun, all these issues are resolved. An added bonus is that crewmen can be reassigned as needed to man guns, without necessarily needing any new instruction in their duties.\n\nNaval architect Sir Robert Seppings (1767-1840) introduced a remodelled and sturdier design for ships that incorporated a diagonal iron cross-bracing that greatly improved hull strength. Hulls built to his conception were stiffer, more seaworthy and able to accommodate a large number of heavy cannon on every deck. In 1826, the British Royal Navy took advantage of his new ideas and armed new ships with only one type of cannons: a formidably heavy 32-pounder!</long_description>
+<icon_name>military4_uniform_armament</icon_name>
+<research_points_required>1400</research_points_required>
+<military_prestige>0</military_prestige>
+<naval_prestige>30</naval_prestige>
+<economic_prestige>0</economic_prestige>
+<enlightenment_prestige>0</enlightenment_prestige>
+<mp_available_early>0</mp_available_early>
+<mp_available_late>0</mp_available_late>
+<info_pic>arsenal-2.tga</info_pic>
+<ai_bias>0</ai_bias>
+<Gen_TempField_x002A_0>0</Gen_TempField_x002A_0>
+<Gen_TempField_x002A_1>0</Gen_TempField_x002A_1>
+<s_ColLineage>W4e7tQMAAABquW1qDQAAAGq5bWoNAAAAW4e7tQIAAABbh7u1CAAAAFuHu7UBAAAA
+W4e7tQcAAABbh7u1CAAAAFuHu7UBAAAAarltahIAAABbh7u1AgAAAGq5bWoQAAAA
+W4e7tQIAAABbh7u1AgAAAGq5bWoMAAAAW4e7tQEAAABquW1qDAAAAFuHu7UJAAAA
+W4e7tQIAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{84F41BC3-69D3-4B9A-B112-ED06CEB37813}</s_GUID>
+<s_Lineage>arltahIAAABbh7u1CwAAAAAAAAAAAAAA
+</s_Lineage>
+</technologies>
+<technologies>
+<key>military5_iron_plating</key>
+<building_level>sArmy5_staff_college</building_level>
+<position_index>7</position_index>
+<onscreen_name>Iron Plating</onscreen_name>
+<short_description>Iron plating provides a skin of armour for wooden warships, making them almost invulnerable to shots from smaller cannon.</short_description>
+<long_description>\n\nAs guns have grown in calibre and fire a variety of explosive shells, wooden warships have become increasingly vulnerable. Iron plates are the response, bolted to the thick timbers of a conventional wooden warship’s hull. The timbers are still part of the defences of the ship, helping to absorb the impact of any hits. The wrought iron plating is immensely thick and heavy, with a consequent effect on the handling qualities of any “iron-clad” vessel. Cast iron, being inherently brittle, is entirely useless as a protective device.\n\nHistorically, iron-plated ships were not “ironclads” in that they did not always have the entirely iron construction, armour plating, and steam propulsion that defined those vessels. Some wooden ships-of-the-line were skinned with iron plates, but it was not an entirely successful experiment. More successful were the floating batteries that carried iron plating as armour: these were shallow draft platforms that were intended to maximise firepower. All other considerations, such as sailing characteristics, were secondary. Used for bombardments or for defence in restricted waters, such batteries were formidable; at sea they were a menace to their crews.</long_description>
+<icon_name>military5_iron_plating</icon_name>
+<research_points_required>1400</research_points_required>
+<military_prestige>0</military_prestige>
+<naval_prestige>50</naval_prestige>
+<economic_prestige>0</economic_prestige>
+<enlightenment_prestige>0</enlightenment_prestige>
+<mp_available_early>1</mp_available_early>
+<mp_available_late>1</mp_available_late>
+<info_pic>arsenal-2.tga</info_pic>
+<ai_bias>0</ai_bias>
+<Gen_TempField_x002A_0>0</Gen_TempField_x002A_0>
+<Gen_TempField_x002A_1>0</Gen_TempField_x002A_1>
+<s_ColLineage>W4e7tQMAAABbh7u1AgAAAFuHu7UKAAAAW4e7tQIAAABbh7u1CAAAAFuHu7UBAAAA
+W4e7tQcAAABbh7u1CAAAAFuHu7UBAAAAarltahAAAABbh7u1AgAAAGq5bWoOAAAA
+W4e7tQIAAABbh7u1AgAAAFuHu7UMAAAAW4e7tQEAAABbh7u1CwAAAFuHu7UJAAAA
+W4e7tQIAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{26D9FFAB-C704-4069-A3F7-0DF9CA0F394D}</s_GUID>
+<s_Lineage>arltahAAAABbh7u1DAAAAAAAAAAAAAAA
+</s_Lineage>
+</technologies>
+<technologies>
+<key>military5_percussion_cap</key>
+<building_level>sArmy5_staff_college</building_level>
+<position_index>5</position_index>
+<onscreen_name>Percussion Cap</onscreen_name>
+<short_description>The percussion lock replaces the flintlock mechanism on firearms, and reduces the chance of misfiring in wet weather.</short_description>
+<long_description>\n\nA flintlock makes a spark in an open pan; this then igniting the gunpowder to fire a musket. A percussion lock uses tiny amounts of chemicals called fulminates to create the spark needed. Fulminates explode when hit; there is no flint to come loose and no powder to become soaked in the rain. Instead a small copper cap is fitted onto the end of a tube that leads into the gun barrel; when struck by the lock’s hammer, the gun fires, even in damp weather.\n\nThe percussion cap was the invention of a Scottish clergyman, Alexander John Forsyth (1769-1843), who was looking for a solution to a hunting problem. The flintlock’s “flash in the pan” before the main charge fired alerted birds that they were about to be shot, causing them to fly away in a deucedly unsporting fashion. His clever idea to use a small ignition charge of fulminate of mercury gave him an invisible spark that didn’t warn his feathered targets!</long_description>
+<icon_name>military5_percussion_cap</icon_name>
+<research_points_required>1400</research_points_required>
+<military_prestige>30</military_prestige>
+<naval_prestige>0</naval_prestige>
+<economic_prestige>0</economic_prestige>
+<enlightenment_prestige>0</enlightenment_prestige>
+<mp_available_early>0</mp_available_early>
+<mp_available_late>0</mp_available_late>
+<info_pic>arsenal-2.tga</info_pic>
+<ai_bias>0</ai_bias>
+<Gen_TempField_x002A_0>0</Gen_TempField_x002A_0>
+<Gen_TempField_x002A_1>0</Gen_TempField_x002A_1>
+<s_ColLineage>W4e7tQMAAABbh7u1AgAAAFuHu7UCAAAAW4e7tQIAAABbh7u1CAAAAFuHu7UBAAAA
+W4e7tQcAAABbh7u1CAAAAFuHu7UBAAAAarltahAAAABquW1qDgAAAFuHu7UCAAAA
+W4e7tQIAAABbh7u1AgAAAGq5bWoMAAAAW4e7tQEAAABquW1qDAAAAFuHu7UJAAAA
+W4e7tQIAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{131A2104-BBCE-4D11-8C34-681559E384DF}</s_GUID>
+<s_Lineage>arltahAAAABbh7u1CwAAAAAAAAAAAAAA
+</s_Lineage>
+</technologies>
+<technologies>
+<key>military5_rifled_cannons</key>
+<building_level>sArmy5_staff_college</building_level>
+<position_index>6</position_index>
+<onscreen_name>Rifled Cannons</onscreen_name>
+<short_description>Rifling a barrel increases the accuracy of a weapon, and this principle can be applied to large cannons as well as small arms. </short_description>
+<long_description>\n\nOrdinary naval cannons are smoothbore weapons, meaning that the barrel is a simple tube to contain the explosion. The limitations of casting mean that cannons are quite crude and windage, the gap between barrel and shot, is always a problem. A shot often “rattles” down the barrel when fired, making it inherently inaccurate. The loss of accuracy with a smoothbore makes its maximum range of academic interest only, simply because it becomes a matter of luck rather than judgement to hit anything far away!\n\nA rifled cannon solves these problems. By using machines to bore out the barrel from a blank casting, one inaccuracy is removed. Another machine cuts a helical pattern of grooves into the barrel wall. This imparts a spin to any shot as it travels down the barrel, and a spinning projectile flies true. This makes the effective range of a rifled cannon shot much greater than one from a smoothbore, although the maximum range for both is similar.\n\nHistorically, rifled cannons used manufacturing techniques developed for making accurate steam pistons and cylinders.</long_description>
+<icon_name>military5_rifled_cannon</icon_name>
+<research_points_required>1400</research_points_required>
+<military_prestige>30</military_prestige>
+<naval_prestige>0</naval_prestige>
+<economic_prestige>0</economic_prestige>
+<enlightenment_prestige>0</enlightenment_prestige>
+<mp_available_early>0</mp_available_early>
+<mp_available_late>0</mp_available_late>
+<info_pic>arsenal-2.tga</info_pic>
+<ai_bias>0</ai_bias>
+<Gen_TempField_x002A_0>0</Gen_TempField_x002A_0>
+<Gen_TempField_x002A_1>0</Gen_TempField_x002A_1>
+<s_ColLineage>W4e7tQIAAABbh7u1AgAAAFuHu7UDAAAAW4e7tQIAAABbh7u1BQAAAFuHu7UBAAAA
+W4e7tQcAAABbh7u1BAAAAFuHu7UBAAAAarltag8AAABquW1qDQAAAFuHu7UCAAAA
+W4e7tQIAAABbh7u1AgAAAGq5bWoLAAAAW4e7tQEAAABquW1qCwAAAFuHu7UKAAAA
+W4e7tQIAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{04B708F2-2F43-4FD4-B268-9E3BE5D6BBB8}</s_GUID>
+<s_Lineage>arltag8AAABbh7u1CgAAAAAAAAAAAAAA
+</s_Lineage>
+</technologies>
+<technologies>
+<key>military5_rockets</key>
+<building_level>sArmy5_staff_college</building_level>
+<position_index>4</position_index>
+<onscreen_name>Rockets</onscreen_name>
+<short_description>Rockets are terrifying, and a method of bombardment that does not require heavy guns for its use.</short_description>
+<long_description>\n\nA war rocket is an iron cylinder, packed with gunpowder, with a long wooden stick as a tail. It functions in much the same way as a firework, but with infinitely deadlier consequences. Launched from angled troughs or stands, rockets are not particular accurate. This does not matter when they are fired in large numbers, and their morale effect should not be underestimated. They may also have an incendiary effect on a target. Rockets are weapons for specialists, and so this technology allows the recruitment of rocket units.\n\nHistorically, rocketry had long been used in Indian and Asian warfare, as the British discovered during the Anglo-Mysore Wars. The British, ready as always to adopt foreign ideas when it suited, soon had their own version of rockets thanks to Colonel William Congreve (1722-1828). The Congreve Rocket was introduced to British artillery in 1805 and used to intimidate the enemy and spread fire and panic amongst them. A battery of Congreve Rockets was present at Waterloo in 1815, the final epic battle of the Napoleonic period.</long_description>
+<icon_name>military5_rockets</icon_name>
+<research_points_required>1400</research_points_required>
+<military_prestige>40</military_prestige>
+<naval_prestige>0</naval_prestige>
+<economic_prestige>0</economic_prestige>
+<enlightenment_prestige>0</enlightenment_prestige>
+<mp_available_early>1</mp_available_early>
+<mp_available_late>1</mp_available_late>
+<info_pic>arsenal-2.tga</info_pic>
+<ai_bias>0</ai_bias>
+<Gen_TempField_x002A_0>0</Gen_TempField_x002A_0>
+<Gen_TempField_x002A_1>0</Gen_TempField_x002A_1>
+<s_ColLineage>W4e7tQMAAABbh7u1AgAAAFuHu7UCAAAAW4e7tQIAAABbh7u1CAAAAFuHu7UBAAAA
+W4e7tQcAAABbh7u1CAAAAFuHu7UBAAAAarltag4AAABquW1qDAAAAFuHu7UCAAAA
+W4e7tQIAAABbh7u1AgAAAFuHu7UKAAAAW4e7tQEAAABbh7u1CgAAAFuHu7UJAAAA
+W4e7tQIAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{F07D833A-26D7-4679-8CE9-EEBD485CF27F}</s_GUID>
+<s_Lineage>arltag4AAABbh7u1CgAAAAAAAAAAAAAA
+</s_Lineage>
+</technologies>
+<technologies>
+<key>military1_partisan_muskets</key>
+<building_level>sArmy1_cantonment</building_level>
+<position_index>6</position_index>
+<onscreen_name>Partisan Muskets</onscreen_name>
+<short_description>Partisan troops fight with a fiery determination, but that is of little use without a reliable supply of weapons.</short_description>
+<long_description>\n\nAs more Spaniards arm themselves and dedicate themselves to the cause, you will receive an additional guerrilla unit for every region you liberate from French rule. Guerrillas cannot rely only on their own hunting rifles or plundered enemy weapons. If they are to be a truly valuable force, they will need military-pattern muskets as well for closer engagements. A good supply system will keep them equipped with reliable firearms so they can fight.\n\nHistorically, Britain supplied guerrilla bands with relatively few weapons when compared to their supply of the regular Spanish Army. Though the British held some reservations about the Spanish Army and its officers, the guerrilla bands were a new phenomenon and regarded with some suspicion as little better than bandits by socially conservative British commanders. Supplies of clothes and ammunition were sent to the northern Spanish coast, and other weapons were taken from fallen enemies. Despite fighting as allies, both Spain and Britain were wary of each other because of their long mutual history of conflict.</long_description>
+<icon_name>partisan_muskets</icon_name>
+<research_points_required>70</research_points_required>
+<military_prestige>10</military_prestige>
+<naval_prestige>10</naval_prestige>
+<economic_prestige>0</economic_prestige>
+<enlightenment_prestige>0</enlightenment_prestige>
+<mp_available_early>1</mp_available_early>
+<mp_available_late>1</mp_available_late>
+<info_pic>arsenal-2.tga</info_pic>
+<ai_bias>0</ai_bias>
+<Gen_TempField_x002A_0>0</Gen_TempField_x002A_0>
+<Gen_TempField_x002A_1>0</Gen_TempField_x002A_1>
+<s_ColLineage>arltagIAAABquW1qAgAAAGq5bWoPAAAAarltagUAAABquW1qCwAAAGq5bWoBAAAA
+arltagoAAABquW1qCwAAAGq5bWoBAAAAarltag4AAABquW1qCAAAAGq5bWoCAAAA
+arltagIAAABquW1qAgAAAGq5bWoCAAAAarltagEAAABquW1qAgAAAGq5bWoCAAAA
+arltagIAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{5306BD06-66D5-4215-B586-9D1932B69DDA}</s_GUID>
+<s_Lineage>arltag8AAAAAAAAAAAAAAA==
+</s_Lineage>
+</technologies>
+<technologies>
+<key>military2_auxiliary_replenishment</key>
+<building_level>sArmy2_barracks</building_level>
+<position_index>1</position_index>
+<onscreen_name>Local Recruitment Initiatives</onscreen_name>
+<short_description>The swift replacement of casualties is a vital part of keeping units in the field. Local recruits need to be inducted quickly so that they can be sent to auxiliary forces.</short_description>
+<long_description>\n\nLocal Recruitment Initiatives allow auxiliary units to be brought back to strength with some rapidity. All armies require additional men to replace those who have died, injured or simply deserted. Younger troops may be less experienced than hardened veterans, but they make up for that with naïve enthusiasm for the cause. Battle is also a fine school in itself: those who can learn to soldier do so very rapidly when cannonballs are flying!\n\nThough the Portuguese army was a separate entity during the Peninsular War, it was largely commanded by British officers, used British tactics and equipment and was almost entirely reliant on British money. The Portuguese were, effectively, auxiliaries to the British, although they could be relied on to fight bravely and with no little skill. The British high command certainly regarded the Portuguese as being significantly more useful than the loyalist Spanish Army. While the Spanish rank and file were good soldiers, they were poorly officered and supplied even though the British poured in money and arms. The Spanish guerrilla bands, on the other hand, were seen as a vital part of the war effort.</long_description>
+<icon_name>auxiliary_replenish</icon_name>
+<research_points_required>120</research_points_required>
+<military_prestige>20</military_prestige>
+<naval_prestige>0</naval_prestige>
+<economic_prestige>0</economic_prestige>
+<enlightenment_prestige>0</enlightenment_prestige>
+<mp_available_early>1</mp_available_early>
+<mp_available_late>1</mp_available_late>
+<info_pic>arsenal-2.tga</info_pic>
+<ai_bias>0</ai_bias>
+<Gen_TempField_x002A_0>0</Gen_TempField_x002A_0>
+<Gen_TempField_x002A_1>0</Gen_TempField_x002A_1>
+<s_ColLineage>arltagIAAABquW1qAgAAAGq5bWoDAAAAarltag0AAABquW1qDQAAAGq5bWoBAAAA
+arltagsAAABquW1qDAAAAGq5bWoBAAAAarltag8AAABquW1qCQAAAGq5bWoCAAAA
+arltagIAAABquW1qAgAAAGq5bWoCAAAAarltagEAAABquW1qAgAAAGq5bWoCAAAA
+arltagIAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{E0D91289-315D-49F4-B40B-A993A678122A}</s_GUID>
+<s_Lineage>arltag8AAAAAAAAAAAAAAA==
+</s_Lineage>
+</technologies>
+<technologies>
+<key>military2_guerrilla_training_network</key>
+<building_level>sArmy2_barracks</building_level>
+<position_index>3</position_index>
+<onscreen_name>Guerrilla Training Network</onscreen_name>
+<short_description>A training network can organise and educate a local population, turning an angry mob into a dangerous guerrilla band.</short_description>
+<long_description>\n\nResearching a guerrilla training network means guerrillas can be trained in more effective tactics such as ambushes, traps and the use of subterfuge. It will also help them to think and fight more like a military unit, giving guerrillas more experience in battle. A training network is made possible by the support of the Spanish population: as well as being sympathetic to the cause, they will clothe, feed and hide guerrillas and advisors, or perhaps even join the fight against the French!\n\nThe French invasion of Spain crippled the Spanish government, making it hard for them to organise and fight back. In the vacuum created by no central state, small juntas took local control. These juntas immediately set about rallying guerrilla groups to harass the French. The guerrillas’ popularity made them difficult to hunt down, even after they started a brutal retaliation against suspected guerrilla sympathisers. This lack of success was a blow to French morale, who had not only to contend with a conventional war but also the vicious hostility of the local people.</long_description>
+<icon_name>guerilla_network</icon_name>
+<research_points_required>120</research_points_required>
+<military_prestige>20</military_prestige>
+<naval_prestige>0</naval_prestige>
+<economic_prestige>0</economic_prestige>
+<enlightenment_prestige>0</enlightenment_prestige>
+<mp_available_early>1</mp_available_early>
+<mp_available_late>1</mp_available_late>
+<info_pic>arsenal-2.tga</info_pic>
+<ai_bias>0</ai_bias>
+<Gen_TempField_x002A_0>0</Gen_TempField_x002A_0>
+<Gen_TempField_x002A_1>0</Gen_TempField_x002A_1>
+<s_ColLineage>arltagIAAABquW1qAgAAAGq5bWoCAAAAarltagIAAABquW1qCQAAAGq5bWoBAAAA
+arltagcAAABquW1qCAAAAGq5bWoBAAAAarltagsAAABquW1qBQAAAGq5bWoCAAAA
+arltagIAAABquW1qAgAAAGq5bWoCAAAAarltagEAAABquW1qAgAAAGq5bWoCAAAA
+arltagIAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{254BE0F5-91F0-46F0-A58E-654FCA49FCCD}</s_GUID>
+<s_Lineage>arltagsAAAAAAAAAAAAAAA==
+</s_Lineage>
+</technologies>
+<technologies>
+<key>military3_auxiliary_discount</key>
+<building_level>sArmy3_drill_school</building_level>
+<position_index>1</position_index>
+<onscreen_name>Call to Arms</onscreen_name>
+<short_description>Encouraging enlistment as a patriotic duty reduces recruitment costs for auxiliary regiments.</short_description>
+<long_description>\n\nEmphasising the prestige and honour gained through military service will make enlistment appear desirable. Men can be recruited from the local people of the battle area, and trained to fight as auxiliary regiments. If the appeal to join the colours is pitched correctly, many will join up to protect their homes and country. Funding, training officers and weapons will still have to be found, of course, but this is cheaper and easier than transporting troops from home.\n\nDuring the Peninsular War, British forces fought alongside Portuguese regiments, holding them in high regard. Portugal did have a longstanding alliance with Britain, and flourishing trade links. Napoleon’s invasion sparked mass revolts by loyal Portuguese people. Britain was able to capitalise on Portuguese hatred of the French by supplying arms, equipment and officers. The Portuguese provided the men, and created British-style line regiments, complete with Portuguese bravado and a desire to “have at the French.&quot;</long_description>
+<icon_name>auxiliary_cheaper</icon_name>
+<research_points_required>200</research_points_required>
+<military_prestige>30</military_prestige>
+<naval_prestige>0</naval_prestige>
+<economic_prestige>0</economic_prestige>
+<enlightenment_prestige>0</enlightenment_prestige>
+<mp_available_early>1</mp_available_early>
+<mp_available_late>1</mp_available_late>
+<info_pic>arsenal-2.tga</info_pic>
+<ai_bias>0</ai_bias>
+<Gen_TempField_x002A_0>0</Gen_TempField_x002A_0>
+<Gen_TempField_x002A_1>0</Gen_TempField_x002A_1>
+<s_ColLineage>arltagIAAABquW1qAgAAAGq5bWoEAAAAarltagsAAABquW1qCgAAAGq5bWoBAAAA
+arltagkAAABquW1qCgAAAGq5bWoBAAAAarltag0AAABquW1qBwAAAGq5bWoCAAAA
+arltagIAAABquW1qAgAAAGq5bWoCAAAAarltagEAAABquW1qAgAAAGq5bWoCAAAA
+arltagIAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{CC774F5A-9AD9-4949-B051-D3C77A387402}</s_GUID>
+<s_Lineage>arltag0AAAAAAAAAAAAAAA==
+</s_Lineage>
+</technologies>
+<technologies>
+<key>military3_counter_guerrilla_initiatives</key>
+<building_level>sArmy3_drill_school</building_level>
+<position_index>2</position_index>
+<onscreen_name>Counter-guerrilla Initiatives</onscreen_name>
+<short_description>The idea of “setting a thief to catch a thief” allows the French to recruit bandit gangs of Spanish Contras.</short_description>
+<long_description>\n\nThe Spanish countryside is a dangerous place to be French. Guerrilla bands are everywhere, looking to take more ears as trophies. It is only sensible then, for the French army to seek assistance anywhere it can be found, including from among those Spaniards willing to co-operate. These men tend to be criminals, or have nothing left to lose, as little else could drive a man to fight his guerrilla brethren.\n\nAs the war in Spain dragged to a close, and the French began their withdrawal, some of the guerrillas that had helped to liberate their country turned against their own people. The idea of meekly working in the fields was not attractive to men who had made a steady living by looting convoys and dead Frenchmen. Some became little better than highwaymen, and helped Spain be seen as a lawless place. In an attempt to re-establish the rule of law, the Spanish government had to send troops against the guerrillas. It took decades for the problem to be ended; Spain’s national police, the Guardia Civil, were originally raised to deal with the guerrilla issue.</long_description>
+<icon_name>counter_guerillas</icon_name>
+<research_points_required>200</research_points_required>
+<military_prestige>30</military_prestige>
+<naval_prestige>0</naval_prestige>
+<economic_prestige>0</economic_prestige>
+<enlightenment_prestige>0</enlightenment_prestige>
+<mp_available_early>1</mp_available_early>
+<mp_available_late>1</mp_available_late>
+<info_pic>arsenal-2.tga</info_pic>
+<ai_bias>0</ai_bias>
+<Gen_TempField_x002A_0>0</Gen_TempField_x002A_0>
+<Gen_TempField_x002A_1>0</Gen_TempField_x002A_1>
+<s_ColLineage>arltagIAAABquW1qAgAAAGq5bWoCAAAAarltagIAAABquW1qCQAAAGq5bWoBAAAA
+arltagcAAABquW1qCAAAAGq5bWoBAAAAarltagsAAABquW1qBQAAAGq5bWoCAAAA
+arltagIAAABquW1qAgAAAGq5bWoCAAAAarltagEAAABquW1qAgAAAGq5bWoCAAAA
+arltagIAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{DBD6B2A3-6534-4529-AA47-9724D91346FA}</s_GUID>
+<s_Lineage>arltagsAAAAAAAAAAAAAAA==
+</s_Lineage>
+</technologies>
+<technologies>
+<key>military3_advanced_guerrilla_training</key>
+<building_level>sArmy3_drill_school</building_level>
+<position_index>3</position_index>
+<onscreen_name>Advanced Guerrilla Training</onscreen_name>
+<short_description>An advanced training network can school the local people in guerrilla tactics, giving them the organisation to become much more than an angry mob.</short_description>
+<long_description>\n\nThis advanced training gives guerrilla units significant skills, making them well-prepared for battle. Guerrillas are natural fighters, but a little extra practice will get rid of some of their rough edges and make them much more effective in formal battle. A little gold and a few advisory officers and sergeants can, with the support of the Spanish people, create a relatively large force of fighters.\n\nHistorically, guerrillas had a romantic image of being hunters and brigands who spent long years honing their skills in the mountains of Spain. Usually, however, they were simply people who had decided to take up arms for revenge, to protect their families and neighbours, and out of a sense of patriotism. It was not unusual for guerrilla leaders, despite their savage reputations, to have come from an educated background: medical men and priests were to be found leading “brigands” from the front!</long_description>
+<icon_name>guerilla_network_advanced</icon_name>
+<research_points_required>200</research_points_required>
+<military_prestige>30</military_prestige>
+<naval_prestige>0</naval_prestige>
+<economic_prestige>0</economic_prestige>
+<enlightenment_prestige>0</enlightenment_prestige>
+<mp_available_early>1</mp_available_early>
+<mp_available_late>1</mp_available_late>
+<info_pic>arsenal-2.tga</info_pic>
+<ai_bias>0</ai_bias>
+<Gen_TempField_x002A_0>0</Gen_TempField_x002A_0>
+<Gen_TempField_x002A_1>0</Gen_TempField_x002A_1>
+<s_ColLineage>arltagIAAABquW1qAgAAAGq5bWoHAAAAarltagIAAABquW1qCgAAAGq5bWoBAAAA
+arltaggAAABquW1qCQAAAGq5bWoBAAAAarltagwAAABquW1qBQAAAGq5bWoCAAAA
+arltagIAAABquW1qAgAAAGq5bWoCAAAAarltagEAAABquW1qAgAAAGq5bWoCAAAA
+arltagIAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{FFB21D52-DB48-4071-ADDC-B1481BF725EA}</s_GUID>
+<s_Lineage>arltagwAAAAAAAAAAAAAAA==
+</s_Lineage>
+</technologies>
+<technologies>
+<key>military4_auxiliary_training</key>
+<building_level>sArmy4_military_academy</building_level>
+<position_index>1</position_index>
+<onscreen_name>British Training Methods</onscreen_name>
+<short_description>Training is more than simply drill: it gives men a common cause that raises morale and makes them less likely to rout in battle.</short_description>
+<long_description>\n\nA regiment may only be united in a completely just hatred of a training sergeant, but that can be enough! Auxiliary units may be full of experienced soldiers but they need to learn how to fight together, and to learn enough so that they can co-ordinate their tactical actions with allied forces. In battle, trust in your comrades to hold the line is a powerful thing.\n\nThe Spanish army did not have a great reputation as a fighting force, as it lacked discipline, tactical savvy, and even a sense of urgency. Its officers must carry a great deal of the blame, as many were nobles and gentlemen with little taste for hard, or indeed any, work. They were products of their social background, but to counter these unfortunate habits, the Cortes established academies and took officers from all classes. While this was a worthy effort, it was a little late. The country had been ravaged by war, the Cortes had little authority and less money and large scale reform was almost impossible.</long_description>
+<icon_name>auxiliary_trained</icon_name>
+<research_points_required>300</research_points_required>
+<military_prestige>40</military_prestige>
+<naval_prestige>0</naval_prestige>
+<economic_prestige>0</economic_prestige>
+<enlightenment_prestige>0</enlightenment_prestige>
+<mp_available_early>1</mp_available_early>
+<mp_available_late>1</mp_available_late>
+<info_pic>arsenal-2.tga</info_pic>
+<ai_bias>0</ai_bias>
+<Gen_TempField_x002A_0>0</Gen_TempField_x002A_0>
+<Gen_TempField_x002A_1>0</Gen_TempField_x002A_1>
+<s_ColLineage>arltagIAAABquW1qAgAAAGq5bWoFAAAAarltagoAAABquW1qCQAAAGq5bWoBAAAA
+arltaggAAABquW1qCQAAAGq5bWoBAAAAarltag0AAABquW1qBgAAAGq5bWoCAAAA
+arltagIAAABquW1qAgAAAGq5bWoCAAAAarltagEAAABquW1qAgAAAGq5bWoCAAAA
+arltagIAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{30B6D0AD-9584-470F-ACCB-78AFC1D47F76}</s_GUID>
+<s_Lineage>arltag0AAAAAAAAAAAAAAA==
+</s_Lineage>
+</technologies>
+<technologies>
+<key>military4_local_guides</key>
+<building_level>sArmy4_military_academy</building_level>
+<position_index>3</position_index>
+<onscreen_name>Local Guides</onscreen_name>
+<short_description>Using local knowledge, and keeping records of locally provided intelligence, makes army movement much more efficient.</short_description>
+<long_description>\n\nGetting help from local people is always a good idea for an army, even if this is obtained at the point of a sword. Without reliable official maps, it is the local man who knows the mountain passes, where to find water, or where the river can be forded. Collating this information from local guides improves the movement rates of armies and agents, and the swift passage of an army can be the difference between victory and defeat.\n\nHistorically, British operations in Spain were greatly assisted by the guerrilla’s ability to go anywhere. Their knowledge of the countryside meant that they were able to ambush unsuspecting Frenchmen and provide vital intelligence about the lay of the land. The Duke of Wellington complained that Spanish maps of their own lands were often completely inaccurate, and his “exploring officers” used local knowledge to produce more accurate maps. The French were not so lucky, as their repressive measures alienated people who could have helped with mapping.</long_description>
+<icon_name>local_guides</icon_name>
+<research_points_required>300</research_points_required>
+<military_prestige>40</military_prestige>
+<naval_prestige>0</naval_prestige>
+<economic_prestige>0</economic_prestige>
+<enlightenment_prestige>0</enlightenment_prestige>
+<mp_available_early>1</mp_available_early>
+<mp_available_late>1</mp_available_late>
+<info_pic>arsenal-2.tga</info_pic>
+<ai_bias>0</ai_bias>
+<Gen_TempField_x002A_0>0</Gen_TempField_x002A_0>
+<Gen_TempField_x002A_1>0</Gen_TempField_x002A_1>
+<s_ColLineage>arltagIAAABquW1qAgAAAGq5bWoIAAAAarltagYAAABquW1qCQAAAGq5bWoBAAAA
+arltagcAAABquW1qCQAAAGq5bWoBAAAAarltagwAAABquW1qBAAAAGq5bWoCAAAA
+arltagIAAABquW1qAgAAAGq5bWoCAAAAarltagEAAABquW1qAgAAAGq5bWoCAAAA
+arltagIAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{5C65E0C2-12D2-4C97-AB3D-6142B8FC6320}</s_GUID>
+<s_Lineage>arltagwAAAAAAAAAAAAAAA==
+</s_Lineage>
+</technologies>
+<technologies>
+<key>military5_great_paris_cipher</key>
+<building_level>sArmy5_staff_college</building_level>
+<position_index>1</position_index>
+<onscreen_name>The Great Paris Cipher</onscreen_name>
+<short_description>Secret communications give a leader the element of surprise and improves his command.</short_description>
+<long_description>\n\nCloaking plans in mystery is always important in any war, let alone one where ambush and guerrilla warfare are everyday events. Messengers may be intercepted but the use of the Great Paris Cipher means this is of little consequence. Through the clever use of a series of numbers used to represent letters it is now possible to send important messages without fear of them falling into enemy hands.\n\nThe Rossignols, a French family who had served as cryptographers for generations, created the Great Paris Cipher. One of their earlier code systems, simply known as ‘the Great Cipher’, was created for Louis XIV and used in a letter that is believed to hint at the identity of “the Man in the Iron Mask”, a prisoner who largely remains a mystery even today. The letter, discovered in 1890 by military historian Louis Gendron, was decrypted by Etienne Bazeries and seemed to suggest that the Man in the Iron Mask was in fact a general who had displeased Louis XIV.</long_description>
+<icon_name>grand_paris_ciphre</icon_name>
+<research_points_required>450</research_points_required>
+<military_prestige>50</military_prestige>
+<naval_prestige>50</naval_prestige>
+<economic_prestige>0</economic_prestige>
+<enlightenment_prestige>0</enlightenment_prestige>
+<mp_available_early>1</mp_available_early>
+<mp_available_late>1</mp_available_late>
+<info_pic>arsenal-2.tga</info_pic>
+<ai_bias>0</ai_bias>
+<Gen_TempField_x002A_0>0</Gen_TempField_x002A_0>
+<Gen_TempField_x002A_1>0</Gen_TempField_x002A_1>
+<s_ColLineage>arltagIAAABquW1qAgAAAGq5bWoEAAAAarltagIAAABquW1qBwAAAGq5bWoBAAAA
+arltagYAAABquW1qBwAAAGq5bWoBAAAAarltagoAAABquW1qAwAAAGq5bWoCAAAA
+arltagIAAABquW1qAgAAAGq5bWoCAAAAarltagEAAABquW1qAgAAAGq5bWoCAAAA
+arltagIAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{3C0E1E85-63E0-4105-8477-44EBBA1FEA8B}</s_GUID>
+<s_Lineage>arltagoAAAAAAAAAAAAAAA==
+</s_Lineage>
+</technologies>
+<technologies>
+<key>admin2_colonial_funding</key>
+<building_level>sAdmin1_tax_office</building_level>
+<position_index>0</position_index>
+<onscreen_name>Colonial Funding</onscreen_name>
+<short_description>Tempting though it may be to exploit colonies mercilessly, income is often improved by sensible and controlled investment.</short_description>
+<long_description>\n\nColonial funding increases the income from trade nodes. Colonial possessions and the trade they generate are vital to great empires. The nation that controls the flow of trade wealth from all corners of the world controls the flow of cash to its rivals. Trade pays for wars: an under-funded war effort will fail. By investing in the good governance and physical assets of overseas colonies, the trade generated by those colonies is increased many fold. It is simply good business sense to make sure that there are docks as well as law and order throughout an empire.\n\nBritish involvement in the Peninsular War has its origins in trade. Following Nelson’s victory at Trafalgar in 1805, Napoleon sought to cripple Britain by prohibiting British trade with Europe. His “Continental System” apparently stopped all British trade with the European mainland. The Portuguese, however, saw no reason to obey French rules and carried on trading with the British. Napoleon demanded that Portugal suspend trade; the Portuguese cheerfully ignored his ultimatum, and Napoleon’s armies invaded in 1807. Britain now had a land ally worth supporting with troops: the British army arrived in the Peninsular in 1808 by sea, and marched into France, in company with Portuguese troops, after five years of hard fighting.</long_description>
+<icon_name>colonial_funding</icon_name>
+<research_points_required>70</research_points_required>
+<military_prestige>0</military_prestige>
+<naval_prestige>0</naval_prestige>
+<economic_prestige>50</economic_prestige>
+<enlightenment_prestige>0</enlightenment_prestige>
+<mp_available_early>0</mp_available_early>
+<mp_available_late>0</mp_available_late>
+<info_pic>innovation.tga</info_pic>
+<ai_bias>1</ai_bias>
+<Gen_TempField_x002A_0>0</Gen_TempField_x002A_0>
+<Gen_TempField_x002A_1>0</Gen_TempField_x002A_1>
+<s_ColLineage>arltagkAAABquW1qDwAAAGq5bWoPAAAAarltagcAAABquW1qDAAAAGq5bWoBAAAA
+arltaggAAABquW1qCwAAAGq5bWoBAAAAarltahAAAABquW1qAgAAAGq5bWoCAAAA
+arltagIAAABquW1qAgAAAGq5bWoFAAAAarltagEAAABquW1qBgAAAGq5bWoCAAAA
+arltagIAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{86C0BD91-E201-4A31-9B04-3DE0537305DE}</s_GUID>
+<s_Lineage>arltahAAAAAAAAAAAAAAAA==
+</s_Lineage>
+</technologies>
+<technologies>
+<key>admin2_anti_french_sentiment</key>
+<building_level>sAdmin2_magistrate</building_level>
+<position_index>0</position_index>
+<onscreen_name>Anti-French Sentiment</onscreen_name>
+<short_description>Widespread anti-French feelings increase the persuasive abilities of provocateurs and priests.</short_description>
+<long_description>\n\nSpreading rumours about the French can turn a previously timid population into a murderous mob. If people live with fear and hatred they will be more likely to welcome a hero or rebel. Fostering anti-French sentiment and making sure it is used in war will increase the persuasive abilities of provocateurs and priests when they attempt to convert a region to an anti-French alignment.\n\nAs the less-able brother of Napoleon Bonaparte, Joseph was little more than a puppet on a throne, any throne. When Napoleon ordered him out of his comfortable palaces in Naples to the dangerous land of Spain he had little choice in the matter. The Spanish did not take kindly to having a French provincial thrust upon them and rumours soon began regarding Joseph’s character, or lack of it. He was credited with a reputation for drunkenness and debauchery that spawned a variety of insulting nicknames amongst the Spanish people including “Rey de Copas” or the King of Cups, and “Pepino” or cucumber. This last one was almost certainly to cast aspersions on his manhood. All rumour and innuendo served to weaken his authority and standing.</long_description>
+<icon_name>propaganda</icon_name>
+<research_points_required>120</research_points_required>
+<military_prestige>0</military_prestige>
+<naval_prestige>0</naval_prestige>
+<economic_prestige>10</economic_prestige>
+<enlightenment_prestige>0</enlightenment_prestige>
+<mp_available_early>0</mp_available_early>
+<mp_available_late>0</mp_available_late>
+<info_pic>innovation.tga</info_pic>
+<ai_bias>1</ai_bias>
+<Gen_TempField_x002A_0>0</Gen_TempField_x002A_0>
+<Gen_TempField_x002A_1>0</Gen_TempField_x002A_1>
+<s_ColLineage>arltagIAAABquW1qAgAAAGq5bWoQAAAAarltagsAAABquW1qDQAAAGq5bWoBAAAA
+arltagwAAABquW1qDQAAAGq5bWoBAAAAarltag8AAABquW1qAgAAAGq5bWoCAAAA
+arltagIAAABquW1qAgAAAGq5bWoIAAAAarltagEAAABquW1qCQAAAGq5bWoCAAAA
+arltagIAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{38868D5B-C648-4479-AABE-C1A51710E907}</s_GUID>
+<s_Lineage>arltahAAAAAAAAAAAAAAAA==
+</s_Lineage>
+</technologies>
+<technologies>
+<key>admin2_afrancesado_propaganda</key>
+<building_level>sAdmin2_magistrate</building_level>
+<position_index>7</position_index>
+<onscreen_name>Afrancesado Propaganda</onscreen_name>
+<short_description>A landowner’s word has weight among his people, and this can help convert a region to a pro-French alignment.</short_description>
+<long_description>\n\nAt best, most Spaniards dislike the French. There are some, the Afrancesados, who see merit in the Revolution and in Bonapartism. Many are members of the gentry who followed French customs during the time of Carlos III. They now hope to lead Spain into a new age of Enlightenment. With the help of these Spanish sympathisers, the French have a much easier time persuading the population that French rule is worthwhile. Controlling a region can become significantly easier.\n\n“Afrancesado” is a Spanish term for those people who followed French fashions and customs. It quickly changed into a term, of disapproval usually, for those members of the Spanish gentry who swore allegiance to the new, French-imposed, King Joseph. The Afrancesados tried to argue their case, and even had a hand in the creation of the Spanish Constitution of 1812, but to little effect. Once it became clear that Napoleon’s armies had lost control in Spain the Afrancesados were forced to flee, protected by Jean-Baptiste Jourdan’s army.</long_description>
+<icon_name>propaganda</icon_name>
+<research_points_required>120</research_points_required>
+<military_prestige>0</military_prestige>
+<naval_prestige>0</naval_prestige>
+<economic_prestige>10</economic_prestige>
+<enlightenment_prestige>0</enlightenment_prestige>
+<mp_available_early>0</mp_available_early>
+<mp_available_late>0</mp_available_late>
+<info_pic>innovation.tga</info_pic>
+<ai_bias>1</ai_bias>
+<Gen_TempField_x002A_0>0</Gen_TempField_x002A_0>
+<Gen_TempField_x002A_1>0</Gen_TempField_x002A_1>
+<s_ColLineage>arltagIAAABquW1qAgAAAGq5bWoKAAAAarltaggAAABquW1qCwAAAGq5bWoBAAAA
+arltagkAAABquW1qCwAAAGq5bWoBAAAAarltag0AAABquW1qAgAAAGq5bWoCAAAA
+arltagIAAABquW1qAgAAAGq5bWoGAAAAarltagEAAABquW1qBwAAAGq5bWoCAAAA
+arltagIAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{967B06FC-3A55-4E86-B672-79B1152E8F77}</s_GUID>
+<s_Lineage>arltag0AAAAAAAAAAAAAAA==
+</s_Lineage>
+</technologies>
+<technologies>
+<key>admin3_anti_french_propaganda</key>
+<building_level>sAdmin3_court_justice</building_level>
+<position_index>0</position_index>
+<onscreen_name>Anti-French Propaganda</onscreen_name>
+<short_description>Creating anti-French propaganda will increase the replenishment rate of all irregular troops.</short_description>
+<long_description>\n\nMocking and vilifying an enemy is a vital part of warfare. People have to be convinced that their enemies are monsters, given to all manner of terrible crimes and yet their leaders are foolish straw men to be laughed at. To repeat this message definitely helps stoke the patriotic fires. Anything that can attract recruits is a sound investment in wartime, and this anti-French campaign of merciless mockery, misinformation and exaggeration helps improve the replenishment rate of irregular troops.\n\nHistorically, most Britons accepted the image of Napoleon as a ‘Corsican Ogre’ without question. Nursery rhymes warned naughty children that Napoleon, “Limb from limb, will tear you, Just as pussy tears a mouse.” This kind of imagery was hardly needed in Spain, where the brutal anti-guerrilla tactics of the French army provided bloody grist to the mill of popular opinion. The Spaniards hardly needed to do more than repeat the juicier war stories of French cruelty, whilst carefully excusing their own patriotic banditry against the French. As the little war spiralled out of control, propaganda that cast the French in the worst possible light helped to bolster Spanish hatred and eagerness to be part of the struggle.</long_description>
+<icon_name>anti_france</icon_name>
+<research_points_required>200</research_points_required>
+<military_prestige>0</military_prestige>
+<naval_prestige>0</naval_prestige>
+<economic_prestige>10</economic_prestige>
+<enlightenment_prestige>20</enlightenment_prestige>
+<mp_available_early>0</mp_available_early>
+<mp_available_late>0</mp_available_late>
+<info_pic>innovation.tga</info_pic>
+<ai_bias>1</ai_bias>
+<Gen_TempField_x002A_0>0</Gen_TempField_x002A_0>
+<Gen_TempField_x002A_1>0</Gen_TempField_x002A_1>
+<s_ColLineage>arltagIAAABquW1qAgAAAGq5bWoNAAAAarltaggAAABquW1qCgAAAGq5bWoBAAAA
+arltagkAAABquW1qCgAAAGq5bWoBAAAAarltagwAAABquW1qAgAAAGq5bWoCAAAA
+arltagIAAABquW1qAgAAAGq5bWoGAAAAarltagEAAABquW1qBwAAAGq5bWoCAAAA
+arltagIAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{14DF1B86-1B00-4CE8-804A-CE6360216F13}</s_GUID>
+<s_Lineage>arltag0AAAAAAAAAAAAAAA==
+</s_Lineage>
+</technologies>
+<technologies>
+<key>admin3_bonapartist_propaganda</key>
+<building_level>sAdmin3_court_justice</building_level>
+<position_index>7</position_index>
+<onscreen_name>Bonapartist Propaganda</onscreen_name>
+<short_description>Gaining the approval and support of the public can be greatly improved by the careful manipulation and control of the press and public opinion.</short_description>
+<long_description>\n\nMastering the art of presenting the truth can be crucial to securing political power. This management of the public discourse will increase the percentage of replenishment for all French units. There is no guarantee a war will be popular and it is important to have the support of a people if victory is to be attained. Armies require a constant supply of fresh troops and will quickly dwindle without willing patriots. Control of what is reported and its presentation gives a canny leader the chance to make failure sound like heroic bravery!\n\nPart of Napoleon’s genius was in recognising the utility of the popular press and how to control it to suit his own purposes. Early dispatches and military newspapers from his Egyptian campaign not only kept the French army’s morale high, but also served to raise Napoleon’s public image. He was, as a result, greeted as a hero on his return home. He eventually owned several newspapers, publishing his own articles under pseudonyms and censoring anything that could be damaging. All this served his political ambitions and he became Emperor of France with the full support of the French population.</long_description>
+<icon_name>pro_france</icon_name>
+<research_points_required>200</research_points_required>
+<military_prestige>0</military_prestige>
+<naval_prestige>0</naval_prestige>
+<economic_prestige>10</economic_prestige>
+<enlightenment_prestige>20</enlightenment_prestige>
+<mp_available_early>0</mp_available_early>
+<mp_available_late>0</mp_available_late>
+<info_pic>innovation.tga</info_pic>
+<ai_bias>1</ai_bias>
+<Gen_TempField_x002A_0>0</Gen_TempField_x002A_0>
+<Gen_TempField_x002A_1>0</Gen_TempField_x002A_1>
+<s_ColLineage>arltagIAAABquW1qAgAAAGq5bWoJAAAAarltagcAAABquW1qCgAAAGq5bWoBAAAA
+arltaggAAABquW1qCgAAAGq5bWoBAAAAarltagwAAABquW1qAgAAAGq5bWoCAAAA
+arltagIAAABquW1qAgAAAGq5bWoFAAAAarltagEAAABquW1qBgAAAGq5bWoCAAAA
+arltagIAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{90079304-DC61-4885-9545-02919EFBB7D1}</s_GUID>
+<s_Lineage>arltagwAAAAAAAAAAAAAAA==
+</s_Lineage>
+</technologies>
+<technologies>
+<key>admin4_national_fervour</key>
+<building_level>sAdmin4_court_appeals</building_level>
+<position_index>0</position_index>
+<onscreen_name>National Fervour</onscreen_name>
+<short_description>A people under threat will put aside their petty differences and turn upon the invader to safeguard their nation’s pride and independence.</short_description>
+<long_description>\n\nA country is not land. It is the people. A love of country can inspire great acts of heroism in individuals, and fierce defiance in everyone. It can make people fight against overwhelming odds and it can topple even the greatest enemy. The more a man believes in his cause, the better he will make war to protect his home and family. Reminders of a country’s traditions, heritage and glorious achievements will all increase patriotic fervour when the people need it most.\n\nSpanish popular pride was a huge factor in Napoleon’s defeat in the Peninsular War. When his armies occupied Spain in 1808, the French underestimated how fiercely the Spaniards would fight to regain their country. They also completely misunderstood the means that would be used: brigandage would become a tool of national liberation, not simple robbery. The central Spanish government collapsed, but in its place juntas and cortes appeared to rally the people and raise bands of guerrillas. Despite being as savage and brutal as the French occupiers, the guerrillas were regarded as folk heroes by the Spanish people.</long_description>
+<icon_name>national_fervor</icon_name>
+<research_points_required>300</research_points_required>
+<military_prestige>0</military_prestige>
+<naval_prestige>0</naval_prestige>
+<economic_prestige>0</economic_prestige>
+<enlightenment_prestige>50</enlightenment_prestige>
+<mp_available_early>0</mp_available_early>
+<mp_available_late>0</mp_available_late>
+<info_pic>innovation.tga</info_pic>
+<ai_bias>1</ai_bias>
+<Gen_TempField_x002A_0>0</Gen_TempField_x002A_0>
+<Gen_TempField_x002A_1>0</Gen_TempField_x002A_1>
+<s_ColLineage>arltagIAAABquW1qAgAAAGq5bWoOAAAAarltaggAAABquW1qCgAAAGq5bWoBAAAA
+arltagkAAABquW1qCgAAAGq5bWoBAAAAarltag0AAABquW1qAgAAAGq5bWoCAAAA
+arltagIAAABquW1qAgAAAGq5bWoGAAAAarltagEAAABquW1qBwAAAGq5bWoCAAAA
+arltagIAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{C9A08744-2A53-4E32-AFEE-E6F892757C24}</s_GUID>
+<s_Lineage>arltag4AAAAAAAAAAAAAAA==
+</s_Lineage>
+</technologies>
+<technologies>
+<key>admin4_repressive_measures</key>
+<building_level>sAdmin4_court_appeals</building_level>
+<position_index>7</position_index>
+<onscreen_name>Repressive Measures</onscreen_name>
+<short_description>Sometimes it is necessary to use organised cruelty and fear to keep people obedient. Properly applied terror is a tool of statecraft, and can keep occupied regions in order.</short_description>
+<long_description>\n\nInstituting repression as an official policy will make a people behave acceptably, as judged by their governors, for as long as they are suitably fearful. By making sure that official revenge for any act of minor rebellion is disproportionate and harsh, major insurrections can be stopped before they begin. Rebellion is expensive to put down, and repairs afterwards are also expensive, so a fearful population is a relatively small price to pay for law and order.\n\nHistorically, the “Dos de Mayo”, May 2nd, uprising in 1808 provoked a bloody French backlash, and drove many Spaniards into the arms of the rebels. Once the French commander, General Murat, had Madrid under control he established a military commission under General Grouchy to punish the rebels. The commission sentenced to death anyone arrested with a weapon during the uprising. All were shot, and all Spaniards were ordered to hand over any remaining weaponry. The French hoped that this draconian act would make it clear that rebellion did not pay. The Spaniards took from the events a different message: that the French had to be opposed and driven out of Spain. Murat and Grouchy were not censured by Napoleon for their actions.</long_description>
+<icon_name>repessive_measures</icon_name>
+<research_points_required>300</research_points_required>
+<military_prestige>0</military_prestige>
+<naval_prestige>0</naval_prestige>
+<economic_prestige>0</economic_prestige>
+<enlightenment_prestige>50</enlightenment_prestige>
+<mp_available_early>0</mp_available_early>
+<mp_available_late>0</mp_available_late>
+<info_pic>innovation.tga</info_pic>
+<ai_bias>1</ai_bias>
+<Gen_TempField_x002A_0>0</Gen_TempField_x002A_0>
+<Gen_TempField_x002A_1>0</Gen_TempField_x002A_1>
+<s_ColLineage>arltagIAAABquW1qAgAAAGq5bWoKAAAAarltaggAAABquW1qCwAAAGq5bWoBAAAA
+arltagkAAABquW1qCwAAAGq5bWoBAAAAarltag4AAABquW1qAgAAAGq5bWoCAAAA
+arltagIAAABquW1qAgAAAGq5bWoFAAAAarltagEAAABquW1qBgAAAGq5bWoCAAAA
+arltagIAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{70A50ACC-9CA4-4D57-AE66-CC761FFF74F6}</s_GUID>
+<s_Lineage>arltag4AAAAAAAAAAAAAAA==
+</s_Lineage>
+</technologies>
+<technologies>
+<key>admin5_homeland_recruitment</key>
+<building_level>sAdmin4_court_appeals</building_level>
+<position_index>5</position_index>
+<onscreen_name>Citizen Recruitment Incentives</onscreen_name>
+<short_description>Recruiting troops is easier as the number of unit slots in coastal regions is increased by one, as patriotism ignites the public imagination.</short_description>
+<long_description>\n\nFighting for your country, winning glory and honour, wearing a smart uniform, and attracting the ladies are all good reasons to “take the colours” and join an army. The promise of regular meals might also help. There are, of course, genuine patriots among the lower social orders, but many traditional jobs are disappearing as new factories appear in towns, and working men must do something if they are to eat. Harnessing them to the army is one solution.\n\nIn Britain at least there were some safeguards to prevent men being kidnapped by unscrupulous recruiting parties. A man would have to accept the “King’s Shilling”, a nominal sum of money that was part of his signing bounty. Accounts that the shilling would be passed over in drinks to half-drunken recruits as an elaborate game of tag are later exaggerations. Recruits knew that they would be offered the shilling, along with a drink or two, but they didn’t have to accept. Recruiters weren’t above embroidering the truth about army life, particularly on the subject of riches to be won, but recruits did have to go before a magistrate to attest that they were joining the army. A recruiter who returned to his regiment with too many resentful, hung-over, potential deserters would not be thanked for his pains.</long_description>
+<icon_name>recruitment_drive</icon_name>
+<research_points_required>450</research_points_required>
+<military_prestige>20</military_prestige>
+<naval_prestige>20</naval_prestige>
+<economic_prestige>20</economic_prestige>
+<enlightenment_prestige>20</enlightenment_prestige>
+<mp_available_early>0</mp_available_early>
+<mp_available_late>0</mp_available_late>
+<info_pic>innovation.tga</info_pic>
+<ai_bias>0</ai_bias>
+<Gen_TempField_x002A_0>0</Gen_TempField_x002A_0>
+<Gen_TempField_x002A_1>0</Gen_TempField_x002A_1>
+<s_ColLineage>arltagIAAABquW1qDgAAAGq5bWoEAAAAarltagoAAABquW1qCQAAAGq5bWoBAAAA
+arltaggAAABquW1qCQAAAGq5bWoBAAAAarltag0AAABquW1qAgAAAGq5bWoCAAAA
+arltagIAAABquW1qAgAAAGq5bWoGAAAAarltagEAAABquW1qBwAAAGq5bWoCAAAA
+arltagIAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{288BA7BC-649F-4218-AE21-D143C886D983}</s_GUID>
+<s_Lineage>arltag4AAAAAAAAAAAAAAA==
+</s_Lineage>
+</technologies>
+<technologies>
+<key>admin5_supreme_regency</key>
+<building_level>sAdmin5_court_supreme</building_level>
+<position_index>0</position_index>
+<onscreen_name>Cádiz Cortes</onscreen_name>
+<short_description>Central leadership improves morale and improves government efficiency, thereby decreasing the recruitment cost of units.</short_description>
+<long_description>\n\nA group of squabbling men can never run a country effectively, but when forced to co-operate they are capable of great things. When an external threat is greater than personal gain, men who once thought of naught but their purses can become quite patriotic!\n\nHistorically, the war against the French took a turn for the worse in 1810, forcing the Spanish government to retreat towards Cádiz. It became obvious that the centralised junta system had failed and that new leadership was required. The Cortes of Cádiz began work on a constitution and, after two years of deliberation between the liberal and conservative elements that made up the Cortes, a new Spanish Constitution was signed in 1812. Its central purpose was to limit the power of the monarchy, thus preventing any future corrupt monarchs from claiming any right to absolute rule. It proved so effective that it became the template for other, liberal Latin nations seeking change.</long_description>
+<icon_name>supreme_regency</icon_name>
+<research_points_required>450</research_points_required>
+<military_prestige>20</military_prestige>
+<naval_prestige>20</naval_prestige>
+<economic_prestige>20</economic_prestige>
+<enlightenment_prestige>20</enlightenment_prestige>
+<mp_available_early>0</mp_available_early>
+<mp_available_late>0</mp_available_late>
+<info_pic>innovation.tga</info_pic>
+<ai_bias>0</ai_bias>
+<Gen_TempField_x002A_0>0</Gen_TempField_x002A_0>
+<Gen_TempField_x002A_1>0</Gen_TempField_x002A_1>
+<s_ColLineage>arltagIAAABquW1qAgAAAGq5bWoPAAAAarltagkAAABquW1qCwAAAGq5bWoBAAAA
+arltagcAAABquW1qCAAAAGq5bWoBAAAAarltag4AAABquW1qAgAAAGq5bWoCAAAA
+arltagIAAABquW1qAgAAAGq5bWoFAAAAarltagEAAABquW1qBgAAAGq5bWoCAAAA
+arltagIAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{A8300AB3-1C3D-454F-9454-BBB5547FEC5C}</s_GUID>
+<s_Lineage>arltag8AAAAAAAAAAAAAAA==
+</s_Lineage>
+</technologies>
+<technologies>
+<key>admin5_complete_annexation</key>
+<building_level>sAdmin5_court_supreme</building_level>
+<position_index>7</position_index>
+<onscreen_name>Complete Annexation</onscreen_name>
+<short_description>Complete annexation will provide a hefty tax bonus and increase the resistance to other foreign occupiers.</short_description>
+<long_description>\n\nAnnexing a country is an excellent way to show its conquered peoples that their new government is here to stay. Winning the hearts and minds of the locals is a large portion of winning a war and can make controlling a country significantly easier. Complete annexation provides an excellent bonus to your income and increases the resistance to future foreign occupation in French-occupied territories.\n\nOpposition to the French and their godless Revolution was always strong in Spain, particularly in Catalonia. The Spanish War of Independence saw the people of Spain rise to defend their country from the foreign invaders. In an attempt to quell Spanish distrust Napoleon annexed Catalonia into the French Empire in 1812. He even declared Catalan to be the official language in a vain attempt to placate the locals, but all to no avail. The idea was sound, but the Catalans were having none of it. Guerrilla activity persisted in the area right up until 1814 when Wellington signed the armistice that drove the French from many of their strongholds in Spain, including Catalonia.</long_description>
+<icon_name>complete_annexation</icon_name>
+<research_points_required>450</research_points_required>
+<military_prestige>20</military_prestige>
+<naval_prestige>20</naval_prestige>
+<economic_prestige>20</economic_prestige>
+<enlightenment_prestige>20</enlightenment_prestige>
+<mp_available_early>0</mp_available_early>
+<mp_available_late>0</mp_available_late>
+<info_pic>innovation.tga</info_pic>
+<ai_bias>0</ai_bias>
+<Gen_TempField_x002A_0>0</Gen_TempField_x002A_0>
+<Gen_TempField_x002A_1>0</Gen_TempField_x002A_1>
+<s_ColLineage>arltagIAAABquW1qAgAAAGq5bWoCAAAAarltagIAAABquW1qBgAAAGq5bWoBAAAA
+arltagUAAABquW1qBgAAAGq5bWoBAAAAarltagkAAABquW1qAgAAAGq5bWoCAAAA
+arltagIAAABquW1qAgAAAGq5bWoDAAAAarltagEAAABquW1qBAAAAGq5bWoCAAAA
+arltagIAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{73EEC645-9D31-49CD-81F5-11E583F08EA3}</s_GUID>
+<s_Lineage>arltagkAAAAAAAAAAAAAAA==
+</s_Lineage>
+</technologies>
+<technologies>
+<key>military5_french_cipher_decryption</key>
+<building_level>sArmy5_staff_college</building_level>
+<position_index>3</position_index>
+<onscreen_name>French Cipher Decryption</onscreen_name>
+<short_description>Decoding Napoleon’s secret plans and orders will provide valuable intelligence, improving command.</short_description>
+<long_description>\n\nReading an enemy general’s orders before he does so can be incredibly useful, marking the difference between victory and defeat. As the war in the Peninsular has progressed the French have developed new and ingenious ways to disguise and encode messages. Some are transported in clothes, saddles and even riding crops, but interception is only half the problem. Each message must be deciphered. However, through the dogged application of a keen mind it is possible to unlock even complicated codes, providing commanders with valuable information.\n\nThe Rossignol family name was synonymous with code creation but the name of Scovell should be synonymous with code breaking. Major George Scovell was one of Wellington’s staff who successfully cracked a number of French codes. He had no background in intelligence and was a self-taught code breaker, learning his craft from “The Art of Decyphering” by David Arnold Conradus. He established himself as Wellington’s cipher expert when he cracked the Army of Portugal code in two days. He also broke enough of the Great Paris Cipher to provide Wellington with valuable information that facilitated the British victory at Vitoria.</long_description>
+<icon_name>paris_ciphre_broken</icon_name>
+<research_points_required>450</research_points_required>
+<military_prestige>50</military_prestige>
+<naval_prestige>50</naval_prestige>
+<economic_prestige>0</economic_prestige>
+<enlightenment_prestige>0</enlightenment_prestige>
+<mp_available_early>1</mp_available_early>
+<mp_available_late>1</mp_available_late>
+<info_pic>arsenal-2.tga</info_pic>
+<ai_bias>0</ai_bias>
+<Gen_TempField_x002A_0>0</Gen_TempField_x002A_0>
+<Gen_TempField_x002A_1>0</Gen_TempField_x002A_1>
+<s_ColLineage>arltagIAAABquW1qAgAAAGq5bWoCAAAAarltagIAAABquW1qBQAAAGq5bWoBAAAA
+arltagQAAABquW1qBQAAAGq5bWoBAAAAarltaggAAABquW1qAgAAAGq5bWoCAAAA
+arltagIAAABquW1qAgAAAGq5bWoCAAAAarltagEAAABquW1qAgAAAGq5bWoCAAAA
+arltagIAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{94C58508-C5CC-4A08-8DA5-82E25B62C32D}</s_GUID>
+<s_Lineage>arltaggAAAAAAAAAAAAAAA==
+</s_Lineage>
+</technologies>
+<technologies>
+<key>admin1_abolition_of_the_inquisition</key>
+<building_level>sAdmin1_tax_office</building_level>
+<position_index>3</position_index>
+<onscreen_name>Abolition of the Inquisition</onscreen_name>
+<short_description>The abolition of this fanatical arm of the Church lifts a shadow from Europe, and will be met with relief by the guilty and the innocent alike!</short_description>
+<long_description>\n\nThe once powerful Inquisition no longer has the hold over the hearts of the Catholic faithful that it once did. France’s removal of its power in areas under their control does much to reduce unrest. The French may be disliked, but the Inquisition was always feared, because no man could ever consider himself truly safe from its attentions. The Inquisition’s purpose of hunting out heresy and wrong thinking has done much to hold back the influence of the Enlightenment, and much to make Spain a very conservative society.\n\nHistorically, Spain always had a strong Catholic identity after the Reconquista, and the Inquisition was charged with investigating and rooting out anyone who would threaten the Catholic faith. When Napoleon placed his brother, Joseph Bonaparte, upon the throne, he quickly set about making drastic changes to bring Spain into line with France’s rules. Apart from abolishing the Inquisition, he also introduced other progressive reforms to improve the life of Spanish civilians. While welcome in France, the reforms had a mixed reception in Spain. The passing of the feared Inquisition was not widely mourned.</long_description>
+<icon_name>anti_inquisition</icon_name>
+<research_points_required>70</research_points_required>
+<military_prestige>0</military_prestige>
+<naval_prestige>0</naval_prestige>
+<economic_prestige>50</economic_prestige>
+<enlightenment_prestige>0</enlightenment_prestige>
+<mp_available_early>0</mp_available_early>
+<mp_available_late>1</mp_available_late>
+<info_pic>innovation.tga</info_pic>
+<ai_bias>1</ai_bias>
+<Gen_TempField_x002A_0>0</Gen_TempField_x002A_0>
+<Gen_TempField_x002A_1>0</Gen_TempField_x002A_1>
+<s_ColLineage>arltagIAAABquW1qAgAAAGq5bWoDAAAAarltagIAAABquW1qBwAAAGq5bWoBAAAA
+arltagYAAABquW1qBwAAAGq5bWoBAAAAarltagoAAABquW1qAgAAAGq5bWoCAAAA
+arltagIAAABquW1qAgAAAGq5bWoFAAAAarltagEAAABquW1qAgAAAGq5bWoCAAAA
+arltagIAAAA=
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{5398ABAA-1C0C-40E2-94B1-C807FD096273}</s_GUID>
+<s_Lineage>arltagoAAAAAAAAAAAAAAA==
+</s_Lineage>
+</technologies>
+</dataroot>

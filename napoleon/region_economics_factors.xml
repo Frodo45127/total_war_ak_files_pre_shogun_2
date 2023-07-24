@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="region_economics_factors.xsd" generated="2009-06-03T16:22:06">
+<region_economics_factors>
+<factor>base_gdp</factor>
+<positive_pip_path>data/ui/campaign ui/pips/population_subsistence.tga</positive_pip_path>
+<positive_tooltip>Subsistence agriculture</positive_tooltip>
+<Gen_TempField_x002A_0>0</Gen_TempField_x002A_0>
+<s_ColLineage>kNOq8QIAAACQ06rxDgAAAJDTqvEMAAAAkNOq8QEAAACQ06rxAQAAAJDTqvEPAAAA
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{F47E37B6-6B70-4BD4-B529-D3CBA5405418}</s_GUID>
+<s_Lineage>kNOq8Q8AAAAAAAAAAAAAAA==
+</s_Lineage>
+</region_economics_factors>
+<region_economics_factors>
+<factor>farm_gdp</factor>
+<positive_pip_path>data/ui/campaign ui/pips/agriculture.tga</positive_pip_path>
+<positive_tooltip>Farming</positive_tooltip>
+<Gen_TempField_x002A_0>0</Gen_TempField_x002A_0>
+<s_ColLineage>kNOq8QIAAACQ06rxCQAAAJDTqvEGAAAAkNOq8QEAAACQ06rxAQAAAJDTqvEKAAAA
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{0E1DD205-8C69-4B73-993E-0EAE439D4E1F}</s_GUID>
+<s_Lineage>kNOq8QoAAAAAAAAAAAAAAA==
+</s_Lineage>
+</region_economics_factors>
+<region_economics_factors>
+<factor>industry_gdp</factor>
+<positive_pip_path>data/ui/campaign ui/pips/eco-industry.tga</positive_pip_path>
+<positive_tooltip>Industry</positive_tooltip>
+<Gen_TempField_x002A_0>0</Gen_TempField_x002A_0>
+<s_ColLineage>kNOq8QIAAACQ06rxBgAAAJDTqvEFAAAAkNOq8QEAAACQ06rxAQAAAJDTqvEHAAAA
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{9AE92A69-430B-4518-94EE-E98387B3E2E4}</s_GUID>
+<s_Lineage>kNOq8QcAAAAAAAAAAAAAAA==
+</s_Lineage>
+</region_economics_factors>
+<region_economics_factors>
+<factor>mine_gdp</factor>
+<positive_pip_path>data/ui/campaign ui/pips/mining.tga</positive_pip_path>
+<positive_tooltip>Mining</positive_tooltip>
+<Gen_TempField_x002A_0>0</Gen_TempField_x002A_0>
+<s_ColLineage>kNOq8QIAAACQ06rxCwAAAJDTqvEJAAAAkNOq8QEAAACQ06rxAQAAAJDTqvEMAAAA
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{DCA2B75C-C356-455B-AE58-90A260BF2B27}</s_GUID>
+<s_Lineage>kNOq8QwAAAAAAAAAAAAAAA==
+</s_Lineage>
+</region_economics_factors>
+<region_economics_factors>
+<factor>port_gdp</factor>
+<positive_pip_path>data/ui/campaign ui/pips/trade_port.tga</positive_pip_path>
+<positive_tooltip>Port</positive_tooltip>
+<Gen_TempField_x002A_0>0</Gen_TempField_x002A_0>
+<s_ColLineage>kNOq8QIAAACQ06rxBwAAAJDTqvEFAAAAkNOq8QEAAACQ06rxAQAAAJDTqvEIAAAA
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{74EB24FB-F50E-402B-A8F4-507FD676C14F}</s_GUID>
+<s_Lineage>kNOq8QgAAAAAAAAAAAAAAA==
+</s_Lineage>
+</region_economics_factors>
+<region_economics_factors>
+<factor>town_wealth</factor>
+<positive_pip_path>data/ui/campaign ui/pips/eco-town_wealth.tga</positive_pip_path>
+<positive_tooltip>Town wealth</positive_tooltip>
+<Gen_TempField_x002A_0>0</Gen_TempField_x002A_0>
+<s_ColLineage>kNOq8QIAAACQ06rxBQAAAJDTqvEGAAAAkNOq8QEAAACQ06rxAQAAAJDTqvEHAAAA
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{97E8B66F-0425-42EB-A6E9-C052EEC31A85}</s_GUID>
+<s_Lineage>kNOq8QcAAAAAAAAAAAAAAA==
+</s_Lineage>
+</region_economics_factors>
+<region_economics_factors>
+<factor>trade_commodity_coffee_gdp</factor>
+<positive_pip_path>data/ui/campaign ui/pips/coffee.tga</positive_pip_path>
+<positive_tooltip>Coffee exports</positive_tooltip>
+<Gen_TempField_x002A_0>0</Gen_TempField_x002A_0>
+<s_ColLineage>kNOq8QIAAACQ06rxBgAAAJDTqvEHAAAAkNOq8QEAAACQ06rxAQAAAJDTqvEIAAAA
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{B250CE65-A2F9-453C-82F5-B925A86684B2}</s_GUID>
+<s_Lineage>kNOq8QgAAAAAAAAAAAAAAA==
+</s_Lineage>
+</region_economics_factors>
+<region_economics_factors>
+<factor>trade_commodity_cotton_gdp</factor>
+<positive_pip_path>data/ui/campaign ui/pips/cotton.tga</positive_pip_path>
+<positive_tooltip>Cotton exports</positive_tooltip>
+<Gen_TempField_x002A_0>0</Gen_TempField_x002A_0>
+<s_ColLineage>kNOq8QIAAACQ06rxBQAAAJDTqvEGAAAAkNOq8QEAAACQ06rxAQAAAJDTqvEHAAAA
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{FACC2D2A-3A7B-4C58-84F0-E1C4C29B38A3}</s_GUID>
+<s_Lineage>kNOq8QcAAAAAAAAAAAAAAA==
+</s_Lineage>
+</region_economics_factors>
+<region_economics_factors>
+<factor>trade_commodity_furs_gdp</factor>
+<positive_pip_path>data/ui/campaign ui/pips/furs.tga</positive_pip_path>
+<positive_tooltip>Fur exports</positive_tooltip>
+<Gen_TempField_x002A_0>0</Gen_TempField_x002A_0>
+<s_ColLineage>kNOq8QMAAACQ06rxBgAAAJDTqvEHAAAAkNOq8QEAAACQ06rxAQAAAJDTqvEIAAAA
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{DA30DB1E-C038-4C16-AFFE-961BD65A1845}</s_GUID>
+<s_Lineage>kNOq8QgAAAAAAAAAAAAAAA==
+</s_Lineage>
+</region_economics_factors>
+<region_economics_factors>
+<factor>trade_commodity_spices_gdp</factor>
+<positive_pip_path>data/ui/campaign ui/pips/spices.tga</positive_pip_path>
+<positive_tooltip>Spice exports</positive_tooltip>
+<Gen_TempField_x002A_0>0</Gen_TempField_x002A_0>
+<s_ColLineage>kNOq8QMAAACQ06rxBwAAAJDTqvEIAAAAkNOq8QEAAACQ06rxAQAAAJDTqvEJAAAA
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{FEC0A1FB-B36A-4CAE-B364-B87AEC06F0E6}</s_GUID>
+<s_Lineage>kNOq8QkAAAAAAAAAAAAAAA==
+</s_Lineage>
+</region_economics_factors>
+<region_economics_factors>
+<factor>trade_commodity_sugar_gdp</factor>
+<positive_pip_path>data/ui/campaign ui/pips/sugar.tga</positive_pip_path>
+<positive_tooltip>Sugar exports</positive_tooltip>
+<Gen_TempField_x002A_0>0</Gen_TempField_x002A_0>
+<s_ColLineage>kNOq8QIAAACQ06rxBgAAAJDTqvEHAAAAkNOq8QEAAACQ06rxAQAAAJDTqvEIAAAA
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{CE41DFF3-AA79-4A58-9EEA-62606A365994}</s_GUID>
+<s_Lineage>kNOq8QgAAAAAAAAAAAAAAA==
+</s_Lineage>
+</region_economics_factors>
+<region_economics_factors>
+<factor>trade_commodity_tea_gdp</factor>
+<positive_pip_path>data/ui/campaign ui/pips/tea.tga</positive_pip_path>
+<positive_tooltip>Tea exports</positive_tooltip>
+<Gen_TempField_x002A_0>0</Gen_TempField_x002A_0>
+<s_ColLineage>kNOq8QIAAACQ06rxBgAAAJDTqvEHAAAAkNOq8QEAAACQ06rxAQAAAJDTqvEIAAAA
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{9D7A14F3-2E81-4288-B5AB-D02B69D4A34F}</s_GUID>
+<s_Lineage>kNOq8QgAAAAAAAAAAAAAAA==
+</s_Lineage>
+</region_economics_factors>
+<region_economics_factors>
+<factor>trade_commodity_tobacco_gdp</factor>
+<positive_pip_path>data/ui/campaign ui/pips/tobacco.tga</positive_pip_path>
+<positive_tooltip>Tobacco exports</positive_tooltip>
+<Gen_TempField_x002A_0>0</Gen_TempField_x002A_0>
+<s_ColLineage>kNOq8QQAAACQ06rxBgAAAJDTqvEHAAAAkNOq8QEAAACQ06rxAQAAAJDTqvEIAAAA
+</s_ColLineage>
+<s_Generation>0</s_Generation>
+<s_GUID>{E5F85FA9-3FD3-4FA7-B183-55521D450440}</s_GUID>
+<s_Lineage>kNOq8QgAAAAAAAAAAAAAAA==
+</s_Lineage>
+</region_economics_factors>
+</dataroot>
