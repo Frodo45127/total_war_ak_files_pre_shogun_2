@@ -1,0 +1,1 @@
+Long ago, in a far away land known as twcenter.net, a mysterious being illuminated the path of the lost with its wisdom. His words were writen in columns, destroyed by the passage of time, but a brave soul transcribed them, and shared them with others at the top of a waterfall. These are the words that fell from the height, archived for future use in rusted boxes.
